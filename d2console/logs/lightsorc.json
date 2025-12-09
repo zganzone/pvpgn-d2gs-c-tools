@@ -1,0 +1,20 @@
+{
+  "character_info": {
+    "name": "lightSorc",
+    "account_name": "zliazub",
+    "level": 87,
+    "class": "Sorceress"
+  },
+  "item_stats": {
+    "total_items": 43,
+    "low_quality": 0,
+    "normal": 7,
+    "high_quality": 0,
+    "magic": 19,
+    "set": 6,
+    "rare": 2,
+    "unique": 9,
+    "crafted": 0,
+    "soj_count": 1
+  }
+}

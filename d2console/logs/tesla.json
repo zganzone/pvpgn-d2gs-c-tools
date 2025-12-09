@@ -1,0 +1,20 @@
+{
+  "character_info": {
+    "name": "tesla",
+    "account_name": "zliazubbbb",
+    "level": 22,
+    "class": "Paladin"
+  },
+  "item_stats": {
+    "total_items": 17,
+    "low_quality": 0,
+    "normal": 3,
+    "high_quality": 1,
+    "magic": 7,
+    "set": 5,
+    "rare": 1,
+    "unique": 0,
+    "crafted": 0,
+    "soj_count": 0
+  }
+}

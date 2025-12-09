@@ -1,0 +1,71 @@
+[
+  {
+    "GameInfo": {
+      "GameName": "Fsafsa",
+      "GamePass": null,
+      "GameDesc": null,
+      "GameID": "11",
+      "GameVer": "exp",
+      "GameType": "sc",
+      "Difficult": "normal",
+      "IsLadder": "ladder",
+      "UserCount": "1",
+      "CreateTime": "23:20:11",
+      "Disable": "No",
+      "": null,
+      "CreatorAcct": "zgan2",
+      "CreatorChar": "palqk",
+      "CreatorIP": "192.168.88.101"
+    },
+    "Characters": [
+      {
+        "No": "001",
+        "AcctName": "zgan2",
+        "CharName": "palqk",
+        "IPAddress": "192.168.88.101",
+        "Class": "Pal",
+        "Level": "24",
+        "EnterTime": "23:20:11"
+      }
+    ]
+  },
+  {
+    "GameInfo": {
+      "GameName": "Afasff32",
+      "GamePass": null,
+      "GameDesc": null,
+      "GameID": "12",
+      "GameVer": "exp",
+      "GameType": "sc",
+      "Difficult": "nightmare",
+      "IsLadder": "ladder",
+      "UserCount": "2",
+      "CreateTime": "23:20:21",
+      "Disable": "No",
+      "": null,
+      "CreatorAcct": "zgan4",
+      "CreatorChar": "zganvazonka",
+      "CreatorIP": "192.168.88.101"
+    },
+    "Characters": [
+      {
+        "No": "001",
+        "AcctName": "zgan",
+        "CharName": "Sorsi",
+        "IPAddress": "192.168.88.101",
+        "Class": "Sor",
+        "Level": "86",
+        "EnterTime": "23:45:57"
+      },
+      {
+        "No": "002",
+        "AcctName": "zgan4",
+        "CharName": "zganvazonka",
+        "IPAddress": "192.168.88.101",
+        "Class": "Ama",
+        "Level": "29",
+        "EnterTime": "23:20:22"
+      }
+    ]
+  }
+]

@@ -1,0 +1,58 @@
+#!/usr/bin/expect -f
+
+# --- Configuration ---
+set HOST "192.168.88.41"
+set PORT "8888"
+set PASSWORD "abcd123"
+set RAW_OUTPUT_DIR "logs/cl_output"
+
+# 1. Get Game ID from command line arguments
+if {$argc < 1} {
+    puts stderr "Error: Missing Game ID argument."
+    exit 1
+}
+set GAME_ID [lindex $argv 0]
+set RAW_CL_FILE "$RAW_OUTPUT_DIR/cl_${GAME_ID}_raw.txt"
+
+# Ensure output directory exists (Bash command)
+exec mkdir -p $RAW_OUTPUT_DIR
+
+# 2. Open the Telnet connection
+spawn telnet $HOST $PORT
+
+# 3. Wait for the password prompt and login
+expect "Password:"
+send "$PASSWORD\r"
+
+# 4. Wait for the D2GS prompt
+expect "D2GS>"
+
+# 5. Send the 'cl GameId' command (using the internal ID: 13, 12, etc.)
+send "cl $GAME_ID\r"
+
+# 6. Capture the output until the next D2GS> prompt
+expect {
+    -re "(.*)D2GS>" {
+        set raw_data $expect_out(1,string)
+        # Clean up the output: remove the sent command and trailing spaces
+        regsub {^.*cl [0-9]+\r\n} $raw_data "" raw_data
+        regsub {\r\n$} $raw_data "" raw_data
+    }
+    timeout {
+        puts stderr "Error: Timeout reached for Game ID $GAME_ID."
+        send "exit\r"
+        expect eof
+        exit 1
+    }
+}
+
+# 7. Write the raw character list data to a file
+set fd [open $RAW_CL_FILE "w"]
+puts $fd $raw_data
+close $fd
+
+# 8. Send the 'exit' command
+send "exit\r"
+expect eof
+
+puts "Raw Char List for Game ID $GAME_ID saved to: $RAW_CL_FILE"

@@ -1,0 +1,20 @@
+{
+  "character_info": {
+    "name": "druid",
+    "account_name": "zliazub",
+    "level": 13,
+    "class": "Druid"
+  },
+  "item_stats": {
+    "total_items": 33,
+    "low_quality": 2,
+    "normal": 6,
+    "high_quality": 0,
+    "magic": 9,
+    "set": 4,
+    "rare": 2,
+    "unique": 10,
+    "crafted": 0,
+    "soj_count": 0
+  }
+}

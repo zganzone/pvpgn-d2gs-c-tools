@@ -1,0 +1,20 @@
+{
+  "character_info": {
+    "name": "MFamazon",
+    "account_name": "zliazubb",
+    "level": 91,
+    "class": "Amazon"
+  },
+  "item_stats": {
+    "total_items": 48,
+    "low_quality": 0,
+    "normal": 7,
+    "high_quality": 0,
+    "magic": 22,
+    "set": 4,
+    "rare": 4,
+    "unique": 11,
+    "crafted": 0,
+    "soj_count": 0
+  }
+}

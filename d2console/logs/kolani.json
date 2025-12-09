@@ -1,0 +1,20 @@
+{
+  "character_info": {
+    "name": "KOLANI",
+    "account_name": "zliazubbb",
+    "level": 1,
+    "class": "Barbarian"
+  },
+  "item_stats": {
+    "total_items": 26,
+    "low_quality": 1,
+    "normal": 2,
+    "high_quality": 0,
+    "magic": 0,
+    "set": 8,
+    "rare": 2,
+    "unique": 13,
+    "crafted": 0,
+    "soj_count": 0
+  }
+}

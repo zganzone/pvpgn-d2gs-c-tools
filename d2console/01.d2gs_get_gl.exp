@@ -1,0 +1,47 @@
+#!/usr/bin/expect -f
+
+# --- КОНФИГУРАЦИЯ ---
+set HOST "192.168.88.41"
+set PORT "8888"
+set PASSWORD "abcd123"
+set RAW_OUTPUT_DIR "logs/"
+set RAW_GL_FILE "$RAW_OUTPUT_DIR/d2gs_gl_raw.txt"
+
+# 1. Изпълнява Telnet
+spawn telnet $HOST $PORT
+
+# 2. Очаква подкана за парола
+expect "Password:"
+send "$PASSWORD\r"
+
+# 3. Очаква D2GS> подканата
+expect "D2GS>"
+
+# 4. Изпраща командата 'gl' (Game List)
+send "gl\r"
+
+# 5. Събира целия изход до следващата подкана D2GS>
+# Note: Това е най-важната част: използва се 'expect_out(buffer)' за цялото съдържание
+expect {
+    "D2GS>" {
+        set raw_data $expect_out(buffer)
+        # Отрязваме излишния текст в началото и края
+        regsub {^.*Command is:\r\n} $raw_data "" raw_data
+        regsub {\r\nD2GS>.*$} $raw_data "" raw_data
+    }
+    timeout {
+        puts stderr "Error: Timeout reached while waiting for D2GS prompt."
+        exit 1
+    }
+}
+
+# 6. Затваря Telnet връзката
+send "exit\r"
+expect eof
+
+# 7. Записва необработените данни във файл
+set fd [open $RAW_GL_FILE "w"]
+puts $fd $raw_data
+close $fd
+
+puts "Raw Game List saved to: $RAW_GL_FILE"

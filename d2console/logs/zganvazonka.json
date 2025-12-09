@@ -1,0 +1,20 @@
+{
+  "character_info": {
+    "name": "zganvazonka",
+    "account_name": "zgan4",
+    "level": 29,
+    "class": "Amazon"
+  },
+  "item_stats": {
+    "total_items": 22,
+    "low_quality": 0,
+    "normal": 8,
+    "high_quality": 0,
+    "magic": 10,
+    "set": 1,
+    "rare": 1,
+    "unique": 2,
+    "crafted": 0,
+    "soj_count": 0
+  }
+}

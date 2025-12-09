@@ -1,0 +1,8 @@
+ gl
++-No.--GameName---------GamePass---------ID----GameVer--Type--Difficulty--Ladder-----Users-CreateTime-Dis-+
+| 001  Afasff32                          12    exp      sc    nightmare   ladder     2     23:20:21   N   |
+| 002  Fsafsa                            11    exp      sc    normal      ladder     1     23:20:11   N   |
++---------------------------------------------------------------------------------------------------------+
+
+Total: 2 games running, 3 users in game.
+

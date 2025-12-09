@@ -1,0 +1,14 @@
+
+[GameName   : Afasff32       ] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 12             ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : nightmare      ] [IsLadder   : ladder         ] [UserCount: 2                              ]
+[CreateTime : 23:20:21       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zgan4          ] [CreatorChar: zganvazonka    ] [CreatorIP: 192.168.88.101                 ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
+| 001  zgan             Sorsi            192.168.88.101   Sor    86     23:45:57  |
+| 002  zgan4            zganvazonka      192.168.88.101   Ama    29     23:20:22  |
++---------------------------------------------------------------------------------+
+
+Total: 2 charaters in this game 
+

@@ -1,0 +1,20 @@
+{
+  "character_info": {
+    "name": "necromecro",
+    "account_name": "zliazub",
+    "level": 1,
+    "class": "Necromancer"
+  },
+  "item_stats": {
+    "total_items": 12,
+    "low_quality": 0,
+    "normal": 5,
+    "high_quality": 0,
+    "magic": 1,
+    "set": 4,
+    "rare": 0,
+    "unique": 2,
+    "crafted": 0,
+    "soj_count": 0
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "character_info": {
+    "name": "Sorsi",
+    "account_name": "zgan",
+    "level": 86,
+    "class": "Sorceress"
+  },
+  "item_stats": {
+    "total_items": 35,
+    "low_quality": 0,
+    "normal": 13,
+    "high_quality": 0,
+    "magic": 7,
+    "set": 6,
+    "rare": 0,
+    "unique": 9,
+    "crafted": 0,
+    "soj_count": 0
+  }
+}

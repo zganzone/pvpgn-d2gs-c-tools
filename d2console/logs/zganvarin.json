@@ -1,0 +1,20 @@
+{
+  "character_info": {
+    "name": "ZGANVARIN",
+    "account_name": "zgan",
+    "level": 80,
+    "class": "Barbarian"
+  },
+  "item_stats": {
+    "total_items": 29,
+    "low_quality": 0,
+    "normal": 3,
+    "high_quality": 0,
+    "magic": 8,
+    "set": 5,
+    "rare": 0,
+    "unique": 13,
+    "crafted": 0,
+    "soj_count": 0
+  }
+}
