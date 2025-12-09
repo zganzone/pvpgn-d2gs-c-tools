@@ -1,6 +1,6 @@
 #!/bin/bash
 
-ID_FILE="/tmp/game_ready_ids.txt"
+ID_FILE="logs/game_ready_ids.txt"
 EXPECT_CL_SCRIPT="/home/support/scripts-tools/d2cpp/d2console/04_d2gs_get_cl.exp"
 
 # Даване на права за изпълнение на Expect скрипта

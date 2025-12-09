@@ -1,0 +1,13 @@
+
+[GameName   : Daaaaaa        ] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 15             ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : nightmare      ] [IsLadder   : ladder         ] [UserCount: 1                              ]
+[CreateTime : 08:50:05       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zgan4          ] [CreatorChar: zganvazonka    ] [CreatorIP: 192.168.88.101                 ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
+| 001  zgan4            zganvazonka      192.168.88.101   Ama    29     08:50:06  |
++---------------------------------------------------------------------------------+
+
+Total: 1 charaters in this game 
+

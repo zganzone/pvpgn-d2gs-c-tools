@@ -9,12 +9,12 @@ awk '
     print no "|" name "|" pass "|" rest
 }
 function trim(s){ sub(/^ +| +$/, "", s); return s }
-' /tmp/d2gs_gl_raw.txt > /tmp/d2gs_step1.txt
+' logs/d2gs_gl_raw.txt > logs/d2gs_step1.txt
 
 
-cat /tmp/d2gs_step1.txt | sed 's/[ ]/_/g'  | sed 's/__/./g' | sed 's/\.\./|/g' | sed 's/_//g' | sed 's/\./|/g' | sed 's/|||/|none|none|/g' | sed 's/||/|none|/g' |  sed 's/||/|none|/g' |  sed 's/^/|/g'  > /tmp/d2gs_step2.txt
+cat logs/d2gs_step1.txt | sed 's/[ ]/_/g'  | sed 's/__/./g' | sed 's/\.\./|/g' | sed 's/_//g' | sed 's/\./|/g' | sed 's/|||/|none|none|/g' | sed 's/||/|none|/g' |  sed 's/||/|none|/g' |  sed 's/^/|/g'  > logs/d2gs_step2.txt
 
-awk -F"|" '{ gsub(/^ +| +$/, "", $7); print $8 }' /tmp/d2gs_step2.txt | tac > logs/game_ready_ids.txt
+awk -F"|" '{ gsub(/^ +| +$/, "", $7); print $8 }' logs/d2gs_step2.txt | tac > logs/game_ready_ids.txt
 
 
 echo "Game id file"

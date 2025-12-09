@@ -1,0 +1,14 @@
+
+[GameName   : Fafafa         ] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 14             ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : normal         ] [IsLadder   : ladder         ] [UserCount: 2                              ]
+[CreateTime : 07:44:46       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zgan           ] [CreatorChar: Sorsi          ] [CreatorIP: 192.168.88.101                 ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
+| 001  zgan2            ZGANSASIN        192.168.88.101   Ass    9      08:49:47  |
+| 002  zgan             Sorsi            192.168.88.101   Sor    86     07:44:46  |
++---------------------------------------------------------------------------------+
+
+Total: 2 charaters in this game 
+

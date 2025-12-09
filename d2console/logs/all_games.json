@@ -1,46 +1,55 @@
 [
   {
     "GameInfo": {
-      "GameName": "Fsafsa",
+      "GameName": "Fafafa",
       "GamePass": null,
       "GameDesc": null,
-      "GameID": "11",
+      "GameID": "14",
       "GameVer": "exp",
       "GameType": "sc",
       "Difficult": "normal",
       "IsLadder": "ladder",
-      "UserCount": "1",
-      "CreateTime": "23:20:11",
+      "UserCount": "2",
+      "CreateTime": "07:44:46",
       "Disable": "No",
       "": null,
-      "CreatorAcct": "zgan2",
-      "CreatorChar": "palqk",
+      "CreatorAcct": "zgan",
+      "CreatorChar": "Sorsi",
       "CreatorIP": "192.168.88.101"
     },
     "Characters": [
       {
         "No": "001",
         "AcctName": "zgan2",
-        "CharName": "palqk",
+        "CharName": "ZGANSASIN",
         "IPAddress": "192.168.88.101",
-        "Class": "Pal",
-        "Level": "24",
-        "EnterTime": "23:20:11"
+        "Class": "Ass",
+        "Level": "9",
+        "EnterTime": "08:49:47"
+      },
+      {
+        "No": "002",
+        "AcctName": "zgan",
+        "CharName": "Sorsi",
+        "IPAddress": "192.168.88.101",
+        "Class": "Sor",
+        "Level": "86",
+        "EnterTime": "07:44:46"
       }
     ]
   },
   {
     "GameInfo": {
-      "GameName": "Afasff32",
+      "GameName": "Daaaaaa",
       "GamePass": null,
       "GameDesc": null,
-      "GameID": "12",
+      "GameID": "15",
       "GameVer": "exp",
       "GameType": "sc",
       "Difficult": "nightmare",
       "IsLadder": "ladder",
-      "UserCount": "2",
-      "CreateTime": "23:20:21",
+      "UserCount": "1",
+      "CreateTime": "08:50:05",
       "Disable": "No",
       "": null,
       "CreatorAcct": "zgan4",
@@ -50,21 +59,12 @@
     "Characters": [
       {
         "No": "001",
-        "AcctName": "zgan",
-        "CharName": "Sorsi",
-        "IPAddress": "192.168.88.101",
-        "Class": "Sor",
-        "Level": "86",
-        "EnterTime": "23:45:57"
-      },
-      {
-        "No": "002",
         "AcctName": "zgan4",
         "CharName": "zganvazonka",
         "IPAddress": "192.168.88.101",
         "Class": "Ama",
         "Level": "29",
-        "EnterTime": "23:20:22"
+        "EnterTime": "08:50:06"
       }
     ]
   }

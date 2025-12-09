@@ -73,7 +73,7 @@ for gid in game_ids:
 with open("logs/all_games.json", "w") as f:
     json.dump(all_games, f, indent=2)
 
-with open("/var/www/html/d2console/all_games.json", "w") as f:
+with open("/var/www/html/d2console/data/all_games.json", "w") as f:
     json.dump(all_games, f, indent=2)
 
 

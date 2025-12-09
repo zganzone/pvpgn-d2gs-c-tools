@@ -4,7 +4,7 @@
 set HOST "192.168.88.41"
 set PORT "8888"
 set PASSWORD "abcd123"
-set RAW_OUTPUT_DIR "logs/"
+set RAW_OUTPUT_DIR "logs"
 set RAW_GL_FILE "$RAW_OUTPUT_DIR/d2gs_gl_raw.txt"
 
 # 1. Изпълнява Telnet
