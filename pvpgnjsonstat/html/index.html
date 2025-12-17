@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="bg">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PVPGN Статистики - Dashboard</title>
+    <meta http-equiv="refresh" content="30">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<div class="header">
+    <div class="logo">PVPGN Stats</div>
+    <nav class="nav-tabs">
+        <a href="index.html" class="tab active">STATUS</a>
+        <a href="d2lod.html" class="tab d2xp-link">D2 LOD</a>
+        <a href="scbw.html" class="tab sexp-link">SC BW</a>
+        <a href="w3tft.html" class="tab w3xp-link">W3 TFT</a>
+    </nav>
+</div>
+
+<div class="container">
+    <div id="status-content">
+        <h1>📊 Сървър Статус</h1>
+        <p>Активни данни и обща статистика за всички Battle.net клиенти.</p>
+
+        <section>
+            <h2>Активност в Момента</h2>
+            <div class="card-group" id="live-status">
+                <p>Зареждане на актуална информация...</p>
+            </div>
+        </section>
+        
+        <section>
+            <h2>Обща Сървърна Статистика</h2>
+            <div class="card-group" id="total-stats">
+                <p>Зареждане на обща статистика...</p>
+            </div>
+        </section>
+
+        <section>
+            <h2>Активни Игри (<span id="active-games-count">0</span>)</h2>
+            <table id="active-games-table">
+                <thead>
+                    <tr><th>Платформа</th><th>Име на Играта</th><th>Играчи</th></tr>
+                </thead>
+                <tbody>
+                    <tr><td colspan="3">Няма активни игри в момента.</td></tr>
+                </tbody>
+            </table>
+        </section>
+        
+        <section>
+            <h2>Логнати Потребители (<span id="active-users-count">0</span>)</h2>
+            <table id="active-users-table">
+                <thead>
+                    <tr><th>Потребител</th><th>Платформа</th><th>Регион</th><th>Версия</th></tr>
+                </thead>
+                <tbody>
+                    <tr><td colspan="4">Няма логнати потребители в момента.</td></tr>
+                </tbody>
+            </table>
+        </section>
+    </div>
+</div>
+
+<footer class="footer">
+    Последно обновяване: <span id="generated-time">N/A</span>
+</footer>
+
+<script src="js/app.js"></script>
+</body>
+</html>

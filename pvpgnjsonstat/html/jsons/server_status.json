@@ -1,0 +1,48 @@
+{
+    "generated_at": "2025-12-17 10:54:08",
+    "active_status": {
+        "version": "1.99.7.2.1-PRO",
+        "uptime": "17 hours 13 minutes 0 seconds",
+        "games": "1",
+        "users": "1",
+        "channels": "2",
+        "useraccounts": "11"
+    },
+    "total_stats": {
+        "address": "192.168.88.41",
+        "port": "6112",
+        "location": "Hrabrino",
+        "software": "PvPGN",
+        "version": "1.99.7.2.1-PRO",
+        "users": "1",
+        "channels": "2",
+        "games": "1",
+        "description": "Mahalenska posta",
+        "platform": "Linux",
+        "url": "http://192.168.88.41/",
+        "contactname": "ZGAN",
+        "contactemail": "slaxy@psy4.me",
+        "uptime": "61980",
+        "totalgames": "16",
+        "logins": "38"
+    },
+    "active_users": [
+        {
+            "platform_tag": "D2XP",
+            "platform_name": "Diablo II: Lord of Destruction",
+            "username": "tapak2",
+            "version": "1.14.3.0",
+            "region": "USA",
+            "channel_id": "16"
+        }
+    ],
+    "active_games": [
+        {
+            "id": "game1",
+            "platform_tag": "D2XP",
+            "platform_name": "Diablo II: Lord of Destruction",
+            "players": 16,
+            "name": "Jhjhh"
+        }
+    ]
+}
