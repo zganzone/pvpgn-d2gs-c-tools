@@ -1,0 +1,267 @@
+{
+  "account": "zliazubbbb",
+  "charfile": "tesla",
+  "charname": "tesla",
+  "generated": "2025-12-17 13:31:09",
+  "char_stats": {
+    "level": 30,
+    "class": "Paladin",
+    "is_hc": false,
+    "is_ladder": true,
+    "progression": 10,
+    "char_name_raw": "tesla",
+    "strength": 65,
+    "energy": 15,
+    "dexterity": 60,
+    "vitality": 80,
+    "unused_stats": 10,
+    "unused_skills": 0,
+    "current_hp": 433.0,
+    "max_hp": 298.0,
+    "current_mana": 108.5,
+    "max_mana": 58.5,
+    "current_stamina": 173.0,
+    "max_stamina": 173.0,
+    "experience": 4968628,
+    "gold": 2025,
+    "stashed_gold": 29428
+  },
+  "unique_set": [
+    {
+      "name": "The Grim Reaper",
+      "properties": [
+        "+20% Enhanced Damage",
+        "+15 to Minimum 2-handed damage",
+        "5% Mana Stolen Per Hit",
+        "Prevent Monster Heal",
+        "100% Deadly Strike"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Sigon's Visor",
+      "properties": [
+        "+30 to Mana",
+        "+25 Defense"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Angelic Wings",
+      "properties": [
+        "+3 to Light Radius",
+        "20% Damage Taken Goes to Mana"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Angelic Halo",
+      "properties": [
+        "+20 to Life",
+        "Replenish Life +6"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Angelic Halo",
+      "properties": [
+        "+20 to Life",
+        "Replenish Life +6"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Sigon's Wrap",
+      "properties": [
+        "+20 to Life",
+        "Fire Resist +20%"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Sigon's Gage",
+      "properties": [
+        "+10 to Strength",
+        "+20 to Attack rating"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Sigon's Shelter",
+      "properties": [
+        "+25% Enhanced Defense",
+        "Lightning Resist +30%"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Sigon's Sabot",
+      "properties": [
+        "Cold Resist +40%",
+        "20% Faster Run/Walk"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Sigon's Guard",
+      "properties": [
+        "+20% Increased chance of blocking",
+        "+1 to All Skill Levels"
+      ],
+      "type": "set"
+    }
+  ],
+  "runes": [],
+  "rings": [
+    {
+      "name": "Havoc Circle",
+      "properties": [
+        "+1 to Maximum 1-handed damage",
+        "+1 to Maximum 2-handed damage",
+        "Lightning Resist +10%",
+        "40% Extra Gold from Monsters",
+        "10% Better Chance of Getting Magic Items",
+        "+1 to Maximum Throw Damage"
+      ]
+    }
+  ],
+  "belts": [],
+  "amulets": [],
+  "charms_small": [
+    {
+      "name": "Beryl Flame",
+      "properties": [
+        "Poison Resist +5%",
+        "Adds 1-2 Fire Damage"
+      ]
+    },
+    {
+      "name": "Emerald Dexterity",
+      "properties": [
+        "+1 to Dexterity",
+        "Poison Resist +11%"
+      ]
+    },
+    {
+      "name": "Coral Strength",
+      "properties": [
+        "+1 to Strength",
+        "Lightning Resist +8%"
+      ]
+    },
+    {
+      "name": "Amber Greed",
+      "properties": [
+        "Lightning Resist +11%",
+        "5% Extra Gold from Monsters"
+      ]
+    },
+    {
+      "name": "Coral",
+      "properties": [
+        "Lightning Resist +8%"
+      ]
+    },
+    {
+      "name": "Emerald",
+      "properties": [
+        "Poison Resist +10%"
+      ]
+    },
+    {
+      "name": "Amber",
+      "properties": [
+        "Lightning Resist +11%"
+      ]
+    },
+    {
+      "name": "Cobalt",
+      "properties": [
+        "Cold Resist +9%"
+      ]
+    },
+    {
+      "name": "Ruby Strength",
+      "properties": [
+        "+2 to Strength",
+        "Fire Resist +11%"
+      ]
+    },
+    {
+      "name": "Amber",
+      "properties": [
+        "Lightning Resist +11%"
+      ]
+    },
+    {
+      "name": "Russet Dexterity",
+      "properties": [
+        "+1 to Dexterity",
+        "Fire Resist +7%"
+      ]
+    }
+  ],
+  "charms_large": [],
+  "charms_grand": [
+    {
+      "name": "Emerald Incineration",
+      "properties": [
+        "Poison Resist +29%",
+        "Adds 5-14 Fire Damage"
+      ]
+    }
+  ],
+  "weapons": [],
+  "armors": [],
+  "other": [
+    "Town Portal Book",
+    "Horadric Cube",
+    "Tir Rune",
+    "Strong Mana Potion",
+    "Tal Rune",
+    "Eth Rune",
+    "Nef Rune",
+    "Identify Book",
+    "Mana Potion",
+    "Strong Mana Potion",
+    "Amn Rune",
+    "Ral Rune",
+    "Strong Mana Potion",
+    "Strong Healing Potion",
+    "Strong Healing Potion",
+    "Strong Healing Potion",
+    "Mana Potion",
+    "Light Mana Potion",
+    "Strong Healing Potion",
+    "Strong Healing Potion",
+    "Mana Potion",
+    "Strong Mana Potion",
+    "Strong Healing Potion",
+    {
+      "name": "Steel",
+      "properties": [
+        "+20% Enhanced Damage",
+        "+3 to Minimum 1-handed damage",
+        "+3 to Maximum 1-handed damage",
+        "+3 to Minimum 2-handed damage",
+        "+3 to Maximum 2-handed damage",
+        "25% Increased Attack Speed",
+        "50% Chance of Open Wounds",
+        "+3 to Minimum Throw Damage",
+        "+3 to Maximum Throw Damage",
+        "+2 to Mana After Each Kill",
+        "+50 to Attack rating",
+        "+1 to Light Radius"
+      ]
+    },
+    "Ral Rune",
+    {
+      "name": "Mechanist's Quality",
+      "properties": [
+        "+2 to Maximum 1-handed damage",
+        "Adds 5-30 Fire Damage",
+        "Adds 5-30 Fire Damage"
+      ]
+    }
+  ]
+}

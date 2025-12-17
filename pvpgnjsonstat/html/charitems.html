@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Diablo 2 Item Attribute Table (Ctrl+F Search)</title>
+<link rel="stylesheet" href="css/d2console.css">
+<style>
+/* ОСНОВНИ СТИЛОВЕ */
+h2 {
+    color: #fff;
+    border-bottom: 2px solid #555;
+    padding-bottom: 5px;
+}
+.report-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    font-size: 0.85em; /* Намален размер на шрифта за повече данни */
+}
+.report-table th, .report-table td {
+    border: 1px solid #333;
+    padding: 6px; /* По-малко padding */
+    text-align: left;
+    vertical-align: top;
+}
+.report-table th {
+    background: #1e1e1e;
+    color: #00baff;
+    text-transform: uppercase;
+}
+.report-table tr:nth-child(even) {
+    background: #1a1a1a;
+}
+.report-table tr:hover {
+    background: #282828;
+}
+.report-table td a {
+    color: #ffcc00;
+    text-decoration: none;
+    font-weight: bold;
+}
+.report-table td a:hover {
+    text-decoration: underline;
+}
+
+/* СТИЛОВЕ ЗА АТРИБУТИТЕ (Четливост за Ctrl+F) */
+.item-list-cell {
+    font-size: 0.85em;
+    color: #e0e0e0; /* По-светъл цвят, за да се чете лесно */
+    line-height: 1.3;
+}
+.item-entry {
+    margin-bottom: 5px;
+    border-bottom: 1px dotted #222; /* Лека линия между предметите */
+    padding-bottom: 5px;
+}
+.item-entry:last-child {
+    border-bottom: none;
+}
+.item-entry h4 {
+    color: #00baff; /* Син цвят за името на предмета */
+    margin: 0 0 2px 0;
+    font-size: 1em;
+    font-weight: bold;
+}
+.item-properties-list {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+    white-space: pre-wrap; /* Запазва форматирането на текста */
+}
+.item-properties-list li {
+    color: #00ff00; /* Зелено за свойствата */
+    margin-left: 10px;
+    text-indent: -10px; /* По-добро подравняване на списъка */
+}
+</style>
+</head>
+<body>
+
+<div class="container">
+    <div class="links" style="margin-top:20px;">
+        <a href="index.html">← Back to Realm Stats</a> | <a href="charitems.html">← Old Tabular Report</a>
+    </div>
+
+    <h1>Diablo 2 Item Report (Full Data View)</h1>
+    <p class="sub">Use **Ctrl+F** (Cmd+F) to search for item attributes like "skill" or "mf".</p>
+    <p class="sub">Last updated: <span id="last-updated">...</span> | Total Characters: <span id="total-chars">...</span></p>
+
+    <div id="item-report-container">
+        <p>Loading item data...</p>
+    </div>
+
+</div>
+
+<script src="js/final_table_report.js"></script>
+
+</body>
+</html>

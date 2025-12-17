@@ -1,0 +1,7 @@
+ gl
++-No.--GameName---------GamePass---------ID----GameVer--Type--Difficulty--Ladder-----Users-CreateTime-Dis-+
+| 001  Jhjhh                             19    exp      sc    normal      ladder     1     06:03:29   N   |
++---------------------------------------------------------------------------------------------------------+
+
+Total: 1 games running, 1 users in game.
+

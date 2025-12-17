@@ -1,0 +1,198 @@
+{
+  "account": "zgan3",
+  "charfile": "ringsone",
+  "charname": "ringsone",
+  "generated": "2025-12-17 12:11:09",
+  "char_stats": {
+    "level": 1,
+    "class": "Sorceress",
+    "is_hc": false,
+    "is_ladder": true,
+    "progression": 0,
+    "char_name_raw": "ringsone",
+    "strength": 10,
+    "energy": 35,
+    "dexterity": 25,
+    "vitality": 10,
+    "unused_stats": 0,
+    "unused_skills": 0,
+    "current_hp": 40.0,
+    "max_hp": 40.0,
+    "current_mana": 35.0,
+    "max_mana": 35.0,
+    "current_stamina": 74.0,
+    "max_stamina": 74.0,
+    "experience": 0,
+    "gold": 0,
+    "stashed_gold": 0
+  },
+  "unique_set": [
+    {
+      "name": "The Mahim-Oak Curio",
+      "properties": [
+        "+10 to Strength",
+        "+10 to Energy",
+        "+10 to Dexterity",
+        "+10 to Vitality",
+        "+10% Enhanced Defense",
+        "+10 Defense",
+        "Fire Resist +10%",
+        "Lightning Resist +10%",
+        "Cold Resist +10%",
+        "Poison Resist +10%",
+        "10% Bonus to Attack Rating"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Raven Frost",
+      "properties": [
+        "+16 to Dexterity",
+        "+40 to Mana",
+        "+164 to Attack rating",
+        "Adds 15-45 Cold Damage",
+        "Cold Absorb 20%",
+        "Cannot Be Frozen"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Manald Heal",
+      "properties": [
+        "+20 to Life",
+        "Regenerate Mana 20%",
+        "5% Mana Stolen Per Hit",
+        "Replenish Life +5"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "The Mahim-Oak Curio",
+      "properties": [
+        "+10 to Strength",
+        "+10 to Energy",
+        "+10 to Dexterity",
+        "+10 to Vitality",
+        "+10% Enhanced Defense",
+        "+10 Defense",
+        "Fire Resist +10%",
+        "Lightning Resist +10%",
+        "Cold Resist +10%",
+        "Poison Resist +10%",
+        "10% Bonus to Attack Rating"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Manald Heal",
+      "properties": [
+        "+20 to Life",
+        "Regenerate Mana 20%",
+        "4% Mana Stolen Per Hit",
+        "Replenish Life +5"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Nagelring",
+      "properties": [
+        "+64 to Attack rating",
+        "Magic Damage Reduced by 3",
+        "Attacker Takes Damage of 3",
+        "15% Better Chance of Getting Magic Items"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "The Eye of Etlich",
+      "properties": [
+        "+21 vs. Missile",
+        "Adds 1-3 Cold Damage",
+        "5% Life Stolen Per Hit",
+        "+1 to Light Radius",
+        "+1 to All Skill Levels"
+      ],
+      "type": "unique"
+    }
+  ],
+  "runes": [],
+  "rings": [
+    {
+      "name": "Corruption Band",
+      "properties": [
+        "+6 to Strength",
+        "+7 to Life",
+        "+20 to Maximum Stamina",
+        "+1 to Maximum 1-handed damage",
+        "+1 to Maximum 2-handed damage",
+        "Lightning Resist +16%",
+        "Poison Resist +6%",
+        "+1 to Maximum Throw Damage"
+      ]
+    },
+    {
+      "name": "Scintillating",
+      "properties": [
+        "Fire Resist +15%",
+        "Lightning Resist +15%",
+        "Cold Resist +15%",
+        "Poison Resist +15%"
+      ]
+    },
+    {
+      "name": "Fortune",
+      "properties": [
+        "20% Better Chance of Getting Magic Items"
+      ]
+    }
+  ],
+  "belts": [],
+  "amulets": [
+    {
+      "name": "Rainbow",
+      "properties": [
+        "Fire Resist +11%",
+        "Lightning Resist +11%",
+        "Cold Resist +11%",
+        "Poison Resist +11%"
+      ]
+    },
+    {
+      "name": "Angel's",
+      "properties": [
+        "+1 to Sorceress Skill Levels"
+      ]
+    },
+    {
+      "name": "Amulet",
+      "properties": [
+        "+48 to Mana",
+        "Regenerate Mana 8%",
+        "Lightning Resist +27%",
+        "Replenish Life +4",
+        "7% Faster Cast Rate",
+        "+2 to Cold Spells (Sorceress only)"
+      ]
+    }
+  ],
+  "charms_small": [],
+  "charms_large": [],
+  "charms_grand": [],
+  "weapons": [
+    {
+      "name": "Short Staff",
+      "properties": [
+        "+1 To Fire Bolt"
+      ]
+    }
+  ],
+  "armors": [],
+  "other": [
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Town Portal Scroll",
+    "Identify Scroll"
+  ]
+}

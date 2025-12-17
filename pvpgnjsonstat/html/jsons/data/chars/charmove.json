@@ -1,0 +1,343 @@
+{
+  "account": "zliazubbb",
+  "charfile": "charmove",
+  "charname": "CHARMOVE",
+  "generated": "2025-12-17 12:11:09",
+  "char_stats": {
+    "level": 1,
+    "class": "Necromancer",
+    "is_hc": false,
+    "is_ladder": true,
+    "progression": 0,
+    "char_name_raw": "CHARMOVE",
+    "strength": 15,
+    "energy": 25,
+    "dexterity": 25,
+    "vitality": 15,
+    "unused_stats": 0,
+    "unused_skills": 0,
+    "current_hp": 45.0,
+    "max_hp": 45.0,
+    "current_mana": 25.0,
+    "max_mana": 25.0,
+    "current_stamina": 79.0,
+    "max_stamina": 79.0,
+    "experience": 0,
+    "gold": 0,
+    "stashed_gold": 0
+  },
+  "unique_set": [],
+  "runes": [],
+  "rings": [],
+  "belts": [],
+  "amulets": [],
+  "charms_small": [
+    {
+      "name": "Vita",
+      "properties": [
+        "+19 to Life"
+      ]
+    },
+    {
+      "name": "Balance",
+      "properties": [
+        "5% Faster Hit Recovery"
+      ]
+    },
+    {
+      "name": "Bronze Balance",
+      "properties": [
+        "+3 to Attack rating",
+        "5% Faster Hit Recovery"
+      ]
+    },
+    {
+      "name": "Balance",
+      "properties": [
+        "5% Faster Hit Recovery"
+      ]
+    },
+    {
+      "name": "Good Luck",
+      "properties": [
+        "6% Better Chance of Getting Magic Items"
+      ]
+    },
+    {
+      "name": "Vita",
+      "properties": [
+        "+20 to Life"
+      ]
+    },
+    {
+      "name": "Emerald",
+      "properties": [
+        "Poison Resist +11%"
+      ]
+    },
+    {
+      "name": "Vita",
+      "properties": [
+        "+19 to Life"
+      ]
+    },
+    {
+      "name": "Rugged Good Luck",
+      "properties": [
+        "+5 to Maximum Stamina",
+        "7% Better Chance of Getting Magic Items"
+      ]
+    },
+    {
+      "name": "Good Luck",
+      "properties": [
+        "6% Better Chance of Getting Magic Items"
+      ]
+    },
+    {
+      "name": "Good Luck",
+      "properties": [
+        "7% Better Chance of Getting Magic Items"
+      ]
+    },
+    {
+      "name": "Good Luck",
+      "properties": [
+        "7% Better Chance of Getting Magic Items"
+      ]
+    },
+    {
+      "name": "Balance",
+      "properties": [
+        "5% Faster Hit Recovery"
+      ]
+    },
+    {
+      "name": "Good Luck",
+      "properties": [
+        "7% Better Chance of Getting Magic Items"
+      ]
+    },
+    {
+      "name": "Rugged Balance",
+      "properties": [
+        "+16 to Maximum Stamina",
+        "5% Faster Hit Recovery"
+      ]
+    },
+    {
+      "name": "Vita",
+      "properties": [
+        "+20 to Life"
+      ]
+    },
+    {
+      "name": "Good Luck",
+      "properties": [
+        "7% Better Chance of Getting Magic Items"
+      ]
+    },
+    {
+      "name": "Good Luck",
+      "properties": [
+        "7% Better Chance of Getting Magic Items"
+      ]
+    },
+    {
+      "name": "Good Luck",
+      "properties": [
+        "7% Better Chance of Getting Magic Items"
+      ]
+    },
+    {
+      "name": "Stalwart Good Luck",
+      "properties": [
+        "+26 Defense",
+        "6% Better Chance of Getting Magic Items"
+      ]
+    },
+    {
+      "name": "Azure Vita",
+      "properties": [
+        "+17 to Life",
+        "Cold Resist +3%"
+      ]
+    },
+    {
+      "name": "Good Luck",
+      "properties": [
+        "6% Better Chance of Getting Magic Items"
+      ]
+    },
+    {
+      "name": "Snowflake Good Luck",
+      "properties": [
+        "Adds 2-3 Cold Damage",
+        "7% Better Chance of Getting Magic Items"
+      ]
+    },
+    {
+      "name": "Good Luck",
+      "properties": [
+        "6% Better Chance of Getting Magic Items"
+      ]
+    },
+    {
+      "name": "Jade Life",
+      "properties": [
+        "+7 to Life",
+        "Poison Resist +9%"
+      ]
+    },
+    {
+      "name": "Vita",
+      "properties": [
+        "+20 to Life"
+      ]
+    },
+    {
+      "name": "Stout Balance",
+      "properties": [
+        "+1 Defense",
+        "5% Faster Hit Recovery"
+      ]
+    },
+    {
+      "name": "Vita",
+      "properties": [
+        "+18 to Life"
+      ]
+    },
+    {
+      "name": "Ruby Strength",
+      "properties": [
+        "+2 to Strength",
+        "Fire Resist +10%"
+      ]
+    }
+  ],
+  "charms_large": [],
+  "charms_grand": [
+    {
+      "name": "Expert's",
+      "properties": [
+        "+1 to Combat Skills (Barbarian only)"
+      ]
+    },
+    {
+      "name": "Acrobat's Dexterity",
+      "properties": [
+        "+3 to Dexterity",
+        "+1 to Passive and Magic Skills (Amazon only)"
+      ]
+    },
+    {
+      "name": "Fanatic",
+      "properties": [
+        "+1 to Masteries (Barbarian only)"
+      ]
+    },
+    {
+      "name": "Spiritual",
+      "properties": [
+        "+1 to Shape Shifting Skills (Druid only)"
+      ]
+    },
+    {
+      "name": "Fletcher's Substinence",
+      "properties": [
+        "+31 to Life",
+        "+1 to Bow and Crossbow Skills (Amazon only)"
+      ]
+    },
+    {
+      "name": "Expert's Blight",
+      "properties": [
+        "Adds 21-21 Poison Damage over 75 Seconds",
+        "+1 to Combat Skills (Barbarian only)"
+      ]
+    },
+    {
+      "name": "Hexing Substinence",
+      "properties": [
+        "+24 to Life",
+        "+1 to Curses (Necromancer only)"
+      ]
+    },
+    {
+      "name": "Steel Substinence",
+      "properties": [
+        "+34 to Life",
+        "+119 to Attack rating"
+      ]
+    },
+    {
+      "name": "Captain's Substinence",
+      "properties": [
+        "+32 to Life",
+        "+1 to Offensive Auras (Paladin only)"
+      ]
+    },
+    {
+      "name": "Captain's Strength",
+      "properties": [
+        "+5 to Strength",
+        "+1 to Offensive Auras (Paladin only)"
+      ]
+    },
+    {
+      "name": "Fanatic",
+      "properties": [
+        "+1 to Masteries (Barbarian only)"
+      ]
+    },
+    {
+      "name": "Steel Vita",
+      "properties": [
+        "+36 to Life",
+        "+114 to Attack rating"
+      ]
+    },
+    {
+      "name": "Emerald",
+      "properties": [
+        "Poison Resist +29%"
+      ]
+    },
+    {
+      "name": "Entrapping",
+      "properties": [
+        "+1 to Traps (Assassin only)"
+      ]
+    },
+    {
+      "name": "Fungal",
+      "properties": [
+        "+1 to Poison and Bone Skills (Necromancer only)"
+      ]
+    },
+    {
+      "name": "Steel Substinence",
+      "properties": [
+        "+27 to Life",
+        "+116 to Attack rating"
+      ]
+    }
+  ],
+  "weapons": [],
+  "armors": [],
+  "other": [
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Town Portal Scroll",
+    "Identify Scroll",
+    {
+      "name": "Wand",
+      "properties": [
+        "+1 To Raise Skeleton"
+      ]
+    }
+  ]
+}

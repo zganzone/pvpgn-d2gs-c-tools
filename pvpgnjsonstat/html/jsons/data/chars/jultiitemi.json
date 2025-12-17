@@ -1,0 +1,109 @@
+{
+  "account": "zliazubbbb",
+  "charfile": "jultiitemi",
+  "charname": "JULTIitemi",
+  "generated": "2025-12-17 12:11:09",
+  "char_stats": {
+    "level": 1,
+    "class": "Sorceress",
+    "is_hc": false,
+    "is_ladder": true,
+    "progression": 0,
+    "char_name_raw": "JULTIitemi",
+    "strength": 10,
+    "energy": 35,
+    "dexterity": 25,
+    "vitality": 10,
+    "unused_stats": 0,
+    "unused_skills": 0,
+    "current_hp": 40.0,
+    "max_hp": 40.0,
+    "current_mana": 35.0,
+    "max_mana": 35.0,
+    "current_stamina": 74.0,
+    "max_stamina": 74.0,
+    "experience": 0,
+    "gold": 0,
+    "stashed_gold": 0
+  },
+  "unique_set": [],
+  "runes": [],
+  "rings": [],
+  "belts": [],
+  "amulets": [],
+  "charms_small": [],
+  "charms_large": [],
+  "charms_grand": [],
+  "weapons": [
+    {
+      "name": "Short Staff",
+      "properties": [
+        "+1 To Fire Bolt"
+      ]
+    }
+  ],
+  "armors": [],
+  "other": [
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Town Portal Scroll",
+    "Identify Scroll",
+    {
+      "name": "Gale Greave",
+      "properties": [
+        "Fire Resist +21%",
+        "Lightning Resist +23%",
+        "Cold Resist +18%",
+        "20% Faster Run/Walk",
+        "10% Faster Hit Recovery"
+      ]
+    },
+    {
+      "name": "Viper Hold",
+      "properties": [
+        "+11 to Attack rating",
+        "Fire Resist +10%",
+        "Lightning Resist +8%",
+        "23% Better Chance of Getting Magic Items",
+        "Repairs 1 Durability in 5 Seconds"
+      ]
+    },
+    {
+      "name": "Spirit Casque",
+      "properties": [
+        "+19 to Dexterity",
+        "+81% Enhanced Defense",
+        "Fire Resist +18%",
+        "Lightning Resist +18%",
+        "Cold Resist +18%",
+        "Poison Resist +18%",
+        "5% Mana Stolen Per Hit",
+        "+2 to Paladin Skill Levels",
+        "20% Faster Run/Walk"
+      ]
+    },
+    {
+      "name": "Bone Tread",
+      "properties": [
+        "+5 to Dexterity",
+        "Fire Resist +10%",
+        "Lightning Resist +28%",
+        "Poison Resist +29%",
+        "30% Faster Run/Walk",
+        "Half Freeze Duration"
+      ]
+    },
+    {
+      "name": "Fiendra Nails",
+      "properties": [
+        "+37% Enhanced Defense",
+        "Lightning Resist +33%",
+        "Cold Resist +12%",
+        "73% Extra Gold from Monsters",
+        "30% Faster Run/Walk"
+      ]
+    }
+  ]
+}

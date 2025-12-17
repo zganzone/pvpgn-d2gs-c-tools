@@ -1,0 +1,28 @@
+{
+    "game_limits": {
+        "max_games_set": 50,
+        "max_games_current": 50,
+        "max_prefer_users": 180,
+        "max_game_life_seconds": 2764472319
+    },
+    "current_activity": {
+        "running_games": 1,
+        "users_in_game": 1
+    },
+    "service_connections": {
+        "d2cs": "(192.168.88.41): connected",
+        "d2dbs": "(192.168.88.41): connected"
+    },
+    "resource_usage": {
+        "physical_memory": {
+            "used_mb": 0.0,
+            "total_mb": 0.0
+        },
+        "virtual_memory": {
+            "used_mb": 0.0,
+            "total_mb": 0.0
+        },
+        "kernel_cpu_percent": 0.0,
+        "user_cpu_percent": 0.0
+    }
+}

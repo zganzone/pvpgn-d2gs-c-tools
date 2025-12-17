@@ -1,0 +1,249 @@
+{
+  "account": "zliazubbbb",
+  "charfile": "itemi",
+  "charname": "itemi",
+  "generated": "2025-12-17 13:31:09",
+  "char_stats": {
+    "level": 1,
+    "class": "Druid",
+    "is_hc": false,
+    "is_ladder": true,
+    "progression": 0,
+    "char_name_raw": "itemi",
+    "strength": 15,
+    "energy": 20,
+    "dexterity": 20,
+    "vitality": 25,
+    "unused_stats": 0,
+    "unused_skills": 0,
+    "current_hp": 55.0,
+    "max_hp": 55.0,
+    "current_mana": 20.0,
+    "max_mana": 20.0,
+    "current_stamina": 84.0,
+    "max_stamina": 84.0,
+    "experience": 0,
+    "gold": 0,
+    "stashed_gold": 0
+  },
+  "unique_set": [
+    {
+      "name": "Skin of the Vipermagi",
+      "properties": [
+        "+120% Enhanced Defense",
+        "Magic Damage Reduced by 11",
+        "Fire Resist +34%",
+        "Lightning Resist +34%",
+        "Cold Resist +34%",
+        "Poison Resist +34%",
+        "30% Faster Cast Rate",
+        "+1 to All Skill Levels"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Hellslayer",
+      "properties": [
+        "+25 to Life",
+        "+100% Enhanced Damage",
+        "Adds 150-250 Fire Damage",
+        "10% Chance to Cast Level 20 Fire Ball When you die",
+        "24% Enhanced Maximum Damage (Based on Character Level)",
+        "+4 to Strength (Based on Character Level)",
+        "+4 to Vitality (Based on Character Level)"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Guardian Angel",
+      "properties": [
+        "+180% Enhanced Defense",
+        "+20% Increased chance of blocking",
+        "+15% to Maximum Fire Resist",
+        "+15% to Maximum Lightning Resist",
+        "+15% to Maximum Cold Resist",
+        "+15% to Maximum Poison Resist",
+        "+1 to Paladin Skill Levels",
+        "+4 to Light Radius",
+        "30% Faster Block Rate",
+        "+5 to Attack Rating against Demons (Based on Character Level)"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Spirit Keeper",
+      "properties": [
+        "+188% Enhanced Defense",
+        "Fire Resist +31%",
+        "+10% to Maximum Poison Resist",
+        "+1 to Druid Skill Levels",
+        "20% Faster Hit Recovery",
+        "+10 Lightning Absorb",
+        "Cold Absorb 20%"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Homunculus",
+      "properties": [
+        "+20 to Energy",
+        "+153% Enhanced Defense",
+        "+40% Increased chance of blocking",
+        "Regenerate Mana 33%",
+        "Fire Resist +40%",
+        "Lightning Resist +40%",
+        "Cold Resist +40%",
+        "Poison Resist +40%",
+        "+2 to Necromancer Skill Levels",
+        "30% Faster Block Rate",
+        "+5 to Mana After Each Kill",
+        "+2 to Curses (Necromancer only)"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Wizardspike",
+      "properties": [
+        "Regenerate Mana 15%",
+        "Fire Resist +75%",
+        "Lightning Resist +75%",
+        "Cold Resist +75%",
+        "Poison Resist +75%",
+        "Increase Maximum Mana 15%",
+        "50% Faster Cast Rate",
+        "Indestructible",
+        "+16 to Mana (Based on Character Level)"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Lightsabre",
+      "properties": [
+        "+154% Enhanced Damage",
+        "+10 to Minimum 1-handed damage",
+        "+30 to Maximum 1-handed damage",
+        "Adds 1-200 Lightning Damage",
+        "Adds 60-120 Magic Damage",
+        "7% Mana Stolen Per Hit",
+        "+7 to Light Radius",
+        "20% Increased Attack Speed",
+        "Ignore Target Defense",
+        "Lightning Absorb 25%",
+        "5% Chance to Cast Level 17 Chain Lightning When you die"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Crown of Thieves",
+      "properties": [
+        "+25 to Dexterity",
+        "+50 to Life",
+        "+35 to Mana",
+        "+164% Enhanced Defense",
+        "Fire Resist +33%",
+        "12% Life Stolen Per Hit",
+        "80% Extra Gold from Monsters"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Guillaume's Face",
+      "properties": [
+        "+15 to Strength",
+        "+120% Enhanced Defense",
+        "30% Faster Hit Recovery",
+        "35% Chance of Crushing Blow",
+        "15% Deadly Strike"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Gimmershred",
+      "properties": [
+        "+181% Enhanced Damage",
+        "Adds 218-483 Fire Damage",
+        "Adds 29-501 Lightning Damage",
+        "Adds 176-397 Cold Damage",
+        "30% Increased Attack Speed",
+        "Increased Stack Size"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Cow King's Hide",
+      "properties": [
+        "+30 to Life",
+        "+60% Enhanced Defense",
+        "Fire Resist +18%",
+        "Lightning Resist +18%",
+        "Cold Resist +18%",
+        "Poison Resist +18%",
+        "18% Chance to Cast Level 5 Chain Lightning When Struck"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Jade Talon",
+      "properties": [
+        "+212% Enhanced Damage",
+        "Fire Resist +41%",
+        "Lightning Resist +41%",
+        "Cold Resist +41%",
+        "Poison Resist +41%",
+        "12% Mana Stolen Per Hit",
+        "30% Faster Hit Recovery",
+        "+1 to Shadow Disciplines (Assassin only)",
+        "+2 to Martial Arts (Assassin only)"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Immortal King's Pillar",
+      "properties": [
+        "+44 to Life",
+        "+110 to Attack rating",
+        "+75 Defense",
+        "40% Faster Run/Walk"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Taebaek's Glory",
+      "properties": [
+        "+100 to Mana",
+        "+25% Increased chance of blocking",
+        "+50 Defense",
+        "Lightning Resist +30%",
+        "Attacker Takes Damage of 30",
+        "30% Faster Block Rate",
+        "Indestructible"
+      ],
+      "type": "set"
+    }
+  ],
+  "runes": [],
+  "rings": [],
+  "belts": [],
+  "amulets": [],
+  "charms_small": [],
+  "charms_large": [],
+  "charms_grand": [],
+  "weapons": [],
+  "armors": [],
+  "other": [
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Town Portal Scroll",
+    "Identify Scroll",
+    {
+      "name": "War Scepter",
+      "properties": [
+        "+3 To Holy Shock"
+      ]
+    },
+    "Club",
+    "Buckler"
+  ]
+}

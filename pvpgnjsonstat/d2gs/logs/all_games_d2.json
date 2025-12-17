@@ -1,0 +1,34 @@
+[
+  {
+    "GameInfo": {
+      "GameName": "Jhjhh",
+      "GamePass": null,
+      "GameDesc": null,
+      "GameID": "19",
+      "GameVer": "exp",
+      "GameType": "sc",
+      "Difficult": "normal",
+      "IsLadder": "ladder",
+      "UserCount": 1,
+      "CreateTime": "06:03:29",
+      "Disable": "No",
+      "": null,
+      "CreatorAcct": "tapak2",
+      "CreatorChar": "veshtione",
+      "CreatorIP": "192.168.88.145",
+      "XPRateMultiplier": 1.0,
+      "XPBonusPercent": "+0%"
+    },
+    "Characters": [
+      {
+        "No": "001",
+        "AcctName": "tapak2",
+        "CharName": "veshtione",
+        "IPAddress": "192.168.88.145",
+        "Class": "Nec",
+        "Level": "1",
+        "EnterTime": "06:03:29"
+      }
+    ]
+  }
+]

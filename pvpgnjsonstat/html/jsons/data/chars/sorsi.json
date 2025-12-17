@@ -1,0 +1,343 @@
+{
+  "account": "zgan",
+  "charfile": "sorsi",
+  "charname": "Sorsi",
+  "generated": "2025-12-17 12:11:09",
+  "char_stats": {
+    "level": 86,
+    "class": "Sorceress",
+    "is_hc": false,
+    "is_ladder": true,
+    "progression": 15,
+    "char_name_raw": "Sorsi",
+    "strength": 117,
+    "energy": 35,
+    "dexterity": 65,
+    "vitality": 271,
+    "unused_stats": 32,
+    "unused_skills": 15,
+    "current_hp": 195.96875,
+    "max_hp": 707.0,
+    "current_mana": 150.5234375,
+    "max_mana": 205.0,
+    "current_stamina": 516.93359375,
+    "max_stamina": 420.0,
+    "experience": 1182924802,
+    "gold": 72885,
+    "stashed_gold": 828237
+  },
+  "unique_set": [
+    {
+      "name": "Annihilus",
+      "properties": [
+        "+17 to Strength",
+        "+17 to Energy",
+        "+17 to Dexterity",
+        "+17 to Vitality",
+        "Fire Resist +20%",
+        "Lightning Resist +20%",
+        "Cold Resist +20%",
+        "Poison Resist +20%",
+        "6% To Experience Gained",
+        "+1 to All Skill Levels"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Arioc's Needle",
+      "properties": [
+        "+208% Enhanced Damage",
+        "Adds 403-403 Poison Damage over 250 Seconds",
+        "30% Increased Attack Speed",
+        "Ignore Target Defense",
+        "+2 to All Skill Levels",
+        "50% Deadly Strike"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Milabrega's Orb",
+      "properties": [
+        "+25 Defense",
+        "20% Better Chance of Getting Magic Items"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Gheed's Fortune",
+      "properties": [
+        "103% Extra Gold from Monsters",
+        "24% Better Chance of Getting Magic Items",
+        "Reduces Prices 15%"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "The Mahim-Oak Curio",
+      "properties": [
+        "+10 to Strength",
+        "+10 to Energy",
+        "+10 to Dexterity",
+        "+10 to Vitality",
+        "+10% Enhanced Defense",
+        "+10 Defense",
+        "Fire Resist +10%",
+        "Lightning Resist +10%",
+        "Cold Resist +10%",
+        "Poison Resist +10%",
+        "10% Bonus to Attack Rating"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Harlequin Crest",
+      "properties": [
+        "+2 to Strength",
+        "+2 to Energy",
+        "+2 to Dexterity",
+        "+2 to Vitality",
+        "Damage Reduced by 10%",
+        "50% Better Chance of Getting Magic Items",
+        "+2 to All Skill Levels",
+        "+12 to Life (Based on Character Level)",
+        "+12 to Mana (Based on Character Level)"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Tal Rasha's Adjudication",
+      "properties": [
+        "+50 to Life",
+        "+42 to Mana",
+        "Lightning Resist +33%",
+        "Adds 3-32 Lightning Damage",
+        "+2 to Sorceress Skill Levels"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Tal Rasha's Guardianship",
+      "properties": [
+        "+400 Defense",
+        "Magic Damage Reduced by 15",
+        "Fire Resist +40%",
+        "Lightning Resist +40%",
+        "Cold Resist +40%",
+        "88% Better Chance of Getting Magic Items",
+        "Requirements -60%",
+        "24% Better Chance of Getting Magic Items"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Dwarf Star",
+      "properties": [
+        "+40 to Life",
+        "+40 to Maximum Stamina",
+        "Heal Stamina 15%",
+        "Magic Damage Reduced by 12",
+        "100% Extra Gold from Monsters",
+        "Fire Absorb 15%"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Tal Rasha's Fine-Spun Cloth",
+      "properties": [
+        "+20 to Dexterity",
+        "+30 to Mana",
+        "13% Better Chance of Getting Magic Items",
+        "Requirements -20%",
+        "37% Damage Taken Goes to Mana"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Immortal King's Pillar",
+      "properties": [
+        "+44 to Life",
+        "+110 to Attack rating",
+        "+75 Defense",
+        "40% Faster Run/Walk"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Immortal King's Forge",
+      "properties": [
+        "+20 to Strength",
+        "+20 to Dexterity",
+        "+65 Defense",
+        "12% Chance to Cast Level 4 Charged Bolt When Struck"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "The Face of Horror",
+      "properties": [
+        "+20 to Strength",
+        "+25 Defense",
+        "Fire Resist +10%",
+        "Lightning Resist +10%",
+        "Cold Resist +10%",
+        "Poison Resist +10%",
+        "Hit Causes Monsters to Flee 63%",
+        "+50% Damage to Undead"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Eschuta's Temper",
+      "properties": [
+        "+30 to Energy",
+        "+3 to Sorceress Skill Levels",
+        "40% Faster Cast Rate",
+        "11% To Fire Skill Damage",
+        "18% To Lightning Skill Damage"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Tiamat's Rebuke",
+      "properties": [
+        "+141% Enhanced Defense",
+        "Fire Resist +34%",
+        "Lightning Resist +34%",
+        "Cold Resist +34%",
+        "Poison Resist +34%",
+        "Adds 35-95 Fire Damage",
+        "Adds 1-120 Lightning Damage",
+        "Adds 27-53 Cold Damage",
+        "+40 Maximum Durability",
+        "5% Chance to Cast Level 9 Frost Nova When Struck",
+        "5% Chance to Cast Level 7 Nova When Struck",
+        "3% Chance to Cast Level 6 Hydra When Struck"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "The Oculus",
+      "properties": [
+        "+20 to Energy",
+        "+20 to Vitality",
+        "+20% Enhanced Defense",
+        "Fire Resist +20%",
+        "Lightning Resist +20%",
+        "Cold Resist +20%",
+        "Poison Resist +20%",
+        "50% Better Chance of Getting Magic Items",
+        "+3 to Sorceress Skill Levels",
+        "30% Faster Cast Rate",
+        "+5 to Mana After Each Kill",
+        "25% Chance to Cast Level 1 Teleport When Struck"
+      ],
+      "type": "unique"
+    }
+  ],
+  "runes": [],
+  "rings": [
+    "Twisted Essence of Suffering",
+    "Twisted Essence of Suffering",
+    "Festering Essence of Destruction",
+    {
+      "name": "Scintillating Remedy",
+      "properties": [
+        "Fire Resist +12%",
+        "Lightning Resist +12%",
+        "Cold Resist +12%",
+        "Poison Resist +12%",
+        "Poison Length Reduced by 25%"
+      ]
+    }
+  ],
+  "belts": [],
+  "amulets": [],
+  "charms_small": [
+    {
+      "name": "Good Luck",
+      "properties": [
+        "6% Better Chance of Getting Magic Items"
+      ]
+    }
+  ],
+  "charms_large": [
+    {
+      "name": "Shimmering Strength",
+      "properties": [
+        "+3 to Strength",
+        "Fire Resist +8%",
+        "Lightning Resist +8%",
+        "Cold Resist +8%",
+        "Poison Resist +8%"
+      ]
+    },
+    {
+      "name": "Azure Balance",
+      "properties": [
+        "Cold Resist +7%",
+        "8% Faster Hit Recovery"
+      ]
+    },
+    {
+      "name": "Cobalt",
+      "properties": [
+        "Cold Resist +12%"
+      ]
+    }
+  ],
+  "charms_grand": [
+    {
+      "name": "Chilling Quality",
+      "properties": [
+        "+2 to Maximum 1-handed damage",
+        "+2 to Maximum 2-handed damage",
+        "+2 to Maximum Throw Damage",
+        "+1 to Cold Spells (Sorceress only)"
+      ]
+    }
+  ],
+  "weapons": [],
+  "armors": [],
+  "other": [
+    "Charged Essence of Hatred",
+    "Horadric Cube",
+    "Burning Essence of Terror",
+    "Identify Book",
+    "Token of Absolution",
+    "Town Portal Book",
+    "Bone Visage",
+    "Key of Hate",
+    "Greater Mana Potion",
+    "Key of Hate",
+    "Greater Healing Potion",
+    "Full Rejuvenation Potion",
+    "Greater Mana Potion",
+    "Greater Mana Potion",
+    "Strong Healing Potion",
+    "Greater Healing Potion",
+    "Rejuvenation Potion",
+    "Strong Mana Potion",
+    "Strong Mana Potion",
+    "Greater Mana Potion",
+    "Greater Mana Potion",
+    "Greater Healing Potion",
+    "Greater Healing Potion",
+    "Greater Healing Potion",
+    {
+      "name": "Spirit",
+      "properties": [
+        "+22 to Vitality",
+        "+98 to Mana",
+        "+250 vs. Missile",
+        "55% Faster Hit Recovery",
+        "30% Faster Cast Rate",
+        "+2 to All Skill Levels",
+        "+8 Magic Absorb",
+        "Poison Resist +35%",
+        "Cold Resist +35%",
+        "Lightning Resist +35%",
+        "Attacker Takes Damage of 14"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "character_info": {
+    "name": "ANDRUID",
+    "account_name": "zgan",
+    "level": 12,
+    "class": "Druid"
+  },
+  "item_stats": {
+    "total_items": 16,
+    "low_quality": 0,
+    "normal": 5,
+    "high_quality": 1,
+    "magic": 8,
+    "set": 0,
+    "rare": 1,
+    "unique": 1,
+    "crafted": 0,
+    "soj_count": 0
+  }
+}

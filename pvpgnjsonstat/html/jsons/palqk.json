@@ -1,0 +1,20 @@
+{
+  "character_info": {
+    "name": "palqk",
+    "account_name": "zgan2",
+    "level": 26,
+    "class": "Paladin"
+  },
+  "item_stats": {
+    "total_items": 34,
+    "low_quality": 0,
+    "normal": 8,
+    "high_quality": 1,
+    "magic": 9,
+    "set": 2,
+    "rare": 5,
+    "unique": 9,
+    "crafted": 0,
+    "soj_count": 0
+  }
+}

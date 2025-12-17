@@ -1,0 +1,169 @@
+// =======================================================
+// /js/charitems.js - Скрипт за зареждане на общия Item Report
+// =======================================================
+
+const ALL_ITEMS_JSON_URL = '/data/all_items.json';
+
+// --- helpers (Общи) ---
+
+function escapeHTML(str) {
+    let s = String(str || ''); 
+    if (!s) return ''; 
+    return s.replace(/&/g, '&amp;')
+            .replace(/</g, '&lt;')
+            .replace(/>/g, '&gt;')
+            .replace(/\"/g, '&quot;')
+            .replace(/'/g, '&#39;');
+}
+
+async function fetchJSON(path){
+    const r = await fetch(path + '?_=' + Date.now()); 
+    if(!r.ok) return null;
+    return await r.json();
+}
+
+// --- Основна функция за генериране на таблицата ---
+
+async function loadItemReport() {
+    const container = document.getElementById('item-report-container');
+    const data = await fetchJSON(ALL_ITEMS_JSON_URL);
+
+    if (!data || !data.rows) {
+        container.innerHTML = `<p style="color:red;">Error: Could not load data from <code>${ALL_ITEMS_JSON_URL}</code>. Check the path and file generation.</p>`;
+        return;
+    }
+
+    const rows = data.rows;
+    const updateTime = new Date(data.generated).toLocaleString();
+    
+    // Актуализиране на заглавната информация
+    document.getElementById('last-updated').textContent = updateTime;
+    document.getElementById('total-chars').textContent = rows.length;
+
+    if (rows.length === 0) {
+        container.innerHTML = '<p>No characters found in the Item Report.</p>';
+        return;
+    }
+
+    // 1. Започваме HTML таблицата. Добавяме ID!
+    let html = `
+        <table class="report-table" id="item-report-table">
+            <thead>
+                <tr>
+                    <th>Char Name</th>
+                    <th>Account</th>
+                    <th>Lvl</th>
+                    <th>Class</th>
+                    <th>Unique/Set Items</th>
+                    <th>Runes</th>
+                    <th>Charms</th>
+                </tr>
+            </thead>
+            <tbody>
+    `;
+
+    // 2. Попълване на редовете
+    rows.forEach(char => {
+        const charName = escapeHTML(char.charname || '-');
+        const account = escapeHTML(char.account || '-');
+        const level = char.level || 'N/A';
+        const className = escapeHTML(char.class || '-');
+        
+        // Масиви от имена на предмети
+        const uniqueSetItems = char.unique_set || [];
+        const runesItems = char.runes || [];
+        const charmsItems = char.charms || [];
+
+        // Извличане само на имената за показване в клетка
+        const uniqueSetList = uniqueSetItems.map(i => i.name).join(', ');
+        const runesList = runesItems.map(i => i.name).join(', ');
+        const charmsList = charmsItems.map(i => i.name).join(', ');
+        
+        // =======================================================
+        // *** КЛЮЧОВА ПРОМЯНА: ДОБАВЯНЕ НА ВСИЧКИ АТРИБУТИ ***
+        // =======================================================
+        let allProperties = [];
+        
+        // Функцията concatProperties извлича всички свойства от масив с предмети
+        const concatProperties = (items) => {
+             items.forEach(item => {
+                if (item.decoded_properties && Array.isArray(item.decoded_properties)) {
+                    allProperties.push(...item.decoded_properties);
+                } else if (item.properties && Array.isArray(item.properties)) {
+                    // Ако Python скриптът е използвал "properties"
+                    allProperties.push(...item.properties);
+                }
+            });
+        };
+
+        concatProperties(uniqueSetItems);
+        concatProperties(runesItems);
+        concatProperties(charmsItems);
+        
+        // Създаваме скрит атрибут за търсене, който включва:
+        // Име на герой + Акаунт + Всички имена на предмети + Всички свойства
+        const searchableContent = [
+            charName, 
+            account, 
+            uniqueSetList, 
+            runesList, 
+            charmsList,
+            ...allProperties // Добавяме всички декодирани свойства тук!
+        ].join(' ').toLowerCase();
+
+
+        html += `
+            <tr data-search="${searchableContent}">
+                <td><a href="charinfo.html?name=${charName.toLowerCase()}" target="_blank">${charName}</a></td>
+                <td>${account}</td>
+                <td>${level}</td>
+                <td>${className}</td>
+                <td class="item-list-cell">${uniqueSetList}</td>
+                <td class="item-list-cell">${runesList}</td>
+                <td class="item-list-cell">${charmsList}</td>
+            </tr>
+        `;
+    });
+
+    // 3. Затваряне на таблицата
+    html += `
+            </tbody>
+        </table>
+    `;
+
+    container.innerHTML = html;
+    
+    // 4. Активиране на търсачката
+    activateSearchFilter();
+}
+
+
+// --- ФУНКЦИЯ ЗА ФИЛТРИРАНЕ НА ТАБЛИЦАТА (Остава непроменена) ---
+
+function activateSearchFilter() {
+    const searchBar = document.getElementById('search-bar');
+    if (!searchBar) return;
+
+    searchBar.addEventListener('keyup', (e) => {
+        const filter = e.target.value.toLowerCase();
+        const table = document.getElementById('item-report-table');
+        
+        if (!table) return;
+
+        const rows = table.querySelectorAll('tbody tr');
+
+        rows.forEach(row => {
+            const content = row.getAttribute('data-search');
+            
+            if (content && content.includes(filter)) {
+                row.style.display = ''; 
+            } else {
+                row.style.display = 'none'; 
+            }
+        });
+    });
+}
+
+
+// --- Инициализация ---
+document.addEventListener('DOMContentLoaded', loadItemReport);

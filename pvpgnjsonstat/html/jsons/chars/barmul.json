@@ -1,0 +1,149 @@
+{
+  "account": "zgan",
+  "charfile": "barmul",
+  "charname": "barmul",
+  "generated": "2025-12-17 13:31:09",
+  "char_stats": {
+    "level": 7,
+    "class": "Barbarian",
+    "is_hc": false,
+    "is_ladder": true,
+    "progression": 0,
+    "char_name_raw": "barmul",
+    "strength": 35,
+    "energy": 10,
+    "dexterity": 22,
+    "vitality": 28,
+    "unused_stats": 20,
+    "unused_skills": 1,
+    "current_hp": 79.0,
+    "max_hp": 79.0,
+    "current_mana": 22.0,
+    "max_mana": 16.0,
+    "current_stamina": 116.0,
+    "max_stamina": 101.0,
+    "experience": 22972,
+    "gold": 0,
+    "stashed_gold": 105278
+  },
+  "unique_set": [],
+  "runes": [],
+  "rings": [
+    {
+      "name": "Bronze Craftsmanship",
+      "properties": [
+        "+14 to Attack rating",
+        "+1 to Maximum 1-handed damage",
+        "+1 to Maximum 2-handed damage",
+        "+1 to Maximum Throw Damage"
+      ]
+    },
+    {
+      "name": "Craftsmanship",
+      "properties": [
+        "+1 to Maximum 1-handed damage",
+        "+1 to Maximum 2-handed damage",
+        "+1 to Maximum Throw Damage"
+      ]
+    }
+  ],
+  "belts": [],
+  "amulets": [
+    {
+      "name": "Rugged Greed",
+      "properties": [
+        "+7 to Maximum Stamina",
+        "39% Extra Gold from Monsters"
+      ]
+    }
+  ],
+  "charms_small": [],
+  "charms_large": [],
+  "charms_grand": [
+    {
+      "name": "Lizard's",
+      "properties": [
+        "+6 to Mana"
+      ]
+    }
+  ],
+  "weapons": [
+    {
+      "name": "Tangerine Maiming",
+      "properties": [
+        "+3 to Maximum 1-handed damage",
+        "Lightning Resist +9%"
+      ]
+    }
+  ],
+  "armors": [
+    {
+      "name": "Studded Leather",
+      "properties": [
+        "+11% Enhanced Defense",
+        "Increase Maximum Durability 14%"
+      ]
+    },
+    {
+      "name": "Small Shield",
+      "properties": [
+        "Cold Resist +12%",
+        "Requirements -15%"
+      ]
+    }
+  ],
+  "other": [
+    "Skeleton Key",
+    "Skull Cap",
+    {
+      "name": "Rugged",
+      "properties": [
+        "+8 to Maximum Stamina"
+      ]
+    },
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Town Portal Scroll",
+    "Light Mana Potion",
+    "Identify Book",
+    "Town Portal Book",
+    {
+      "name": "Balance",
+      "properties": [
+        "10% Faster Hit Recovery"
+      ]
+    },
+    "Light Mana Potion",
+    "Strangling Gas Potion",
+    {
+      "name": "Sturdy Strength",
+      "properties": [
+        "+2 to Strength",
+        "+18% Enhanced Defense"
+      ]
+    },
+    "Lesser Healing Potion",
+    {
+      "name": "Brimstone Sever",
+      "properties": [
+        "+33% Enhanced Damage",
+        "+4 to Maximum 1-handed damage",
+        "Poison Resist +9%",
+        "5% Life Stolen Per Hit",
+        "+58% Damage to Undead",
+        "+36 to Attack Rating against Undead"
+      ]
+    },
+    "Scimitar",
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Light Healing Potion",
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    ""
+  ]
+}

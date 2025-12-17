@@ -1,0 +1,101 @@
+/* ======================================================= */
+/* scbw.css - Изцяло тематичен стил за StarCraft: Brood War */
+/* ======================================================= */
+
+:root {
+    --sc-bg: #10151a;        /* Тъмен фон (Космос) */
+    --sc-primary: #e0e6eb;    /* Светъл основен текст */
+    --sc-accent: #00e0e0;     /* Циан/Син акцент (Технологичен) */
+    --sc-link: #4697ff;       /* Син линк */
+    --sc-border: #3a4a5a;     /* Стоманена граница */
+    --sc-card-bg: #1a222c;    /* Фон на блоковете (Тъмен Метал) */
+    --sc-win: #4caf50;        /* Зелено (Победа) */
+    --sc-loss: #f44336;       /* Червено (Загуба) */
+}
+
+/* Общи елементи и Фон */
+body {
+    font-family: 'Arial', 'Helvetica', sans-serif; 
+    background: var(--sc-bg);
+    color: var(--sc-primary);
+    padding: 18px;
+    margin: 0;
+}
+
+.container {
+    background-color: #1a2027; /* По-светъл фон за контейнера */
+    border: 1px solid var(--sc-border);
+    max-width: 1200px; 
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 4px;
+    box-shadow: 0 0 15px rgba(0, 224, 224, 0.2); /* Лек неонов блясък */
+}
+
+/* Заглавия */
+.scbw-h1, h2 { 
+    color: var(--sc-accent);
+    border-bottom: 2px solid var(--sc-border);
+    padding-bottom: 10px;
+    text-shadow: 0 0 5px rgba(0, 224, 224, 0.5); /* Неонов ефект */
+}
+.sub {
+    color: #a0a0a0;
+    margin-bottom: 20px;
+    font-size: 0.9em;
+}
+
+/* Линкове */
+a {
+    color: var(--sc-link);
+    text-decoration: none;
+}
+a:hover {
+    color: #88cfff;
+    text-decoration: underline;
+}
+
+/* ======================================================= */
+/* Таблици (Класация и История) */
+/* ======================================================= */
+
+.scbw-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+    font-size: 0.95em;
+    background: #1a222c; /* Фон на таблицата */
+}
+
+.scbw-table th {
+    background: var(--sc-border);
+    color: var(--sc-primary);
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #2f3e4e;
+    text-transform: uppercase;
+}
+
+.scbw-table td {
+    border: 1px solid #2f3e4e;
+    padding: 8px 10px;
+    text-align: left;
+}
+
+.scbw-table tbody tr:nth-child(even) { background: #141c24; }
+.scbw-table tbody tr:hover { background: #2f3e4e; cursor: pointer; }
+
+/* Резултати */
+.win { color: var(--sc-win); font-weight: bold; }
+.loss { color: var(--sc-loss); font-weight: bold; }
+.draw, .disconnect { color: #aaaaaa; font-weight: bold; }
+
+/* Съобщения за празни данни */
+.empty-data-message {
+    color: #aaaaaa;
+    text-align: center;
+    padding: 20px;
+    border: 1px dashed var(--sc-accent);
+    border-radius: 4px;
+    margin-top: 30px;
+}

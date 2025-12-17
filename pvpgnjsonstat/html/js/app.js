@@ -54,7 +54,7 @@ function populateTotalStats(meta) {
         return;
     }
 
-    let html = '<h2>Обща Сървърна Статистика</h2><div class="card-group">';
+    let html = '<h2>Обща Игрова Статистика</h2><div class="card-group">';
     html += createCard('Общ Брой Игри', meta.totalgames || 0);
     html += createCard('Общ Брой Логвания', meta.logins || 0);
     html += createCard('Локация', meta.location || 'N/A', 'card-value');

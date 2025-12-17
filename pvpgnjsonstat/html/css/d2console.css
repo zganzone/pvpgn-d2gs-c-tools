@@ -1,0 +1,120 @@
+/* ======================================================= */
+/* d2console.css - Стил в духа на Diablo II */
+/* ======================================================= */
+
+/* Основни цветове */
+:root {
+    --color-background: #0f1113; /* Тъмен фон */
+    --color-text-main: #e6eef6; /* Светъл основен текст */
+    --color-text-accent: #ffcc00; /* Златен акцент (Diablo Gold) */
+    --color-link: #00baff; /* Син/Циан за линкове */
+    --color-border: #444444; /* Тъмна граница */
+    --color-card-bg: #1b1b1b; /* Фон на блоковете */
+}
+
+/* Шрифтове и Общи елементи */
+body {
+    font-family: 'Garamond', 'Times New Roman', serif; /* Класически D2 шрифт */
+    background: var(--color-background);
+    color: var(--color-text-main);
+    padding: 18px;
+    margin: 0;
+}
+
+h1, h2, h3 {
+    color: var(--color-text-accent);
+    text-shadow: 1px 1px 2px #000;
+}
+
+a {
+    color: var(--color-link);
+    text-decoration: none;
+}
+a:hover {
+    color: #4697ff;
+}
+
+/* Общи контейнери */
+.details-card {
+    background: var(--color-card-bg);
+    border: 1px solid var(--color-border);
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+}
+.details-card h3 {
+    color: var(--color-link);
+    border-bottom: 1px solid #333;
+}
+
+/* Таблици (Общ стил) */
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+th, td {
+    border: 1px solid var(--color-border);
+    padding: 8px;
+    vertical-align: top;
+    background: var(--color-card-bg);
+}
+th {
+    background: #161616;
+    color: var(--color-text-accent);
+    cursor: pointer;
+}
+tr:nth-child(even) td { background: #1a1a1a; }
+tr:hover td { background: #333; }
+
+/* ======================================================= */
+/* СТИЛ ЗА СТАТИСТИКИТЕ НА ГЕРОЯ (charinfo.html) */
+/* ======================================================= */
+
+.stat-item {
+    display: flex;
+    justify-content: space-between;
+    padding: 4px 0;
+    border-bottom: 1px dotted #333;
+}
+.stat-item span:first-child {
+    font-weight: normal;
+    color: #a0a0a0;
+}
+.stat-item span:last-child {
+    font-weight: bold;
+    color: var(--color-text-accent); /* Златна стойност по подразбиране */
+}
+
+/* ======================================================= */
+/* ЦВЕТОВЕ НА ПРЕДМЕТИТЕ И СВОЙСТВАТА */
+/* ======================================================= */
+
+/* Основни цветове на предметите (Използвани в charitems.html и charinfo.js) */
+.unique, .type-unique { color: #ff9900; } /* Оранжево */
+.set, .type-set { color: #00ff00; } /* Зелено */
+.rare, .type-rare { color: #ffff00; } /* Жълто */
+.magic, .type-magic { color: #4697ff; } /* Синьо */
+.rune, .type-rune { color: #00baff; } /* Циан */
+.other, .type-other { color: #e6eef6; } /* Бяло/Нормално */
+
+/* Стил за свойствата на предметите (embedded properties) */
+.item-properties-list {
+    list-style: none; /* Премахва точките/номерата */
+    padding-left: 10px; /* Малък отстъп */
+    margin-top: 5px;
+    font-size: 0.9em;
+}
+
+.item-properties-list li {
+    padding: 1px 0;
+    /* По-светъл цвят, за да изпъкне */
+    color: #c0c0c0; 
+}
+
+/* Специфични цветове за свойства (ако е необходимо) */
+/* За да не правим пълно парсване на текста, ще използваме общ цвят за положителни ефекти */
+.item-properties-list li {
+    color: #77ff77; /* Светло зелено за повечето свойства (Life, Mana, Good Resists) */
+}
+.item-properties-list li:hover {
+    background-color: #333;
+}

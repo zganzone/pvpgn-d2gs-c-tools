@@ -1,0 +1,20 @@
+{
+  "character_info": {
+    "name": "barmul",
+    "account_name": "zgan",
+    "level": 7,
+    "class": "Barbarian"
+  },
+  "item_stats": {
+    "total_items": 19,
+    "low_quality": 0,
+    "normal": 8,
+    "high_quality": 1,
+    "magic": 9,
+    "set": 0,
+    "rare": 1,
+    "unique": 0,
+    "crafted": 0,
+    "soj_count": 0
+  }
+}

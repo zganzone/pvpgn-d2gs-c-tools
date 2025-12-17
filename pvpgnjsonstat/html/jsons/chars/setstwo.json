@@ -1,0 +1,50 @@
+{
+  "account": "zgan3",
+  "charfile": "setstwo",
+  "charname": "setstwo",
+  "generated": "2025-12-17 13:31:09",
+  "char_stats": {
+    "level": 1,
+    "class": "Paladin",
+    "is_hc": false,
+    "is_ladder": true,
+    "progression": 0,
+    "char_name_raw": "setstwo",
+    "strength": 25,
+    "energy": 15,
+    "dexterity": 20,
+    "vitality": 25,
+    "unused_stats": 0,
+    "unused_skills": 0,
+    "current_hp": 55.0,
+    "max_hp": 55.0,
+    "current_mana": 15.0,
+    "max_mana": 15.0,
+    "current_stamina": 89.0,
+    "max_stamina": 89.0,
+    "experience": 0,
+    "gold": 0,
+    "stashed_gold": 0
+  },
+  "unique_set": [],
+  "runes": [],
+  "rings": [],
+  "belts": [],
+  "amulets": [],
+  "charms_small": [],
+  "charms_large": [],
+  "charms_grand": [],
+  "weapons": [
+    "Short Sword"
+  ],
+  "armors": [],
+  "other": [
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Town Portal Scroll",
+    "Identify Scroll",
+    "Buckler"
+  ]
+}

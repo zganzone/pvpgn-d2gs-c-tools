@@ -1,0 +1,35 @@
+--- UPTIME RAW DATA ---
+uptime
+The game server started at 12-15 21:24:28
+uptime 1 days 14 hours 20 minutes 47 seconds
+Now it is 12-17 11:45:15
+
+D2GS>
+
+--- STATUS RAW DATA ---
+status
+Setting maximum game: 50
+Current maximum game: 50
+Current running game: 1
+Current users in game: 1
+Maximum prefer users: 180
+Maximum game life: 2764472319 seconds
+Connetion to D2CS (192.168.88.41): connected
+Connetion to D2DBS(192.168.88.41): connected
+Physical memory usage:   0.000MB/  0.000MB
+Virtual memory usage:    0.000MB/  0.000MB
+Kernel CPU usage:   0.00%
+User CPU usage:     0.00%
+
+Game Server Net Statistic: (rate is KBytes/second)
+        RecvPkts    RecvBytes   SendPkts    SendBytes
+D2CS        2338        21198       2410        22257
+D2DBS       2384        93418       2910       231379
+        RecvRate PeakRecvRate   SendRate PeakSendRate
+D2CS       0.000        1.069      0.000        1.673
+D2DBS      0.000       34.515      0.000       58.483
+
+Message of the day:
+Hello world fron ZGAN
+
+D2GS>

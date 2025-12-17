@@ -1,0 +1,229 @@
+{
+  "account": "zgan3",
+  "charfile": "uniqueone",
+  "charname": "uniqueone",
+  "generated": "2025-12-17 13:31:09",
+  "char_stats": {
+    "level": 1,
+    "class": "Barbarian",
+    "is_hc": false,
+    "is_ladder": true,
+    "progression": 0,
+    "char_name_raw": "uniqueone",
+    "strength": 30,
+    "energy": 10,
+    "dexterity": 20,
+    "vitality": 25,
+    "unused_stats": 0,
+    "unused_skills": 0,
+    "current_hp": 55.0,
+    "max_hp": 55.0,
+    "current_mana": 10.0,
+    "max_mana": 10.0,
+    "current_stamina": 92.0,
+    "max_stamina": 92.0,
+    "experience": 0,
+    "gold": 0,
+    "stashed_gold": 0
+  },
+  "unique_set": [
+    {
+      "name": "The Gladiator's Bane",
+      "properties": [
+        "+170% Enhanced Defense",
+        "+50 Defense",
+        "Damage Reduced by 16",
+        "Magic Damage Reduced by 15",
+        "+103 Maximum Durability",
+        "Attacker Takes Damage of 20",
+        "30% Faster Hit Recovery",
+        "Poison Length Reduced by 50%",
+        "Cannot Be Frozen"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Snowclash",
+      "properties": [
+        "+165% Enhanced Defense",
+        "+15% to Maximum Cold Resist",
+        "Adds 13-21 Cold Damage",
+        "+3 To Glacial Spike",
+        "+2 To Blizzard",
+        "+2 To Chilling Armor",
+        "+15 Cold Absorb",
+        "5% Chance to Cast Level 15 Blizzard When Struck"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Verdungo's Hearty Cord",
+      "properties": [
+        "+36 to Vitality",
+        "+114 to Maximum Stamina",
+        "+128% Enhanced Defense",
+        "Damage Reduced by 12%",
+        "Replenish Life +12",
+        "10% Faster Hit Recovery"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Magewrath",
+      "properties": [
+        "+10 to Dexterity",
+        "+136% Enhanced Damage",
+        "+217 to Attack rating",
+        "+25 to Minimum 2-handed damage",
+        "+50 to Maximum 2-handed damage",
+        "Magic Damage Reduced by 12",
+        "15% Mana Stolen Per Hit",
+        "+1 to Amazon Skill Levels",
+        "+3 To Guided Arrow",
+        "Hit Blinds Target +1"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Sandstorm Trek",
+      "properties": [
+        "+11 to Strength",
+        "+12 to Vitality",
+        "+147% Enhanced Defense",
+        "Poison Resist +47%",
+        "20% Faster Run/Walk",
+        "20% Faster Hit Recovery",
+        "50% Slower Stamina Drain",
+        "+8 Maxmium Stamina (Based on Character Level)",
+        "Repairs 1 Durability in 5 Seconds"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Boneshade",
+      "properties": [
+        "+2 to Necromancer Skill Levels",
+        "25% Faster Cast Rate",
+        "+5 To Teeth",
+        "+4 To Bone Armor",
+        "+3 To Bone Wall",
+        "+2 To Bone Spear",
+        "+1 To Bone Spirit"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Silks of the Victor",
+      "properties": [
+        "+111% Enhanced Defense",
+        "5% Mana Stolen Per Hit",
+        "+2 to Light Radius",
+        "+1 to All Skill Levels"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Djinn Slayer",
+      "properties": [
+        "+232% Enhanced Damage",
+        "Adds 250-500 Fire Damage",
+        "6% Mana Stolen Per Hit",
+        "+103% Damage to Demons",
+        "+242 to Attack Rating against Demons",
+        "+4 Lightning Absorb",
+        "20% Increased Attack Speed"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Djinn Slayer",
+      "properties": [
+        "+232% Enhanced Damage",
+        "Adds 250-500 Fire Damage",
+        "6% Mana Stolen Per Hit",
+        "+137% Damage to Demons",
+        "+258 to Attack Rating against Demons",
+        "+4 Lightning Absorb"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Bloodmoon",
+      "properties": [
+        "+214% Enhanced Damage",
+        "15% Life Stolen Per Hit",
+        "+12 Life After Each Kill",
+        "50% Chance of Open Wounds",
+        "Level 15 Blood Golem (9/9 Charges)"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Hexfire",
+      "properties": [
+        "+145% Enhanced Damage",
+        "+35 to Minimum 1-handed damage",
+        "+40 to Maximum 1-handed damage",
+        "Fire Resist +25%",
+        "+10% to Maximum Fire Resist",
+        "Ignore Target Defense",
+        "+1 to Fire Skills",
+        "Level 6 Hydra (36/36 Charges)"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Hexfire",
+      "properties": [
+        "+149% Enhanced Damage",
+        "+35 to Minimum 1-handed damage",
+        "+40 to Maximum 1-handed damage",
+        "Fire Resist +25%",
+        "+10% to Maximum Fire Resist",
+        "Ignore Target Defense",
+        "+1 to Fire Skills",
+        "Level 6 Hydra (36/36 Charges)"
+      ],
+      "type": "unique"
+    }
+  ],
+  "runes": [],
+  "rings": [],
+  "belts": [],
+  "amulets": [],
+  "charms_small": [],
+  "charms_large": [],
+  "charms_grand": [],
+  "weapons": [
+    "Hand Axe"
+  ],
+  "armors": [],
+  "other": [
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Town Portal Scroll",
+    "Identify Scroll",
+    {
+      "name": "Honor",
+      "properties": [
+        "+10 to Strength",
+        "+160% Enhanced Damage",
+        "+200 to Attack rating",
+        "Replenish Life +10",
+        "+1 to All Skill Levels",
+        "25% Deadly Strike",
+        "7% Life Stolen Per Hit",
+        "+50 to Attack rating",
+        "+1 to Light Radius",
+        "+9 to Maximum 1-handed damage",
+        "+9 to Maximum 2-handed damage",
+        "+2 to Mana After Each Kill",
+        "+9 to Minimum 1-handed damage",
+        "+9 to Minimum 2-handed damage"
+      ]
+    },
+    "Buckler"
+  ]
+}

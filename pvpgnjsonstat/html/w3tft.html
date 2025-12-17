@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="bg">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Warcraft III: The Frozen Throne - Статистики</title>
+    <link rel="stylesheet" href="css/style.css"> 
+    <link rel="stylesheet" href="css/w3tft.css"> 
+</head>
+<body>
+
+<div class="header">
+    <div class="logo">PVPGN Stats</div>
+    <nav class="nav-tabs">
+        <a href="index.html" class="tab">STATUS</a>
+        <a href="d2lod.html" class="tab d2xp-link">D2 LOD</a>
+        <a href="scbw.html" class="tab sexp-link">SC BW</a>
+        <a href="w3tft.html" class="tab w3xp-link active">W3 TFT</a>
+    </nav>
+</div>
+
+<div class="container">
+    <h1 class="w3tft-h1">🛡️ Warcraft III: The Frozen Throne (W3XP)</h1>
+    <p class="sub">Последно обновяване: <span id="generated-time">N/A</span></p>
+
+    <section>
+        <h2 style="color: var(--w3-accent);">Realm Server (W3GS) Статус</h2>
+        <div class="w3gs-stats" id="w3gs-server-stats">
+            <div class="card"><h2>W3GS Uptime</h2><p id="w3gs-uptime-value">N/A</p></div>
+            <div class="card"><h2>Running Games</h2><p id="w3gs-running-games">N/A</p></div>
+            <div class="card"><h2>Users In Game</h2><p id="w3gs-users-in-game">N/A</p></div>
+            <div class="card"><h2>W3CS Connection</h2><p id="w3gs-w3cs">N/A</p></div>
+            <div class="card"><h2>W3DBS Connection</h2><p id="w3gs-w3dbs">N/A</p></div>
+        </div>
+    </section>
+    
+    <section>
+        <h2>🏆 Класация: WarCraft III Normal (W3XP)</h2>
+        <table id="w3tft-ladder-table" class="w3tft-table">
+            <thead>
+                <tr>
+                    <th>Ранк</th>
+                    <th>Потребител</th>
+                    <th>Раса</th>
+                    <th>Рейтинг</th>
+                    <th>W / L</th>
+                    <th>Общо Игри</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr><td colspan="6" class="empty-data-message">Зареждане на Ладър данни...</td></tr>
+            </tbody>
+        </table>
+    </section>
+
+    <section>
+        <h2 style="margin-top: 40px;">📜 История на Последните Игри (Report Log)</h2>
+        <table id="w3tft-history-table" class="w3tft-table">
+            <thead>
+                <tr>
+                    <th>Име на Играта (ID)</th>
+                    <th>Резултат</th>
+                    <th>Играч / Раса</th>
+                    <th>Продължителност</th>
+                    <th>Приключена на</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr><td colspan="5" class="empty-data-message">Зареждане на История на Игрите...</td></tr>
+            </tbody>
+        </table>
+    </section>
+</div>
+
+<footer class="footer">
+    Последно обновяване: <span id="generated-time-footer">N/A</span>
+</footer>
+
+<script src="js/w3tft.js"></script>
+</body>
+</html>

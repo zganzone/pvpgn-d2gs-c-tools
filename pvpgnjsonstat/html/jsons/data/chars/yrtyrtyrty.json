@@ -1,0 +1,276 @@
+{
+  "account": "zliazubb",
+  "charfile": "yrtyrtyrty",
+  "charname": "yrtyrtyrty",
+  "generated": "2025-12-17 12:11:09",
+  "char_stats": {
+    "level": 1,
+    "class": "Barbarian",
+    "is_hc": false,
+    "is_ladder": true,
+    "progression": 0,
+    "char_name_raw": "yrtyrtyrty",
+    "strength": 30,
+    "energy": 10,
+    "dexterity": 20,
+    "vitality": 25,
+    "unused_stats": 0,
+    "unused_skills": 0,
+    "current_hp": 55.0,
+    "max_hp": 55.0,
+    "current_mana": 10.0,
+    "max_mana": 10.0,
+    "current_stamina": 92.0,
+    "max_stamina": 92.0,
+    "experience": 0,
+    "gold": 0,
+    "stashed_gold": 0
+  },
+  "unique_set": [
+    {
+      "name": "Dark Adherent",
+      "properties": [
+        "+351 Defense",
+        "Fire Resist +24%",
+        "Adds 125-175 Poison Damage over 50 Seconds",
+        "25% Chance to Cast Level 3 Nova When Struck"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Hellmouth",
+      "properties": [
+        "+164% Enhanced Defense",
+        "Adds 15-72 Fire Damage",
+        "+15 Maximum Durability",
+        "+15 Fire Absorb",
+        "2% Chance to Cast Level 4 Meteor On Striking",
+        "4% Chance to Cast Level 12 Firestorm On Striking"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Wihtstan's Guard",
+      "properties": [
+        "+175% Enhanced Defense",
+        "+55% Increased chance of blocking",
+        "+5 to Light Radius",
+        "40% Faster Block Rate",
+        "Half Freeze Duration"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Gimmershred",
+      "properties": [
+        "+175% Enhanced Damage",
+        "Adds 218-483 Fire Damage",
+        "Adds 29-501 Lightning Damage",
+        "Adds 176-397 Cold Damage",
+        "30% Increased Attack Speed",
+        "Increased Stack Size"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Laying of Hands",
+      "properties": [
+        "+25 Defense",
+        "Fire Resist +50%",
+        "20% Increased Attack Speed",
+        "+350% Damage to Demons",
+        "10% Chance to Cast Level 3 Holy Bolt On Striking"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Haemosu's Adament",
+      "properties": [
+        "+75 to Life",
+        "+500 Defense",
+        "+35 vs. Missile",
+        "+30 vs. Melee",
+        "Requirements -20%"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Ume's Lament",
+      "properties": [
+        "+40 to Mana",
+        "+2 to Necromancer Skill Levels",
+        "20% Faster Cast Rate",
+        "+3 To Terror",
+        "+2 To Decrepify",
+        "Hit Causes Monsters to Flee 63%"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Ormus' Robes",
+      "properties": [
+        "Regenerate Mana 11%",
+        "+12 Defense",
+        "20% Faster Cast Rate",
+        "+3 To Telekinesis",
+        "13% To Fire Skill Damage",
+        "15% To Lightning Skill Damage",
+        "10% To Cold Skill Damage"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Skin of the Vipermagi",
+      "properties": [
+        "+120% Enhanced Defense",
+        "Magic Damage Reduced by 9",
+        "Fire Resist +22%",
+        "Lightning Resist +22%",
+        "Cold Resist +22%",
+        "Poison Resist +22%",
+        "30% Faster Cast Rate",
+        "+1 to All Skill Levels"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Rite of Passage",
+      "properties": [
+        "+24 to Maximum Stamina",
+        "+25 Defense",
+        "30% Faster Run/Walk",
+        "Half Freeze Duration"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Shadow Killer",
+      "properties": [
+        "+179% Enhanced Damage",
+        "25% Target Defense",
+        "Freezes Target +2",
+        "+14 to Mana After Each Kill",
+        "Indestructible",
+        "33% Chance to Cast Level 8 Frost Nova On Striking"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Dangoon's Teaching",
+      "properties": [
+        "Adds 20-30 Fire Damage",
+        "40% Increased Attack Speed",
+        "10% Chance to Cast Level 3 Frost Nova On Striking",
+        "+12 to Maximum Damage (Based on Character Level)"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Magefist",
+      "properties": [
+        "+30% Enhanced Defense",
+        "Regenerate Mana 25%",
+        "+10 Defense",
+        "Adds 1-6 Fire Damage",
+        "20% Faster Cast Rate",
+        "+1 to Fire Skills"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Wizardspike",
+      "properties": [
+        "Regenerate Mana 15%",
+        "Fire Resist +75%",
+        "Lightning Resist +75%",
+        "Cold Resist +75%",
+        "Poison Resist +75%",
+        "Increase Maximum Mana 15%",
+        "50% Faster Cast Rate",
+        "Indestructible",
+        "+16 to Mana (Based on Character Level)"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Carin Shard",
+      "properties": [
+        "Replenish Life +5",
+        "+1 to Necromancer Skill Levels",
+        "30% Faster Hit Recovery",
+        "10% Faster Cast Rate",
+        "+2 to Summoning Skills (Necromancer only)",
+        "+10 to Life (Based on Character Level)",
+        "+10 to Mana (Based on Character Level)"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Lidless Wall",
+      "properties": [
+        "+10 to Energy",
+        "+87% Enhanced Defense",
+        "Increase Maximum Mana 10%",
+        "+1 to Light Radius",
+        "20% Faster Cast Rate",
+        "+1 to All Skill Levels",
+        "+3 to Mana After Each Kill"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Wizardspike",
+      "properties": [
+        "Regenerate Mana 15%",
+        "Fire Resist +75%",
+        "Lightning Resist +75%",
+        "Cold Resist +75%",
+        "Poison Resist +75%",
+        "Increase Maximum Mana 15%",
+        "50% Faster Cast Rate",
+        "Indestructible",
+        "+16 to Mana (Based on Character Level)"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Moser's Blessed Circle",
+      "properties": [
+        "+189% Enhanced Defense",
+        "+25% Increased chance of blocking",
+        "Fire Resist +25%",
+        "Lightning Resist +25%",
+        "Cold Resist +25%",
+        "Poison Resist +25%",
+        "30% Faster Block Rate",
+        "Fire Resist +19%",
+        "Lightning Resist +19%",
+        "Cold Resist +19%",
+        "Poison Resist +19%",
+        "Fire Resist +19%",
+        "Lightning Resist +19%",
+        "Cold Resist +19%",
+        "Poison Resist +19%"
+      ],
+      "type": "unique"
+    }
+  ],
+  "runes": [],
+  "rings": [],
+  "belts": [],
+  "amulets": [],
+  "charms_small": [],
+  "charms_large": [],
+  "charms_grand": [],
+  "weapons": [
+    "Hand Axe"
+  ],
+  "armors": [],
+  "other": [
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Buckler"
+  ]
+}

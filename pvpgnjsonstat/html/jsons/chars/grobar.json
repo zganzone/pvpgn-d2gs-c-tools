@@ -1,0 +1,191 @@
+{
+  "account": "zliazubb",
+  "charfile": "grobar",
+  "charname": "grobar",
+  "generated": "2025-12-17 13:31:09",
+  "char_stats": {
+    "level": 4,
+    "class": "Necromancer",
+    "is_hc": false,
+    "is_ladder": true,
+    "progression": 0,
+    "char_name_raw": "grobar",
+    "strength": 20,
+    "energy": 25,
+    "dexterity": 25,
+    "vitality": 20,
+    "unused_stats": 5,
+    "unused_skills": 0,
+    "current_hp": 59.5,
+    "max_hp": 59.5,
+    "current_mana": 31.0,
+    "max_mana": 31.0,
+    "current_stamina": 87.0,
+    "max_stamina": 87.0,
+    "experience": 3934,
+    "gold": 53,
+    "stashed_gold": 0
+  },
+  "unique_set": [
+    {
+      "name": "Griswold's Heart",
+      "properties": [
+        "+20 to Strength",
+        "+500 Defense",
+        "Requirements -40%",
+        "+2 to Defensive Auras (Paladin only)"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Spectral Shard",
+      "properties": [
+        "+50 to Mana",
+        "+55 to Attack rating",
+        "Fire Resist +10%",
+        "Lightning Resist +10%",
+        "Cold Resist +10%",
+        "Poison Resist +10%",
+        "50% Faster Cast Rate"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Stealskull",
+      "properties": [
+        "+201% Enhanced Defense",
+        "5% Life Stolen Per Hit",
+        "5% Mana Stolen Per Hit",
+        "42% Better Chance of Getting Magic Items",
+        "10% Increased Attack Speed",
+        "10% Faster Hit Recovery"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Skin of the Vipermagi",
+      "properties": [
+        "+120% Enhanced Defense",
+        "Magic Damage Reduced by 10",
+        "Fire Resist +29%",
+        "Lightning Resist +29%",
+        "Cold Resist +29%",
+        "Poison Resist +29%",
+        "30% Faster Cast Rate",
+        "+1 to All Skill Levels"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "The Reaper's Toll",
+      "properties": [
+        "+225% Enhanced Damage",
+        "Adds 4-44 Cold Damage",
+        "15% Life Stolen Per Hit",
+        "Requirements -25%",
+        "Ignore Target Defense",
+        "33% Deadly Strike",
+        "33% Chance to Cast Level 1 Decrepify On Striking"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Demonhorn's Edge",
+      "properties": [
+        "+146% Enhanced Defense",
+        "5% Life Stolen Per Hit",
+        "Attacker Takes Damage of 59",
+        "10% Increased Attack Speed",
+        "+1 to Combat Skills (Barbarian only)",
+        "+3 to Masteries (Barbarian only)",
+        "+2 to Warcries (Barbarian only)"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Arreat's Face",
+      "properties": [
+        "+20 to Strength",
+        "+20 to Dexterity",
+        "+191% Enhanced Defense",
+        "Fire Resist +30%",
+        "Lightning Resist +30%",
+        "Cold Resist +30%",
+        "Poison Resist +30%",
+        "4% Life Stolen Per Hit",
+        "+2 to Barbarian Skill Levels",
+        "30% Faster Hit Recovery",
+        "20% Bonus to Attack Rating",
+        "+2 to Combat Skills (Barbarian only)"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Eschuta's Temper",
+      "properties": [
+        "+28 to Energy",
+        "+3 to Sorceress Skill Levels",
+        "40% Faster Cast Rate",
+        "12% To Fire Skill Damage",
+        "11% To Lightning Skill Damage"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Natalya's Totem",
+      "properties": [
+        "+14 to Strength",
+        "+22 to Dexterity",
+        "+138 Defense",
+        "Magic Damage Reduced by 3",
+        "Fire Resist +13%",
+        "Lightning Resist +13%",
+        "Cold Resist +13%",
+        "Poison Resist +13%"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Vidala's Snare",
+      "properties": [
+        "+15 to Life",
+        "Cold Resist +20%"
+      ],
+      "type": "set"
+    }
+  ],
+  "runes": [],
+  "rings": [],
+  "belts": [],
+  "amulets": [],
+  "charms_small": [],
+  "charms_large": [],
+  "charms_grand": [],
+  "weapons": [
+    "Colossal Sword"
+  ],
+  "armors": [
+    "Leather Armor",
+    "Diamond Mail"
+  ],
+  "other": [
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Sash",
+    "Lesser Healing Potion",
+    "Cap",
+    "Lesser Healing Potion",
+    "Light Mana Potion",
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Lesser Mana Potion",
+    "Flail",
+    "Troll Nest",
+    {
+      "name": "Wand",
+      "properties": [
+        "+1 To Raise Skeleton"
+      ]
+    }
+  ]
+}

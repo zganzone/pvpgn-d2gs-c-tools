@@ -1,0 +1,142 @@
+{
+  "account": "zliazub",
+  "charfile": "sockets",
+  "charname": "sockets",
+  "generated": "2025-12-17 12:11:09",
+  "char_stats": {
+    "level": 1,
+    "class": "Paladin",
+    "is_hc": false,
+    "is_ladder": true,
+    "progression": 0,
+    "char_name_raw": "sockets",
+    "strength": 25,
+    "energy": 15,
+    "dexterity": 20,
+    "vitality": 25,
+    "unused_stats": 0,
+    "unused_skills": 0,
+    "current_hp": 55.0,
+    "max_hp": 55.0,
+    "current_mana": 15.0,
+    "max_mana": 15.0,
+    "current_stamina": 89.0,
+    "max_stamina": 89.0,
+    "experience": 0,
+    "gold": 0,
+    "stashed_gold": 0
+  },
+  "unique_set": [
+    {
+      "name": "Hwanin's Refuge",
+      "properties": [
+        "+100 to Life",
+        "+200 Defense",
+        "Poison Resist +27%",
+        "10% Chance to Cast Level 3 Static Field When Struck"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Blade Of Ali Baba",
+      "properties": [
+        "+15 to Dexterity",
+        "+15 to Mana",
+        "+120% Enhanced Damage",
+        "20% Extra Gold from Monsters (Based on Character Level)",
+        "8% Better Chance of Getting Magic Items (Based on Character Level)"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Hellslayer",
+      "properties": [
+        "+25 to Life",
+        "+100% Enhanced Damage",
+        "Adds 150-250 Fire Damage",
+        "10% Chance to Cast Level 19 Fire Ball When you die",
+        "24% Enhanced Maximum Damage (Based on Character Level)",
+        "+4 to Strength (Based on Character Level)",
+        "+4 to Vitality (Based on Character Level)"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Harlequin Crest",
+      "properties": [
+        "+2 to Strength",
+        "+2 to Energy",
+        "+2 to Dexterity",
+        "+2 to Vitality",
+        "Damage Reduced by 10%",
+        "50% Better Chance of Getting Magic Items",
+        "+2 to All Skill Levels",
+        "+12 to Life (Based on Character Level)",
+        "+12 to Mana (Based on Character Level)"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Aldur's Advance",
+      "properties": [
+        "+50 to Life",
+        "+180 to Maximum Stamina",
+        "Heal Stamina 32%",
+        "Fire Resist +46%",
+        "40% Faster Run/Walk",
+        "10% Damage Taken Goes to Mana",
+        "Indestructible"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Dark Adherent",
+      "properties": [
+        "+365 Defense",
+        "Fire Resist +24%",
+        "Adds 125-175 Poison Damage over 50 Seconds",
+        "25% Chance to Cast Level 3 Nova When Struck"
+      ],
+      "type": "set"
+    }
+  ],
+  "runes": [],
+  "rings": [],
+  "belts": [],
+  "amulets": [],
+  "charms_small": [],
+  "charms_large": [],
+  "charms_grand": [],
+  "weapons": [
+    "Rune Sword",
+    "Cryptic Axe",
+    "Short Sword"
+  ],
+  "armors": [],
+  "other": [
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Great Hauberk",
+    {
+      "name": "Scarab Husk",
+      "properties": [
+        "Increase Maximum Durability 13%"
+      ]
+    },
+    "Thresher",
+    {
+      "name": "Dusk Shroud",
+      "properties": [
+        "Increase Maximum Durability 10%",
+        "24% Better Chance of Getting Magic Items",
+        "24% Better Chance of Getting Magic Items",
+        "24% Better Chance of Getting Magic Items",
+        "24% Better Chance of Getting Magic Items"
+      ]
+    },
+    "Dusk Shroud",
+    "Buckler"
+  ]
+}

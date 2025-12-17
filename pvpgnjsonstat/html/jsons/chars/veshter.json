@@ -1,0 +1,50 @@
+{
+  "account": "tapak",
+  "charfile": "veshter",
+  "charname": "veshter",
+  "generated": "2025-12-17 13:31:09",
+  "char_stats": {
+    "level": 1,
+    "class": "Barbarian",
+    "is_hc": false,
+    "is_ladder": true,
+    "progression": 0,
+    "char_name_raw": "veshter",
+    "strength": 30,
+    "energy": 10,
+    "dexterity": 20,
+    "vitality": 25,
+    "unused_stats": 0,
+    "unused_skills": 0,
+    "current_hp": 55.0,
+    "max_hp": 55.0,
+    "current_mana": 10.0,
+    "max_mana": 10.0,
+    "current_stamina": 92.0,
+    "max_stamina": 92.0,
+    "experience": 0,
+    "gold": 0,
+    "stashed_gold": 0
+  },
+  "unique_set": [],
+  "runes": [],
+  "rings": [],
+  "belts": [],
+  "amulets": [],
+  "charms_small": [],
+  "charms_large": [],
+  "charms_grand": [],
+  "weapons": [
+    "Hand Axe"
+  ],
+  "armors": [],
+  "other": [
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Town Portal Scroll",
+    "Identify Scroll",
+    "Buckler"
+  ]
+}

@@ -1,0 +1,467 @@
+{
+  "account": "zliazub",
+  "charfile": "lightsorc",
+  "charname": "lightSorc",
+  "generated": "2025-12-17 12:11:09",
+  "char_stats": {
+    "level": 87,
+    "class": "Sorceress",
+    "is_hc": false,
+    "is_ladder": true,
+    "progression": 15,
+    "char_name_raw": "lightSorc",
+    "strength": 124,
+    "energy": 35,
+    "dexterity": 25,
+    "vitality": 301,
+    "unused_stats": 35,
+    "unused_skills": 0,
+    "current_hp": 1104.5,
+    "max_hp": 768.0,
+    "current_mana": 493.5,
+    "max_mana": 207.0,
+    "current_stamina": 493.0,
+    "max_stamina": 451.0,
+    "experience": 1306779415,
+    "gold": 0,
+    "stashed_gold": 1782385
+  },
+  "unique_set": [
+    {
+      "name": "Gull",
+      "properties": [
+        "+-5 to Mana",
+        "+1 to Minimum 1-handed damage",
+        "+15 to Maximum 1-handed damage",
+        "100% Better Chance of Getting Magic Items"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "The Stone of Jordan",
+      "properties": [
+        "+20 to Mana",
+        "Adds 1-12 Lightning Damage",
+        "Increase Maximum Mana 25%",
+        "+1 to All Skill Levels"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Gheed's Fortune",
+      "properties": [
+        "94% Extra Gold from Monsters",
+        "33% Better Chance of Getting Magic Items",
+        "Reduces Prices 11%"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Nagelring",
+      "properties": [
+        "+67 to Attack rating",
+        "Magic Damage Reduced by 3",
+        "Attacker Takes Damage of 3",
+        "28% Better Chance of Getting Magic Items"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Tal Rasha's Fine-Spun Cloth",
+      "properties": [
+        "+20 to Dexterity",
+        "+30 to Mana",
+        "14% Better Chance of Getting Magic Items",
+        "Requirements -20%",
+        "37% Damage Taken Goes to Mana"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Annihilus",
+      "properties": [
+        "+20 to Strength",
+        "+20 to Energy",
+        "+20 to Dexterity",
+        "+20 to Vitality",
+        "Fire Resist +16%",
+        "Lightning Resist +16%",
+        "Cold Resist +16%",
+        "Poison Resist +16%",
+        "10% To Experience Gained",
+        "+1 to All Skill Levels"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Tal Rasha's Adjudication",
+      "properties": [
+        "+50 to Life",
+        "+42 to Mana",
+        "Lightning Resist +33%",
+        "Adds 3-32 Lightning Damage",
+        "+2 to Sorceress Skill Levels"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Tal Rasha's Guardianship",
+      "properties": [
+        "+400 Defense",
+        "Magic Damage Reduced by 15",
+        "Fire Resist +40%",
+        "Lightning Resist +40%",
+        "Cold Resist +40%",
+        "88% Better Chance of Getting Magic Items",
+        "Requirements -60%",
+        "24% Better Chance of Getting Magic Items"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Harlequin Crest",
+      "properties": [
+        "+2 to Strength",
+        "+2 to Energy",
+        "+2 to Dexterity",
+        "+2 to Vitality",
+        "Damage Reduced by 10%",
+        "50% Better Chance of Getting Magic Items",
+        "+2 to All Skill Levels",
+        "+12 to Life (Based on Character Level)",
+        "+12 to Mana (Based on Character Level)",
+        "24% Better Chance of Getting Magic Items"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Tal Rasha's Horadric Crest",
+      "properties": [
+        "+60 to Life",
+        "+30 to Mana",
+        "+45 Defense",
+        "Fire Resist +15%",
+        "Lightning Resist +15%",
+        "Cold Resist +15%",
+        "Poison Resist +15%",
+        "10% Life Stolen Per Hit",
+        "10% Mana Stolen Per Hit"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Tal Rasha's Lidless Eye",
+      "properties": [
+        "+10 to Energy",
+        "+57 to Life",
+        "+77 to Mana",
+        "20% Faster Cast Rate",
+        "+1 To Fire Mastery",
+        "+2 To Lightning Mastery",
+        "+2 To Cold Mastery"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Saracen's Chance",
+      "properties": [
+        "+12 to Strength",
+        "+12 to Energy",
+        "+12 to Dexterity",
+        "+12 to Vitality",
+        "Fire Resist +18%",
+        "Lightning Resist +18%",
+        "Cold Resist +18%",
+        "Poison Resist +18%",
+        "10% Chance to Cast Level 2 Iron Maiden When Struck"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Immortal King's Pillar",
+      "properties": [
+        "+44 to Life",
+        "+110 to Attack rating",
+        "+75 Defense",
+        "40% Faster Run/Walk"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Infernostride",
+      "properties": [
+        "+132% Enhanced Defense",
+        "+15 Defense",
+        "Fire Resist +30%",
+        "+10% to Maximum Fire Resist",
+        "Adds 12-33 Fire Damage",
+        "68% Extra Gold from Monsters",
+        "+2 to Light Radius",
+        "20% Faster Run/Walk",
+        "5% Chance to Cast Level 8 Blaze When Struck"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "The Oculus",
+      "properties": [
+        "+20 to Energy",
+        "+20 to Vitality",
+        "+20% Enhanced Defense",
+        "Fire Resist +20%",
+        "Lightning Resist +20%",
+        "Cold Resist +20%",
+        "Poison Resist +20%",
+        "50% Better Chance of Getting Magic Items",
+        "+3 to Sorceress Skill Levels",
+        "30% Faster Cast Rate",
+        "+5 to Mana After Each Kill",
+        "25% Chance to Cast Level 1 Teleport When Struck",
+        "30% Better Chance of Getting Magic Items"
+      ],
+      "type": "unique"
+    }
+  ],
+  "runes": [],
+  "rings": [
+    {
+      "name": "Ocher Fortune",
+      "properties": [
+        "Lightning Resist +19%",
+        "21% Better Chance of Getting Magic Items"
+      ]
+    },
+    {
+      "name": "Grim Loop",
+      "properties": [
+        "+6 to Strength",
+        "+60 to Attack rating",
+        "+1 to Maximum 1-handed damage",
+        "+1 to Maximum 2-handed damage",
+        "Fire Resist +9%",
+        "Lightning Resist +9%",
+        "Cold Resist +31%",
+        "Poison Resist +9%",
+        "+1 to Maximum Throw Damage"
+      ]
+    }
+  ],
+  "belts": [],
+  "amulets": [
+    {
+      "name": "the Titan",
+      "properties": [
+        "+19 to Strength"
+      ]
+    }
+  ],
+  "charms_small": [
+    {
+      "name": "Steel Good Luck",
+      "properties": [
+        "+32 to Attack rating",
+        "7% Better Chance of Getting Magic Items"
+      ]
+    },
+    {
+      "name": "Shimmering",
+      "properties": [
+        "Fire Resist +4%",
+        "Lightning Resist +4%",
+        "Cold Resist +4%",
+        "Poison Resist +4%"
+      ]
+    },
+    {
+      "name": "Jade Vita",
+      "properties": [
+        "+20 to Life",
+        "Poison Resist +8%"
+      ]
+    },
+    {
+      "name": "Shimmering Vita",
+      "properties": [
+        "+19 to Life",
+        "Fire Resist +5%",
+        "Lightning Resist +5%",
+        "Cold Resist +5%",
+        "Poison Resist +5%"
+      ]
+    },
+    {
+      "name": "Good Luck",
+      "properties": [
+        "7% Better Chance of Getting Magic Items"
+      ]
+    },
+    {
+      "name": "Shimmering",
+      "properties": [
+        "Fire Resist +5%",
+        "Lightning Resist +5%",
+        "Cold Resist +5%",
+        "Poison Resist +5%"
+      ]
+    },
+    {
+      "name": "Amber Good Luck",
+      "properties": [
+        "Lightning Resist +11%",
+        "6% Better Chance of Getting Magic Items"
+      ]
+    },
+    {
+      "name": "Azure Good Luck",
+      "properties": [
+        "Cold Resist +5%",
+        "7% Better Chance of Getting Magic Items"
+      ]
+    },
+    {
+      "name": "Ruby Balance",
+      "properties": [
+        "Fire Resist +10%",
+        "5% Faster Hit Recovery"
+      ]
+    },
+    {
+      "name": "Emerald Vita",
+      "properties": [
+        "+20 to Life",
+        "Poison Resist +10%"
+      ]
+    },
+    {
+      "name": "Shimmering",
+      "properties": [
+        "Fire Resist +5%",
+        "Lightning Resist +5%",
+        "Cold Resist +5%",
+        "Poison Resist +5%"
+      ]
+    },
+    {
+      "name": "Jade Inertia",
+      "properties": [
+        "Poison Resist +8%",
+        "3% Faster Run/Walk"
+      ]
+    }
+  ],
+  "charms_large": [],
+  "charms_grand": [
+    {
+      "name": "Sparking Life",
+      "properties": [
+        "+13 to Life",
+        "+1 to Lightning Spells (Sorceress only)"
+      ]
+    },
+    {
+      "name": "Sparking the Icicle",
+      "properties": [
+        "Adds 2-3 Cold Damage",
+        "+1 to Lightning Spells (Sorceress only)"
+      ]
+    },
+    {
+      "name": "Sparking",
+      "properties": [
+        "+1 to Lightning Spells (Sorceress only)"
+      ]
+    }
+  ],
+  "weapons": [],
+  "armors": [],
+  "other": [
+    "Identify Book",
+    "Sur Rune",
+    "Ohm Rune",
+    "Lo Rune",
+    "Ohm Rune",
+    "Gul Rune",
+    "Gul Rune",
+    "Um Rune",
+    "Key of Hate",
+    "Sur Rune",
+    "Pul Rune",
+    {
+      "name": "Imp Grasp",
+      "properties": [
+        "+12 to Dexterity",
+        "+68% Enhanced Defense",
+        "Fire Resist +24%",
+        "Lightning Resist +8%",
+        "21% Better Chance of Getting Magic Items"
+      ]
+    },
+    "Town Portal Book",
+    "Key of Hate",
+    {
+      "name": "Ruby Ire",
+      "properties": [
+        "+38% Enhanced Damage",
+        "+3 to Maximum 1-handed damage",
+        "+3 to Maximum 2-handed damage",
+        "+3 to Maximum Throw Damage"
+      ]
+    },
+    "Horadric Cube",
+    {
+      "name": "Ruby the Glacier",
+      "properties": [
+        "+36% Enhanced Damage",
+        "Adds 5-12 Cold Damage"
+      ]
+    },
+    {
+      "name": "Splendor",
+      "properties": [
+        "+74% Enhanced Defense",
+        "50% Extra Gold from Monsters",
+        "20% Better Chance of Getting Magic Items",
+        "+3 to Light Radius",
+        "20% Faster Block Rate",
+        "10% Faster Cast Rate",
+        "+1 to All Skill Levels",
+        "Regenerate Mana 15%",
+        "+10 to Energy"
+      ]
+    },
+    "Lum Rune",
+    "Greater Mana Potion",
+    "Greater Mana Potion",
+    "Greater Mana Potion",
+    "Greater Mana Potion",
+    "Thul Rune",
+    "Greater Mana Potion",
+    "Greater Healing Potion",
+    "Greater Healing Potion",
+    "Greater Healing Potion",
+    "Greater Healing Potion",
+    "Greater Healing Potion",
+    "Greater Healing Potion",
+    "Greater Healing Potion",
+    "Greater Healing Potion",
+    "Greater Mana Potion",
+    "Greater Mana Potion",
+    "Greater Mana Potion",
+    {
+      "name": "Spirit",
+      "properties": [
+        "+22 to Vitality",
+        "+105 to Mana",
+        "+250 vs. Missile",
+        "55% Faster Hit Recovery",
+        "34% Faster Cast Rate",
+        "+2 to All Skill Levels",
+        "+3 Magic Absorb",
+        "Poison Resist +35%",
+        "Cold Resist +35%",
+        "Lightning Resist +35%",
+        "Attacker Takes Damage of 14"
+      ]
+    }
+  ]
+}

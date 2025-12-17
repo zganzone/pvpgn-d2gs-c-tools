@@ -1,0 +1,187 @@
+{
+  "account": "zliazub",
+  "charfile": "sdfgdfgsdfgds",
+  "charname": "sdfgdfgsdfgds",
+  "generated": "2025-12-17 13:31:09",
+  "char_stats": {
+    "level": 1,
+    "class": "Necromancer",
+    "is_hc": false,
+    "is_ladder": true,
+    "progression": 0,
+    "char_name_raw": "sdfgdfgsdfgds",
+    "strength": 15,
+    "energy": 25,
+    "dexterity": 25,
+    "vitality": 15,
+    "unused_stats": 0,
+    "unused_skills": 0,
+    "current_hp": 45.0,
+    "max_hp": 45.0,
+    "current_mana": 25.0,
+    "max_mana": 25.0,
+    "current_stamina": 79.0,
+    "max_stamina": 79.0,
+    "experience": 0,
+    "gold": 0,
+    "stashed_gold": 0
+  },
+  "unique_set": [
+    {
+      "name": "Stormshield",
+      "properties": [
+        "+30 to Strength",
+        "+25% Increased chance of blocking",
+        "Damage Reduced by 35%",
+        "Lightning Resist +25%",
+        "Cold Resist +60%",
+        "35% Faster Block Rate",
+        "Attacker Takes Lightning Damage of 10",
+        "Indestructible",
+        "+30 to Defense (Based on Character Level)"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Taebaek's Glory",
+      "properties": [
+        "+100 to Mana",
+        "+25% Increased chance of blocking",
+        "+50 Defense",
+        "Lightning Resist +30%",
+        "Attacker Takes Damage of 30",
+        "30% Faster Block Rate",
+        "Indestructible"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Naj's Light Plate",
+      "properties": [
+        "+65 to Life",
+        "+300 Defense",
+        "Fire Resist +25%",
+        "Lightning Resist +25%",
+        "Cold Resist +25%",
+        "Poison Resist +25%",
+        "Requirements -60%",
+        "45% Damage Taken Goes to Mana",
+        "+1 to All Skill Levels"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Goblin Toe",
+      "properties": [
+        "+53% Enhanced Defense",
+        "+15 Defense",
+        "Damage Reduced by 1",
+        "Magic Damage Reduced by 1",
+        "+-1 to Light Radius",
+        "25% Chance of Crushing Blow"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Trang-Oul's Wing",
+      "properties": [
+        "+25 to Strength",
+        "+15 to Dexterity",
+        "+30% Increased chance of blocking",
+        "+125 Defense",
+        "Fire Resist +42%",
+        "Poison Resist +40%",
+        "+2 to Poison and Bone Skills (Necromancer only)"
+      ],
+      "type": "set"
+    }
+  ],
+  "runes": [],
+  "rings": [],
+  "belts": [],
+  "amulets": [],
+  "charms_small": [],
+  "charms_large": [],
+  "charms_grand": [],
+  "weapons": [
+    "Cryptic Axe"
+  ],
+  "armors": [],
+  "other": [
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    {
+      "name": "Doom Hold",
+      "properties": [
+        "+150% Enhanced Defense",
+        "Lightning Resist +20%",
+        "24% Better Chance of Getting Magic Items",
+        "10% Chance to Cast Level 3 Nova When Struck"
+      ]
+    },
+    "Scarab Husk",
+    {
+      "name": "Ancient's Pledge",
+      "properties": [
+        "+50% Enhanced Defense",
+        "Fire Resist +13%",
+        "Lightning Resist +13%",
+        "Cold Resist +43%",
+        "Poison Resist +13%",
+        "10% Damage Taken Goes to Mana",
+        "Fire Resist +35%",
+        "Lightning Resist +35%",
+        "Poison Resist +35%"
+      ]
+    },
+    "Dimensional Blade",
+    {
+      "name": "Peace",
+      "properties": [
+        "Increase Maximum Durability 11%",
+        "+2 to Amazon Skill Levels",
+        "+2 To Critical Strike",
+        "2% Chance to Cast Level 15 Valkyrie On Striking",
+        "4% Chance to Cast Level 5 Slow Missiles When Struck",
+        "20% Faster Hit Recovery",
+        "Cold Resist +35%",
+        "Attacker Takes Damage of 14"
+      ]
+    },
+    "Balrog Blade",
+    "Legendary Mallet",
+    {
+      "name": "Plague Whorl",
+      "properties": [
+        "+8 to Mana",
+        "Lightning Resist +31%",
+        "Replenish Life +3",
+        "20% Faster Cast Rate",
+        "+3 To Meteor",
+        "+2 to Fire Spells (Sorceress only)",
+        "Level 6 Nova (37/52 Charges)"
+      ]
+    },
+    "Town Portal Scroll",
+    "Identify Scroll",
+    {
+      "name": "Sacred Rondache",
+      "properties": [
+        "+9% Enhanced Defense",
+        "Fire Resist +25%",
+        "Lightning Resist +25%",
+        "Cold Resist +25%",
+        "Poison Resist +25%",
+        "Increase Maximum Durability 14%"
+      ]
+    },
+    {
+      "name": "Wand",
+      "properties": [
+        "+1 To Raise Skeleton"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="bg">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>StarCraft: Brood War - Статистики</title>
+    <link rel="stylesheet" href="css/style.css"> 
+    <link rel="stylesheet" href="css/scbw.css"> 
+</head>
+<body>
+
+<div class="header">
+    <div class="logo">PVPGN Stats</div>
+    <nav class="nav-tabs">
+        <a href="index.html" class="tab">STATUS</a>
+        <a href="d2lod.html" class="tab d2xp-link">D2 LOD</a>
+        <a href="scbw.html" class="tab sexp-link active">SC BW</a>
+        <a href="w3tft.html" class="tab w3xp-link">W3 TFT</a>
+    </nav>
+</div>
+
+<div class="container">
+    <h1 class="scbw-h1">🌌 StarCraft: Brood War (SEXP)</h1>
+    <p class="sub">Последно обновяване: <span id="generated-time">N/A</span></p>
+    
+    <section>
+        <h2>🏆 Класация: StarCraft Normal (SEXP)</h2>
+        <p>⚠️ **Забележка:** Тази секция показва W/L статистика от Slot 0.</p>
+        <table id="scbw-ladder-table" class="scbw-table">
+            <thead>
+                <tr>
+                    <th>Ранк</th>
+                    <th>Потребител</th>
+                    <th>Рейтинг</th>
+                    <th>W / L (/ D)</th>
+                    <th>Общо Игри</th>
+                    <th>W/L Съотношение</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr><td colspan="6" class="empty-data-message">Зареждане на Ладър данни...</td></tr>
+            </tbody>
+        </table>
+    </section>
+
+    <section>
+        <h2 style="margin-top: 40px;">📜 История на Последните Игри (Report Log)</h2>
+        <table id="scbw-history-table" class="scbw-table">
+            <thead>
+                <tr>
+                    <th>Име на Играта (ID)</th>
+                    <th>Резултат</th>
+                    <th>Играч / Раса</th>
+                    <th>Убити / Загубени Единици</th>
+                    <th>Продължителност</th>
+                    <th>Приключена на</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr><td colspan="6" class="empty-data-message">Зареждане на История на Игрите...</td></tr>
+            </tbody>
+        </table>
+    </section>
+</div>
+
+<footer class="footer">
+    Последно обновяване: <span id="generated-time-footer">N/A</span>
+</footer>
+
+<script src="js/scbw.js"></script>
+</body>
+</html>

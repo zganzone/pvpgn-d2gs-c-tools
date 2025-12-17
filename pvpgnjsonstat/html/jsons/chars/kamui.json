@@ -1,0 +1,243 @@
+{
+  "account": "zliazub",
+  "charfile": "kamui",
+  "charname": "kamui",
+  "generated": "2025-12-17 13:31:09",
+  "char_stats": {
+    "level": 1,
+    "class": "Amazon",
+    "is_hc": false,
+    "is_ladder": true,
+    "progression": 0,
+    "char_name_raw": "kamui",
+    "strength": 20,
+    "energy": 15,
+    "dexterity": 25,
+    "vitality": 20,
+    "unused_stats": 0,
+    "unused_skills": 0,
+    "current_hp": 50.0,
+    "max_hp": 50.0,
+    "current_mana": 15.0,
+    "max_mana": 15.0,
+    "current_stamina": 84.0,
+    "max_stamina": 84.0,
+    "experience": 0,
+    "gold": 0,
+    "stashed_gold": 0
+  },
+  "unique_set": [
+    {
+      "name": "Rainbow Facet",
+      "properties": [
+        "Adds 17-45 Fire Damage",
+        "100% Chance to Cast Level 31 Meteor When you die",
+        "5% To Fire Skill Damage",
+        "-3% To Enemy Fire Resistance"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Rainbow Facet",
+      "properties": [
+        "Adds 17-45 Fire Damage",
+        "100% Chance to Cast Level 31 Meteor When you die",
+        "4% To Fire Skill Damage",
+        "-3% To Enemy Fire Resistance"
+      ],
+      "type": "unique"
+    }
+  ],
+  "runes": [],
+  "rings": [
+    "Twisted Essence of Suffering",
+    "Festering Essence of Destruction",
+    "Festering Essence of Destruction",
+    "Festering Essence of Destruction",
+    "Festering Essence of Destruction"
+  ],
+  "belts": [],
+  "amulets": [],
+  "charms_small": [],
+  "charms_large": [],
+  "charms_grand": [],
+  "weapons": [],
+  "armors": [],
+  "other": [
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Perfect Skull",
+    "Perfect Topaz",
+    {
+      "name": "Ruby",
+      "properties": [
+        "+37% Enhanced Damage"
+      ]
+    },
+    {
+      "name": "Realgar Thunder",
+      "properties": [
+        "+27% Enhanced Damage",
+        "Adds 1-88 Lightning Damage"
+      ]
+    },
+    {
+      "name": "Ruby",
+      "properties": [
+        "+35% Enhanced Damage"
+      ]
+    },
+    "Perfect Topaz",
+    {
+      "name": "Ruby",
+      "properties": [
+        "+32% Enhanced Damage"
+      ]
+    },
+    {
+      "name": "Freedom",
+      "properties": [
+        "Requirements -15%"
+      ]
+    },
+    {
+      "name": "Ruby Virility",
+      "properties": [
+        "+8 to Strength",
+        "+38% Enhanced Damage"
+      ]
+    },
+    {
+      "name": "Ruby Virility",
+      "properties": [
+        "+9 to Strength",
+        "+34% Enhanced Damage"
+      ]
+    },
+    "Perfect Topaz",
+    "Perfect Amethyst",
+    "Perfect Amethyst",
+    "Perfect Amethyst",
+    "Perfect Amethyst",
+    "Perfect Amethyst",
+    "Perfect Amethyst",
+    "Perfect Amethyst",
+    "Perfect Amethyst",
+    "Perfect Amethyst",
+    "Perfect Amethyst",
+    {
+      "name": "Blood Eye",
+      "properties": [
+        "+25% Enhanced Damage",
+        "+55 to Attack rating",
+        "+3 to Minimum 1-handed damage",
+        "+4 to Maximum 1-handed damage",
+        "+3 to Minimum 2-handed damage",
+        "+4 to Maximum 2-handed damage",
+        "+3 to Minimum Throw Damage",
+        "+4 to Maximum Throw Damage"
+      ]
+    },
+    "Perfect Diamond",
+    "Ral Rune",
+    "Perfect Topaz",
+    "Ral Rune",
+    "Ral Rune",
+    "Perfect Amethyst",
+    "Perfect Amethyst",
+    "Perfect Amethyst",
+    "Perfect Amethyst",
+    "Perfect Amethyst",
+    "Perfect Amethyst",
+    "Perfect Amethyst",
+    "Perfect Amethyst",
+    "Ral Rune",
+    "Ral Rune",
+    "Perfect Topaz",
+    {
+      "name": "Fewer",
+      "properties": [
+        "15% Increased Attack Speed"
+      ]
+    },
+    "Perfect Diamond",
+    "Perfect Amethyst",
+    "Perfect Diamond",
+    {
+      "name": "Fewer",
+      "properties": [
+        "15% Increased Attack Speed"
+      ]
+    },
+    {
+      "name": "Bitter Talisman",
+      "properties": [
+        "+4 to Dexterity",
+        "+25% Enhanced Damage",
+        "+6 to Maximum 1-handed damage",
+        "+6 to Maximum 2-handed damage",
+        "Fire Resist +30%",
+        "+6 to Maximum Throw Damage"
+      ]
+    },
+    {
+      "name": "Ruby Fewer",
+      "properties": [
+        "Fire Resist +20%",
+        "15% Increased Attack Speed"
+      ]
+    },
+    "Perfect Diamond",
+    "Perfect Topaz",
+    "Perfect Skull",
+    "Perfect Ruby",
+    "Perfect Diamond",
+    "Perfect Diamond",
+    "Perfect Diamond",
+    {
+      "name": "Bone Fewer",
+      "properties": [
+        "+38 Defense",
+        "15% Increased Attack Speed"
+      ]
+    },
+    "Perfect Topaz",
+    "Charged Essence of Hatred",
+    "Burning Essence of Terror",
+    {
+      "name": "Realgar",
+      "properties": [
+        "+30% Enhanced Damage"
+      ]
+    },
+    "Ral Rune",
+    "Burning Essence of Terror",
+    "Perfect Amethyst",
+    "Perfect Sapphire",
+    "Perfect Ruby",
+    "Perfect Topaz",
+    "Perfect Emerald",
+    "Charged Essence of Hatred",
+    "Perfect Amethyst",
+    "Perfect Amethyst",
+    {
+      "name": "Bitter Scarab",
+      "properties": [
+        "+27% Enhanced Damage",
+        "+12 to Attack rating",
+        "+14 Defense"
+      ]
+    },
+    {
+      "name": "Realgar Daring",
+      "properties": [
+        "+9 to Dexterity",
+        "+30% Enhanced Damage"
+      ]
+    },
+    "Javelin",
+    "Buckler"
+  ]
+}

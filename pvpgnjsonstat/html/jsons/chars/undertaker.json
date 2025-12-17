@@ -1,0 +1,218 @@
+{
+  "account": "zliazubbb",
+  "charfile": "undertaker",
+  "charname": "undertaker",
+  "generated": "2025-12-17 13:31:09",
+  "char_stats": {
+    "level": 42,
+    "class": "Necromancer",
+    "is_hc": false,
+    "is_ladder": true,
+    "progression": 10,
+    "char_name_raw": "undertaker",
+    "strength": 60,
+    "energy": 25,
+    "dexterity": 30,
+    "vitality": 125,
+    "unused_stats": 45,
+    "unused_skills": 0,
+    "current_hp": 346.5,
+    "max_hp": 346.5,
+    "current_mana": 167.0,
+    "max_mana": 107.0,
+    "current_stamina": 245.0,
+    "max_stamina": 230.0,
+    "experience": 22519411,
+    "gold": 0,
+    "stashed_gold": 22088
+  },
+  "unique_set": [
+    {
+      "name": "Undead Crown",
+      "properties": [
+        "+40% Enhanced Defense",
+        "+40 Defense",
+        "Poison Resist +50%",
+        "5% Life Stolen Per Hit",
+        "+3 To Skeleton Mastery",
+        "Half Freeze Duration",
+        "+50% Damage to Undead",
+        "+98 to Attack Rating against Undead"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Infernal Torch",
+      "properties": [
+        "+8 to Minimum 1-handed damage",
+        "+1 to Necromancer Skill Levels"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Ume's Lament",
+      "properties": [
+        "+40 to Mana",
+        "+2 to Necromancer Skill Levels",
+        "20% Faster Cast Rate",
+        "+3 To Terror",
+        "+2 To Decrepify",
+        "Hit Causes Monsters to Flee 63%"
+      ],
+      "type": "unique"
+    }
+  ],
+  "runes": [],
+  "rings": [
+    {
+      "name": "Jade",
+      "properties": [
+        "Poison Resist +24%"
+      ]
+    },
+    {
+      "name": "Crimson",
+      "properties": [
+        "Fire Resist +8%"
+      ]
+    }
+  ],
+  "belts": [
+    {
+      "name": "Sharkskin Belt",
+      "properties": [
+        "+8% Enhanced Defense",
+        "Increase Maximum Durability 12%"
+      ]
+    }
+  ],
+  "amulets": [
+    {
+      "name": "Beryl",
+      "properties": [
+        "Poison Resist +7%"
+      ]
+    },
+    {
+      "name": "Fortuitous Health",
+      "properties": [
+        "Damage Reduced by 1",
+        "12% Better Chance of Getting Magic Items"
+      ]
+    }
+  ],
+  "charms_small": [
+    {
+      "name": "Frost",
+      "properties": [
+        "Adds 1-2 Cold Damage"
+      ]
+    },
+    {
+      "name": "Frost",
+      "properties": [
+        "Adds 1-2 Cold Damage"
+      ]
+    },
+    {
+      "name": "Lapis Greed",
+      "properties": [
+        "Cold Resist +6%",
+        "10% Extra Gold from Monsters"
+      ]
+    },
+    {
+      "name": "Cobalt",
+      "properties": [
+        "Cold Resist +8%"
+      ]
+    },
+    {
+      "name": "Strength",
+      "properties": [
+        "+2 to Strength"
+      ]
+    }
+  ],
+  "charms_large": [],
+  "charms_grand": [
+    {
+      "name": "Greed",
+      "properties": [
+        "36% Extra Gold from Monsters"
+      ]
+    }
+  ],
+  "weapons": [],
+  "armors": [
+    "Leather Boots"
+  ],
+  "other": [
+    "Horadric Cube",
+    "Skeleton Key",
+    "Town Portal Book",
+    "Identify Book",
+    "Exploding Potion",
+    "Mephisto Soul Stone",
+    "Light Mana Potion",
+    "Strong Mana Potion",
+    "Ral Rune",
+    "Strong Healing Potion",
+    "Greater Mana Potion",
+    "Strong Mana Potion",
+    "Flawless Diamond",
+    {
+      "name": "Bone Wand",
+      "properties": [
+        "+1 To Attract",
+        "+1 To Bone Prison"
+      ]
+    },
+    "Strong Mana Potion",
+    "Strong Mana Potion",
+    "Greater Mana Potion",
+    {
+      "name": "Lore",
+      "properties": [
+        "+10 to Energy",
+        "+2 to Light Radius",
+        "+1 to All Skill Levels",
+        "+2 to Mana After Each Kill",
+        "Lightning Resist +35%",
+        "Damage Reduced by 7"
+      ]
+    },
+    {
+      "name": "Stealth",
+      "properties": [
+        "Increase Maximum Durability 14%",
+        "+6 to Dexterity",
+        "+15 to Maximum Stamina",
+        "Magic Damage Reduced by 3",
+        "25% Faster Run/Walk",
+        "25% Faster Hit Recovery",
+        "25% Faster Cast Rate",
+        "Poison Resist +35%",
+        "Regenerate Mana 15%"
+      ]
+    },
+    {
+      "name": "Russet",
+      "properties": [
+        "Fire Resist +18%"
+      ]
+    },
+    {
+      "name": "Brimstone Wing",
+      "properties": [
+        "+20% Enhanced Defense",
+        "+10% Increased chance of blocking",
+        "Adds 16-48 Poison Damage over 75 Seconds",
+        "15% Faster Block Rate",
+        "+1 To Dim Vision",
+        "+3 To Clay Golem",
+        "Level 1 Dim Vision (67/67 Charges)"
+      ]
+    }
+  ]
+}

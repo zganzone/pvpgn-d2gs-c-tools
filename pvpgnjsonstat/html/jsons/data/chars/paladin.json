@@ -1,0 +1,482 @@
+{
+  "account": "zliazub",
+  "charfile": "paladin",
+  "charname": "paladin",
+  "generated": "2025-12-17 12:11:09",
+  "char_stats": {
+    "level": 88,
+    "class": "Paladin",
+    "is_hc": false,
+    "is_ladder": true,
+    "progression": 15,
+    "char_name_raw": "paladin",
+    "strength": 80,
+    "energy": 15,
+    "dexterity": 84,
+    "vitality": 291,
+    "unused_stats": 60,
+    "unused_skills": 0,
+    "current_hp": 1390.0,
+    "max_hp": 1067.0,
+    "current_mana": 347.09765625,
+    "max_mana": 145.5,
+    "current_stamina": 499.0,
+    "max_stamina": 442.0,
+    "experience": 1419203579,
+    "gold": 0,
+    "stashed_gold": 1225164
+  },
+  "unique_set": [
+    {
+      "name": "Annihilus",
+      "properties": [
+        "+20 to Strength",
+        "+20 to Energy",
+        "+20 to Dexterity",
+        "+20 to Vitality",
+        "Fire Resist +15%",
+        "Lightning Resist +15%",
+        "Cold Resist +15%",
+        "Poison Resist +15%",
+        "6% To Experience Gained",
+        "+1 to All Skill Levels"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Gore Rider",
+      "properties": [
+        "+20 to Maximum Stamina",
+        "+194% Enhanced Defense",
+        "+10 Maximum Durability",
+        "Requirements -25%",
+        "30% Faster Run/Walk",
+        "10% Chance of Open Wounds",
+        "15% Chance of Crushing Blow",
+        "15% Deadly Strike"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Heaven's Light",
+      "properties": [
+        "+255% Enhanced Damage",
+        "+3 to Paladin Skill Levels",
+        "+3 to Light Radius",
+        "20% Increased Attack Speed",
+        "33% Target Defense",
+        "33% Chance of Crushing Blow",
+        "+19 Life after each Demon Kill",
+        "20% Increased Attack Speed",
+        "20% Increased Attack Speed"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Guillaume's Face",
+      "properties": [
+        "+15 to Strength",
+        "+120% Enhanced Defense",
+        "30% Faster Hit Recovery",
+        "35% Chance of Crushing Blow",
+        "15% Deadly Strike"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Gheed's Fortune",
+      "properties": [
+        "159% Extra Gold from Monsters",
+        "35% Better Chance of Getting Magic Items",
+        "Reduces Prices 15%"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Trang-Oul's Claws",
+      "properties": [
+        "+30 Defense",
+        "Cold Resist +30%",
+        "20% Faster Cast Rate",
+        "+2 to Curses (Necromancer only)",
+        "25% To Poison Skill Damage"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Spirit Ward",
+      "properties": [
+        "+134% Enhanced Defense",
+        "+25% Increased chance of blocking",
+        "Fire Resist +30%",
+        "Lightning Resist +30%",
+        "Cold Resist +30%",
+        "Poison Resist +30%",
+        "25% Faster Block Rate",
+        "+6 Cold Absorb",
+        "5% Chance to Cast Level 8 Fade When Struck"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Harlequin Crest",
+      "properties": [
+        "+2 to Strength",
+        "+2 to Energy",
+        "+2 to Dexterity",
+        "+2 to Vitality",
+        "Damage Reduced by 10%",
+        "50% Better Chance of Getting Magic Items",
+        "+2 to All Skill Levels",
+        "+12 to Life (Based on Character Level)",
+        "+12 to Mana (Based on Character Level)",
+        "24% Better Chance of Getting Magic Items"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Mara's Kaleidoscope",
+      "properties": [
+        "+5 to Strength",
+        "+5 to Energy",
+        "+5 to Dexterity",
+        "+5 to Vitality",
+        "Fire Resist +25%",
+        "Lightning Resist +25%",
+        "Cold Resist +25%",
+        "Poison Resist +25%",
+        "+2 to All Skill Levels"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Nagelring",
+      "properties": [
+        "+57 to Attack rating",
+        "Magic Damage Reduced by 3",
+        "Attacker Takes Damage of 3",
+        "30% Better Chance of Getting Magic Items"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Nagelring",
+      "properties": [
+        "+52 to Attack rating",
+        "Magic Damage Reduced by 3",
+        "Attacker Takes Damage of 3",
+        "28% Better Chance of Getting Magic Items"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Arachnid Mesh",
+      "properties": [
+        "+95% Enhanced Defense",
+        "Increase Maximum Mana 5%",
+        "20% Faster Cast Rate",
+        "+1 to All Skill Levels",
+        "Slows Target by 10%",
+        "Level 3 Venom (11/11 Charges)"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "War Traveler",
+      "properties": [
+        "+10 to Strength",
+        "+10 to Vitality",
+        "+185% Enhanced Defense",
+        "+15 to Minimum 1-handed damage",
+        "+25 to Maximum 1-handed damage",
+        "+15 to Minimum 2-handed damage",
+        "+25 to Maximum 2-handed damage",
+        "+30 Maximum Durability",
+        "Attacker Takes Damage of 5",
+        "41% Better Chance of Getting Magic Items",
+        "25% Faster Run/Walk",
+        "40% Slower Stamina Drain",
+        "+15 to Minimum Throw Damage",
+        "+25 to Maximum Throw Damage"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Trang-Oul's Claws",
+      "properties": [
+        "+30 Defense",
+        "Cold Resist +30%",
+        "20% Faster Cast Rate",
+        "+2 to Curses (Necromancer only)",
+        "25% To Poison Skill Damage"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Herald Of Zakarum",
+      "properties": [
+        "+20 to Strength",
+        "+20 to Vitality",
+        "+185% Enhanced Defense",
+        "+30% Increased chance of blocking",
+        "Fire Resist +50%",
+        "Lightning Resist +50%",
+        "Cold Resist +50%",
+        "Poison Resist +50%",
+        "+2 to Paladin Skill Levels",
+        "30% Faster Block Rate",
+        "20% Bonus to Attack Rating",
+        "+2 to Combat Skills (Paladin only)"
+      ],
+      "type": "unique"
+    }
+  ],
+  "runes": [],
+  "rings": [
+    {
+      "name": "Chaos Band",
+      "properties": [
+        "+5 to Mana",
+        "Fire Resist +30%",
+        "Lightning Resist +8%",
+        "Half Freeze Duration"
+      ]
+    },
+    {
+      "name": "Doom Hold",
+      "properties": [
+        "+68 to Attack rating",
+        "Fire Resist +21%",
+        "10% Faster Cast Rate"
+      ]
+    }
+  ],
+  "belts": [],
+  "amulets": [
+    {
+      "name": "Rose Branded",
+      "properties": [
+        "+3 to Combat Skills (Paladin only)"
+      ]
+    }
+  ],
+  "charms_small": [
+    {
+      "name": "Azure Dexterity",
+      "properties": [
+        "+2 to Dexterity",
+        "Cold Resist +5%"
+      ]
+    },
+    {
+      "name": "Emerald",
+      "properties": [
+        "Poison Resist +11%"
+      ]
+    },
+    {
+      "name": "Amber",
+      "properties": [
+        "Lightning Resist +11%"
+      ]
+    },
+    {
+      "name": "Viridian Vita",
+      "properties": [
+        "+20 to Life",
+        "Poison Resist +6%"
+      ]
+    },
+    {
+      "name": "Coral Storms",
+      "properties": [
+        "Lightning Resist +8%",
+        "Adds 1-20 Lightning Damage"
+      ]
+    },
+    {
+      "name": "Ruby",
+      "properties": [
+        "Fire Resist +10%"
+      ]
+    },
+    {
+      "name": "Good Luck",
+      "properties": [
+        "6% Better Chance of Getting Magic Items"
+      ]
+    }
+  ],
+  "charms_large": [
+    {
+      "name": "Cobalt",
+      "properties": [
+        "Cold Resist +12%"
+      ]
+    },
+    {
+      "name": "Jade",
+      "properties": [
+        "Poison Resist +12%"
+      ]
+    }
+  ],
+  "charms_grand": [
+    {
+      "name": "Cobalt",
+      "properties": [
+        "Cold Resist +22%"
+      ]
+    },
+    {
+      "name": "Lion Branded Maiming",
+      "properties": [
+        "+3 to Maximum 1-handed damage",
+        "+3 to Maximum 2-handed damage",
+        "+3 to Maximum Throw Damage",
+        "+1 to Combat Skills (Paladin only)"
+      ]
+    },
+    {
+      "name": "Lion Branded",
+      "properties": [
+        "+1 to Combat Skills (Paladin only)"
+      ]
+    },
+    {
+      "name": "Fanatic Life",
+      "properties": [
+        "+10 to Life",
+        "+1 to Masteries (Barbarian only)"
+      ]
+    }
+  ],
+  "weapons": [],
+  "armors": [],
+  "other": [
+    "Gul Rune",
+    "Ohm Rune",
+    {
+      "name": "Life Tap",
+      "properties": [
+        "Level 5 Life Tap (79/97 Charges)"
+      ]
+    },
+    "Mal Rune",
+    "Lem Rune",
+    "Horadric Cube",
+    {
+      "name": "Loath Cord",
+      "properties": [
+        "+12 to Strength",
+        "+43% Enhanced Defense",
+        "Lightning Resist +28%",
+        "Poison Resist +30%",
+        "Attacker Takes Damage of 2",
+        "10% Faster Hit Recovery"
+      ]
+    },
+    "Pul Rune",
+    "Fal Rune",
+    "Skeleton Key",
+    "Town Portal Book",
+    {
+      "name": "Exile",
+      "properties": [
+        "Fire Resist +44%",
+        "Lightning Resist +44%",
+        "Cold Resist +44%",
+        "Poison Resist +44%",
+        "+220% Enhanced Defense",
+        "30% Faster Block Rate",
+        "Freezes Target +1",
+        "Level +13 104 When Equipped",
+        "+2 to Offensive Auras (Paladin only)",
+        "15% Chance to Cast Level 5 Life Tap On Striking",
+        "Repairs 1 Durability in 25 Seconds",
+        "+5% to Maximum Fire Resist",
+        "+5% to Maximum Cold Resist",
+        "25% Better Chance of Getting Magic Items",
+        "Replenish Life +7"
+      ]
+    },
+    "El Rune",
+    "Eld Rune",
+    "Eth Rune",
+    "Nef Rune",
+    "Burning Essence of Terror",
+    "Identify Book",
+    "Flawless Amethyst",
+    "Greater Mana Potion",
+    "Greater Healing Potion",
+    "Greater Healing Potion",
+    {
+      "name": "Call to Arms",
+      "properties": [
+        "+229% Enhanced Damage",
+        "Replenish Life +12",
+        "40% Increased Attack Speed",
+        "+4 To Battle Cry",
+        "+2 To Battle Orders",
+        "+2 To Battle Command",
+        "+1 to All Skill Levels",
+        "7% Life Stolen Per Hit",
+        "Adds 5-30 Fire Damage",
+        "Prevent Monster Heal",
+        "30% Better Chance of Getting Magic Items",
+        "+50% Enhanced Damage"
+      ]
+    },
+    {
+      "name": "Spirit",
+      "properties": [
+        "Fire Resist +34%",
+        "Lightning Resist +34%",
+        "Cold Resist +34%",
+        "Poison Resist +34%",
+        "+22 to Vitality",
+        "+108 to Mana",
+        "+250 vs. Missile",
+        "55% Faster Hit Recovery",
+        "31% Faster Cast Rate",
+        "+2 to All Skill Levels",
+        "+7 Magic Absorb",
+        "Poison Resist +35%",
+        "Cold Resist +35%",
+        "Lightning Resist +35%",
+        "Attacker Takes Damage of 14"
+      ]
+    },
+    "Greater Healing Potion",
+    "Greater Healing Potion",
+    "Greater Mana Potion",
+    "Greater Healing Potion",
+    "Greater Healing Potion",
+    "Greater Healing Potion",
+    "Greater Healing Potion",
+    "Greater Mana Potion",
+    "Greater Mana Potion",
+    "Greater Mana Potion",
+    "Greater Mana Potion",
+    {
+      "name": "Heart of the Oak",
+      "properties": [
+        "Fire Resist +33%",
+        "Lightning Resist +33%",
+        "Cold Resist +33%",
+        "Poison Resist +33%",
+        "Replenish Life +20",
+        "Increase Maximum Mana 15%",
+        "40% Faster Cast Rate",
+        "+3 to All Skill Levels",
+        "Level 14 Raven (60/60 Charges)",
+        "Level 4 Oak Sage (25/25 Charges)",
+        "+10 to Dexterity",
+        "7% Mana Stolen Per Hit",
+        "+75% Damage to Demons",
+        "+100 to Attack Rating against Demons",
+        "Adds 3-14 Cold Damage"
+      ]
+    }
+  ]
+}

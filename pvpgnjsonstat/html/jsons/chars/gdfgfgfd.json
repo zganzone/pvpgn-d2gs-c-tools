@@ -1,0 +1,292 @@
+{
+  "account": "zliazubb",
+  "charfile": "gdfgfgfd",
+  "charname": "gdfgfgfd",
+  "generated": "2025-12-17 13:31:09",
+  "char_stats": {
+    "level": 1,
+    "class": "Necromancer",
+    "is_hc": false,
+    "is_ladder": true,
+    "progression": 0,
+    "char_name_raw": "gdfgfgfd",
+    "strength": 15,
+    "energy": 25,
+    "dexterity": 25,
+    "vitality": 15,
+    "unused_stats": 0,
+    "unused_skills": 0,
+    "current_hp": 45.0,
+    "max_hp": 45.0,
+    "current_mana": 25.0,
+    "max_mana": 25.0,
+    "current_stamina": 79.0,
+    "max_stamina": 79.0,
+    "experience": 0,
+    "gold": 0,
+    "stashed_gold": 0
+  },
+  "unique_set": [
+    {
+      "name": "Soul Drainer",
+      "properties": [
+        "+112% Enhanced Defense",
+        "7% Life Stolen Per Hit",
+        "5% Mana Stolen Per Hit",
+        "-50 to Monster Defense Per Hit",
+        "8% Chance to Cast Level 3 Weaken On Striking"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Spirit Forge",
+      "properties": [
+        "+15 to Strength",
+        "+134% Enhanced Defense",
+        "Fire Resist +5%",
+        "Adds 20-65 Fire Damage",
+        "+4 to Light Radius",
+        "+10 to Life (Based on Character Level)"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Stealskull",
+      "properties": [
+        "+220% Enhanced Defense",
+        "5% Life Stolen Per Hit",
+        "5% Mana Stolen Per Hit",
+        "35% Better Chance of Getting Magic Items",
+        "10% Increased Attack Speed",
+        "10% Faster Hit Recovery"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Trang-Oul's Wing",
+      "properties": [
+        "+25 to Strength",
+        "+15 to Dexterity",
+        "+30% Increased chance of blocking",
+        "+125 Defense",
+        "Fire Resist +45%",
+        "Poison Resist +40%",
+        "+2 to Poison and Bone Skills (Necromancer only)"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Aldur's Rhythm",
+      "properties": [
+        "+40 to Minimum 1-handed damage",
+        "+62 to Maximum 1-handed damage",
+        "Adds 50-75 Lightning Damage",
+        "10% Life Stolen Per Hit",
+        "5% Mana Stolen Per Hit",
+        "30% Increased Attack Speed",
+        "+200% Damage to Demons"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Gimmershred",
+      "properties": [
+        "+199% Enhanced Damage",
+        "Adds 218-483 Fire Damage",
+        "Adds 29-501 Lightning Damage",
+        "Adds 176-397 Cold Damage",
+        "30% Increased Attack Speed",
+        "Increased Stack Size"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Trang-Oul's Scales",
+      "properties": [
+        "+150% Enhanced Defense",
+        "+100 vs. Missile",
+        "Poison Resist +40%",
+        "Requirements -40%",
+        "40% Faster Run/Walk",
+        "+2 to Summoning Skills (Necromancer only)"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Skin of the Vipermagi",
+      "properties": [
+        "+120% Enhanced Defense",
+        "Magic Damage Reduced by 12",
+        "Fire Resist +29%",
+        "Lightning Resist +29%",
+        "Cold Resist +29%",
+        "Poison Resist +29%",
+        "30% Faster Cast Rate",
+        "+1 to All Skill Levels"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Bartuc's Cut-Throat",
+      "properties": [
+        "+20 to Strength",
+        "+20 to Dexterity",
+        "+190% Enhanced Damage",
+        "+25 to Minimum 1-handed damage",
+        "+50 to Maximum 1-handed damage",
+        "7% Life Stolen Per Hit",
+        "+2 to Assassin Skill Levels",
+        "30% Faster Hit Recovery",
+        "20% Bonus to Attack Rating",
+        "+1 to Martial Arts (Assassin only)"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Sandstorm Trek",
+      "properties": [
+        "+12 to Strength",
+        "+11 to Vitality",
+        "+170% Enhanced Defense",
+        "Poison Resist +49%",
+        "20% Faster Run/Walk",
+        "20% Faster Hit Recovery",
+        "50% Slower Stamina Drain",
+        "+8 Maxmium Stamina (Based on Character Level)",
+        "Repairs 1 Durability in 5 Seconds"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Dracul's Grasp",
+      "properties": [
+        "+15 to Strength",
+        "+114% Enhanced Defense",
+        "8% Life Stolen Per Hit",
+        "+8 Life After Each Kill",
+        "25% Chance of Open Wounds",
+        "5% Chance to Cast Level 10 Life Tap On Striking"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Dracul's Grasp",
+      "properties": [
+        "+14 to Strength",
+        "+113% Enhanced Defense",
+        "8% Life Stolen Per Hit",
+        "+5 Life After Each Kill",
+        "25% Chance of Open Wounds",
+        "5% Chance to Cast Level 10 Life Tap On Striking"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "The Scalper",
+      "properties": [
+        "+190% Enhanced Damage",
+        "5% Life Stolen Per Hit",
+        "20% Increased Attack Speed",
+        "25% Bonus to Attack Rating",
+        "33% Chance of Open Wounds",
+        "+4 to Mana After Each Kill",
+        "Replenishes Quantity"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Demon Limb",
+      "properties": [
+        "+228% Enhanced Damage",
+        "Fire Resist +20%",
+        "Adds 222-333 Fire Damage",
+        "8% Life Stolen Per Hit",
+        "+123% Damage to Demons",
+        "Level 23 Enchant (15/20 Charges)",
+        "Repairs 1 Durability in 5 Seconds"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Corpsemourn",
+      "properties": [
+        "+8 to Strength",
+        "+10 to Vitality",
+        "+163% Enhanced Defense",
+        "Cold Resist +35%",
+        "Adds 12-36 Fire Damage",
+        "6% Chance to Cast Level 2 Iron Maiden When Struck",
+        "Level 5 Corpse Explosion (34/40 Charges)"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Moser's Blessed Circle",
+      "properties": [
+        "+204% Enhanced Defense",
+        "+25% Increased chance of blocking",
+        "Fire Resist +25%",
+        "Lightning Resist +25%",
+        "Cold Resist +25%",
+        "Poison Resist +25%",
+        "30% Faster Block Rate",
+        "Fire Resist +19%",
+        "Lightning Resist +19%",
+        "Cold Resist +19%",
+        "Poison Resist +19%",
+        "Fire Resist +19%",
+        "Lightning Resist +19%",
+        "Cold Resist +19%",
+        "Poison Resist +19%"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Suicide Branch",
+      "properties": [
+        "+40 to Life",
+        "Fire Resist +10%",
+        "Lightning Resist +10%",
+        "Cold Resist +10%",
+        "Poison Resist +10%",
+        "Increase Maximum Mana 10%",
+        "Attacker Takes Damage of 25",
+        "50% Faster Cast Rate",
+        "+1 to All Skill Levels"
+      ],
+      "type": "unique"
+    }
+  ],
+  "runes": [],
+  "rings": [],
+  "belts": [],
+  "amulets": [],
+  "charms_small": [],
+  "charms_large": [],
+  "charms_grand": [],
+  "weapons": [],
+  "armors": [],
+  "other": [
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    {
+      "name": "Brimstone Circlet",
+      "properties": [
+        "+36 to Life",
+        "Magic Damage Reduced by 3",
+        "Fire Resist +19%",
+        "4% Mana Stolen Per Hit",
+        "+2 to Necromancer Skill Levels"
+      ]
+    },
+    "Flail",
+    {
+      "name": "Wand",
+      "properties": [
+        "+1 To Raise Skeleton"
+      ]
+    }
+  ]
+}

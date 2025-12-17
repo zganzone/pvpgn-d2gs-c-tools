@@ -1,0 +1,149 @@
+/* ======================================================= */
+/* w3tft.css - Изцяло тематичен стил за Warcraft III: The Frozen Throne */
+/* ======================================================= */
+
+:root {
+    --w3-bg: #14171a;        /* Тъмен Фон (Мистично) */
+    --w3-primary: #e6e6d1;    /* Светъл текст (Пергамент) */
+    --w3-accent: #a9883f;     /* Златно-Кафяв акцент */
+    --w3-link: #33b5e5;       /* Светъл син линк */
+    --w3-border: #4a4a3e;     /* Дървена/Каменна граница */
+    --w3-card-bg: #1f2327;    /* Фон на блоковете */
+    --w3-success: #388e3c;    /* Зелено (Живот) */
+    --w3-error: #d32f2f;      /* Червено (Щета) */
+}
+
+/* Общи елементи и Фон */
+body {
+    font-family: 'Times New Roman', 'Garamond', serif; 
+    background: var(--w3-bg);
+    color: var(--w3-primary);
+    padding: 18px;
+    margin: 0;
+}
+
+.container {
+    background-color: #1e2226; 
+    border: 1px solid var(--w3-border);
+    max-width: 1200px; 
+    margin: 0 auto;
+    padding: 25px;
+    border-radius: 6px;
+    box-shadow: 0 0 10px rgba(169, 136, 63, 0.4); /* Златен блясък */
+}
+
+/* Заглавия */
+.w3tft-h1, h2 { 
+    color: var(--w3-accent);
+    border-bottom: 2px solid var(--w3-border);
+    padding-bottom: 10px;
+    text-shadow: 1px 1px 2px #000;
+}
+.sub {
+    color: #a0a0a0;
+    margin-bottom: 20px;
+    font-size: 0.9em;
+}
+
+/* Линкове */
+a {
+    color: var(--w3-link);
+    text-decoration: none;
+}
+a:hover {
+    color: #00ffff;
+    text-decoration: underline;
+}
+
+/* ======================================================= */
+/* Статистики (Карти за W3GS/W3DBS) */
+/* ======================================================= */
+
+.w3gs-stats {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.w3gs-stats .card {
+    background: #25282c; /* Фон на картата */
+    border: 1px solid var(--w3-accent);
+    padding: 15px;
+    border-radius: 4px;
+    box-shadow: 0 0 5px rgba(169, 136, 63, 0.5);
+    text-align: center;
+    min-width: 150px;
+    flex-grow: 1;
+}
+
+.w3gs-stats .card h2 {
+    margin: 0;
+    font-size: 0.9rem;
+    color: var(--w3-primary);
+    text-transform: uppercase;
+}
+
+.w3gs-stats .card p {
+    margin: 5px 0 0 0;
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: var(--w3-accent);
+}
+
+/* Цветове за статус (CONNECTED/DISCONNECTED) */
+#w3gs-w3cs, #w3gs-w3dbs {
+    font-size: 1.1rem;
+}
+#w3gs-w3cs:contains("CONNECTED"), #w3gs-w3dbs:contains("CONNECTED") {
+    color: var(--w3-success); 
+}
+#w3gs-w3cs:contains("DISCONNECTED"), #w3gs-w3dbs:contains("DISCONNECTED") {
+    color: var(--w3-error); 
+}
+
+/* ======================================================= */
+/* Таблици (Класация и История) */
+/* ======================================================= */
+
+.w3tft-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+    font-size: 0.95em;
+    background: #1b1e22; 
+}
+
+.w3tft-table th {
+    background: var(--w3-border);
+    color: var(--w3-accent);
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #3d4045;
+    text-transform: uppercase;
+}
+
+.w3tft-table td {
+    border: 1px solid #3d4045;
+    padding: 8px 10px;
+    text-align: left;
+}
+
+.w3tft-table tbody tr:nth-child(even) { background: #161a1e; }
+.w3tft-table tbody tr:hover { background: #30353c; cursor: pointer; }
+
+/* Резултати */
+.win { color: var(--w3-success); font-weight: bold; }
+.loss { color: var(--w3-error); font-weight: bold; }
+.draw, .disconnect { color: #a0a0a0; font-weight: bold; }
+
+/* Съобщения за празни данни */
+.empty-data-message {
+    color: var(--w3-accent);
+    text-align: center;
+    padding: 20px;
+    border: 1px dashed var(--w3-accent);
+    border-radius: 4px;
+    margin-top: 30px;
+}

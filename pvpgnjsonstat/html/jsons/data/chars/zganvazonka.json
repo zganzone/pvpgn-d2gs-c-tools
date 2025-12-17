@@ -1,0 +1,193 @@
+{
+  "account": "zgan4",
+  "charfile": "zganvazonka",
+  "charname": "zganvazonka",
+  "generated": "2025-12-17 12:11:09",
+  "char_stats": {
+    "level": 29,
+    "class": "Amazon",
+    "is_hc": false,
+    "is_ladder": true,
+    "progression": 6,
+    "char_name_raw": "zganvazonka",
+    "strength": 61,
+    "energy": 15,
+    "dexterity": 78,
+    "vitality": 62,
+    "unused_stats": 4,
+    "unused_skills": 10,
+    "current_hp": 186.46875,
+    "max_hp": 252.0,
+    "current_mana": 75.0,
+    "max_mana": 57.0,
+    "current_stamina": 171.0,
+    "max_stamina": 154.0,
+    "experience": 4031678,
+    "gold": 35845,
+    "stashed_gold": 391006
+  },
+  "unique_set": [
+    {
+      "name": "Gorefoot",
+      "properties": [
+        "+28% Enhanced Defense",
+        "+12 Defense",
+        "2% Mana Stolen Per Hit",
+        "Attacker Takes Damage of 2",
+        "20% Faster Run/Walk",
+        "+2 To Leap"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Sigon's Wrap",
+      "properties": [
+        "+20 to Life",
+        "Fire Resist +20%"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Horadric Staff",
+      "properties": [
+        "+10 to Life",
+        "+10 to Mana",
+        "Fire Resist +10%",
+        "Lightning Resist +10%",
+        "Cold Resist +10%",
+        "Poison Resist +35%",
+        "50% Increased Attack Speed"
+      ],
+      "type": "unique"
+    }
+  ],
+  "runes": [],
+  "rings": [
+    {
+      "name": "Bronze",
+      "properties": [
+        "+20 to Attack rating"
+      ]
+    },
+    {
+      "name": "Bronze Warmth",
+      "properties": [
+        "+13 to Attack rating",
+        "Half Freeze Duration"
+      ]
+    }
+  ],
+  "belts": [],
+  "amulets": [
+    {
+      "name": "Rugged Chance",
+      "properties": [
+        "+17 to Maximum Stamina",
+        "13% Better Chance of Getting Magic Items"
+      ]
+    }
+  ],
+  "charms_small": [],
+  "charms_large": [
+    {
+      "name": "Dexterity",
+      "properties": [
+        "+2 to Dexterity"
+      ]
+    },
+    {
+      "name": "Greed",
+      "properties": [
+        "5% Extra Gold from Monsters"
+      ]
+    }
+  ],
+  "charms_grand": [
+    {
+      "name": "Lizard's",
+      "properties": [
+        "+18 to Mana"
+      ]
+    }
+  ],
+  "weapons": [],
+  "armors": [
+    {
+      "name": "Hard Leather Armor",
+      "properties": [
+        "+3 to Dexterity",
+        "Cold Resist +17%",
+        "+15 Defense",
+        "+1 to Light Radius"
+      ]
+    },
+    {
+      "name": "Sturdy Frost Shield",
+      "properties": [
+        "+25% Enhanced Defense",
+        "5% Chance to Cast Level 3 Frost Nova When Struck"
+      ]
+    },
+    "Small Shield"
+  ],
+  "other": [
+    "Town Portal Book",
+    "Identify Book",
+    {
+      "name": "Brandistock",
+      "properties": [
+        "20% Increased Attack Speed",
+        "25% Chance of Open Wounds",
+        "+2 to Mana After Each Kill"
+      ]
+    },
+    "Skeleton Key",
+    "Horadric Cube",
+    "Mephisto Soul Stone",
+    "Greater Healing Potion",
+    "Strong Healing Potion",
+    "Strong Healing Potion",
+    "Strong Healing Potion",
+    "Strong Healing Potion",
+    {
+      "name": "Readiness",
+      "properties": [
+        "10% Increased Attack Speed"
+      ]
+    },
+    "Strong Healing Potion",
+    "Strong Mana Potion",
+    "Strong Mana Potion",
+    "Strong Mana Potion",
+    {
+      "name": "Mechanist's",
+      "properties": [
+        "Regenerate Mana 15%"
+      ]
+    },
+    "Javelin",
+    "Strong Mana Potion",
+    "Strong Mana Potion",
+    "Strong Healing Potion",
+    "Greater Healing Potion",
+    "Strong Mana Potion",
+    "Strong Healing Potion",
+    "Strong Mana Potion",
+    "Strong Mana Potion",
+    "Greater Healing Potion",
+    "Strong Healing Potion",
+    "Strong Healing Potion",
+    {
+      "name": "Ghoul Wood",
+      "properties": [
+        "+22% Enhanced Damage",
+        "+13 to Attack rating",
+        "Adds 1-6 Lightning Damage",
+        "5% Mana Stolen Per Hit",
+        "Knockback",
+        "+2 to Mana After Each Kill"
+      ]
+    },
+    ""
+  ]
+}

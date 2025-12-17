@@ -1,0 +1,327 @@
+{
+  "account": "zliazubbb",
+  "charfile": "kolani",
+  "charname": "KOLANI",
+  "generated": "2025-12-17 12:11:09",
+  "char_stats": {
+    "level": 1,
+    "class": "Barbarian",
+    "is_hc": false,
+    "is_ladder": true,
+    "progression": 0,
+    "char_name_raw": "KOLANI",
+    "strength": 30,
+    "energy": 10,
+    "dexterity": 20,
+    "vitality": 25,
+    "unused_stats": 0,
+    "unused_skills": 0,
+    "current_hp": 55.0,
+    "max_hp": 55.0,
+    "current_mana": 10.0,
+    "max_mana": 10.0,
+    "current_stamina": 92.0,
+    "max_stamina": 92.0,
+    "experience": 0,
+    "gold": 0,
+    "stashed_gold": 0
+  },
+  "unique_set": [
+    {
+      "name": "Arachnid Mesh",
+      "properties": [
+        "+111% Enhanced Defense",
+        "Increase Maximum Mana 5%",
+        "20% Faster Cast Rate",
+        "+1 to All Skill Levels",
+        "Slows Target by 10%",
+        "Level 3 Venom (3/11 Charges)"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Credendum",
+      "properties": [
+        "+10 to Strength",
+        "+10 to Dexterity",
+        "+50 Defense",
+        "Fire Resist +15%",
+        "Lightning Resist +15%",
+        "Cold Resist +15%",
+        "Poison Resist +15%"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "String of Ears",
+      "properties": [
+        "+173% Enhanced Defense",
+        "+15 Defense",
+        "Magic Damage Reduced by 10",
+        "Damage Reduced by 12%",
+        "6% Life Stolen Per Hit",
+        "+10 Maximum Durability"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Credendum",
+      "properties": [
+        "+10 to Strength",
+        "+10 to Dexterity",
+        "+50 Defense",
+        "Fire Resist +15%",
+        "Lightning Resist +15%",
+        "Cold Resist +15%",
+        "Poison Resist +15%"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Gloom's Trap",
+      "properties": [
+        "+15 to Vitality",
+        "+143% Enhanced Defense",
+        "Regenerate Mana 15%",
+        "5% Mana Stolen Per Hit",
+        "Increase Maximum Mana 15%",
+        "+-3 to Light Radius"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Nightsmoke",
+      "properties": [
+        "+20 to Mana",
+        "+49% Enhanced Defense",
+        "+15 Defense",
+        "Damage Reduced by 2",
+        "Fire Resist +10%",
+        "Lightning Resist +10%",
+        "Cold Resist +10%",
+        "Poison Resist +10%",
+        "50% Damage Taken Goes to Mana"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Waterwalk",
+      "properties": [
+        "+15 to Dexterity",
+        "+64 to Life",
+        "+40 to Maximum Stamina",
+        "+181% Enhanced Defense",
+        "Heal Stamina 50%",
+        "+100 vs. Missile",
+        "+5% to Maximum Fire Resist",
+        "20% Faster Run/Walk"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Wilhelm's Pride",
+      "properties": [
+        "+75% Enhanced Defense",
+        "Cold Resist +10%",
+        "5% Life Stolen Per Hit",
+        "5% Mana Stolen Per Hit"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Credendum",
+      "properties": [
+        "+10 to Strength",
+        "+10 to Dexterity",
+        "+50 Defense",
+        "Fire Resist +15%",
+        "Lightning Resist +15%",
+        "Cold Resist +15%",
+        "Poison Resist +15%"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Snowclash",
+      "properties": [
+        "+130% Enhanced Defense",
+        "+15% to Maximum Cold Resist",
+        "Adds 13-21 Cold Damage",
+        "+3 To Glacial Spike",
+        "+2 To Blizzard",
+        "+2 To Chilling Armor",
+        "+15 Cold Absorb",
+        "5% Chance to Cast Level 16 Blizzard When Struck"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "String of Ears",
+      "properties": [
+        "+154% Enhanced Defense",
+        "+15 Defense",
+        "Magic Damage Reduced by 13",
+        "Damage Reduced by 13%",
+        "6% Life Stolen Per Hit",
+        "+10 Maximum Durability"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Wilhelm's Pride",
+      "properties": [
+        "+75% Enhanced Defense",
+        "Cold Resist +10%",
+        "5% Life Stolen Per Hit",
+        "5% Mana Stolen Per Hit"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Goldwrap",
+      "properties": [
+        "+47% Enhanced Defense",
+        "+25 Defense",
+        "57% Extra Gold from Monsters",
+        "30% Better Chance of Getting Magic Items",
+        "+2 to Light Radius",
+        "10% Increased Attack Speed"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "String of Ears",
+      "properties": [
+        "+168% Enhanced Defense",
+        "+15 Defense",
+        "Magic Damage Reduced by 15",
+        "Damage Reduced by 15%",
+        "8% Life Stolen Per Hit",
+        "+10 Maximum Durability"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Snowclash",
+      "properties": [
+        "+165% Enhanced Defense",
+        "+15% to Maximum Cold Resist",
+        "Adds 13-21 Cold Damage",
+        "+3 To Glacial Spike",
+        "+2 To Blizzard",
+        "+2 To Chilling Armor",
+        "+15 Cold Absorb",
+        "5% Chance to Cast Level 16 Blizzard When Struck"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Credendum",
+      "properties": [
+        "+10 to Strength",
+        "+10 to Dexterity",
+        "+50 Defense",
+        "Fire Resist +15%",
+        "Lightning Resist +15%",
+        "Cold Resist +15%",
+        "Poison Resist +15%"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Immortal King's Pillar",
+      "properties": [
+        "+44 to Life",
+        "+110 to Attack rating",
+        "+75 Defense",
+        "40% Faster Run/Walk"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Immortal King's Detail",
+      "properties": [
+        "+25 to Strength",
+        "+36 Defense",
+        "Fire Resist +28%",
+        "Lightning Resist +31%"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Verdungo's Hearty Cord",
+      "properties": [
+        "+40 to Vitality",
+        "+115 to Maximum Stamina",
+        "+108% Enhanced Defense",
+        "Damage Reduced by 15%",
+        "Replenish Life +13",
+        "10% Faster Hit Recovery"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Verdungo's Hearty Cord",
+      "properties": [
+        "+36 to Vitality",
+        "+108 to Maximum Stamina",
+        "+90% Enhanced Defense",
+        "Damage Reduced by 14%",
+        "Replenish Life +13",
+        "10% Faster Hit Recovery"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Nosferatu's Coil",
+      "properties": [
+        "+15 to Strength",
+        "6% Life Stolen Per Hit",
+        "+-3 to Light Radius",
+        "10% Increased Attack Speed",
+        "+2 to Mana After Each Kill",
+        "Slows Target by 10%"
+      ],
+      "type": "unique"
+    }
+  ],
+  "runes": [],
+  "rings": [],
+  "belts": [],
+  "amulets": [],
+  "charms_small": [],
+  "charms_large": [],
+  "charms_grand": [],
+  "weapons": [
+    "Hand Axe"
+  ],
+  "armors": [],
+  "other": [
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Town Portal Scroll",
+    "Identify Scroll",
+    {
+      "name": "Carrion Strap",
+      "properties": [
+        "+33 to Life",
+        "Fire Resist +23%",
+        "Lightning Resist +28%",
+        "Replenish Life +8",
+        "10% Faster Hit Recovery"
+      ]
+    },
+    {
+      "name": "Eagle Lash",
+      "properties": [
+        "+8 to Maximum Stamina",
+        "Fire Resist +30%",
+        "Lightning Resist +22%",
+        "12% Chance to Cast Level 4 Nova When Struck"
+      ]
+    },
+    "Buckler"
+  ]
+}

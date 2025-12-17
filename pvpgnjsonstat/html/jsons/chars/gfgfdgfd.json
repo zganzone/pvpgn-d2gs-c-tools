@@ -1,0 +1,206 @@
+{
+  "account": "zliazubb",
+  "charfile": "gfgfdgfd",
+  "charname": "gfgfdgfd",
+  "generated": "2025-12-17 13:31:09",
+  "char_stats": {
+    "level": 1,
+    "class": "Sorceress",
+    "is_hc": false,
+    "is_ladder": true,
+    "progression": 0,
+    "char_name_raw": "gfgfdgfd",
+    "strength": 10,
+    "energy": 35,
+    "dexterity": 25,
+    "vitality": 10,
+    "unused_stats": 0,
+    "unused_skills": 0,
+    "current_hp": 40.0,
+    "max_hp": 40.0,
+    "current_mana": 35.0,
+    "max_mana": 35.0,
+    "current_stamina": 74.0,
+    "max_stamina": 74.0,
+    "experience": 0,
+    "gold": 0,
+    "stashed_gold": 0
+  },
+  "unique_set": [
+    {
+      "name": "Vampire Gaze",
+      "properties": [
+        "+100% Enhanced Defense",
+        "Magic Damage Reduced by 15",
+        "Damage Reduced by 19%",
+        "Adds 6-22 Cold Damage",
+        "6% Life Stolen Per Hit",
+        "8% Mana Stolen Per Hit",
+        "15% Slower Stamina Drain"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Arm of King Leoric",
+      "properties": [
+        "10% Faster Cast Rate",
+        "+3 To Skeleton Mastery",
+        "+3 To Raise Skeleton",
+        "+2 To Terror",
+        "+2 To Raise Skeletal Mage",
+        "+2 to Poison and Bone Skills (Necromancer only)",
+        "+2 to Summoning Skills (Necromancer only)",
+        "10% Chance to Cast Level 2 Bone Prison When Struck",
+        "5% Chance to Cast Level 10 Bone Spirit When Struck",
+        "+10 to Mana (Based on Character Level)"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Gravenspine",
+      "properties": [
+        "+10 to Strength",
+        "+10 to Dexterity",
+        "+31 to Mana",
+        "Adds 4-8 Cold Damage",
+        "5% Mana Stolen Per Hit",
+        "+2 to Necromancer Skill Levels"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Aldur's Rhythm",
+      "properties": [
+        "+40 to Minimum 1-handed damage",
+        "+62 to Maximum 1-handed damage",
+        "Adds 50-75 Lightning Damage",
+        "10% Life Stolen Per Hit",
+        "5% Mana Stolen Per Hit",
+        "30% Increased Attack Speed",
+        "+200% Damage to Demons"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Plague Bearer",
+      "properties": [
+        "+150% Enhanced Damage",
+        "+10 to Minimum 1-handed damage",
+        "+45 to Maximum 1-handed damage",
+        "Poison Resist +45%",
+        "Adds 384-384 Poison Damage over 200 Seconds",
+        "+5 To Rabies",
+        "5% Chance to Cast Level 4 Poison Nova On Striking"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Trang-Oul's Scales",
+      "properties": [
+        "+150% Enhanced Defense",
+        "+100 vs. Missile",
+        "Poison Resist +40%",
+        "Requirements -40%",
+        "40% Faster Run/Walk",
+        "+2 to Summoning Skills (Necromancer only)"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Ume's Lament",
+      "properties": [
+        "+40 to Mana",
+        "+2 to Necromancer Skill Levels",
+        "20% Faster Cast Rate",
+        "+3 To Terror",
+        "+2 To Decrepify",
+        "Hit Causes Monsters to Flee 63%"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Trang-Oul's Guise",
+      "properties": [
+        "+150 to Mana",
+        "+96 Defense",
+        "Replenish Life +5",
+        "Attacker Takes Damage of 20",
+        "25% Faster Hit Recovery"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Flamebellow",
+      "properties": [
+        "+15 to Strength",
+        "+6 to Vitality",
+        "+208% Enhanced Damage",
+        "Adds 233-482 Fire Damage",
+        "+15 To Inferno",
+        "+1 to Fire Skills",
+        "Fire Absorb 26%",
+        "12% Chance to Cast Level 16 Firestorm On Striking"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Griswold's Valor",
+      "properties": [
+        "+73% Enhanced Defense",
+        "Fire Resist +5%",
+        "Lightning Resist +5%",
+        "Cold Resist +5%",
+        "Poison Resist +5%",
+        "24% Better Chance of Getting Magic Items",
+        "Requirements -40%",
+        "+2 Cold Absorb (Based on Character Level)"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Deathbit",
+      "properties": [
+        "+178% Enhanced Damage",
+        "+253 to Attack rating",
+        "8% Life Stolen Per Hit",
+        "4% Mana Stolen Per Hit",
+        "40% Deadly Strike",
+        "Replenishes Quantity"
+      ],
+      "type": "unique"
+    }
+  ],
+  "runes": [],
+  "rings": [],
+  "belts": [],
+  "amulets": [],
+  "charms_small": [],
+  "charms_large": [],
+  "charms_grand": [],
+  "weapons": [
+    {
+      "name": "Short Staff",
+      "properties": [
+        "+1 To Fire Bolt"
+      ]
+    }
+  ],
+  "armors": [],
+  "other": [
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    {
+      "name": "Stone Greave",
+      "properties": [
+        "+70% Enhanced Defense",
+        "Cold Resist +12%",
+        "Poison Resist +12%",
+        "20% Faster Run/Walk",
+        "10% Chance to Cast Level 3 Charged Bolt When Struck",
+        "Repairs 1 Durability in 3 Seconds"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "account": "zgan",
+  "charfile": "andruid",
+  "charname": "ANDRUID",
+  "generated": "2025-12-17 12:11:09",
+  "char_stats": {
+    "level": 12,
+    "class": "Druid",
+    "is_hc": false,
+    "is_ladder": true,
+    "progression": 0,
+    "char_name_raw": "ANDRUID",
+    "strength": 32,
+    "energy": 20,
+    "dexterity": 33,
+    "vitality": 50,
+    "unused_stats": 0,
+    "unused_skills": 1,
+    "current_hp": 131.5,
+    "max_hp": 121.5,
+    "current_mana": 42.0,
+    "max_mana": 42.0,
+    "current_stamina": 120.0,
+    "max_stamina": 120.0,
+    "experience": 104582,
+    "gold": 777,
+    "stashed_gold": 63503
+  },
+  "unique_set": [
+    {
+      "name": "Snakecord",
+      "properties": [
+        "+21% Enhanced Defense",
+        "+10 Defense",
+        "Poison Resist +25%",
+        "Adds 40-40 Poison Damage over 75 Seconds",
+        "Replenish Life +5",
+        "Poison Length Reduced by 50%"
+      ],
+      "type": "unique"
+    }
+  ],
+  "runes": [],
+  "rings": [
+    {
+      "name": "Strength",
+      "properties": [
+        "+1 to Strength"
+      ]
+    },
+    {
+      "name": "Steel",
+      "properties": [
+        "+43 to Attack rating"
+      ]
+    }
+  ],
+  "belts": [],
+  "amulets": [],
+  "charms_small": [
+    {
+      "name": "Crimson Life",
+      "properties": [
+        "+10 to Life",
+        "Fire Resist +5%"
+      ]
+    },
+    {
+      "name": "Strength",
+      "properties": [
+        "+1 to Strength"
+      ]
+    }
+  ],
+  "charms_large": [],
+  "charms_grand": [],
+  "weapons": [],
+  "armors": [
+    {
+      "name": "Hard Leather Armor",
+      "properties": [
+        "+10 to Life"
+      ]
+    },
+    {
+      "name": "Sturdy Charged Shield",
+      "properties": [
+        "+16% Enhanced Defense",
+        "10% Chance to Cast Level 3 Charged Bolt When Struck"
+      ]
+    }
+  ],
+  "other": [
+    "Town Portal Book",
+    "Identify Book",
+    "Skeleton Key",
+    "Lesser Mana Potion",
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    {
+      "name": "Storm Song",
+      "properties": [
+        "+16% Enhanced Damage",
+        "+1 to Minimum 2-handed damage",
+        "+1 to Maximum 2-handed damage",
+        "5% Life Stolen Per Hit",
+        "+36% Damage to Undead",
+        "+66 to Attack Rating against Undead"
+      ]
+    },
+    {
+      "name": "Sturdy",
+      "properties": [
+        "+14% Enhanced Defense"
+      ]
+    },
+    {
+      "name": "Sturdy",
+      "properties": [
+        "+18% Enhanced Defense"
+      ]
+    },
+    {
+      "name": "Heavy Boots",
+      "properties": [
+        "Increase Maximum Durability 13%"
+      ]
+    },
+    {
+      "name": "Jagged",
+      "properties": [
+        "+1 to Maximum 1-handed damage"
+      ]
+    }
+  ]
+}

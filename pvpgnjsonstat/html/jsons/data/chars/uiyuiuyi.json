@@ -1,0 +1,281 @@
+{
+  "account": "zliazubb",
+  "charfile": "uiyuiuyi",
+  "charname": "uiyuiuyi",
+  "generated": "2025-12-17 12:11:09",
+  "char_stats": {
+    "level": 1,
+    "class": "Barbarian",
+    "is_hc": false,
+    "is_ladder": true,
+    "progression": 0,
+    "char_name_raw": "uiyuiuyi",
+    "strength": 30,
+    "energy": 10,
+    "dexterity": 20,
+    "vitality": 25,
+    "unused_stats": 0,
+    "unused_skills": 0,
+    "current_hp": 55.0,
+    "max_hp": 55.0,
+    "current_mana": 10.0,
+    "max_mana": 10.0,
+    "current_stamina": 92.0,
+    "max_stamina": 92.0,
+    "experience": 0,
+    "gold": 0,
+    "stashed_gold": 0
+  },
+  "unique_set": [
+    {
+      "name": "Bonehew",
+      "properties": [
+        "+287% Enhanced Damage",
+        "30% Increased Attack Speed",
+        "Prevent Monster Heal",
+        "50% Chance to Cast Level 16 Bone Spear On Striking",
+        "Level 14 Corpse Explosion (25/30 Charges)",
+        "Requirements -20%",
+        "7% Life Stolen Per Hit"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Buriza-Do Kyanon",
+      "properties": [
+        "+35 to Dexterity",
+        "+199% Enhanced Damage",
+        "+116 Defense",
+        "Adds 32-196 Cold Damage",
+        "80% Increased Attack Speed",
+        "Freezes Target +3",
+        "Piercing Attack",
+        "+20 to Maximum Damage (Based on Character Level)"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Jalal's Mane",
+      "properties": [
+        "+20 to Strength",
+        "+20 to Energy",
+        "+198% Enhanced Defense",
+        "Fire Resist +30%",
+        "Lightning Resist +30%",
+        "Cold Resist +30%",
+        "Poison Resist +30%",
+        "+2 to Druid Skill Levels",
+        "30% Faster Hit Recovery",
+        "20% Bonus to Attack Rating",
+        "+5 to Mana After Each Kill",
+        "+2 to Shape Shifting Skills (Druid only)"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Angelic Sickle",
+      "properties": [
+        "+75 to Attack rating",
+        "+250% Damage to Undead"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Moser's Blessed Circle",
+      "properties": [
+        "+208% Enhanced Defense",
+        "+25% Increased chance of blocking",
+        "Fire Resist +25%",
+        "Lightning Resist +25%",
+        "Cold Resist +25%",
+        "Poison Resist +25%",
+        "30% Faster Block Rate"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Natalya's Soul",
+      "properties": [
+        "+93 Defense",
+        "Lightning Resist +18%",
+        "Cold Resist +24%",
+        "+50 Maximum Durability",
+        "40% Faster Run/Walk",
+        "eal Stamina Plus 2% (Based on Character Level)"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Rite of Passage",
+      "properties": [
+        "+24 to Maximum Stamina",
+        "+25 Defense",
+        "30% Faster Run/Walk",
+        "Half Freeze Duration"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Chance Guards",
+      "properties": [
+        "+27% Enhanced Defense",
+        "+25 to Attack rating",
+        "+15 Defense",
+        "200% Extra Gold from Monsters",
+        "39% Better Chance of Getting Magic Items",
+        "+2 to Light Radius"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Kira's Guardian",
+      "properties": [
+        "+83 Defense",
+        "Fire Resist +65%",
+        "Lightning Resist +65%",
+        "Cold Resist +65%",
+        "Poison Resist +65%",
+        "20% Faster Hit Recovery",
+        "Cannot Be Frozen"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Titan's Revenge",
+      "properties": [
+        "+20 to Strength",
+        "+20 to Dexterity",
+        "+186% Enhanced Damage",
+        "+25 to Minimum 1-handed damage",
+        "+50 to Maximum 1-handed damage",
+        "5% Life Stolen Per Hit",
+        "+2 to Amazon Skill Levels",
+        "30% Faster Run/Walk",
+        "+25 to Minimum Throw Damage",
+        "+50 to Maximum Throw Damage",
+        "+2 to Javelin and Spear Skills (Amazon only)",
+        "Replenishes Quantity",
+        "Increased Stack Size"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Kira's Guardian",
+      "properties": [
+        "+89 Defense",
+        "Fire Resist +62%",
+        "Lightning Resist +62%",
+        "Cold Resist +62%",
+        "Poison Resist +62%",
+        "20% Faster Hit Recovery",
+        "Cannot Be Frozen"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Jade Talon",
+      "properties": [
+        "+195% Enhanced Damage",
+        "Fire Resist +43%",
+        "Lightning Resist +43%",
+        "Cold Resist +43%",
+        "Poison Resist +43%",
+        "13% Mana Stolen Per Hit",
+        "30% Faster Hit Recovery",
+        "+1 to Shadow Disciplines (Assassin only)",
+        "+2 to Martial Arts (Assassin only)"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Hwanin's Splendor",
+      "properties": [
+        "+100% Enhanced Defense",
+        "Magic Damage Reduced by 10",
+        "Cold Resist +37%",
+        "Replenish Life +20"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Frostburn",
+      "properties": [
+        "+10% Enhanced Defense",
+        "+5% Enhanced Damage",
+        "+30 Defense",
+        "Adds 1-6 Cold Damage",
+        "Increase Maximum Mana 40%"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Aldur's Deception",
+      "properties": [
+        "+20 to Strength",
+        "+15 to Dexterity",
+        "+300 Defense",
+        "Lightning Resist +48%",
+        "Requirements -50%",
+        "+1 to Shape Shifting Skills (Druid only)",
+        "+1 to Elemental Skills (Druid only)"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Wilhelm's Pride",
+      "properties": [
+        "+75% Enhanced Defense",
+        "Cold Resist +10%",
+        "5% Life Stolen Per Hit",
+        "5% Mana Stolen Per Hit"
+      ],
+      "type": "set"
+    }
+  ],
+  "runes": [],
+  "rings": [],
+  "belts": [],
+  "amulets": [],
+  "charms_small": [],
+  "charms_large": [],
+  "charms_grand": [],
+  "weapons": [
+    "Cryptic Axe",
+    "Hand Axe"
+  ],
+  "armors": [],
+  "other": [
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Town Portal Scroll",
+    {
+      "name": "Storm Nails",
+      "properties": [
+        "+5 to Dexterity",
+        "+27% Enhanced Defense",
+        "Poison Resist +40%",
+        "24% Better Chance of Getting Magic Items",
+        "30% Faster Run/Walk"
+      ]
+    },
+    "Identify Scroll",
+    {
+      "name": "Blood Gyre",
+      "properties": [
+        "+11 to Energy",
+        "+14 to Life",
+        "Magic Damage Reduced by 3",
+        "Fire Resist +5%",
+        "Lightning Resist +34%",
+        "+2 to Sorceress Skill Levels",
+        "+1 To Teleport",
+        "+1 To Meteor",
+        "+2 To Frozen Orb",
+        "Level 3 Meteor (41/41 Charges)"
+      ]
+    },
+    "Buckler"
+  ]
+}

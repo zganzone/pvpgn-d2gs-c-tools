@@ -1,0 +1,406 @@
+{
+  "account": "zliazubb",
+  "charfile": "gfhfghfghfghf",
+  "charname": "gfhfghfghfghf",
+  "generated": "2025-12-17 12:11:09",
+  "char_stats": {
+    "level": 1,
+    "class": "Necromancer",
+    "is_hc": false,
+    "is_ladder": true,
+    "progression": 0,
+    "char_name_raw": "gfhfghfghfghf",
+    "strength": 15,
+    "energy": 25,
+    "dexterity": 25,
+    "vitality": 15,
+    "unused_stats": 0,
+    "unused_skills": 0,
+    "current_hp": 45.0,
+    "max_hp": 45.0,
+    "current_mana": 25.0,
+    "max_mana": 25.0,
+    "current_stamina": 79.0,
+    "max_stamina": 79.0,
+    "experience": 0,
+    "gold": 0,
+    "stashed_gold": 0
+  },
+  "unique_set": [],
+  "runes": [],
+  "rings": [],
+  "belts": [],
+  "amulets": [],
+  "charms_small": [
+    {
+      "name": "Steel Vita",
+      "properties": [
+        "+18 to Life",
+        "+27 to Attack rating"
+      ]
+    },
+    {
+      "name": "Vita",
+      "properties": [
+        "+20 to Life"
+      ]
+    },
+    {
+      "name": "Vita",
+      "properties": [
+        "+18 to Life"
+      ]
+    },
+    {
+      "name": "Crimson Balance",
+      "properties": [
+        "Fire Resist +4%",
+        "5% Faster Hit Recovery"
+      ]
+    },
+    {
+      "name": "Toxic",
+      "properties": [
+        "Adds 205-205 Poison Damage over 125 Seconds"
+      ]
+    },
+    {
+      "name": "Coral",
+      "properties": [
+        "Lightning Resist +8%"
+      ]
+    },
+    {
+      "name": "Coral Strength",
+      "properties": [
+        "+2 to Strength",
+        "Lightning Resist +8%"
+      ]
+    },
+    {
+      "name": "Coral Substinence",
+      "properties": [
+        "+13 to Life",
+        "Lightning Resist +9%"
+      ]
+    },
+    {
+      "name": "Balance",
+      "properties": [
+        "5% Faster Hit Recovery"
+      ]
+    },
+    {
+      "name": "Cobalt",
+      "properties": [
+        "Cold Resist +9%"
+      ]
+    },
+    {
+      "name": "Snake's Balance",
+      "properties": [
+        "+11 to Mana",
+        "5% Faster Hit Recovery"
+      ]
+    },
+    {
+      "name": "Iron Vita",
+      "properties": [
+        "+18 to Life",
+        "+24 to Attack rating"
+      ]
+    },
+    {
+      "name": "Lizard's Good Luck",
+      "properties": [
+        "+3 to Mana",
+        "6% Better Chance of Getting Magic Items"
+      ]
+    },
+    {
+      "name": "Vita",
+      "properties": [
+        "+18 to Life"
+      ]
+    },
+    {
+      "name": "Beryl",
+      "properties": [
+        "Poison Resist +4%"
+      ]
+    },
+    {
+      "name": "Cobalt",
+      "properties": [
+        "Cold Resist +9%"
+      ]
+    },
+    {
+      "name": "Balance",
+      "properties": [
+        "5% Faster Hit Recovery"
+      ]
+    },
+    {
+      "name": "Russet",
+      "properties": [
+        "Fire Resist +7%"
+      ]
+    },
+    {
+      "name": "Bronze Fortune",
+      "properties": [
+        "+3 to Attack rating",
+        "5% Better Chance of Getting Magic Items"
+      ]
+    },
+    {
+      "name": "Viridian",
+      "properties": [
+        "Poison Resist +7%"
+      ]
+    },
+    {
+      "name": "Sapphire",
+      "properties": [
+        "Cold Resist +10%"
+      ]
+    },
+    {
+      "name": "Cobalt",
+      "properties": [
+        "Cold Resist +8%"
+      ]
+    },
+    {
+      "name": "Russet Shock",
+      "properties": [
+        "Fire Resist +7%",
+        "Adds 1-4 Lightning Damage"
+      ]
+    },
+    {
+      "name": "Sapphire Pestilence",
+      "properties": [
+        "Cold Resist +10%",
+        "Adds 52-52 Poison Damage over 125 Seconds"
+      ]
+    },
+    {
+      "name": "Vita",
+      "properties": [
+        "+19 to Life"
+      ]
+    },
+    {
+      "name": "Lapis Strength",
+      "properties": [
+        "+1 to Strength",
+        "Cold Resist +7%"
+      ]
+    },
+    {
+      "name": "Russet Substinence",
+      "properties": [
+        "+15 to Life",
+        "Fire Resist +7%"
+      ]
+    },
+    {
+      "name": "Balance",
+      "properties": [
+        "5% Faster Hit Recovery"
+      ]
+    },
+    {
+      "name": "Balance",
+      "properties": [
+        "5% Faster Hit Recovery"
+      ]
+    },
+    {
+      "name": "Stout Balance",
+      "properties": [
+        "+7 Defense",
+        "5% Faster Hit Recovery"
+      ]
+    },
+    {
+      "name": "Toxic",
+      "properties": [
+        "Adds 205-205 Poison Damage over 125 Seconds"
+      ]
+    },
+    {
+      "name": "Azure Fortune",
+      "properties": [
+        "Cold Resist +4%",
+        "5% Better Chance of Getting Magic Items"
+      ]
+    },
+    {
+      "name": "Steel Fortune",
+      "properties": [
+        "+26 to Attack rating",
+        "5% Better Chance of Getting Magic Items"
+      ]
+    },
+    {
+      "name": "Vita",
+      "properties": [
+        "+20 to Life"
+      ]
+    },
+    {
+      "name": "Good Luck",
+      "properties": [
+        "6% Better Chance of Getting Magic Items"
+      ]
+    },
+    {
+      "name": "Amber",
+      "properties": [
+        "Lightning Resist +10%"
+      ]
+    }
+  ],
+  "charms_large": [
+    {
+      "name": "Sapphire",
+      "properties": [
+        "Cold Resist +15%"
+      ]
+    },
+    {
+      "name": "Pestilent Quality",
+      "properties": [
+        "+2 to Maximum 1-handed damage",
+        "+2 to Maximum 2-handed damage",
+        "Adds 299-299 Poison Damage over 150 Seconds",
+        "+2 to Maximum Throw Damage"
+      ]
+    }
+  ],
+  "charms_grand": [
+    {
+      "name": "Hexing Inertia",
+      "properties": [
+        "7% Faster Run/Walk",
+        "+1 to Curses (Necromancer only)"
+      ]
+    },
+    {
+      "name": "Nature's Balance",
+      "properties": [
+        "12% Faster Hit Recovery",
+        "+1 to Elemental Skills (Druid only)"
+      ]
+    },
+    {
+      "name": "Trainer's",
+      "properties": [
+        "+1 to Summoning Skills (Druid only)"
+      ]
+    },
+    {
+      "name": "Spiritual Dexterity",
+      "properties": [
+        "+4 to Dexterity",
+        "+1 to Shape Shifting Skills (Druid only)"
+      ]
+    },
+    {
+      "name": "Fletcher's Strength",
+      "properties": [
+        "+6 to Strength",
+        "+1 to Bow and Crossbow Skills (Amazon only)"
+      ]
+    },
+    {
+      "name": "Graverobber's Dexterity",
+      "properties": [
+        "+4 to Dexterity",
+        "+1 to Summoning Skills (Necromancer only)"
+      ]
+    },
+    {
+      "name": "Fletcher's Life",
+      "properties": [
+        "+18 to Life",
+        "+1 to Bow and Crossbow Skills (Amazon only)"
+      ]
+    },
+    {
+      "name": "Hexing Dexterity",
+      "properties": [
+        "+3 to Dexterity",
+        "+1 to Curses (Necromancer only)"
+      ]
+    },
+    {
+      "name": "Fletcher's Greed",
+      "properties": [
+        "31% Extra Gold from Monsters",
+        "+1 to Bow and Crossbow Skills (Amazon only)"
+      ]
+    },
+    {
+      "name": "Mentalist's Winter",
+      "properties": [
+        "Adds 5-8 Cold Damage",
+        "+1 to Shadow Disciplines (Assassin only)"
+      ]
+    },
+    {
+      "name": "Shogukusha's",
+      "properties": [
+        "+1 to Martial Arts (Assassin only)"
+      ]
+    },
+    {
+      "name": "Amber Greed",
+      "properties": [
+        "Lightning Resist +30%",
+        "22% Extra Gold from Monsters"
+      ]
+    },
+    {
+      "name": "Acrobat's",
+      "properties": [
+        "+1 to Passive and Magic Skills (Amazon only)"
+      ]
+    },
+    {
+      "name": "Burning",
+      "properties": [
+        "+1 to Fire Spells (Sorceress only)"
+      ]
+    },
+    {
+      "name": "Nature's",
+      "properties": [
+        "+1 to Elemental Skills (Druid only)"
+      ]
+    },
+    {
+      "name": "Fletcher's",
+      "properties": [
+        "+1 to Bow and Crossbow Skills (Amazon only)"
+      ]
+    }
+  ],
+  "weapons": [],
+  "armors": [],
+  "other": [
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    {
+      "name": "Wand",
+      "properties": [
+        "+1 To Raise Skeleton"
+      ]
+    }
+  ]
+}

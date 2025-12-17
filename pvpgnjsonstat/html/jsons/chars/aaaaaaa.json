@@ -1,0 +1,258 @@
+{
+  "account": "zliazubbb",
+  "charfile": "aaaaaaa",
+  "charname": "aaaaaaa",
+  "generated": "2025-12-17 13:31:09",
+  "char_stats": {
+    "level": 1,
+    "class": "Barbarian",
+    "is_hc": false,
+    "is_ladder": true,
+    "progression": 0,
+    "char_name_raw": "aaaaaaa",
+    "strength": 30,
+    "energy": 10,
+    "dexterity": 20,
+    "vitality": 25,
+    "unused_stats": 0,
+    "unused_skills": 0,
+    "current_hp": 55.0,
+    "max_hp": 55.0,
+    "current_mana": 10.0,
+    "max_mana": 10.0,
+    "current_stamina": 92.0,
+    "max_stamina": 92.0,
+    "experience": 0,
+    "gold": 0,
+    "stashed_gold": 0
+  },
+  "unique_set": [
+    {
+      "name": "Andariel's Visage",
+      "properties": [
+        "+27 to Strength",
+        "+101% Enhanced Defense",
+        "Fire Resist +-30%",
+        "Poison Resist +70%",
+        "+10% to Maximum Poison Resist",
+        "8% Life Stolen Per Hit",
+        "20% Increased Attack Speed",
+        "+2 to All Skill Levels",
+        "15% Chance to Cast Level 15 Poison Nova When Struck",
+        "Level 3 Venom (5/20 Charges)"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Tarnhelm",
+      "properties": [
+        "75% Extra Gold from Monsters",
+        "43% Better Chance of Getting Magic Items",
+        "+1 to All Skill Levels"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Jalal's Mane",
+      "properties": [
+        "+20 to Strength",
+        "+20 to Energy",
+        "+153% Enhanced Defense",
+        "Fire Resist +30%",
+        "Lightning Resist +30%",
+        "Cold Resist +30%",
+        "Poison Resist +30%",
+        "+2 to Druid Skill Levels",
+        "30% Faster Hit Recovery",
+        "20% Bonus to Attack Rating",
+        "+5 to Mana After Each Kill",
+        "+2 to Shape Shifting Skills (Druid only)"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Sazabi's Mental Sheath",
+      "properties": [
+        "+100 Defense",
+        "Fire Resist +19%",
+        "Lightning Resist +17%",
+        "+1 to All Skill Levels"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Naj's Puzzler",
+      "properties": [
+        "+35 to Energy",
+        "+70 to Mana",
+        "+150% Enhanced Damage",
+        "Adds 6-45 Lightning Damage",
+        "30% Faster Cast Rate",
+        "+1 to All Skill Levels",
+        "Level 11 Teleport (32/69 Charges)"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Harlequin Crest",
+      "properties": [
+        "+2 to Strength",
+        "+2 to Energy",
+        "+2 to Dexterity",
+        "+2 to Vitality",
+        "Damage Reduced by 10%",
+        "50% Better Chance of Getting Magic Items",
+        "+2 to All Skill Levels",
+        "+12 to Life (Based on Character Level)",
+        "+12 to Mana (Based on Character Level)"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Cerebus' Bite",
+      "properties": [
+        "+137% Enhanced Defense",
+        "9% Life Stolen Per Hit",
+        "+2 To Feral Rage",
+        "68% Bonus to Attack Rating",
+        "33% Chance of Open Wounds",
+        "+2 to Shape Shifting Skills (Druid only)"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Naj's Light Plate",
+      "properties": [
+        "+65 to Life",
+        "+300 Defense",
+        "Fire Resist +25%",
+        "Lightning Resist +25%",
+        "Cold Resist +25%",
+        "Poison Resist +25%",
+        "Requirements -60%",
+        "45% Damage Taken Goes to Mana",
+        "+1 to All Skill Levels"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Trang-Oul's Claws",
+      "properties": [
+        "+30 Defense",
+        "Cold Resist +30%",
+        "20% Faster Cast Rate",
+        "+2 to Curses (Necromancer only)",
+        "25% To Poison Skill Damage"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Immortal King's Forge",
+      "properties": [
+        "+20 to Strength",
+        "+20 to Dexterity",
+        "+65 Defense",
+        "12% Chance to Cast Level 4 Charged Bolt When Struck"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Dracul's Grasp",
+      "properties": [
+        "+13 to Strength",
+        "+103% Enhanced Defense",
+        "10% Life Stolen Per Hit",
+        "+6 Life After Each Kill",
+        "25% Chance of Open Wounds",
+        "5% Chance to Cast Level 10 Life Tap On Striking"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Astreon's Iron Ward",
+      "properties": [
+        "+287% Enhanced Damage",
+        "Damage Reduced by 7",
+        "Adds 80-240 Magic Damage",
+        "10% Increased Attack Speed",
+        "Damage +62",
+        "194% Bonus to Attack Rating",
+        "33% Chance of Crushing Blow",
+        "Slows Target by 25%",
+        "+4 to Combat Skills (Paladin only)"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Titan's Revenge",
+      "properties": [
+        "+20 to Strength",
+        "+20 to Dexterity",
+        "+198% Enhanced Damage",
+        "+25 to Minimum 1-handed damage",
+        "+50 to Maximum 1-handed damage",
+        "6% Life Stolen Per Hit",
+        "+2 to Amazon Skill Levels",
+        "30% Faster Run/Walk",
+        "+25 to Minimum Throw Damage",
+        "+50 to Maximum Throw Damage",
+        "+2 to Javelin and Spear Skills (Amazon only)",
+        "Replenishes Quantity",
+        "Increased Stack Size"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Ravenlore",
+      "properties": [
+        "+23 to Energy",
+        "+141% Enhanced Defense",
+        "Fire Resist +18%",
+        "Lightning Resist +18%",
+        "Cold Resist +18%",
+        "Poison Resist +18%",
+        "+7 To Raven",
+        "+3 to Elemental Skills (Druid only)",
+        "-14% To Enemy Fire Resistance"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Stormshield",
+      "properties": [
+        "+30 to Strength",
+        "+25% Increased chance of blocking",
+        "Damage Reduced by 35%",
+        "Lightning Resist +25%",
+        "Cold Resist +60%",
+        "35% Faster Block Rate",
+        "Attacker Takes Lightning Damage of 10",
+        "Indestructible",
+        "+30 to Defense (Based on Character Level)",
+        "Fire Resist +22%",
+        "Lightning Resist +22%",
+        "Cold Resist +22%",
+        "Poison Resist +22%"
+      ],
+      "type": "unique"
+    }
+  ],
+  "runes": [],
+  "rings": [],
+  "belts": [],
+  "amulets": [],
+  "charms_small": [],
+  "charms_large": [],
+  "charms_grand": [],
+  "weapons": [
+    "Hand Axe"
+  ],
+  "armors": [],
+  "other": [
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Buckler"
+  ]
+}

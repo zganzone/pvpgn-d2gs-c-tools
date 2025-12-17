@@ -1,0 +1,363 @@
+{
+  "account": "zgan2",
+  "charfile": "palqk",
+  "charname": "palqk",
+  "generated": "2025-12-17 13:31:09",
+  "char_stats": {
+    "level": 26,
+    "class": "Paladin",
+    "is_hc": false,
+    "is_ladder": true,
+    "progression": 5,
+    "char_name_raw": "palqk",
+    "strength": 56,
+    "energy": 15,
+    "dexterity": 26,
+    "vitality": 98,
+    "unused_stats": 20,
+    "unused_skills": 5,
+    "current_hp": 76.4140625,
+    "max_hp": 344.0,
+    "current_mana": 78.96875,
+    "max_mana": 52.5,
+    "current_stamina": 217.3671875,
+    "max_stamina": 187.0,
+    "experience": 2361532,
+    "gold": 765,
+    "stashed_gold": 128953
+  },
+  "unique_set": [
+    {
+      "name": "Civerb's Icon",
+      "properties": [
+        "Regenerate Mana 40%",
+        "Replenish Life +4"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Bloodthief",
+      "properties": [
+        "+10 to Strength",
+        "+26 to Life",
+        "+68% Enhanced Damage",
+        "8% Life Stolen Per Hit",
+        "35% Chance of Open Wounds"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Ginther's Rift",
+      "properties": [
+        "+108% Enhanced Damage",
+        "Magic Damage Reduced by 10",
+        "Adds 50-120 Magic Damage",
+        "+40 Maximum Durability",
+        "30% Increased Attack Speed",
+        "Repairs 1 Durability in 20 Seconds"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Angelic Halo",
+      "properties": [
+        "+20 to Life",
+        "Replenish Life +6"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Hexfire",
+      "properties": [
+        "+156% Enhanced Damage",
+        "+35 to Minimum 1-handed damage",
+        "+40 to Maximum 1-handed damage",
+        "Fire Resist +25%",
+        "+10% to Maximum Fire Resist",
+        "Ignore Target Defense",
+        "+1 to Fire Skills",
+        "Level 6 Hydra (11/36 Charges)"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Frostburn",
+      "properties": [
+        "+11% Enhanced Defense",
+        "+5% Enhanced Damage",
+        "+30 Defense",
+        "Adds 1-6 Cold Damage",
+        "Increase Maximum Mana 40%"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "The Hand of Broc",
+      "properties": [
+        "+20 to Mana",
+        "+19% Enhanced Defense",
+        "+10 Defense",
+        "Poison Resist +10%",
+        "3% Life Stolen Per Hit",
+        "3% Mana Stolen Per Hit"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Magefist",
+      "properties": [
+        "+24% Enhanced Defense",
+        "Regenerate Mana 25%",
+        "+10 Defense",
+        "Adds 1-6 Fire Damage",
+        "20% Faster Cast Rate",
+        "+1 to Fire Skills"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Bverrit Keep",
+      "properties": [
+        "+5 to Strength",
+        "+91% Enhanced Defense",
+        "+10% Increased chance of blocking",
+        "+30 Defense",
+        "Magic Damage Reduced by 5",
+        "Fire Resist +75%",
+        "+83 Maximum Durability"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Spectral Shard",
+      "properties": [
+        "+50 to Mana",
+        "+55 to Attack rating",
+        "Fire Resist +10%",
+        "Lightning Resist +10%",
+        "Cold Resist +10%",
+        "Poison Resist +10%",
+        "50% Faster Cast Rate"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Umbral Disk",
+      "properties": [
+        "+10 to Dexterity",
+        "+20 to Life",
+        "+42% Enhanced Defense",
+        "+30% Increased chance of blocking",
+        "+30 Defense",
+        "+13 Maximum Durability",
+        "+-2 to Light Radius",
+        "Hit Blinds Target +1"
+      ],
+      "type": "unique"
+    }
+  ],
+  "runes": [],
+  "rings": [
+    {
+      "name": "Beast Grip",
+      "properties": [
+        "+6 to Energy",
+        "+8 to Dexterity",
+        "+63 to Attack rating",
+        "Fire Resist +19%",
+        "Poison Resist +11%"
+      ]
+    },
+    {
+      "name": "Dread Spiral",
+      "properties": [
+        "+5 to Energy",
+        "+3 to Dexterity",
+        "+103 to Attack rating",
+        "+2 to Minimum 1-handed damage",
+        "+2 to Minimum 2-handed damage",
+        "Poison Resist +14%",
+        "+2 to Minimum Throw Damage"
+      ]
+    }
+  ],
+  "belts": [],
+  "amulets": [
+    {
+      "name": "Bronze",
+      "properties": [
+        "+17 to Attack rating"
+      ]
+    }
+  ],
+  "charms_small": [
+    {
+      "name": "Rugged Life",
+      "properties": [
+        "+6 to Life",
+        "+8 to Maximum Stamina"
+      ]
+    },
+    {
+      "name": "Rugged Good Luck",
+      "properties": [
+        "+6 to Maximum Stamina",
+        "6% Better Chance of Getting Magic Items"
+      ]
+    },
+    {
+      "name": "Strength",
+      "properties": [
+        "+1 to Strength"
+      ]
+    }
+  ],
+  "charms_large": [
+    {
+      "name": "Strength",
+      "properties": [
+        "+3 to Strength"
+      ]
+    },
+    {
+      "name": "Rugged Greed",
+      "properties": [
+        "+13 to Maximum Stamina",
+        "8% Extra Gold from Monsters"
+      ]
+    },
+    {
+      "name": "Lizard's Life",
+      "properties": [
+        "+10 to Life",
+        "+6 to Mana"
+      ]
+    }
+  ],
+  "charms_grand": [
+    {
+      "name": "Life",
+      "properties": [
+        "+10 to Life"
+      ]
+    }
+  ],
+  "weapons": [],
+  "armors": [
+    "Breast Plate"
+  ],
+  "other": [
+    "Horadric Cube",
+    "Mephisto Soul Stone",
+    {
+      "name": "Havoc Cowl",
+      "properties": [
+        "+2 to Energy",
+        "+23% Enhanced Defense",
+        "Fire Resist +6%",
+        "Poison Resist +8%",
+        "10% Faster Hit Recovery",
+        "Repairs 1 Durability in 3 Seconds"
+      ]
+    },
+    {
+      "name": "Stealth",
+      "properties": [
+        "+6 to Dexterity",
+        "+15 to Maximum Stamina",
+        "Magic Damage Reduced by 3",
+        "25% Faster Run/Walk",
+        "25% Faster Hit Recovery",
+        "25% Faster Cast Rate",
+        "Poison Resist +35%",
+        "Regenerate Mana 15%"
+      ]
+    },
+    {
+      "name": "Storm Blazer",
+      "properties": [
+        "+1 to Dexterity",
+        "+26% Enhanced Defense",
+        "+15 to Attack rating",
+        "Poison Resist +5%",
+        "+2 to Light Radius"
+      ]
+    },
+    "Identify Book",
+    {
+      "name": "Grand Scepter",
+      "properties": [
+        "+2 To Concentration"
+      ]
+    },
+    {
+      "name": "Thorns",
+      "properties": [
+        "Attacker Takes Damage of 1"
+      ]
+    },
+    "Strong Healing Potion",
+    "Strong Healing Potion",
+    "Strong Healing Potion",
+    "Strong Healing Potion",
+    "Strong Healing Potion",
+    "Strong Healing Potion",
+    "Town Portal Book",
+    "Mana Potion",
+    "Greater Mana Potion",
+    "Strong Mana Potion",
+    "Greater Mana Potion",
+    "Strong Mana Potion",
+    "Strong Mana Potion",
+    {
+      "name": "Steel",
+      "properties": [
+        "+20% Enhanced Damage",
+        "+3 to Minimum 1-handed damage",
+        "+3 to Maximum 1-handed damage",
+        "+3 to Minimum 2-handed damage",
+        "+3 to Maximum 2-handed damage",
+        "25% Increased Attack Speed",
+        "50% Chance of Open Wounds",
+        "+3 to Minimum Throw Damage",
+        "+3 to Maximum Throw Damage",
+        "+2 to Mana After Each Kill",
+        "+50 to Attack rating",
+        "+1 to Light Radius"
+      ]
+    },
+    "Mana Potion",
+    "Strong Mana Potion",
+    "Strong Mana Potion",
+    "Strong Healing Potion",
+    "Strong Healing Potion",
+    "Healing Potion",
+    "Strong Healing Potion",
+    "Strong Healing Potion",
+    {
+      "name": "War Scepter",
+      "properties": [
+        "+2 to Attack rating",
+        "Increase Maximum Durability 11%",
+        "+3 To Thorns",
+        "+1 To Blessed Aim",
+        "+2 To Blessed Hammer"
+      ]
+    },
+    {
+      "name": "Gale Wing",
+      "properties": [
+        "+3 to Mana",
+        "+12% Enhanced Defense",
+        "+10% Increased chance of blocking",
+        "Fire Resist +15%",
+        "Lightning Resist +5%",
+        "Cold Resist +5%",
+        "Poison Resist +5%",
+        "Attacker Takes Damage of 1",
+        "15% Faster Block Rate",
+        "Repairs 1 Durability in 3 Seconds"
+      ]
+    }
+  ]
+}

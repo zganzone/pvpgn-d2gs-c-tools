@@ -1,0 +1,181 @@
+{
+  "account": "zgan2",
+  "charfile": "zgansasin",
+  "charname": "ZGANSASIN",
+  "generated": "2025-12-17 12:11:09",
+  "char_stats": {
+    "level": 9,
+    "class": "Assassin",
+    "is_hc": false,
+    "is_ladder": true,
+    "progression": 3,
+    "char_name_raw": "ZGANSASIN",
+    "strength": 36,
+    "energy": 25,
+    "dexterity": 34,
+    "vitality": 35,
+    "unused_stats": 0,
+    "unused_skills": 5,
+    "current_hp": 111.0,
+    "max_hp": 111.0,
+    "current_mana": 37.0,
+    "max_mana": 37.0,
+    "current_stamina": 142.75,
+    "max_stamina": 123.75,
+    "experience": 52914,
+    "gold": 1506,
+    "stashed_gold": 5163
+  },
+  "unique_set": [],
+  "runes": [],
+  "rings": [
+    {
+      "name": "Bronze Craftsmanship",
+      "properties": [
+        "+20 to Attack rating",
+        "+1 to Maximum 1-handed damage",
+        "+1 to Maximum 2-handed damage",
+        "+1 to Maximum Throw Damage"
+      ]
+    },
+    {
+      "name": "Bronze",
+      "properties": [
+        "+14 to Attack rating"
+      ]
+    },
+    {
+      "name": "Chaos Band",
+      "properties": [
+        "Magic Damage Reduced by 2",
+        "Cold Resist +25%",
+        "26% Extra Gold from Monsters"
+      ]
+    },
+    {
+      "name": "Shimmering",
+      "properties": [
+        "Fire Resist +5%",
+        "Lightning Resist +5%",
+        "Cold Resist +5%",
+        "Poison Resist +5%"
+      ]
+    }
+  ],
+  "belts": [
+    "Light Belt"
+  ],
+  "amulets": [
+    {
+      "name": "Luck",
+      "properties": [
+        "31% Better Chance of Getting Magic Items"
+      ]
+    },
+    {
+      "name": "Shaman's Regrowth",
+      "properties": [
+        "Replenish Life +8",
+        "+1 to Druid Skill Levels"
+      ]
+    },
+    {
+      "name": "Magekiller's",
+      "properties": [
+        "+1 to Assassin Skill Levels"
+      ]
+    },
+    {
+      "name": "Beryl Craftsmanship",
+      "properties": [
+        "+1 to Maximum 1-handed damage",
+        "+1 to Maximum 2-handed damage",
+        "Poison Resist +5%",
+        "+1 to Maximum Throw Damage"
+      ]
+    }
+  ],
+  "charms_small": [],
+  "charms_large": [],
+  "charms_grand": [
+    {
+      "name": "Entrapping",
+      "properties": [
+        "+1 to Traps (Assassin only)"
+      ]
+    }
+  ],
+  "weapons": [],
+  "armors": [],
+  "other": [
+    "Town Portal Book",
+    "Identify Book",
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    {
+      "name": "Chromatic",
+      "properties": [
+        "Fire Resist +22%",
+        "Lightning Resist +22%",
+        "Cold Resist +22%",
+        "Poison Resist +22%"
+      ]
+    },
+    {
+      "name": "Corpse Brow",
+      "properties": [
+        "+22% Enhanced Defense",
+        "Cold Resist +10%",
+        "10% Faster Hit Recovery",
+        "Repairs 1 Durability in 3 Seconds"
+      ]
+    },
+    {
+      "name": "Glyph Shell",
+      "properties": [
+        "+2 to Strength",
+        "+27% Enhanced Defense",
+        "+15 to Attack rating",
+        "Fire Resist +8%",
+        "Poison Resist +5%",
+        "Attacker Takes Damage of 1",
+        "+1 to Light Radius"
+      ]
+    },
+    {
+      "name": "Rugged Remedy",
+      "properties": [
+        "+19 to Maximum Stamina",
+        "Poison Length Reduced by 25%"
+      ]
+    },
+    {
+      "name": "Bronze Remedy",
+      "properties": [
+        "+10 to Attack rating",
+        "Poison Length Reduced by 25%"
+      ]
+    },
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Strong Healing Potion",
+    "Strong Healing Potion",
+    "Horadric Cube",
+    {
+      "name": "Ancient's Pledge",
+      "properties": [
+        "+50% Enhanced Defense",
+        "Fire Resist +13%",
+        "Lightning Resist +13%",
+        "Cold Resist +43%",
+        "Poison Resist +13%",
+        "10% Damage Taken Goes to Mana",
+        "Fire Resist +35%",
+        "Lightning Resist +35%",
+        "Poison Resist +35%"
+      ]
+    }
+  ]
+}

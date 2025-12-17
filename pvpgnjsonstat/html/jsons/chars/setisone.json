@@ -1,0 +1,219 @@
+{
+  "account": "zgan3",
+  "charfile": "setisone",
+  "charname": "Setisone",
+  "generated": "2025-12-17 13:31:09",
+  "char_stats": {
+    "level": 1,
+    "class": "Paladin",
+    "is_hc": false,
+    "is_ladder": true,
+    "progression": 0,
+    "char_name_raw": "Setisone",
+    "strength": 25,
+    "energy": 15,
+    "dexterity": 20,
+    "vitality": 25,
+    "unused_stats": 0,
+    "unused_skills": 0,
+    "current_hp": 55.0,
+    "max_hp": 55.0,
+    "current_mana": 15.0,
+    "max_mana": 15.0,
+    "current_stamina": 89.0,
+    "max_stamina": 89.0,
+    "experience": 0,
+    "gold": 0,
+    "stashed_gold": 0
+  },
+  "unique_set": [
+    {
+      "name": "Sigon's Shelter",
+      "properties": [
+        "+25% Enhanced Defense",
+        "Lightning Resist +30%"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Sigon's Guard",
+      "properties": [
+        "+20% Increased chance of blocking",
+        "+1 to All Skill Levels"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Cathan's Seal",
+      "properties": [
+        "Damage Reduced by 2",
+        "6% Life Stolen Per Hit"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Sigon's Wrap",
+      "properties": [
+        "+20 to Life",
+        "Fire Resist +20%"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Sigon's Sabot",
+      "properties": [
+        "Cold Resist +40%",
+        "20% Faster Run/Walk"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Sigon's Gage",
+      "properties": [
+        "+10 to Strength",
+        "+20 to Attack rating"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Tal Rasha's Horadric Crest",
+      "properties": [
+        "+60 to Life",
+        "+30 to Mana",
+        "+45 Defense",
+        "Fire Resist +15%",
+        "Lightning Resist +15%",
+        "Cold Resist +15%",
+        "Poison Resist +15%",
+        "10% Life Stolen Per Hit",
+        "10% Mana Stolen Per Hit"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Wilhelm's Pride",
+      "properties": [
+        "+75% Enhanced Defense",
+        "Cold Resist +10%",
+        "5% Life Stolen Per Hit",
+        "5% Mana Stolen Per Hit"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Sander's Superstition",
+      "properties": [
+        "+25 to Mana",
+        "+75% Enhanced Damage",
+        "Adds 25-75 Cold Damage",
+        "8% Mana Stolen Per Hit",
+        "20% Faster Cast Rate"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Bul-Katho's Tribal Guardian",
+      "properties": [
+        "+20 to Strength",
+        "+200% Enhanced Damage",
+        "Fire Resist +50%",
+        "Adds 255-255 Poison Damage over 50 Seconds",
+        "20% Increased Attack Speed"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Immortal King's Detail",
+      "properties": [
+        "+25 to Strength",
+        "+36 Defense",
+        "Fire Resist +28%",
+        "Lightning Resist +31%"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Naj's Circlet",
+      "properties": [
+        "+15 to Strength",
+        "+75 Defense",
+        "Adds 25-35 Fire Damage",
+        "+5 to Light Radius",
+        "12% Chance to Cast Level 5 Chain Lightning When Struck"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Angelic Halo",
+      "properties": [
+        "+20 to Life",
+        "Replenish Life +6"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Angelic Halo",
+      "properties": [
+        "+20 to Life",
+        "Replenish Life +6"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Sazabi's Cobalt Redeemer",
+      "properties": [
+        "+5 to Strength",
+        "+15 to Dexterity",
+        "+150% Enhanced Damage",
+        "Adds 25-35 Cold Damage",
+        "40% Increased Attack Speed",
+        "+318% Damage to Demons",
+        "Indestructible"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Cathan's Sigil",
+      "properties": [
+        "10% Faster Hit Recovery",
+        "Attacker Takes Lightning Damage of 5"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Naj's Light Plate",
+      "properties": [
+        "+65 to Life",
+        "+300 Defense",
+        "Fire Resist +25%",
+        "Lightning Resist +25%",
+        "Cold Resist +25%",
+        "Poison Resist +25%",
+        "Requirements -60%",
+        "45% Damage Taken Goes to Mana",
+        "+1 to All Skill Levels"
+      ],
+      "type": "set"
+    }
+  ],
+  "runes": [],
+  "rings": [],
+  "belts": [],
+  "amulets": [],
+  "charms_small": [],
+  "charms_large": [],
+  "charms_grand": [],
+  "weapons": [
+    "Short Sword"
+  ],
+  "armors": [],
+  "other": [
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Town Portal Scroll",
+    "Identify Scroll",
+    "Buckler"
+  ]
+}

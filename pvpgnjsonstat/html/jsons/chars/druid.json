@@ -1,0 +1,355 @@
+{
+  "account": "zliazub",
+  "charfile": "druid",
+  "charname": "druid",
+  "generated": "2025-12-17 13:31:09",
+  "char_stats": {
+    "level": 13,
+    "class": "Druid",
+    "is_hc": false,
+    "is_ladder": true,
+    "progression": 0,
+    "char_name_raw": "druid",
+    "strength": 40,
+    "energy": 20,
+    "dexterity": 30,
+    "vitality": 35,
+    "unused_stats": 15,
+    "unused_skills": 1,
+    "current_hp": 93.0,
+    "max_hp": 93.0,
+    "current_mana": 54.0,
+    "max_mana": 44.0,
+    "current_stamina": 106.0,
+    "max_stamina": 106.0,
+    "experience": 113884,
+    "gold": 7820,
+    "stashed_gold": 6464
+  },
+  "unique_set": [
+    {
+      "name": "Jalal's Mane",
+      "properties": [
+        "+20 to Strength",
+        "+20 to Energy",
+        "+180% Enhanced Defense",
+        "Fire Resist +30%",
+        "Lightning Resist +30%",
+        "Cold Resist +30%",
+        "Poison Resist +30%",
+        "+2 to Druid Skill Levels",
+        "30% Faster Hit Recovery",
+        "20% Bonus to Attack Rating",
+        "+5 to Mana After Each Kill",
+        "+2 to Shape Shifting Skills (Druid only)"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Laying of Hands",
+      "properties": [
+        "+25 Defense",
+        "Fire Resist +50%",
+        "20% Increased Attack Speed",
+        "+350% Damage to Demons",
+        "10% Chance to Cast Level 3 Holy Bolt On Striking"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Hellmouth",
+      "properties": [
+        "+185% Enhanced Defense",
+        "Adds 15-72 Fire Damage",
+        "+15 Maximum Durability",
+        "+15 Fire Absorb",
+        "2% Chance to Cast Level 4 Meteor On Striking",
+        "4% Chance to Cast Level 12 Firestorm On Striking"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Aldur's Stony Gaze",
+      "properties": [
+        "Regenerate Mana 17%",
+        "+90 Defense",
+        "Cold Resist +50%",
+        "+5 to Light Radius",
+        "25% Faster Hit Recovery"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Haemosu's Adament",
+      "properties": [
+        "+75 to Life",
+        "+500 Defense",
+        "+35 vs. Missile",
+        "+30 vs. Melee",
+        "Requirements -20%"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Immortal King's Forge",
+      "properties": [
+        "+20 to Strength",
+        "+20 to Dexterity",
+        "+65 Defense",
+        "12% Chance to Cast Level 4 Charged Bolt When Struck"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Jalal's Mane",
+      "properties": [
+        "+20 to Strength",
+        "+20 to Energy",
+        "+162% Enhanced Defense",
+        "Fire Resist +30%",
+        "Lightning Resist +30%",
+        "Cold Resist +30%",
+        "Poison Resist +30%",
+        "+2 to Druid Skill Levels",
+        "30% Faster Hit Recovery",
+        "20% Bonus to Attack Rating",
+        "+5 to Mana After Each Kill",
+        "+2 to Shape Shifting Skills (Druid only)"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Blackbog's Sharp",
+      "properties": [
+        "+15 to Minimum 1-handed damage",
+        "+45 to Maximum 1-handed damage",
+        "+50 Defense",
+        "Adds 500-500 Poison Damage over 250 Seconds",
+        "30% Increased Attack Speed",
+        "+5 To Poison Dagger",
+        "+4 To Poison Explosion",
+        "+4 To Poison Nova",
+        "Slows Target by 50%"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Baranar's Star",
+      "properties": [
+        "+15 to Strength",
+        "+15 to Dexterity",
+        "+200% Enhanced Damage",
+        "Adds 1-200 Fire Damage",
+        "Adds 1-200 Lightning Damage",
+        "Adds 1-200 Cold Damage",
+        "+100 Maximum Durability",
+        "50% Increased Attack Speed",
+        "200% Bonus to Attack Rating"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Crown of Thieves",
+      "properties": [
+        "+25 to Dexterity",
+        "+50 to Life",
+        "+35 to Mana",
+        "+177% Enhanced Defense",
+        "Fire Resist +33%",
+        "10% Life Stolen Per Hit",
+        "91% Extra Gold from Monsters"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Rune Master",
+      "properties": [
+        "+269% Enhanced Damage",
+        "+5% to Maximum Cold Resist",
+        "Cannot Be Frozen"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Jalal's Mane",
+      "properties": [
+        "+20 to Strength",
+        "+20 to Energy",
+        "+171% Enhanced Defense",
+        "Fire Resist +30%",
+        "Lightning Resist +30%",
+        "Cold Resist +30%",
+        "Poison Resist +30%",
+        "+2 to Druid Skill Levels",
+        "30% Faster Hit Recovery",
+        "20% Bonus to Attack Rating",
+        "+5 to Mana After Each Kill",
+        "+2 to Shape Shifting Skills (Druid only)"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Fleshripper",
+      "properties": [
+        "+232% Enhanced Damage",
+        "50% Target Defense",
+        "Prevent Monster Heal",
+        "50% Chance of Open Wounds",
+        "25% Chance of Crushing Blow",
+        "33% Deadly Strike",
+        "Slows Target by 20%"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Dimoak's Hew",
+      "properties": [
+        "+15 to Dexterity",
+        "+100% Enhanced Damage",
+        "+-8 Defense",
+        "20% Increased Attack Speed"
+      ],
+      "type": "unique"
+    }
+  ],
+  "runes": [],
+  "rings": [
+    {
+      "name": "Grim Gyre",
+      "properties": [
+        "+51 to Attack rating",
+        "+1 to Maximum 1-handed damage",
+        "+1 to Maximum 2-handed damage",
+        "Poison Resist +7%",
+        "31% Extra Gold from Monsters",
+        "+1 to Maximum Throw Damage",
+        "10% Chance to Cast Level 3 Charged Bolt When Struck"
+      ]
+    },
+    {
+      "name": "Tangerine",
+      "properties": [
+        "Lightning Resist +10%"
+      ]
+    }
+  ],
+  "belts": [],
+  "amulets": [
+    {
+      "name": "Crimson the Mind",
+      "properties": [
+        "+5 to Energy",
+        "Fire Resist +5%"
+      ]
+    }
+  ],
+  "charms_small": [],
+  "charms_large": [
+    {
+      "name": "Blight",
+      "properties": [
+        "Adds 21-21 Poison Damage over 75 Seconds"
+      ]
+    },
+    {
+      "name": "Azure Strength",
+      "properties": [
+        "+3 to Strength",
+        "Cold Resist +6%"
+      ]
+    },
+    {
+      "name": "Coral",
+      "properties": [
+        "Lightning Resist +11%"
+      ]
+    },
+    {
+      "name": "Beryl Flame",
+      "properties": [
+        "Poison Resist +7%",
+        "Adds 1-2 Fire Damage"
+      ]
+    }
+  ],
+  "charms_grand": [],
+  "weapons": [],
+  "armors": [
+    "Leather Boots"
+  ],
+  "other": [
+    "Identify Book",
+    "Town Portal Book",
+    {
+      "name": "Sturdy",
+      "properties": [
+        "+27% Enhanced Defense"
+      ]
+    },
+    {
+      "name": "Strength",
+      "properties": [
+        "+1 to Strength"
+      ]
+    },
+    {
+      "name": "Wolf Head",
+      "properties": [
+        "+2 To Poison Creeper",
+        "+3 To Wearwolf"
+      ]
+    },
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    {
+      "name": "Raven Hand",
+      "properties": [
+        "+1 to Strength",
+        "+1 to Dexterity",
+        "+39% Enhanced Defense",
+        "Cold Resist +9%"
+      ]
+    },
+    "Lesser Healing Potion",
+    "Lesser Mana Potion",
+    "Light Healing Potion",
+    "Lesser Healing Potion",
+    {
+      "name": "Insight",
+      "properties": [
+        "+5 to Strength",
+        "+5 to Energy",
+        "+5 to Dexterity",
+        "+5 to Vitality",
+        "+249% Enhanced Damage",
+        "23% Better Chance of Getting Magic Items",
+        "+4 To Critical Strike",
+        "35% Faster Cast Rate",
+        "181% Bonus to Attack Rating",
+        "Level +12 120 When Equipped",
+        "Adds 5-30 Fire Damage",
+        "+2 to Mana After Each Kill",
+        "Adds 154-154 Poison Damage over 125 Seconds",
+        "+9 to Minimum 1-handed damage",
+        "+9 to Minimum 2-handed damage"
+      ]
+    },
+    "Skeleton Key",
+    {
+      "name": "the Leech",
+      "properties": [
+        "5% Life Stolen Per Hit"
+      ]
+    },
+    {
+      "name": "Wealth",
+      "properties": [
+        "250% Extra Gold from Monsters",
+        "100% Better Chance of Getting Magic Items",
+        "50% Extra Gold from Monsters",
+        "+10 to Dexterity",
+        "+2 to Mana After Each Kill"
+      ]
+    }
+  ]
+}

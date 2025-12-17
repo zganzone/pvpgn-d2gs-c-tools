@@ -1,0 +1,21 @@
+awk '
+/^\|/ {
+    line = $0
+    no   = trim(substr(line, 3, 3))
+    name = trim(substr(line, 7, 15))
+    pass = trim(substr(line, 24, 15))
+    rest = substr(line, 40)   # everything after GamePass
+
+    print no "|" name "|" pass "|" rest
+}
+function trim(s){ sub(/^ +| +$/, "", s); return s }
+' logs/d2gs_gl_raw.txt > logs/d2gs_step1.txt
+
+
+#cat logs/d2gs_step1.txt | sed 's/[ ]/_/g'  | sed 's/__/./g' | sed 's/\.\./|/g' | sed 's/_//g' | sed 's/\./|/g' | sed 's/|||/|none|none|/g' | sed 's/||/|none|/g' |  sed 's/||/|none|/g' |  sed 's/^/|/g'  > logs/d2gs_step2.txt
+cat logs/d2gs_step1.txt || sed 's/[ ]/_/g'  | sed 's/__/./g' | sed 's/\.\./|/g' | sed 's/_//g' | sed 's/\./|/g'  | sed 's/|||/|none|none|/g' | sed 's/|||/|none|none|/g' | sed 's/||/|none|/g'
+awk -F"|" '{ gsub(/^ +| +$/, "", $7); print $8 }' logs/d2gs_step2.txt | tac > logs/game_ready_ids.txt
+
+
+echo "Game id file"
+echo "logs/game_ready_ids.txt"

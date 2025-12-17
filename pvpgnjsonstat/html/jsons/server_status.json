@@ -1,8 +1,8 @@
 {
-    "generated_at": "2025-12-17 10:54:08",
+    "generated_at": "2025-12-17 13:31:01",
     "active_status": {
         "version": "1.99.7.2.1-PRO",
-        "uptime": "17 hours 13 minutes 0 seconds",
+        "uptime": "19 hours 50 minutes 0 seconds",
         "games": "1",
         "users": "1",
         "channels": "2",
@@ -22,7 +22,7 @@
         "url": "http://192.168.88.41/",
         "contactname": "ZGAN",
         "contactemail": "slaxy@psy4.me",
-        "uptime": "61980",
+        "uptime": "71400",
         "totalgames": "16",
         "logins": "38"
     },

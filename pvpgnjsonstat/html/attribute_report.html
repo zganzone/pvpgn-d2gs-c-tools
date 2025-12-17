@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Diablo 2 Item Attribute Search</title>
+<link rel="stylesheet" href="css/d2console.css">
+<style>
+/* ОСНОВНИ СТИЛОВЕ */
+h2 {
+    color: #fff;
+    border-bottom: 2px solid #555;
+    padding-bottom: 5px;
+}
+/* СТИЛ ЗА ТЪРСАЧКАТА */
+#search-bar {
+    padding: 12px;
+    margin-bottom: 20px;
+    width: 100%;
+    box-sizing: border-box;
+    background: #333;
+    border: 1px solid #555;
+    color: #fff;
+    font-size: 1.1em;
+    border-radius: 4px;
+}
+
+/* КОНТЕЙНЕР ЗА РЕЗУЛТАТИ (НОВ ДИЗАЙН) */
+#report-list-container {
+    display: flex;
+    flex-wrap: wrap; /* Позволява редовете да се чупят на нов ред */
+    gap: 20px; /* Разстояние между блоковете */
+    padding-top: 10px;
+}
+.char-block {
+    background: #1e1e1e;
+    border: 1px solid #333;
+    padding: 15px;
+    width: calc(33.333% - 20px); /* Три блока на ред (33.333% - gap) */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+    transition: transform 0.2s, box-shadow 0.2s;
+    /* Скриване по подразбиране, за да работи филтърът */
+    display: none; 
+}
+.char-block-visible {
+    display: block;
+}
+.char-block:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.6);
+}
+
+.char-header {
+    margin-bottom: 10px;
+    border-bottom: 1px solid #444;
+    padding-bottom: 5px;
+}
+.char-header h3 {
+    margin: 0;
+    color: #ffcc00;
+    font-size: 1.3em;
+}
+.char-header p {
+    margin: 2px 0 0 0;
+    color: #888;
+    font-size: 0.9em;
+}
+
+/* СТИЛОВЕ ЗА ПРЕДМЕТИТЕ */
+.item-list {
+    list-style: none;
+    padding: 0;
+    margin: 10px 0 0 0;
+}
+.item-entry {
+    background: #282828;
+    margin-bottom: 10px;
+    padding: 8px;
+    border-radius: 4px;
+    border-left: 4px solid #00baff; /* Син акцент */
+}
+.item-entry h4 {
+    margin: 0 0 5px 0;
+    color: #00baff; /* Син цвят за името на предмета */
+    font-size: 1em;
+    font-weight: bold;
+}
+.item-properties-list {
+    list-style: none;
+    padding-left: 5px;
+    margin: 0;
+    font-size: 0.9em;
+}
+.item-properties-list li {
+    color: #00ff00; /* Зелено за свойствата */
+    margin-bottom: 2px;
+}
+
+/* За мобилни устройства */
+@media (max-width: 1200px) {
+    .char-block {
+        width: calc(50% - 20px); /* Два блока на ред */
+    }
+}
+@media (max-width: 768px) {
+    .char-block {
+        width: 100%; /* Един блок на ред */
+    }
+}
+</style>
+</head>
+<body>
+
+<div class="container">
+    <div class="links" style="margin-top:20px;">
+        <a href="index.html">← Back to Realm Stats</a> | <a href="charitems.html">← Old Tabular Report</a>
+    </div>
+
+    <h1>Diablo 2 Item Attribute Search</h1>
+    <p class="sub">Last updated: <span id="last-updated">...</span> | Total Characters: <span id="total-chars">...</span></p>
+
+    <input type="text" id="search-bar" placeholder="Filter by Name, Class, Item or Attribute (e.g. 'skill', 'mf', 'resist')">
+    
+    <div id="report-list-container">
+        <p>Loading item data...</p>
+    </div>
+
+</div>
+
+<script src="js/attribute_report.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,13 @@
+
+[GameName   : Jhjhh          ] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 19             ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : normal         ] [IsLadder   : ladder         ] [UserCount: 1                              ]
+[CreateTime : 06:03:29       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: tapak2         ] [CreatorChar: veshtione      ] [CreatorIP: 192.168.88.145                 ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
+| 001  tapak2           veshtione        192.168.88.145   Nec    1      06:03:29  |
++---------------------------------------------------------------------------------+
+
+Total: 1 charaters in this game 
+

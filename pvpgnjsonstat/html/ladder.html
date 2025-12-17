@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Diablo 2 Ladder Statistics</title>
+<link rel="stylesheet" href="css/d2console.css">
+<style>
+/* Допълнителни стилове, базирани на d2console.css за таблици */
+.ladder-container {
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.ladder-container h2 {
+    color: #ffcc66;
+    border-bottom: 2px solid #333;
+    padding-bottom: 5px;
+    margin-top: 30px;
+}
+.ladder-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+}
+.ladder-table th, .ladder-table td {
+    border: 1px solid #444;
+    padding: 8px 12px;
+    text-align: left;
+    color: #ddd;
+}
+.ladder-table th {
+    background: #161616;
+    color: #ffcc00;
+    cursor: pointer; /* за бъдещо сортиране */
+}
+.ladder-table tr:nth-child(even) td { background: #1a1a1a; }
+.ladder-table tr:hover td { background: #333; }
+
+/* Стил за линковете в таблицата */
+.ladder-table td a {
+    color: #66ccff;
+    text-decoration: none;
+    font-weight: bold;
+}
+.ladder-table td a:hover {
+    text-decoration: underline;
+}
+</style>
+</head>
+<body>
+
+<div class="links" style="margin-top:20px;">
+    <a href="index.html">← Back to Realm Stats</a>
+</div>
+
+<h1 style="margin-bottom: 0;">Diablo 2 Ladder Statistics</h1>
+<p class="sub">Data loaded from d2ladder.xml</p>
+
+<div class="ladder-container" id="ladder-container">
+    <p>Loading ladder data...</p>
+</div>
+
+<script src="js/ladder.js"></script>
+</body>
+</html>

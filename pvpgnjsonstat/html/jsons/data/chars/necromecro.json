@@ -1,0 +1,147 @@
+{
+  "account": "zliazub",
+  "charfile": "necromecro",
+  "charname": "necromecro",
+  "generated": "2025-12-17 12:11:09",
+  "char_stats": {
+    "level": 1,
+    "class": "Necromancer",
+    "is_hc": false,
+    "is_ladder": true,
+    "progression": 0,
+    "char_name_raw": "necromecro",
+    "strength": 15,
+    "energy": 25,
+    "dexterity": 25,
+    "vitality": 15,
+    "unused_stats": 0,
+    "unused_skills": 0,
+    "current_hp": 45.0,
+    "max_hp": 45.0,
+    "current_mana": 25.0,
+    "max_mana": 25.0,
+    "current_stamina": 79.0,
+    "max_stamina": 79.0,
+    "experience": 0,
+    "gold": 0,
+    "stashed_gold": 0
+  },
+  "unique_set": [
+    {
+      "name": "Wihtstan's Guard",
+      "properties": [
+        "+175% Enhanced Defense",
+        "+55% Increased chance of blocking",
+        "+5 to Light Radius",
+        "40% Faster Block Rate",
+        "Half Freeze Duration"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Gimmershred",
+      "properties": [
+        "+169% Enhanced Damage",
+        "Adds 218-483 Fire Damage",
+        "Adds 29-501 Lightning Damage",
+        "Adds 176-397 Cold Damage",
+        "30% Increased Attack Speed",
+        "Increased Stack Size"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Bul-Katho's Tribal Guardian",
+      "properties": [
+        "+20 to Strength",
+        "+200% Enhanced Damage",
+        "Fire Resist +50%",
+        "Adds 255-255 Poison Damage over 50 Seconds",
+        "20% Increased Attack Speed"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Tal Rasha's Lidless Eye",
+      "properties": [
+        "+10 to Energy",
+        "+57 to Life",
+        "+77 to Mana",
+        "20% Faster Cast Rate",
+        "+1 To Fire Mastery",
+        "+1 To Lightning Mastery",
+        "+2 To Cold Mastery"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Rite of Passage",
+      "properties": [
+        "+21 to Maximum Stamina",
+        "+25 Defense",
+        "30% Faster Run/Walk",
+        "Half Freeze Duration"
+      ],
+      "type": "set"
+    },
+    {
+      "name": "Harlequin Crest",
+      "properties": [
+        "+2 to Strength",
+        "+2 to Energy",
+        "+2 to Dexterity",
+        "+2 to Vitality",
+        "Damage Reduced by 10%",
+        "50% Better Chance of Getting Magic Items",
+        "+2 to All Skill Levels",
+        "+12 to Life (Based on Character Level)",
+        "+12 to Mana (Based on Character Level)"
+      ],
+      "type": "unique"
+    }
+  ],
+  "runes": [],
+  "rings": [],
+  "belts": [],
+  "amulets": [],
+  "charms_small": [],
+  "charms_large": [],
+  "charms_grand": [],
+  "weapons": [],
+  "armors": [
+    "Diamond Mail",
+    "Ornate Plate"
+  ],
+  "other": [
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Lesser Healing Potion",
+    "Town Portal Scroll",
+    "Identify Scroll",
+    "Ist Rune",
+    "Lum Rune",
+    "Ohm Rune",
+    "Lum Rune",
+    "Ko Rune",
+    "Ist Rune",
+    "Pul Rune",
+    "Lem Rune",
+    "Mal Rune",
+    "Fal Rune",
+    "Ko Rune",
+    "Dol Rune",
+    "Fal Rune",
+    "Hel Rune",
+    "Lum Rune",
+    "Wire Fleece",
+    "Io Rune",
+    "Dusk Shroud",
+    {
+      "name": "Wand",
+      "properties": [
+        "+1 To Raise Skeleton"
+      ]
+    }
+  ]
+}
