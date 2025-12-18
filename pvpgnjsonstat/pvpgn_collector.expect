@@ -1,0 +1,128 @@
+#!/usr/bin/expect -f
+# 
+# Скрипт за събиране на PVPGN данни.
+# Версия 9: Агресивна корекция на Tcl синтактична грешка.
+
+# --- КОНФИГУРАЦИЯ ---
+set bnchat_path "/usr/local/pvpgn/bin/bnchat"
+set pvpgn_ip "192.168.88.41"
+set username "webstat"
+set password "aman"
+# --- КРАЙ НА КОНФИГУРАЦИЯТА ---
+
+set timeout 15 ;
+set log_dir "/home/support/scripts-tools/d2cpp/pvpgnjsonstat/logs"
+set raw_conn_file "$log_dir/pvpgn_raw_connections"
+set raw_games_file "$log_dir/pvpgn_raw_games"
+
+if {![file exists $log_dir]} {
+    catch {exec mkdir -p $log_dir}
+}
+
+# Използваме match_max, както в autoexpect
+match_max 100000
+
+# --- Open bnchat Connection ---
+spawn $bnchat_path $pvpgn_ip
+
+# --- Login Sequence ---
+sleep 1 ;
+
+# 1. Очакваме 'Username:' prompt
+expect -re "Username: " 
+send -- "$username\r"
+
+sleep 1 ;
+
+# 2. Очакваме 'Password:' prompt
+expect -re "Password: "
+send -- "$password\r"
+
+# 3. Wait for the final ready prompt (чист промпт след целия банер)
+# След <webstat> You have no mail. очакваме промпт за въвеждане на команда.
+expect {
+    -re {<webstat>.*} {
+        send_user "\n[+] Успешно влизане в bnchat сесията.\n"
+    }
+    timeout {
+        puts "ERROR: Timeout при логване. Не е получен финалният промпт."
+        send "/exit\r"
+        exit 1
+    }
+}
+
+
+# --- 1. Execute /connections ---
+sleep 2 ; 
+send "/connections\r"
+send_user "[+] Събиране на /connections данни...\n"
+
+set conn_fh [open $raw_conn_file "w"]
+
+# Очакваме началото на изхода
+expect -re {<Info>\s+Current connections:}
+
+expect {
+    # 1. Пропускаме нашия потребител
+    -re {<Info>\s+bnet\s+STAR\s+$username.*} {
+        exp_continue
+    }
+    # 2. Събираме всички други bnet връзки
+    -re {<Info>\s+bnet\s+.* \r\n} {
+        # Добавяме новия ред ръчно, за да запазим целостта на записа
+        puts $conn_fh "$expect_out(0,string)"
+        exp_continue
+    }
+    # 3. Стоп условие: Очакваме отново чист промпт
+    -re {<webstat>.*} {
+        close $conn_fh
+    }
+    timeout {
+        puts "WARNING: Timeout при събиране на connections. Записваме каквото имаме."
+        close $conn_fh
+    }
+}
+
+
+# --- 2. Execute /games all ---
+sleep 2 ; 
+send "/games all\r"
+send_user "[+] Събиране на /games all данни...\n"
+set games_fh [open $raw_games_file "w"]
+
+# Очакваме началото на изхода
+expect -re {<Info>\s+All current games:}
+
+expect {
+    # Регулярен израз за събиране на редовете с игри. Те започват с <Info> и завършват с IP:PORT
+    -re {<Info>\s+.*:\d+\r\n} { 
+        puts $games_fh "$expect_out(0,string)"
+        exp_continue
+    }
+    # Стоп условие
+    -re {<webstat>.*} {
+        close $games_fh
+    }
+    timeout {
+        puts "WARNING: Timeout при събиране на games all. Записваме каквото имаме."
+        close $games_fh
+    }
+}
+
+# --- 3. Logout ---
+sleep 2 ; 
+send "/exit\r"
+
+# Очакваме финалния банер за затваряне на връзката
+expect {
+    "Connection closed by server." {
+        send_user "[+] bnchat сесията е затворена коректно.\n"
+    }
+    timeout {
+        send_user "[+] bnchat сесията е затворена (с таймаут).\n"
+    }
+}
+expect eof
+
+send_user "[+] Суровите данни са събрани. Файлове: $raw_conn_file, $raw_games_file\n"
+exit 0

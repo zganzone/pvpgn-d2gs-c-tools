@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -x
 WORKDIR="/home/support/scripts-tools/d2cpp/pvpgnjsonstat/d2gs"
 WEBDIR="/var/www/html/pvpjsonstat/jsons"
 rm $WORKDIR/logs/cl_output/* -f
@@ -19,6 +19,9 @@ sleep 1
 python3 $WORKDIR/06_build_ladder.py
 sleep 1
 python3 $WORKDIR/07.generate_items_json.py
+sleep 0.5
+python3 $WORKDIR/06.generate_rune_json.py
+sleep 0.5
 python3 $WORKDIR/08.d2gs_time_ands_status_json.py
 #$WORKDIR/cronfile.sh
 sleep 1
@@ -29,4 +32,4 @@ sleep 1
 ##
 # external  http://darkpsy.space:8998/test4.html
 #
-python3 /home/support/scripts-tools/d2cpp/pvpgn_stats.py
+#python3 /home/support/scripts-tools/d2cpp/pvpgn_stats.py
