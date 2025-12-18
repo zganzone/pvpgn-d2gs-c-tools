@@ -1,7 +1,24 @@
 {
-    "generated_at": "2025-12-17 13:31:02",
-    "total_reports_processed": 18,
+    "generated_at": "2025-12-18 22:20:02",
+    "total_reports_processed": 19,
     "game_history": [
+        {
+            "name": "daaa",
+            "id": "000019",
+            "platform_tag": "SEXP",
+            "platform": "Starcraft: BW",
+            "type": "melee",
+            "created_time": "Wed Dec 17 14:41:14 EET",
+            "ended_time": "Wed Dec 17 14:46:32 EET",
+            "duration_minutes": 5,
+            "player_name": "zgan3",
+            "result": "DRAW",
+            "race": "Terran",
+            "overall_score": 650,
+            "resources_score": 50,
+            "units_killed": 0,
+            "units_lost": 3
+        },
         {
             "name": "daaa",
             "id": "000012",

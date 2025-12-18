@@ -1,33 +1,51 @@
 [
   {
     "GameInfo": {
-      "GameName": "Jhjhh",
+      "GameName": "Ddddddddddd",
       "GamePass": null,
       "GameDesc": null,
-      "GameID": "19",
+      "GameID": "5",
       "GameVer": "exp",
       "GameType": "sc",
-      "Difficult": "normal",
+      "Difficult": "hell",
       "IsLadder": "ladder",
-      "UserCount": 1,
-      "CreateTime": "06:03:29",
+      "UserCount": 3,
+      "CreateTime": "16:59:41",
       "Disable": "No",
       "": null,
-      "CreatorAcct": "tapak2",
-      "CreatorChar": "veshtione",
-      "CreatorIP": "192.168.88.145",
-      "XPRateMultiplier": 1.0,
-      "XPBonusPercent": "+0%"
+      "CreatorAcct": "zliazub",
+      "CreatorChar": "paladin",
+      "CreatorIP": "192.168.88.212",
+      "XPRateMultiplier": 2.0,
+      "XPBonusPercent": "+100%"
     },
     "Characters": [
       {
         "No": "001",
-        "AcctName": "tapak2",
-        "CharName": "veshtione",
+        "AcctName": "zliazub",
+        "CharName": "lightSorc",
+        "IPAddress": "192.168.88.212",
+        "Class": "Sor",
+        "Level": "87",
+        "EnterTime": "19:02:03"
+      },
+      {
+        "No": "002",
+        "AcctName": "zgan",
+        "CharName": "ZGANVARIN",
         "IPAddress": "192.168.88.145",
-        "Class": "Nec",
-        "Level": "1",
-        "EnterTime": "06:03:29"
+        "Class": "Bar",
+        "Level": "80",
+        "EnterTime": "18:14:56"
+      },
+      {
+        "No": "003",
+        "AcctName": "zliazubb",
+        "CharName": "MFamazon",
+        "IPAddress": "192.168.88.212",
+        "Class": "Ama",
+        "Level": "91",
+        "EnterTime": "18:13:01"
       }
     ]
   }

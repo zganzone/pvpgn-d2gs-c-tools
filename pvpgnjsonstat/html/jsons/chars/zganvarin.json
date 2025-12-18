@@ -2,7 +2,7 @@
   "account": "zgan",
   "charfile": "zganvarin",
   "charname": "ZGANVARIN",
-  "generated": "2025-12-17 13:31:09",
+  "generated": "2025-12-18 22:20:10",
   "char_stats": {
     "level": 80,
     "class": "Barbarian",
@@ -20,27 +20,13 @@
     "max_hp": 949.0,
     "current_mana": 209.0,
     "max_mana": 89.0,
-    "current_stamina": 686.0,
+    "current_stamina": 635.0,
     "max_stamina": 340.0,
-    "experience": 712829859,
-    "gold": 10872,
-    "stashed_gold": 388925
+    "experience": 729620977,
+    "gold": 21940,
+    "stashed_gold": 369188
   },
   "unique_set": [
-    {
-      "name": "The Impaler",
-      "properties": [
-        "+142% Enhanced Damage",
-        "+150 to Attack rating",
-        "20% Increased Attack Speed",
-        "+3 To Power Strike",
-        "+5 To Impale",
-        "Ignore Target Defense",
-        "Prevent Monster Heal",
-        "40% Chance of Open Wounds"
-      ],
-      "type": "unique"
-    },
     {
       "name": "Wolfhowl",
       "properties": [
@@ -102,40 +88,6 @@
         "12% Chance to Cast Level 4 Charged Bolt When Struck"
       ],
       "type": "set"
-    },
-    {
-      "name": "Steelclash",
-      "properties": [
-        "+90% Enhanced Defense",
-        "+25% Increased chance of blocking",
-        "+20 Defense",
-        "Damage Reduced by 3",
-        "Fire Resist +15%",
-        "Lightning Resist +15%",
-        "Cold Resist +15%",
-        "Poison Resist +15%",
-        "+20 Maximum Durability",
-        "+1 to Paladin Skill Levels",
-        "+3 to Light Radius",
-        "20% Faster Block Rate"
-      ],
-      "type": "unique"
-    },
-    {
-      "name": "Duriel's Shell",
-      "properties": [
-        "+15 to Strength",
-        "+165% Enhanced Defense",
-        "Fire Resist +20%",
-        "Lightning Resist +20%",
-        "Cold Resist +50%",
-        "Poison Resist +20%",
-        "+100 Maximum Durability",
-        "Cannot Be Frozen",
-        "+10 to Defense (Based on Character Level)",
-        "+8 to Life (Based on Character Level)"
-      ],
-      "type": "unique"
     },
     {
       "name": "Nagelring",
@@ -245,15 +197,6 @@
       "type": "unique"
     },
     {
-      "name": "Rune Master",
-      "properties": [
-        "+269% Enhanced Damage",
-        "+5% to Maximum Cold Resist",
-        "Cannot Be Frozen"
-      ],
-      "type": "unique"
-    },
-    {
       "name": "Immortal King's Stone Crusher",
       "properties": [
         "+200% Enhanced Damage",
@@ -264,6 +207,63 @@
         "Indestructible"
       ],
       "type": "set"
+    },
+    {
+      "name": "The Impaler",
+      "properties": [
+        "+142% Enhanced Damage",
+        "+150 to Attack rating",
+        "20% Increased Attack Speed",
+        "+3 To Power Strike",
+        "+5 To Impale",
+        "Ignore Target Defense",
+        "Prevent Monster Heal",
+        "40% Chance of Open Wounds"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Duriel's Shell",
+      "properties": [
+        "+15 to Strength",
+        "+165% Enhanced Defense",
+        "Fire Resist +20%",
+        "Lightning Resist +20%",
+        "Cold Resist +50%",
+        "Poison Resist +20%",
+        "+100 Maximum Durability",
+        "Cannot Be Frozen",
+        "+10 to Defense (Based on Character Level)",
+        "+8 to Life (Based on Character Level)"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Steelclash",
+      "properties": [
+        "+90% Enhanced Defense",
+        "+25% Increased chance of blocking",
+        "+20 Defense",
+        "Damage Reduced by 3",
+        "Fire Resist +15%",
+        "Lightning Resist +15%",
+        "Cold Resist +15%",
+        "Poison Resist +15%",
+        "+20 Maximum Durability",
+        "+1 to Paladin Skill Levels",
+        "+3 to Light Radius",
+        "20% Faster Block Rate"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Rune Master",
+      "properties": [
+        "+269% Enhanced Damage",
+        "+5% to Maximum Cold Resist",
+        "Cannot Be Frozen"
+      ],
+      "type": "unique"
     }
   ],
   "runes": [],
@@ -350,26 +350,23 @@
     "Hel Rune",
     "Tal Rune",
     "Antidote Potion",
+    "Greater Healing Potion",
+    "Greater Healing Potion",
+    "Greater Healing Potion",
+    "Greater Healing Potion",
+    "Ort Rune",
+    "Tal Rune",
+    "Thul Rune",
     "Tir Rune",
     "Antidote Potion",
-    "Thul Rune",
-    "Ort Rune",
-    "Greater Healing Potion",
-    "Greater Healing Potion",
-    "Greater Healing Potion",
     "Antidote Potion",
+    "Stamina Potion",
     "Greater Healing Potion",
-    "Tal Rune",
-    "Greater Mana Potion",
-    "Greater Mana Potion",
-    "Greater Mana Potion",
-    "Greater Healing Potion",
+    "Rejuvenation Potion",
     "Strong Healing Potion",
-    "Greater Healing Potion",
-    "Greater Healing Potion",
-    "Greater Healing Potion",
     "Greater Mana Potion",
-    "Greater Healing Potion",
+    "Greater Mana Potion",
+    "Strong Mana Potion",
     {
       "name": "Breath of the Dying",
       "properties": [

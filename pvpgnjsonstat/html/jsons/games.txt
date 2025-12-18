@@ -4,7 +4,7 @@
 	<location>Hrabrino</location>
 	<software>PvPGN</software>
 	<version>1.99.7.2.1-PRO</version>
-	<users>1</users>
+	<users>3</users>
 	<channels>2</channels>
 	<games>1</games>
 	<description>Mahalenska posta</description>
@@ -12,7 +12,7 @@
 	<url>http://192.168.88.41/</url>
 	<contact_name>ZGAN</contact_name>
 	<contact_email>slaxy@psy4.me</contact_email>
-	<uptime>71400</uptime>
-	<total_games>16</total_games>
-	<logins>38</logins>
+	<uptime>19080</uptime>
+	<total_games>8</total_games>
+	<logins>20</logins>
 </server>

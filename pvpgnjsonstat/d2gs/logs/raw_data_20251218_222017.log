@@ -1,8 +1,8 @@
 --- UPTIME RAW DATA ---
 uptime
 The game server started at 12-18 15:48:51
-uptime 0 days 4 hours 28 minutes 26 seconds
-Now it is 12-18 20:17:17
+uptime 0 days 4 hours 31 minutes 26 seconds
+Now it is 12-18 20:20:17
 
 D2GS>
 
@@ -19,12 +19,12 @@ Connetion to D2DBS(192.168.88.41): connected
 Physical memory usage:   0.000MB/  0.000MB
 Virtual memory usage:    0.000MB/  0.000MB
 Kernel CPU usage:   0.00%
-User CPU usage:     0.00%
+User CPU usage:    19.95%
 
 Game Server Net Statistic: (rate is KBytes/second)
         RecvPkts    RecvBytes   SendPkts    SendBytes
-D2CS         304         3879        361         4570
-D2DBS        376        58835        604       188323
+D2CS         307         3903        364         4594
+D2DBS        379        58859        607       188347
         RecvRate PeakRecvRate   SendRate PeakSendRate
 D2CS       0.000        1.040      0.000        1.657
 D2DBS      0.000       35.931      0.000       73.495

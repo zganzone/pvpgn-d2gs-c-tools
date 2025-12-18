@@ -108,7 +108,7 @@
 		<rank> 1</rank>
 		<name>MFamazon</name>
 		<level>91</level>
-		<experience>1812081191</experience>
+		<experience>1819786419</experience>
 		<class>Amazon</class>
 		<prefix>Matriarch</prefix>
 		<status>alive</status>
@@ -135,7 +135,7 @@
 		<rank> 4</rank>
 		<name>Sorsi</name>
 		<level>86</level>
-		<experience>1182924802</experience>
+		<experience>1183530012</experience>
 		<class>Sorceress</class>
 		<prefix>Matriarch</prefix>
 		<status>alive</status>
@@ -144,7 +144,7 @@
 		<rank> 5</rank>
 		<name>ZGANVARIN</name>
 		<level>80</level>
-		<experience>712829859</experience>
+		<experience>729620977</experience>
 		<class>Barbarian</class>
 		<prefix>Champion</prefix>
 		<status>alive</status>
@@ -160,6 +160,15 @@
 	</char>
 	<char>
 		<rank> 7</rank>
+		<name>palqk</name>
+		<level>32</level>
+		<experience>7328366</experience>
+		<class>Paladin</class>
+		<prefix>Slayer</prefix>
+		<status>alive</status>
+	</char>
+	<char>
+		<rank> 8</rank>
 		<name>tesla</name>
 		<level>30</level>
 		<experience>4968628</experience>
@@ -168,20 +177,11 @@
 		<status>alive</status>
 	</char>
 	<char>
-		<rank> 8</rank>
+		<rank> 9</rank>
 		<name>zganvazonka</name>
 		<level>29</level>
 		<experience>4031678</experience>
 		<class>Amazon</class>
-		<prefix>Slayer</prefix>
-		<status>alive</status>
-	</char>
-	<char>
-		<rank> 9</rank>
-		<name>palqk</name>
-		<level>26</level>
-		<experience>2361532</experience>
-		<class>Paladin</class>
 		<prefix>Slayer</prefix>
 		<status>alive</status>
 	</char>
@@ -241,150 +241,6 @@
 	</char>
 	<char>
 		<rank>16</rank>
-		<name>veshtione</name>
-		<level> 1</level>
-		<experience>0</experience>
-		<class>Necromancer</class>
-		<prefix></prefix>
-		<status>alive</status>
-	</char>
-	<char>
-		<rank>17</rank>
-		<name>ringsone</name>
-		<level> 1</level>
-		<experience>0</experience>
-		<class>Sorceress</class>
-		<prefix></prefix>
-		<status>alive</status>
-	</char>
-	<char>
-		<rank>18</rank>
-		<name>veshter</name>
-		<level> 1</level>
-		<experience>0</experience>
-		<class>Barbarian</class>
-		<prefix></prefix>
-		<status>alive</status>
-	</char>
-	<char>
-		<rank>19</rank>
-		<name>socketss</name>
-		<level> 1</level>
-		<experience>0</experience>
-		<class>Barbarian</class>
-		<prefix></prefix>
-		<status>alive</status>
-	</char>
-	<char>
-		<rank>20</rank>
-		<name>kamui</name>
-		<level> 1</level>
-		<experience>0</experience>
-		<class>Amazon</class>
-		<prefix></prefix>
-		<status>alive</status>
-	</char>
-	<char>
-		<rank>21</rank>
-		<name>slabiruni</name>
-		<level> 1</level>
-		<experience>0</experience>
-		<class>Assassin</class>
-		<prefix></prefix>
-		<status>alive</status>
-	</char>
-	<char>
-		<rank>22</rank>
-		<name>itemi</name>
-		<level> 1</level>
-		<experience>0</experience>
-		<class>Druid</class>
-		<prefix></prefix>
-		<status>alive</status>
-	</char>
-	<char>
-		<rank>23</rank>
-		<name>CHARMOVE</name>
-		<level> 1</level>
-		<experience>0</experience>
-		<class>Necromancer</class>
-		<prefix></prefix>
-		<status>alive</status>
-	</char>
-	<char>
-		<rank>24</rank>
-		<name>aaaaaaa</name>
-		<level> 1</level>
-		<experience>0</experience>
-		<class>Barbarian</class>
-		<prefix></prefix>
-		<status>alive</status>
-	</char>
-	<char>
-		<rank>25</rank>
-		<name>yrtyrtyrty</name>
-		<level> 1</level>
-		<experience>0</experience>
-		<class>Barbarian</class>
-		<prefix></prefix>
-		<status>alive</status>
-	</char>
-	<char>
-		<rank>26</rank>
-		<name>RUNIdobri</name>
-		<level> 1</level>
-		<experience>0</experience>
-		<class>Necromancer</class>
-		<prefix></prefix>
-		<status>alive</status>
-	</char>
-	<char>
-		<rank>27</rank>
-		<name>uniquetwo</name>
-		<level> 1</level>
-		<experience>0</experience>
-		<class>Barbarian</class>
-		<prefix></prefix>
-		<status>alive</status>
-	</char>
-	<char>
-		<rank>28</rank>
-		<name>KLUCHOVE</name>
-		<level> 1</level>
-		<experience>0</experience>
-		<class>Assassin</class>
-		<prefix></prefix>
-		<status>alive</status>
-	</char>
-	<char>
-		<rank>29</rank>
-		<name>uniqueone</name>
-		<level> 1</level>
-		<experience>0</experience>
-		<class>Barbarian</class>
-		<prefix></prefix>
-		<status>alive</status>
-	</char>
-	<char>
-		<rank>30</rank>
-		<name>Setisone</name>
-		<level> 1</level>
-		<experience>0</experience>
-		<class>Paladin</class>
-		<prefix></prefix>
-		<status>alive</status>
-	</char>
-	<char>
-		<rank>31</rank>
-		<name>necromecro</name>
-		<level> 1</level>
-		<experience>0</experience>
-		<class>Necromancer</class>
-		<prefix></prefix>
-		<status>alive</status>
-	</char>
-	<char>
-		<rank>32</rank>
 		<name>KOLANI</name>
 		<level> 1</level>
 		<experience>0</experience>
@@ -393,79 +249,7 @@
 		<status>alive</status>
 	</char>
 	<char>
-		<rank>33</rank>
-		<name>JULTIitemi</name>
-		<level> 1</level>
-		<experience>0</experience>
-		<class>Sorceress</class>
-		<prefix></prefix>
-		<status>alive</status>
-	</char>
-	<char>
-		<rank>34</rank>
-		<name>aaaaaaaaaaaa</name>
-		<level> 1</level>
-		<experience>0</experience>
-		<class>Barbarian</class>
-		<prefix></prefix>
-		<status>alive</status>
-	</char>
-	<char>
-		<rank>35</rank>
-		<name>uiyuiuyi</name>
-		<level> 1</level>
-		<experience>0</experience>
-		<class>Barbarian</class>
-		<prefix></prefix>
-		<status>alive</status>
-	</char>
-	<char>
-		<rank>36</rank>
-		<name>sockets</name>
-		<level> 1</level>
-		<experience>0</experience>
-		<class>Paladin</class>
-		<prefix></prefix>
-		<status>alive</status>
-	</char>
-	<char>
-		<rank>37</rank>
-		<name>slabirunii</name>
-		<level> 1</level>
-		<experience>0</experience>
-		<class>Amazon</class>
-		<prefix></prefix>
-		<status>alive</status>
-	</char>
-	<char>
-		<rank>38</rank>
-		<name>gdfgfgfd</name>
-		<level> 1</level>
-		<experience>0</experience>
-		<class>Necromancer</class>
-		<prefix></prefix>
-		<status>alive</status>
-	</char>
-	<char>
-		<rank>39</rank>
-		<name>gfgfdgfd</name>
-		<level> 1</level>
-		<experience>0</experience>
-		<class>Sorceress</class>
-		<prefix></prefix>
-		<status>alive</status>
-	</char>
-	<char>
-		<rank>40</rank>
-		<name>webvarin</name>
-		<level> 1</level>
-		<experience>0</experience>
-		<class>Barbarian</class>
-		<prefix></prefix>
-		<status>alive</status>
-	</char>
-	<char>
-		<rank>41</rank>
+		<rank>17</rank>
 		<name>runione</name>
 		<level> 1</level>
 		<experience>0</experience>
@@ -474,25 +258,7 @@
 		<status>alive</status>
 	</char>
 	<char>
-		<rank>42</rank>
-		<name>sdfgdfgsdfgds</name>
-		<level> 1</level>
-		<experience>0</experience>
-		<class>Necromancer</class>
-		<prefix></prefix>
-		<status>alive</status>
-	</char>
-	<char>
-		<rank>43</rank>
-		<name>setstwo</name>
-		<level> 1</level>
-		<experience>0</experience>
-		<class>Paladin</class>
-		<prefix></prefix>
-		<status>alive</status>
-	</char>
-	<char>
-		<rank>44</rank>
+		<rank>18</rank>
 		<name>runitwo</name>
 		<level> 1</level>
 		<experience>0</experience>
@@ -501,8 +267,17 @@
 		<status>alive</status>
 	</char>
 	<char>
-		<rank>45</rank>
-		<name>SOCKET</name>
+		<rank>19</rank>
+		<name>botfive</name>
+		<level> 1</level>
+		<experience>0</experience>
+		<class>Paladin</class>
+		<prefix></prefix>
+		<status>alive</status>
+	</char>
+	<char>
+		<rank>20</rank>
+		<name>botfour</name>
 		<level> 1</level>
 		<experience>0</experience>
 		<class>Barbarian</class>
@@ -510,8 +285,17 @@
 		<status>alive</status>
 	</char>
 	<char>
-		<rank>46</rank>
-		<name>AmuletiPrusteni</name>
+		<rank>21</rank>
+		<name>botthre</name>
+		<level> 1</level>
+		<experience>0</experience>
+		<class>Necromancer</class>
+		<prefix></prefix>
+		<status>alive</status>
+	</char>
+	<char>
+		<rank>22</rank>
+		<name>bottwo</name>
 		<level> 1</level>
 		<experience>0</experience>
 		<class>Assassin</class>
@@ -519,7 +303,25 @@
 		<status>alive</status>
 	</char>
 	<char>
-		<rank>47</rank>
+		<rank>23</rank>
+		<name>botone</name>
+		<level> 1</level>
+		<experience>0</experience>
+		<class>Amazon</class>
+		<prefix></prefix>
+		<status>alive</status>
+	</char>
+	<char>
+		<rank>24</rank>
+		<name>TapakZaVeshti</name>
+		<level> 1</level>
+		<experience>0</experience>
+		<class>Assassin</class>
+		<prefix></prefix>
+		<status>alive</status>
+	</char>
+	<char>
+		<rank>25</rank>
 		<name>gfhfghfghfghf</name>
 		<level> 1</level>
 		<experience>0</experience>
@@ -528,11 +330,281 @@
 		<status>alive</status>
 	</char>
 	<char>
-		<rank>48</rank>
-		<name>TapakZaVeshti</name>
+		<rank>26</rank>
+		<name>AmuletiPrusteni</name>
 		<level> 1</level>
 		<experience>0</experience>
 		<class>Assassin</class>
+		<prefix></prefix>
+		<status>alive</status>
+	</char>
+	<char>
+		<rank>27</rank>
+		<name>SOCKET</name>
+		<level> 1</level>
+		<experience>0</experience>
+		<class>Barbarian</class>
+		<prefix></prefix>
+		<status>alive</status>
+	</char>
+	<char>
+		<rank>28</rank>
+		<name>sdfgdfgsdfgds</name>
+		<level> 1</level>
+		<experience>0</experience>
+		<class>Necromancer</class>
+		<prefix></prefix>
+		<status>alive</status>
+	</char>
+	<char>
+		<rank>29</rank>
+		<name>webvarin</name>
+		<level> 1</level>
+		<experience>0</experience>
+		<class>Barbarian</class>
+		<prefix></prefix>
+		<status>alive</status>
+	</char>
+	<char>
+		<rank>30</rank>
+		<name>gfgfdgfd</name>
+		<level> 1</level>
+		<experience>0</experience>
+		<class>Sorceress</class>
+		<prefix></prefix>
+		<status>alive</status>
+	</char>
+	<char>
+		<rank>31</rank>
+		<name>gdfgfgfd</name>
+		<level> 1</level>
+		<experience>0</experience>
+		<class>Necromancer</class>
+		<prefix></prefix>
+		<status>alive</status>
+	</char>
+	<char>
+		<rank>32</rank>
+		<name>slabirunii</name>
+		<level> 1</level>
+		<experience>0</experience>
+		<class>Amazon</class>
+		<prefix></prefix>
+		<status>alive</status>
+	</char>
+	<char>
+		<rank>33</rank>
+		<name>sockets</name>
+		<level> 1</level>
+		<experience>0</experience>
+		<class>Paladin</class>
+		<prefix></prefix>
+		<status>alive</status>
+	</char>
+	<char>
+		<rank>34</rank>
+		<name>uiyuiuyi</name>
+		<level> 1</level>
+		<experience>0</experience>
+		<class>Barbarian</class>
+		<prefix></prefix>
+		<status>alive</status>
+	</char>
+	<char>
+		<rank>35</rank>
+		<name>aaaaaaaaaaaa</name>
+		<level> 1</level>
+		<experience>0</experience>
+		<class>Barbarian</class>
+		<prefix></prefix>
+		<status>alive</status>
+	</char>
+	<char>
+		<rank>36</rank>
+		<name>JULTIitemi</name>
+		<level> 1</level>
+		<experience>0</experience>
+		<class>Sorceress</class>
+		<prefix></prefix>
+		<status>alive</status>
+	</char>
+	<char>
+		<rank>37</rank>
+		<name>necromecro</name>
+		<level> 1</level>
+		<experience>0</experience>
+		<class>Necromancer</class>
+		<prefix></prefix>
+		<status>alive</status>
+	</char>
+	<char>
+		<rank>38</rank>
+		<name>Setisone</name>
+		<level> 1</level>
+		<experience>0</experience>
+		<class>Paladin</class>
+		<prefix></prefix>
+		<status>alive</status>
+	</char>
+	<char>
+		<rank>39</rank>
+		<name>uniqueone</name>
+		<level> 1</level>
+		<experience>0</experience>
+		<class>Barbarian</class>
+		<prefix></prefix>
+		<status>alive</status>
+	</char>
+	<char>
+		<rank>40</rank>
+		<name>KLUCHOVE</name>
+		<level> 1</level>
+		<experience>0</experience>
+		<class>Assassin</class>
+		<prefix></prefix>
+		<status>alive</status>
+	</char>
+	<char>
+		<rank>41</rank>
+		<name>uniquetwo</name>
+		<level> 1</level>
+		<experience>0</experience>
+		<class>Barbarian</class>
+		<prefix></prefix>
+		<status>alive</status>
+	</char>
+	<char>
+		<rank>42</rank>
+		<name>RUNIdobri</name>
+		<level> 1</level>
+		<experience>0</experience>
+		<class>Necromancer</class>
+		<prefix></prefix>
+		<status>alive</status>
+	</char>
+	<char>
+		<rank>43</rank>
+		<name>yrtyrtyrty</name>
+		<level> 1</level>
+		<experience>0</experience>
+		<class>Barbarian</class>
+		<prefix></prefix>
+		<status>alive</status>
+	</char>
+	<char>
+		<rank>44</rank>
+		<name>aaaaaaa</name>
+		<level> 1</level>
+		<experience>0</experience>
+		<class>Barbarian</class>
+		<prefix></prefix>
+		<status>alive</status>
+	</char>
+	<char>
+		<rank>45</rank>
+		<name>CHARMOVE</name>
+		<level> 1</level>
+		<experience>0</experience>
+		<class>Necromancer</class>
+		<prefix></prefix>
+		<status>alive</status>
+	</char>
+	<char>
+		<rank>46</rank>
+		<name>itemi</name>
+		<level> 1</level>
+		<experience>0</experience>
+		<class>Druid</class>
+		<prefix></prefix>
+		<status>alive</status>
+	</char>
+	<char>
+		<rank>47</rank>
+		<name>kamui</name>
+		<level> 1</level>
+		<experience>0</experience>
+		<class>Amazon</class>
+		<prefix></prefix>
+		<status>alive</status>
+	</char>
+	<char>
+		<rank>48</rank>
+		<name>socketss</name>
+		<level> 1</level>
+		<experience>0</experience>
+		<class>Barbarian</class>
+		<prefix></prefix>
+		<status>alive</status>
+	</char>
+	<char>
+		<rank>49</rank>
+		<name>ringsone</name>
+		<level> 1</level>
+		<experience>0</experience>
+		<class>Sorceress</class>
+		<prefix></prefix>
+		<status>alive</status>
+	</char>
+	<char>
+		<rank>50</rank>
+		<name>setstwo</name>
+		<level> 1</level>
+		<experience>0</experience>
+		<class>Paladin</class>
+		<prefix></prefix>
+		<status>alive</status>
+	</char>
+	<char>
+		<rank>51</rank>
+		<name>botseven</name>
+		<level> 1</level>
+		<experience>0</experience>
+		<class>Druid</class>
+		<prefix></prefix>
+		<status>alive</status>
+	</char>
+	<char>
+		<rank>52</rank>
+		<name>botsix</name>
+		<level> 1</level>
+		<experience>0</experience>
+		<class>Sorceress</class>
+		<prefix></prefix>
+		<status>alive</status>
+	</char>
+	<char>
+		<rank>53</rank>
+		<name>veshtione</name>
+		<level> 1</level>
+		<experience>0</experience>
+		<class>Necromancer</class>
+		<prefix></prefix>
+		<status>alive</status>
+	</char>
+	<char>
+		<rank>54</rank>
+		<name>slabiruni</name>
+		<level> 1</level>
+		<experience>0</experience>
+		<class>Assassin</class>
+		<prefix></prefix>
+		<status>alive</status>
+	</char>
+	<char>
+		<rank>55</rank>
+		<name>ffaa</name>
+		<level> 1</level>
+		<experience>0</experience>
+		<class>Amazon</class>
+		<prefix></prefix>
+		<status>alive</status>
+	</char>
+	<char>
+		<rank>56</rank>
+		<name>veshter</name>
+		<level> 1</level>
+		<experience>0</experience>
+		<class>Barbarian</class>
 		<prefix></prefix>
 		<status>alive</status>
 	</char>
@@ -545,7 +617,7 @@
 		<rank> 1</rank>
 		<name>MFamazon</name>
 		<level>91</level>
-		<experience>1812081191</experience>
+		<experience>1819786419</experience>
 		<class>Amazon</class>
 		<prefix>Matriarch</prefix>
 		<status>alive</status>
@@ -561,7 +633,7 @@
 	</char>
 	<char>
 		<rank> 3</rank>
-		<name>kamui</name>
+		<name>botone</name>
 		<level> 1</level>
 		<experience>0</experience>
 		<class>Amazon</class>
@@ -571,6 +643,24 @@
 	<char>
 		<rank> 4</rank>
 		<name>slabirunii</name>
+		<level> 1</level>
+		<experience>0</experience>
+		<class>Amazon</class>
+		<prefix></prefix>
+		<status>alive</status>
+	</char>
+	<char>
+		<rank> 5</rank>
+		<name>kamui</name>
+		<level> 1</level>
+		<experience>0</experience>
+		<class>Amazon</class>
+		<prefix></prefix>
+		<status>alive</status>
+	</char>
+	<char>
+		<rank> 6</rank>
+		<name>ffaa</name>
 		<level> 1</level>
 		<experience>0</experience>
 		<class>Amazon</class>
@@ -595,14 +685,14 @@
 		<rank> 2</rank>
 		<name>Sorsi</name>
 		<level>86</level>
-		<experience>1182924802</experience>
+		<experience>1183530012</experience>
 		<class>Sorceress</class>
 		<prefix>Matriarch</prefix>
 		<status>alive</status>
 	</char>
 	<char>
 		<rank> 3</rank>
-		<name>ringsone</name>
+		<name>gfgfdgfd</name>
 		<level> 1</level>
 		<experience>0</experience>
 		<class>Sorceress</class>
@@ -620,7 +710,16 @@
 	</char>
 	<char>
 		<rank> 5</rank>
-		<name>gfgfdgfd</name>
+		<name>ringsone</name>
+		<level> 1</level>
+		<experience>0</experience>
+		<class>Sorceress</class>
+		<prefix></prefix>
+		<status>alive</status>
+	</char>
+	<char>
+		<rank> 6</rank>
+		<name>botsix</name>
 		<level> 1</level>
 		<experience>0</experience>
 		<class>Sorceress</class>
@@ -652,7 +751,7 @@
 	</char>
 	<char>
 		<rank> 3</rank>
-		<name>veshtione</name>
+		<name>botthre</name>
 		<level> 1</level>
 		<experience>0</experience>
 		<class>Necromancer</class>
@@ -661,7 +760,7 @@
 	</char>
 	<char>
 		<rank> 4</rank>
-		<name>CHARMOVE</name>
+		<name>gfhfghfghfghf</name>
 		<level> 1</level>
 		<experience>0</experience>
 		<class>Necromancer</class>
@@ -670,33 +769,6 @@
 	</char>
 	<char>
 		<rank> 5</rank>
-		<name>RUNIdobri</name>
-		<level> 1</level>
-		<experience>0</experience>
-		<class>Necromancer</class>
-		<prefix></prefix>
-		<status>alive</status>
-	</char>
-	<char>
-		<rank> 6</rank>
-		<name>necromecro</name>
-		<level> 1</level>
-		<experience>0</experience>
-		<class>Necromancer</class>
-		<prefix></prefix>
-		<status>alive</status>
-	</char>
-	<char>
-		<rank> 7</rank>
-		<name>gdfgfgfd</name>
-		<level> 1</level>
-		<experience>0</experience>
-		<class>Necromancer</class>
-		<prefix></prefix>
-		<status>alive</status>
-	</char>
-	<char>
-		<rank> 8</rank>
 		<name>sdfgdfgsdfgds</name>
 		<level> 1</level>
 		<experience>0</experience>
@@ -705,8 +777,44 @@
 		<status>alive</status>
 	</char>
 	<char>
+		<rank> 6</rank>
+		<name>gdfgfgfd</name>
+		<level> 1</level>
+		<experience>0</experience>
+		<class>Necromancer</class>
+		<prefix></prefix>
+		<status>alive</status>
+	</char>
+	<char>
+		<rank> 7</rank>
+		<name>necromecro</name>
+		<level> 1</level>
+		<experience>0</experience>
+		<class>Necromancer</class>
+		<prefix></prefix>
+		<status>alive</status>
+	</char>
+	<char>
+		<rank> 8</rank>
+		<name>RUNIdobri</name>
+		<level> 1</level>
+		<experience>0</experience>
+		<class>Necromancer</class>
+		<prefix></prefix>
+		<status>alive</status>
+	</char>
+	<char>
 		<rank> 9</rank>
-		<name>gfhfghfghfghf</name>
+		<name>CHARMOVE</name>
+		<level> 1</level>
+		<experience>0</experience>
+		<class>Necromancer</class>
+		<prefix></prefix>
+		<status>alive</status>
+	</char>
+	<char>
+		<rank>10</rank>
+		<name>veshtione</name>
 		<level> 1</level>
 		<experience>0</experience>
 		<class>Necromancer</class>
@@ -729,6 +837,15 @@
 	</char>
 	<char>
 		<rank> 2</rank>
+		<name>palqk</name>
+		<level>32</level>
+		<experience>7328366</experience>
+		<class>Paladin</class>
+		<prefix>Slayer</prefix>
+		<status>alive</status>
+	</char>
+	<char>
+		<rank> 3</rank>
 		<name>tesla</name>
 		<level>30</level>
 		<experience>4968628</experience>
@@ -737,17 +854,8 @@
 		<status>alive</status>
 	</char>
 	<char>
-		<rank> 3</rank>
-		<name>palqk</name>
-		<level>26</level>
-		<experience>2361532</experience>
-		<class>Paladin</class>
-		<prefix>Slayer</prefix>
-		<status>alive</status>
-	</char>
-	<char>
 		<rank> 4</rank>
-		<name>Setisone</name>
+		<name>botfive</name>
 		<level> 1</level>
 		<experience>0</experience>
 		<class>Paladin</class>
@@ -765,6 +873,15 @@
 	</char>
 	<char>
 		<rank> 6</rank>
+		<name>Setisone</name>
+		<level> 1</level>
+		<experience>0</experience>
+		<class>Paladin</class>
+		<prefix></prefix>
+		<status>alive</status>
+	</char>
+	<char>
+		<rank> 7</rank>
 		<name>setstwo</name>
 		<level> 1</level>
 		<experience>0</experience>
@@ -781,7 +898,7 @@
 		<rank> 1</rank>
 		<name>ZGANVARIN</name>
 		<level>80</level>
-		<experience>712829859</experience>
+		<experience>729620977</experience>
 		<class>Barbarian</class>
 		<prefix>Champion</prefix>
 		<status>alive</status>
@@ -806,60 +923,6 @@
 	</char>
 	<char>
 		<rank> 4</rank>
-		<name>veshter</name>
-		<level> 1</level>
-		<experience>0</experience>
-		<class>Barbarian</class>
-		<prefix></prefix>
-		<status>alive</status>
-	</char>
-	<char>
-		<rank> 5</rank>
-		<name>socketss</name>
-		<level> 1</level>
-		<experience>0</experience>
-		<class>Barbarian</class>
-		<prefix></prefix>
-		<status>alive</status>
-	</char>
-	<char>
-		<rank> 6</rank>
-		<name>aaaaaaa</name>
-		<level> 1</level>
-		<experience>0</experience>
-		<class>Barbarian</class>
-		<prefix></prefix>
-		<status>alive</status>
-	</char>
-	<char>
-		<rank> 7</rank>
-		<name>yrtyrtyrty</name>
-		<level> 1</level>
-		<experience>0</experience>
-		<class>Barbarian</class>
-		<prefix></prefix>
-		<status>alive</status>
-	</char>
-	<char>
-		<rank> 8</rank>
-		<name>uniquetwo</name>
-		<level> 1</level>
-		<experience>0</experience>
-		<class>Barbarian</class>
-		<prefix></prefix>
-		<status>alive</status>
-	</char>
-	<char>
-		<rank> 9</rank>
-		<name>uniqueone</name>
-		<level> 1</level>
-		<experience>0</experience>
-		<class>Barbarian</class>
-		<prefix></prefix>
-		<status>alive</status>
-	</char>
-	<char>
-		<rank>10</rank>
 		<name>KOLANI</name>
 		<level> 1</level>
 		<experience>0</experience>
@@ -868,8 +931,8 @@
 		<status>alive</status>
 	</char>
 	<char>
-		<rank>11</rank>
-		<name>aaaaaaaaaaaa</name>
+		<rank> 5</rank>
+		<name>botfour</name>
 		<level> 1</level>
 		<experience>0</experience>
 		<class>Barbarian</class>
@@ -877,8 +940,8 @@
 		<status>alive</status>
 	</char>
 	<char>
-		<rank>12</rank>
-		<name>uiyuiuyi</name>
+		<rank> 6</rank>
+		<name>SOCKET</name>
 		<level> 1</level>
 		<experience>0</experience>
 		<class>Barbarian</class>
@@ -886,7 +949,7 @@
 		<status>alive</status>
 	</char>
 	<char>
-		<rank>13</rank>
+		<rank> 7</rank>
 		<name>webvarin</name>
 		<level> 1</level>
 		<experience>0</experience>
@@ -895,8 +958,71 @@
 		<status>alive</status>
 	</char>
 	<char>
+		<rank> 8</rank>
+		<name>uiyuiuyi</name>
+		<level> 1</level>
+		<experience>0</experience>
+		<class>Barbarian</class>
+		<prefix></prefix>
+		<status>alive</status>
+	</char>
+	<char>
+		<rank> 9</rank>
+		<name>aaaaaaaaaaaa</name>
+		<level> 1</level>
+		<experience>0</experience>
+		<class>Barbarian</class>
+		<prefix></prefix>
+		<status>alive</status>
+	</char>
+	<char>
+		<rank>10</rank>
+		<name>uniqueone</name>
+		<level> 1</level>
+		<experience>0</experience>
+		<class>Barbarian</class>
+		<prefix></prefix>
+		<status>alive</status>
+	</char>
+	<char>
+		<rank>11</rank>
+		<name>uniquetwo</name>
+		<level> 1</level>
+		<experience>0</experience>
+		<class>Barbarian</class>
+		<prefix></prefix>
+		<status>alive</status>
+	</char>
+	<char>
+		<rank>12</rank>
+		<name>yrtyrtyrty</name>
+		<level> 1</level>
+		<experience>0</experience>
+		<class>Barbarian</class>
+		<prefix></prefix>
+		<status>alive</status>
+	</char>
+	<char>
+		<rank>13</rank>
+		<name>aaaaaaa</name>
+		<level> 1</level>
+		<experience>0</experience>
+		<class>Barbarian</class>
+		<prefix></prefix>
+		<status>alive</status>
+	</char>
+	<char>
 		<rank>14</rank>
-		<name>SOCKET</name>
+		<name>socketss</name>
+		<level> 1</level>
+		<experience>0</experience>
+		<class>Barbarian</class>
+		<prefix></prefix>
+		<status>alive</status>
+	</char>
+	<char>
+		<rank>15</rank>
+		<name>veshter</name>
 		<level> 1</level>
 		<experience>0</experience>
 		<class>Barbarian</class>
@@ -928,15 +1054,6 @@
 	</char>
 	<char>
 		<rank> 3</rank>
-		<name>itemi</name>
-		<level> 1</level>
-		<experience>0</experience>
-		<class>Druid</class>
-		<prefix></prefix>
-		<status>alive</status>
-	</char>
-	<char>
-		<rank> 4</rank>
 		<name>runione</name>
 		<level> 1</level>
 		<experience>0</experience>
@@ -945,8 +1062,26 @@
 		<status>alive</status>
 	</char>
 	<char>
-		<rank> 5</rank>
+		<rank> 4</rank>
 		<name>runitwo</name>
+		<level> 1</level>
+		<experience>0</experience>
+		<class>Druid</class>
+		<prefix></prefix>
+		<status>alive</status>
+	</char>
+	<char>
+		<rank> 5</rank>
+		<name>itemi</name>
+		<level> 1</level>
+		<experience>0</experience>
+		<class>Druid</class>
+		<prefix></prefix>
+		<status>alive</status>
+	</char>
+	<char>
+		<rank> 6</rank>
+		<name>botseven</name>
 		<level> 1</level>
 		<experience>0</experience>
 		<class>Druid</class>
@@ -969,7 +1104,7 @@
 	</char>
 	<char>
 		<rank> 2</rank>
-		<name>slabiruni</name>
+		<name>bottwo</name>
 		<level> 1</level>
 		<experience>0</experience>
 		<class>Assassin</class>
@@ -978,7 +1113,7 @@
 	</char>
 	<char>
 		<rank> 3</rank>
-		<name>KLUCHOVE</name>
+		<name>TapakZaVeshti</name>
 		<level> 1</level>
 		<experience>0</experience>
 		<class>Assassin</class>
@@ -996,7 +1131,16 @@
 	</char>
 	<char>
 		<rank> 5</rank>
-		<name>TapakZaVeshti</name>
+		<name>KLUCHOVE</name>
+		<level> 1</level>
+		<experience>0</experience>
+		<class>Assassin</class>
+		<prefix></prefix>
+		<status>alive</status>
+	</char>
+	<char>
+		<rank> 6</rank>
+		<name>slabiruni</name>
 		<level> 1</level>
 		<experience>0</experience>
 		<class>Assassin</class>

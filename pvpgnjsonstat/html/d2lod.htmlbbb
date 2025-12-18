@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Diablo II: Lord of Destruction - Realm Hub</title>
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/style.css"> 
     <link rel="stylesheet" href="css/d2lod.css"> 
 </head>
 <body>
@@ -22,23 +22,6 @@
 <div class="container">
     <h1 class="d2-h1">🔥 Diablo II: Lord of Destruction Realm Hub</h1>
     <p class="sub">Последно обновяване: <span id="last-updated">N/A</span></p>
-
-    <div class="links" style="text-align: center; margin-bottom: 20px;">
-        <a href="charitems.html" target="_blank" class="d2-link">💎 Item Stats</a> |
-        <a href="runes.html" target="_blank" class="d2-link">⚔️ Runes Inventoryr</a> |
-        <a href="ladder.html" target="_blank" class="d2-link">🥇 Heros Ladder</a> |
-        <a href="webladder.html" target="_blank" class="d2-link">⚔️ Game Ladder</a>
-    </div>
-
-
-
-    <section>
-        <h3 style="color: #ffcc00; margin-top: 40px;">Активни Игри в Момента</h3>
-        <div id="d2-games-container">
-            <p class="no-games-message">Зареждане...</p>
-        </div>
-    </section>
-
 
     <section>
         <h2 style="color: #ffcc00;">Realm Server (D2GS) Статус</h2>
@@ -64,7 +47,19 @@
         </div>
     </section>
 
+    <div class="links" style="text-align: center; margin-bottom: 20px;">
+        <a href="charitems.html" target="_blank" class="d2-link">💎 Item Stats</a> |
+        <a href="runes.html" target="_blank" class="d2-link">⚔️ Runes Inventoryr</a> |
+        <a href="ladder.html" target="_blank" class="d2-link">🥇 Heros Ladder</a> |
+        <a href="webladder.html" target="_blank" class="d2-link">⚔️ Game Ladder</a>
+    </div>
 
+    <section>
+        <h2 style="color: #ffcc00; margin-top: 40px;">Активни Игри в Момента</h2>
+        <div id="d2-games-container">
+            <p class="no-games-message">Зареждане...</p>
+        </div>
+    </section>
 </div>
 
 <footer class="footer">

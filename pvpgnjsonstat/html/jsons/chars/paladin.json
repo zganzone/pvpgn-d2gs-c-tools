@@ -2,7 +2,7 @@
   "account": "zliazub",
   "charfile": "paladin",
   "charname": "paladin",
-  "generated": "2025-12-17 13:31:09",
+  "generated": "2025-12-18 22:20:10",
   "char_stats": {
     "level": 88,
     "class": "Paladin",
@@ -24,7 +24,7 @@
     "max_stamina": 442.0,
     "experience": 1419203579,
     "gold": 0,
-    "stashed_gold": 1225164
+    "stashed_gold": 1222767
   },
   "unique_set": [
     {
@@ -410,6 +410,17 @@
     "Greater Mana Potion",
     "Greater Healing Potion",
     "Greater Healing Potion",
+    "Greater Healing Potion",
+    "Greater Healing Potion",
+    "Greater Mana Potion",
+    "Greater Healing Potion",
+    "Greater Healing Potion",
+    "Greater Healing Potion",
+    "Greater Healing Potion",
+    "Greater Mana Potion",
+    "Greater Mana Potion",
+    "Greater Mana Potion",
+    "Greater Mana Potion",
     {
       "name": "Call to Arms",
       "properties": [
@@ -447,17 +458,14 @@
         "Attacker Takes Damage of 14"
       ]
     },
-    "Greater Healing Potion",
-    "Greater Healing Potion",
-    "Greater Mana Potion",
-    "Greater Healing Potion",
-    "Greater Healing Potion",
-    "Greater Healing Potion",
-    "Greater Healing Potion",
     "Greater Mana Potion",
     "Greater Mana Potion",
-    "Greater Mana Potion",
-    "Greater Mana Potion",
+    {
+      "name": "Thresher",
+      "properties": [
+        "+8% Enhanced Damage"
+      ]
+    },
     {
       "name": "Heart of the Oak",
       "properties": [

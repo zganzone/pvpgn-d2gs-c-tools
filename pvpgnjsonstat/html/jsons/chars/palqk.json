@@ -2,39 +2,31 @@
   "account": "zgan2",
   "charfile": "palqk",
   "charname": "palqk",
-  "generated": "2025-12-17 13:31:09",
+  "generated": "2025-12-18 22:20:10",
   "char_stats": {
-    "level": 26,
+    "level": 32,
     "class": "Paladin",
     "is_hc": false,
     "is_ladder": true,
-    "progression": 5,
+    "progression": 6,
     "char_name_raw": "palqk",
     "strength": 56,
     "energy": 15,
     "dexterity": 26,
-    "vitality": 98,
-    "unused_stats": 20,
-    "unused_skills": 5,
-    "current_hp": 76.4140625,
-    "max_hp": 344.0,
-    "current_mana": 78.96875,
-    "max_mana": 52.5,
-    "current_stamina": 217.3671875,
-    "max_stamina": 187.0,
-    "experience": 2361532,
-    "gold": 765,
-    "stashed_gold": 128953
+    "vitality": 123,
+    "unused_stats": 25,
+    "unused_skills": 2,
+    "current_hp": 457.0,
+    "max_hp": 431.0,
+    "current_mana": 158.0,
+    "max_mana": 61.5,
+    "current_stamina": 254.0,
+    "max_stamina": 218.0,
+    "experience": 7328366,
+    "gold": 0,
+    "stashed_gold": 28777
   },
   "unique_set": [
-    {
-      "name": "Civerb's Icon",
-      "properties": [
-        "Regenerate Mana 40%",
-        "Replenish Life +4"
-      ],
-      "type": "set"
-    },
     {
       "name": "Bloodthief",
       "properties": [
@@ -59,28 +51,6 @@
       "type": "unique"
     },
     {
-      "name": "Angelic Halo",
-      "properties": [
-        "+20 to Life",
-        "Replenish Life +6"
-      ],
-      "type": "set"
-    },
-    {
-      "name": "Hexfire",
-      "properties": [
-        "+156% Enhanced Damage",
-        "+35 to Minimum 1-handed damage",
-        "+40 to Maximum 1-handed damage",
-        "Fire Resist +25%",
-        "+10% to Maximum Fire Resist",
-        "Ignore Target Defense",
-        "+1 to Fire Skills",
-        "Level 6 Hydra (11/36 Charges)"
-      ],
-      "type": "unique"
-    },
-    {
       "name": "Frostburn",
       "properties": [
         "+11% Enhanced Defense",
@@ -88,18 +58,6 @@
         "+30 Defense",
         "Adds 1-6 Cold Damage",
         "Increase Maximum Mana 40%"
-      ],
-      "type": "unique"
-    },
-    {
-      "name": "The Hand of Broc",
-      "properties": [
-        "+20 to Mana",
-        "+19% Enhanced Defense",
-        "+10 Defense",
-        "Poison Resist +10%",
-        "3% Life Stolen Per Hit",
-        "3% Mana Stolen Per Hit"
       ],
       "type": "unique"
     },
@@ -116,17 +74,12 @@
       "type": "unique"
     },
     {
-      "name": "Bverrit Keep",
+      "name": "Civerb's Icon",
       "properties": [
-        "+5 to Strength",
-        "+91% Enhanced Defense",
-        "+10% Increased chance of blocking",
-        "+30 Defense",
-        "Magic Damage Reduced by 5",
-        "Fire Resist +75%",
-        "+83 Maximum Durability"
+        "Regenerate Mana 40%",
+        "Replenish Life +4"
       ],
-      "type": "unique"
+      "type": "set"
     },
     {
       "name": "Spectral Shard",
@@ -138,6 +91,32 @@
         "Cold Resist +10%",
         "Poison Resist +10%",
         "50% Faster Cast Rate"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "Hexfire",
+      "properties": [
+        "+156% Enhanced Damage",
+        "+35 to Minimum 1-handed damage",
+        "+40 to Maximum 1-handed damage",
+        "Fire Resist +25%",
+        "+10% to Maximum Fire Resist",
+        "Ignore Target Defense",
+        "+1 to Fire Skills",
+        "Level 6 Hydra (11/36 Charges)"
+      ],
+      "type": "unique"
+    },
+    {
+      "name": "The Hand of Broc",
+      "properties": [
+        "+20 to Mana",
+        "+19% Enhanced Defense",
+        "+10 Defense",
+        "Poison Resist +10%",
+        "3% Life Stolen Per Hit",
+        "3% Mana Stolen Per Hit"
       ],
       "type": "unique"
     },
@@ -154,6 +133,14 @@
         "Hit Blinds Target +1"
       ],
       "type": "unique"
+    },
+    {
+      "name": "Angelic Halo",
+      "properties": [
+        "+20 to Life",
+        "Replenish Life +6"
+      ],
+      "type": "set"
     }
   ],
   "runes": [],
@@ -178,6 +165,27 @@
         "+2 to Minimum 2-handed damage",
         "Poison Resist +14%",
         "+2 to Minimum Throw Damage"
+      ]
+    },
+    {
+      "name": "Viper Torch",
+      "properties": [
+        "+14 to Mana",
+        "+83 to Attack rating",
+        "+1 to Maximum 1-handed damage",
+        "+1 to Maximum 2-handed damage",
+        "25% Extra Gold from Monsters",
+        "6% Better Chance of Getting Magic Items",
+        "+1 to Maximum Throw Damage"
+      ]
+    },
+    {
+      "name": "Beast Turn",
+      "properties": [
+        "+6 to Strength",
+        "+60 to Mana",
+        "+100 to Attack rating",
+        "8% Better Chance of Getting Magic Items"
       ]
     }
   ],
@@ -243,12 +251,23 @@
     }
   ],
   "weapons": [],
-  "armors": [
-    "Breast Plate"
-  ],
+  "armors": [],
   "other": [
     "Horadric Cube",
     "Mephisto Soul Stone",
+    "Identify Book",
+    "Town Portal Book",
+    "Skeleton Key",
+    "Sol Rune",
+    "Tir Rune",
+    "Strong Mana Potion",
+    "Strong Mana Potion",
+    "Strong Mana Potion",
+    "Strong Healing Potion",
+    "Strong Healing Potion",
+    "Strong Mana Potion",
+    "Greater Mana Potion",
+    "Strong Healing Potion",
     {
       "name": "Havoc Cowl",
       "properties": [
@@ -274,6 +293,12 @@
       ]
     },
     {
+      "name": "Thorns",
+      "properties": [
+        "Attacker Takes Damage of 1"
+      ]
+    },
+    {
       "name": "Storm Blazer",
       "properties": [
         "+1 to Dexterity",
@@ -283,32 +308,19 @@
         "+2 to Light Radius"
       ]
     },
-    "Identify Book",
-    {
-      "name": "Grand Scepter",
-      "properties": [
-        "+2 To Concentration"
-      ]
-    },
-    {
-      "name": "Thorns",
-      "properties": [
-        "Attacker Takes Damage of 1"
-      ]
-    },
-    "Strong Healing Potion",
-    "Strong Healing Potion",
-    "Strong Healing Potion",
-    "Strong Healing Potion",
-    "Strong Healing Potion",
-    "Strong Healing Potion",
-    "Town Portal Book",
-    "Mana Potion",
-    "Greater Mana Potion",
-    "Strong Mana Potion",
     "Greater Mana Potion",
     "Strong Mana Potion",
     "Strong Mana Potion",
+    "Strong Mana Potion",
+    "Greater Mana Potion",
+    "Greater Mana Potion",
+    "Strong Healing Potion",
+    "Greater Healing Potion",
+    "Greater Healing Potion",
+    "Greater Mana Potion",
+    "Strong Mana Potion",
+    "Strong Mana Potion",
+    "Strong Healing Potion",
     {
       "name": "Steel",
       "properties": [
@@ -326,14 +338,6 @@
         "+1 to Light Radius"
       ]
     },
-    "Mana Potion",
-    "Strong Mana Potion",
-    "Strong Mana Potion",
-    "Strong Healing Potion",
-    "Strong Healing Potion",
-    "Healing Potion",
-    "Strong Healing Potion",
-    "Strong Healing Potion",
     {
       "name": "War Scepter",
       "properties": [
@@ -345,18 +349,21 @@
       ]
     },
     {
-      "name": "Gale Wing",
+      "name": "Ancient's Pledge",
       "properties": [
-        "+3 to Mana",
-        "+12% Enhanced Defense",
-        "+10% Increased chance of blocking",
-        "Fire Resist +15%",
-        "Lightning Resist +5%",
-        "Cold Resist +5%",
-        "Poison Resist +5%",
-        "Attacker Takes Damage of 1",
-        "15% Faster Block Rate",
-        "Repairs 1 Durability in 3 Seconds"
+        "Fire Resist +8%",
+        "Lightning Resist +8%",
+        "Cold Resist +8%",
+        "Poison Resist +8%",
+        "+50% Enhanced Defense",
+        "Fire Resist +13%",
+        "Lightning Resist +13%",
+        "Cold Resist +43%",
+        "Poison Resist +13%",
+        "10% Damage Taken Goes to Mana",
+        "Fire Resist +35%",
+        "Lightning Resist +35%",
+        "Poison Resist +35%"
       ]
     }
   ]

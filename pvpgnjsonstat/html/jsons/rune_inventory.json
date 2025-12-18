@@ -1,0 +1,301 @@
+[
+    {
+        "name": "Amn Rune",
+        "total_count": 14,
+        "stats": "Life Stolen per Hit: 7% (Weapon)",
+        "holders": {
+            "slabiruni": 5,
+            "tesla": 1,
+            "runione": 2,
+            "slabirunii": 3,
+            "runitwo": 3
+        }
+    },
+    {
+        "name": "Dol Rune",
+        "total_count": 17,
+        "stats": "Hit Causes Monster to Flee 25% (Weapon) | Stamina: +7 (Armor/Helm)",
+        "holders": {
+            "slabiruni": 10,
+            "runione": 2,
+            "slabirunii": 3,
+            "necromecro": 1,
+            "runitwo": 1
+        }
+    },
+    {
+        "name": "El Rune",
+        "total_count": 2,
+        "stats": "Light Radius: +1 | Attack Rating: +50",
+        "holders": {
+            "paladin": 1,
+            "runione": 1
+        }
+    },
+    {
+        "name": "Eld Rune",
+        "total_count": 4,
+        "stats": "Defense: +7% (Armor/Helm) | Faster Run/Walk: +30% (Shield)",
+        "holders": {
+            "paladin": 1,
+            "runione": 2,
+            "runitwo": 1
+        }
+    },
+    {
+        "name": "Eth Rune",
+        "total_count": 8,
+        "stats": "Monster Defense per Hit: -25% (Weapon) | Regenerate Mana: +15% (Armor/Helm)",
+        "holders": {
+            "slabiruni": 4,
+            "paladin": 1,
+            "tesla": 1,
+            "runione": 2
+        }
+    },
+    {
+        "name": "Fal Rune",
+        "total_count": 11,
+        "stats": "Strength: +10",
+        "holders": {
+            "runidobri": 8,
+            "paladin": 1,
+            "necromecro": 2
+        }
+    },
+    {
+        "name": "Gul Rune",
+        "total_count": 3,
+        "stats": "Attack Rating: +20% (Weapon) | Resist All: +5 (Armor/Helm/Shield)",
+        "holders": {
+            "paladin": 1,
+            "lightsorc": 2
+        }
+    },
+    {
+        "name": "Hel Rune",
+        "total_count": 12,
+        "stats": "Свойствата не са дефинирани",
+        "holders": {
+            "slabiruni": 5,
+            "zganvarin": 1,
+            "runione": 2,
+            "slabirunii": 2,
+            "necromecro": 1,
+            "runitwo": 1
+        }
+    },
+    {
+        "name": "Io Rune",
+        "total_count": 13,
+        "stats": "Vitality: +10",
+        "holders": {
+            "slabiruni": 5,
+            "runione": 2,
+            "slabirunii": 5,
+            "necromecro": 1
+        }
+    },
+    {
+        "name": "Ist Rune",
+        "total_count": 2,
+        "stats": "Magic Find: +30% (Weapon) | Magic Find: +25% (Armor/Helm)",
+        "holders": {
+            "necromecro": 2
+        }
+    },
+    {
+        "name": "Ith Rune",
+        "total_count": 5,
+        "stats": "Magic Damage Reduced: 7",
+        "holders": {
+            "slabiruni": 1,
+            "runione": 2,
+            "slabirunii": 2
+        }
+    },
+    {
+        "name": "Ko Rune",
+        "total_count": 18,
+        "stats": "Dexterity: +10",
+        "holders": {
+            "slabiruni": 4,
+            "runidobri": 6,
+            "runione": 2,
+            "slabirunii": 3,
+            "necromecro": 2,
+            "runitwo": 1
+        }
+    },
+    {
+        "name": "Lem Rune",
+        "total_count": 8,
+        "stats": "Extra Gold: +50% (Armor/Helm)",
+        "holders": {
+            "runidobri": 6,
+            "paladin": 1,
+            "necromecro": 1
+        }
+    },
+    {
+        "name": "Lo Rune",
+        "total_count": 1,
+        "stats": "Deadly Strike: +20% (Weapon) | Resist All: +5 (Armor/Helm/Shield)",
+        "holders": {
+            "lightsorc": 1
+        }
+    },
+    {
+        "name": "Lum Rune",
+        "total_count": 31,
+        "stats": "Energy: +10",
+        "holders": {
+            "slabiruni": 7,
+            "runidobri": 10,
+            "runione": 2,
+            "slabirunii": 8,
+            "necromecro": 3,
+            "lightsorc": 1
+        }
+    },
+    {
+        "name": "Mal Rune",
+        "total_count": 2,
+        "stats": "Magic Damage Reduced: 7 (Armor/Helm/Shield)",
+        "holders": {
+            "paladin": 1,
+            "necromecro": 1
+        }
+    },
+    {
+        "name": "Nef Rune",
+        "total_count": 5,
+        "stats": "Knockback (Weapon) | Defense vs. Missile: +30 (Armor/Helm)",
+        "holders": {
+            "slabiruni": 1,
+            "paladin": 1,
+            "tesla": 1,
+            "runione": 2
+        }
+    },
+    {
+        "name": "Ohm Rune",
+        "total_count": 4,
+        "stats": "Enhanced Damage: +50% (Weapon) | Defense: +50% (Armor/Helm) | Resist All: +5 (Shield)",
+        "holders": {
+            "paladin": 1,
+            "necromecro": 1,
+            "lightsorc": 2
+        }
+    },
+    {
+        "name": "Ort Rune",
+        "total_count": 9,
+        "stats": "Lightning Resistance: +30% (Armor/Helm) | Lightning Resist: +35% (Shield)",
+        "holders": {
+            "slabiruni": 4,
+            "zganvarin": 1,
+            "runione": 2,
+            "runitwo": 2
+        }
+    },
+    {
+        "name": "Pul Rune",
+        "total_count": 12,
+        "stats": "Defense: +30% (Armor/Helm) | Resist All: +15 (Shield)",
+        "holders": {
+            "runidobri": 8,
+            "paladin": 1,
+            "runione": 1,
+            "necromecro": 1,
+            "lightsorc": 1
+        }
+    },
+    {
+        "name": "Ral Rune",
+        "total_count": 23,
+        "stats": "Fire Resistance: +30% (Armor/Helm) | Fire Resist: +35% (Shield)",
+        "holders": {
+            "slabiruni": 10,
+            "undertaker": 1,
+            "kamui": 6,
+            "tesla": 2,
+            "runione": 2,
+            "slabirunii": 1,
+            "runitwo": 1
+        }
+    },
+    {
+        "name": "Shael Rune",
+        "total_count": 8,
+        "stats": "Attack Speed: +20% (Weapon) | Faster Hit Recovery: +20% (Armor/Helm) | Faster Block Rate: +20% (Shield)",
+        "holders": {
+            "slabiruni": 5,
+            "runione": 1,
+            "slabirunii": 2
+        }
+    },
+    {
+        "name": "Sol Rune",
+        "total_count": 12,
+        "stats": "Damage Reduced: 7 (Armor/Helm/Shield)",
+        "holders": {
+            "slabiruni": 4,
+            "runione": 1,
+            "palqk": 1,
+            "slabirunii": 4,
+            "runitwo": 2
+        }
+    },
+    {
+        "name": "Sur Rune",
+        "total_count": 2,
+        "stats": "Maximum Mana: +5% (Armor/Helm) | Mana: +20% (Shield)",
+        "holders": {
+            "lightsorc": 2
+        }
+    },
+    {
+        "name": "Tal Rune",
+        "total_count": 11,
+        "stats": "Poison Resistance: +30% (Armor/Helm) | Poison Resist: +35% (Shield)",
+        "holders": {
+            "slabiruni": 5,
+            "tesla": 1,
+            "zganvarin": 3,
+            "runitwo": 2
+        }
+    },
+    {
+        "name": "Thul Rune",
+        "total_count": 10,
+        "stats": "Cold Resistance: +30% (Armor/Helm) | Cold Resist: +35% (Shield)",
+        "holders": {
+            "slabiruni": 4,
+            "zganvarin": 1,
+            "lightsorc": 1,
+            "runitwo": 4
+        }
+    },
+    {
+        "name": "Tir Rune",
+        "total_count": 8,
+        "stats": "Replenish Mana: +2",
+        "holders": {
+            "slabiruni": 5,
+            "tesla": 1,
+            "zganvarin": 1,
+            "palqk": 1
+        }
+    },
+    {
+        "name": "Um Rune",
+        "total_count": 7,
+        "stats": "Resist All: +15 (Armor/Helm) | Resist All: +22 (Shield)",
+        "holders": {
+            "runidobri": 5,
+            "runione": 1,
+            "lightsorc": 1
+        }
+    }
+]

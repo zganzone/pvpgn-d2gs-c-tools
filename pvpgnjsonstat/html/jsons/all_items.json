@@ -1,5 +1,5 @@
 {
-  "generated": "2025-12-17 13:31:09",
+  "generated": "2025-12-18 22:20:10",
   "rows": [
     {
       "account": "zliazubbb",
@@ -801,6 +801,192 @@
       ]
     },
     {
+      "account": "bot5",
+      "charfile": "botfive",
+      "charname": "botfive",
+      "level": 1,
+      "class": "Paladin",
+      "unique_set": [],
+      "runes": [],
+      "charms": [],
+      "rings": [],
+      "belts": [],
+      "amulets": [],
+      "weapons": [
+        "Short Sword"
+      ],
+      "armors": [],
+      "other": [
+        "Lesser Healing Potion",
+        "Lesser Healing Potion",
+        "Lesser Healing Potion",
+        "Lesser Healing Potion",
+        "Town Portal Scroll",
+        "Identify Scroll",
+        "Buckler"
+      ]
+    },
+    {
+      "account": "bot4",
+      "charfile": "botfour",
+      "charname": "botfour",
+      "level": 1,
+      "class": "Barbarian",
+      "unique_set": [],
+      "runes": [],
+      "charms": [],
+      "rings": [],
+      "belts": [],
+      "amulets": [],
+      "weapons": [
+        "Hand Axe"
+      ],
+      "armors": [],
+      "other": [
+        "Lesser Healing Potion",
+        "Lesser Healing Potion",
+        "Lesser Healing Potion",
+        "Lesser Healing Potion",
+        "Town Portal Scroll",
+        "Identify Scroll",
+        "Buckler"
+      ]
+    },
+    {
+      "account": "bot1",
+      "charfile": "botone",
+      "charname": "botone",
+      "level": 1,
+      "class": "Amazon",
+      "unique_set": [],
+      "runes": [],
+      "charms": [],
+      "rings": [],
+      "belts": [],
+      "amulets": [],
+      "weapons": [],
+      "armors": [],
+      "other": [
+        "Lesser Healing Potion",
+        "Lesser Healing Potion",
+        "Lesser Healing Potion",
+        "Lesser Healing Potion",
+        "Town Portal Scroll",
+        "Identify Scroll",
+        "Javelin",
+        "Buckler"
+      ]
+    },
+    {
+      "account": "bot7",
+      "charfile": "botseven",
+      "charname": "botseven",
+      "level": 1,
+      "class": "Druid",
+      "unique_set": [],
+      "runes": [],
+      "charms": [],
+      "rings": [],
+      "belts": [],
+      "amulets": [],
+      "weapons": [],
+      "armors": [],
+      "other": [
+        "Lesser Healing Potion",
+        "Lesser Healing Potion",
+        "Lesser Healing Potion",
+        "Lesser Healing Potion",
+        "Town Portal Scroll",
+        "Identify Scroll",
+        "Club",
+        "Buckler"
+      ]
+    },
+    {
+      "account": "bot6",
+      "charfile": "botsix",
+      "charname": "botsix",
+      "level": 1,
+      "class": "Sorceress",
+      "unique_set": [],
+      "runes": [],
+      "charms": [],
+      "rings": [],
+      "belts": [],
+      "amulets": [],
+      "weapons": [
+        {
+          "name": "Short Staff",
+          "properties": [
+            "+1 To Fire Bolt"
+          ]
+        }
+      ],
+      "armors": [],
+      "other": [
+        "Lesser Healing Potion",
+        "Lesser Healing Potion",
+        "Lesser Healing Potion",
+        "Lesser Healing Potion",
+        "Town Portal Scroll",
+        "Identify Scroll"
+      ]
+    },
+    {
+      "account": "bot3",
+      "charfile": "botthre",
+      "charname": "botthre",
+      "level": 1,
+      "class": "Necromancer",
+      "unique_set": [],
+      "runes": [],
+      "charms": [],
+      "rings": [],
+      "belts": [],
+      "amulets": [],
+      "weapons": [],
+      "armors": [],
+      "other": [
+        "Lesser Healing Potion",
+        "Lesser Healing Potion",
+        "Lesser Healing Potion",
+        "Lesser Healing Potion",
+        "Town Portal Scroll",
+        "Identify Scroll",
+        {
+          "name": "Wand",
+          "properties": [
+            "+1 To Raise Skeleton"
+          ]
+        }
+      ]
+    },
+    {
+      "account": "bot2",
+      "charfile": "bottwo",
+      "charname": "bottwo",
+      "level": 1,
+      "class": "Assassin",
+      "unique_set": [],
+      "runes": [],
+      "charms": [],
+      "rings": [],
+      "belts": [],
+      "amulets": [],
+      "weapons": [],
+      "armors": [],
+      "other": [
+        "Lesser Healing Potion",
+        "Lesser Healing Potion",
+        "Lesser Healing Potion",
+        "Lesser Healing Potion",
+        "Town Portal Scroll",
+        "Identify Scroll",
+        "Katar",
+        "Buckler"
+      ]
+    },
+    {
       "account": "zliazubbb",
       "charfile": "charmove",
       "charname": "CHARMOVE",
@@ -1447,6 +1633,31 @@
             "+2 to Mana After Each Kill"
           ]
         }
+      ]
+    },
+    {
+      "account": "zgan4",
+      "charfile": "ffaa",
+      "charname": "ffaa",
+      "level": 1,
+      "class": "Amazon",
+      "unique_set": [],
+      "runes": [],
+      "charms": [],
+      "rings": [],
+      "belts": [],
+      "amulets": [],
+      "weapons": [],
+      "armors": [],
+      "other": [
+        "Lesser Healing Potion",
+        "Lesser Healing Potion",
+        "Lesser Healing Potion",
+        "Lesser Healing Potion",
+        "Town Portal Scroll",
+        "Identify Scroll",
+        "Javelin",
+        "Buckler"
       ]
     },
     {
@@ -4268,6 +4479,17 @@
         "Greater Mana Potion",
         "Greater Healing Potion",
         "Greater Healing Potion",
+        "Greater Healing Potion",
+        "Greater Healing Potion",
+        "Greater Mana Potion",
+        "Greater Healing Potion",
+        "Greater Healing Potion",
+        "Greater Healing Potion",
+        "Greater Healing Potion",
+        "Greater Mana Potion",
+        "Greater Mana Potion",
+        "Greater Mana Potion",
+        "Greater Mana Potion",
         {
           "name": "Call to Arms",
           "properties": [
@@ -4305,17 +4527,14 @@
             "Attacker Takes Damage of 14"
           ]
         },
-        "Greater Healing Potion",
-        "Greater Healing Potion",
-        "Greater Mana Potion",
-        "Greater Healing Potion",
-        "Greater Healing Potion",
-        "Greater Healing Potion",
-        "Greater Healing Potion",
         "Greater Mana Potion",
         "Greater Mana Potion",
-        "Greater Mana Potion",
-        "Greater Mana Potion",
+        {
+          "name": "Thresher",
+          "properties": [
+            "+8% Enhanced Damage"
+          ]
+        },
         {
           "name": "Heart of the Oak",
           "properties": [
@@ -4342,17 +4561,9 @@
       "account": "zgan2",
       "charfile": "palqk",
       "charname": "palqk",
-      "level": 26,
+      "level": 32,
       "class": "Paladin",
       "unique_set": [
-        {
-          "name": "Civerb's Icon",
-          "properties": [
-            "Regenerate Mana 40%",
-            "Replenish Life +4"
-          ],
-          "type": "set"
-        },
         {
           "name": "Bloodthief",
           "properties": [
@@ -4377,28 +4588,6 @@
           "type": "unique"
         },
         {
-          "name": "Angelic Halo",
-          "properties": [
-            "+20 to Life",
-            "Replenish Life +6"
-          ],
-          "type": "set"
-        },
-        {
-          "name": "Hexfire",
-          "properties": [
-            "+156% Enhanced Damage",
-            "+35 to Minimum 1-handed damage",
-            "+40 to Maximum 1-handed damage",
-            "Fire Resist +25%",
-            "+10% to Maximum Fire Resist",
-            "Ignore Target Defense",
-            "+1 to Fire Skills",
-            "Level 6 Hydra (11/36 Charges)"
-          ],
-          "type": "unique"
-        },
-        {
           "name": "Frostburn",
           "properties": [
             "+11% Enhanced Defense",
@@ -4406,18 +4595,6 @@
             "+30 Defense",
             "Adds 1-6 Cold Damage",
             "Increase Maximum Mana 40%"
-          ],
-          "type": "unique"
-        },
-        {
-          "name": "The Hand of Broc",
-          "properties": [
-            "+20 to Mana",
-            "+19% Enhanced Defense",
-            "+10 Defense",
-            "Poison Resist +10%",
-            "3% Life Stolen Per Hit",
-            "3% Mana Stolen Per Hit"
           ],
           "type": "unique"
         },
@@ -4434,17 +4611,12 @@
           "type": "unique"
         },
         {
-          "name": "Bverrit Keep",
+          "name": "Civerb's Icon",
           "properties": [
-            "+5 to Strength",
-            "+91% Enhanced Defense",
-            "+10% Increased chance of blocking",
-            "+30 Defense",
-            "Magic Damage Reduced by 5",
-            "Fire Resist +75%",
-            "+83 Maximum Durability"
+            "Regenerate Mana 40%",
+            "Replenish Life +4"
           ],
-          "type": "unique"
+          "type": "set"
         },
         {
           "name": "Spectral Shard",
@@ -4456,6 +4628,32 @@
             "Cold Resist +10%",
             "Poison Resist +10%",
             "50% Faster Cast Rate"
+          ],
+          "type": "unique"
+        },
+        {
+          "name": "Hexfire",
+          "properties": [
+            "+156% Enhanced Damage",
+            "+35 to Minimum 1-handed damage",
+            "+40 to Maximum 1-handed damage",
+            "Fire Resist +25%",
+            "+10% to Maximum Fire Resist",
+            "Ignore Target Defense",
+            "+1 to Fire Skills",
+            "Level 6 Hydra (11/36 Charges)"
+          ],
+          "type": "unique"
+        },
+        {
+          "name": "The Hand of Broc",
+          "properties": [
+            "+20 to Mana",
+            "+19% Enhanced Defense",
+            "+10 Defense",
+            "Poison Resist +10%",
+            "3% Life Stolen Per Hit",
+            "3% Mana Stolen Per Hit"
           ],
           "type": "unique"
         },
@@ -4472,6 +4670,14 @@
             "Hit Blinds Target +1"
           ],
           "type": "unique"
+        },
+        {
+          "name": "Angelic Halo",
+          "properties": [
+            "+20 to Life",
+            "Replenish Life +6"
+          ],
+          "type": "set"
         }
       ],
       "runes": [],
@@ -4545,6 +4751,27 @@
             "Poison Resist +14%",
             "+2 to Minimum Throw Damage"
           ]
+        },
+        {
+          "name": "Viper Torch",
+          "properties": [
+            "+14 to Mana",
+            "+83 to Attack rating",
+            "+1 to Maximum 1-handed damage",
+            "+1 to Maximum 2-handed damage",
+            "25% Extra Gold from Monsters",
+            "6% Better Chance of Getting Magic Items",
+            "+1 to Maximum Throw Damage"
+          ]
+        },
+        {
+          "name": "Beast Turn",
+          "properties": [
+            "+6 to Strength",
+            "+60 to Mana",
+            "+100 to Attack rating",
+            "8% Better Chance of Getting Magic Items"
+          ]
         }
       ],
       "belts": [],
@@ -4557,12 +4784,23 @@
         }
       ],
       "weapons": [],
-      "armors": [
-        "Breast Plate"
-      ],
+      "armors": [],
       "other": [
         "Horadric Cube",
         "Mephisto Soul Stone",
+        "Identify Book",
+        "Town Portal Book",
+        "Skeleton Key",
+        "Sol Rune",
+        "Tir Rune",
+        "Strong Mana Potion",
+        "Strong Mana Potion",
+        "Strong Mana Potion",
+        "Strong Healing Potion",
+        "Strong Healing Potion",
+        "Strong Mana Potion",
+        "Greater Mana Potion",
+        "Strong Healing Potion",
         {
           "name": "Havoc Cowl",
           "properties": [
@@ -4588,6 +4826,12 @@
           ]
         },
         {
+          "name": "Thorns",
+          "properties": [
+            "Attacker Takes Damage of 1"
+          ]
+        },
+        {
           "name": "Storm Blazer",
           "properties": [
             "+1 to Dexterity",
@@ -4597,32 +4841,19 @@
             "+2 to Light Radius"
           ]
         },
-        "Identify Book",
-        {
-          "name": "Grand Scepter",
-          "properties": [
-            "+2 To Concentration"
-          ]
-        },
-        {
-          "name": "Thorns",
-          "properties": [
-            "Attacker Takes Damage of 1"
-          ]
-        },
-        "Strong Healing Potion",
-        "Strong Healing Potion",
-        "Strong Healing Potion",
-        "Strong Healing Potion",
-        "Strong Healing Potion",
-        "Strong Healing Potion",
-        "Town Portal Book",
-        "Mana Potion",
-        "Greater Mana Potion",
-        "Strong Mana Potion",
         "Greater Mana Potion",
         "Strong Mana Potion",
         "Strong Mana Potion",
+        "Strong Mana Potion",
+        "Greater Mana Potion",
+        "Greater Mana Potion",
+        "Strong Healing Potion",
+        "Greater Healing Potion",
+        "Greater Healing Potion",
+        "Greater Mana Potion",
+        "Strong Mana Potion",
+        "Strong Mana Potion",
+        "Strong Healing Potion",
         {
           "name": "Steel",
           "properties": [
@@ -4640,14 +4871,6 @@
             "+1 to Light Radius"
           ]
         },
-        "Mana Potion",
-        "Strong Mana Potion",
-        "Strong Mana Potion",
-        "Strong Healing Potion",
-        "Strong Healing Potion",
-        "Healing Potion",
-        "Strong Healing Potion",
-        "Strong Healing Potion",
         {
           "name": "War Scepter",
           "properties": [
@@ -4659,18 +4882,21 @@
           ]
         },
         {
-          "name": "Gale Wing",
+          "name": "Ancient's Pledge",
           "properties": [
-            "+3 to Mana",
-            "+12% Enhanced Defense",
-            "+10% Increased chance of blocking",
-            "Fire Resist +15%",
-            "Lightning Resist +5%",
-            "Cold Resist +5%",
-            "Poison Resist +5%",
-            "Attacker Takes Damage of 1",
-            "15% Faster Block Rate",
-            "Repairs 1 Durability in 3 Seconds"
+            "Fire Resist +8%",
+            "Lightning Resist +8%",
+            "Cold Resist +8%",
+            "Poison Resist +8%",
+            "+50% Enhanced Defense",
+            "Fire Resist +13%",
+            "Lightning Resist +13%",
+            "Cold Resist +43%",
+            "Poison Resist +13%",
+            "10% Damage Taken Goes to Mana",
+            "Fire Resist +35%",
+            "Lightning Resist +35%",
+            "Poison Resist +35%"
           ]
         }
       ]
@@ -4970,6 +5196,7 @@
         "Shael Rune",
         "Pul Rune",
         "Ith Rune",
+        "Sol Rune",
         "Club",
         "Buckler"
       ]
@@ -5004,19 +5231,15 @@
         "Ort Rune",
         "Ral Rune",
         "Amn Rune",
-        "Ral Rune",
         "Thul Rune",
-        "Tal Rune",
-        "Sol Rune",
         "Sol Rune",
         "Sol Rune",
         "Thul Rune",
         "Thul Rune",
-        "Ort Rune",
-        "Tal Rune",
         "Tal Rune",
         "Ko Rune",
         "Thul Rune",
+        "Tal Rune",
         "Club",
         "Buckler"
       ]
@@ -5459,7 +5682,6 @@
         "Dol Rune",
         "Ko Rune",
         "Dol Rune",
-        "Dol Rune",
         "Lum Rune",
         "Hel Rune",
         "Dol Rune",
@@ -5472,14 +5694,9 @@
         "Dol Rune",
         "Dol Rune",
         "Hel Rune",
-        "Thul Rune",
-        "Tal Rune",
         "Ral Rune",
-        "Ral Rune",
-        "Ort Rune",
         "Tir Rune",
         "Tir Rune",
-        "Ral Rune",
         "Io Rune",
         "Lum Rune",
         "Thul Rune",
@@ -5488,10 +5705,8 @@
         "Tal Rune",
         "Tir Rune",
         "Hel Rune",
-        "Ort Rune",
         "Nef Rune",
         "Tir Rune",
-        "Ral Rune",
         "Ith Rune",
         "Dol Rune",
         "Dol Rune",
@@ -5500,35 +5715,43 @@
         "Shael Rune",
         "Sol Rune",
         "Shael Rune",
-        "Ral Rune",
         "Shael Rune",
-        "Amn Rune",
         "Amn Rune",
         "Amn Rune",
         "Thul Rune",
         "Ral Rune",
         "Eth Rune",
-        "Amn Rune",
         "Io Rune",
         "Shael Rune",
         "Sol Rune",
-        "Tal Rune",
-        "Eth Rune",
         "Amn Rune",
         "Tal Rune",
         "Ort Rune",
         "Sol Rune",
         "Ral Rune",
         "Shael Rune",
-        "Ort Rune",
         "Tal Rune",
-        "Eth Rune",
-        "Tir Rune",
-        "Ral Rune",
-        "Thul Rune",
         "Sol Rune",
         "Ral Rune",
+        "Tal Rune",
+        "Thul Rune",
+        "Ort Rune",
+        "Amn Rune",
+        "Tir Rune",
         "Eth Rune",
+        "Amn Rune",
+        "Tal Rune",
+        "Ral Rune",
+        "Ort Rune",
+        "Ral Rune",
+        "Eth Rune",
+        "Ral Rune",
+        "Ral Rune",
+        "Ral Rune",
+        "Eth Rune",
+        "Thul Rune",
+        "Dol Rune",
+        "Ort Rune",
         "Katar",
         "Buckler"
       ]
@@ -5957,6 +6180,14 @@
           "type": "unique"
         },
         {
+          "name": "Sigon's Sabot",
+          "properties": [
+            "Cold Resist +40%",
+            "20% Faster Run/Walk"
+          ],
+          "type": "set"
+        },
+        {
           "name": "Eschuta's Temper",
           "properties": [
             "+30 to Energy",
@@ -6075,20 +6306,35 @@
         "Key of Hate",
         "Greater Mana Potion",
         "Key of Hate",
-        "Greater Healing Potion",
         "Full Rejuvenation Potion",
         "Greater Mana Potion",
-        "Greater Mana Potion",
-        "Strong Healing Potion",
-        "Greater Healing Potion",
         "Rejuvenation Potion",
         "Strong Mana Potion",
+        "Greater Healing Potion",
+        "Greater Healing Potion",
+        "Greater Healing Potion",
+        "Strong Healing Potion",
+        "Strong Mana Potion",
+        "Strong Mana Potion",
+        "Strong Mana Potion",
+        "Greater Healing Potion",
+        "Strong Healing Potion",
+        "Greater Healing Potion",
+        "Strong Mana Potion",
         "Strong Mana Potion",
         "Greater Mana Potion",
-        "Greater Mana Potion",
-        "Greater Healing Potion",
-        "Greater Healing Potion",
-        "Greater Healing Potion",
+        {
+          "name": "Storm Gyre",
+          "properties": [
+            "+8 to Life",
+            "Fire Resist +14%",
+            "Poison Resist +35%",
+            "Adds 8-25 Cold Damage",
+            "20% Faster Cast Rate",
+            "+1 To Blizzard",
+            "Repairs 1 Durability in 5 Seconds"
+          ]
+        },
         {
           "name": "Spirit",
           "properties": [
@@ -7553,20 +7799,6 @@
       "class": "Barbarian",
       "unique_set": [
         {
-          "name": "The Impaler",
-          "properties": [
-            "+142% Enhanced Damage",
-            "+150 to Attack rating",
-            "20% Increased Attack Speed",
-            "+3 To Power Strike",
-            "+5 To Impale",
-            "Ignore Target Defense",
-            "Prevent Monster Heal",
-            "40% Chance of Open Wounds"
-          ],
-          "type": "unique"
-        },
-        {
           "name": "Wolfhowl",
           "properties": [
             "+10 to Strength",
@@ -7627,40 +7859,6 @@
             "12% Chance to Cast Level 4 Charged Bolt When Struck"
           ],
           "type": "set"
-        },
-        {
-          "name": "Steelclash",
-          "properties": [
-            "+90% Enhanced Defense",
-            "+25% Increased chance of blocking",
-            "+20 Defense",
-            "Damage Reduced by 3",
-            "Fire Resist +15%",
-            "Lightning Resist +15%",
-            "Cold Resist +15%",
-            "Poison Resist +15%",
-            "+20 Maximum Durability",
-            "+1 to Paladin Skill Levels",
-            "+3 to Light Radius",
-            "20% Faster Block Rate"
-          ],
-          "type": "unique"
-        },
-        {
-          "name": "Duriel's Shell",
-          "properties": [
-            "+15 to Strength",
-            "+165% Enhanced Defense",
-            "Fire Resist +20%",
-            "Lightning Resist +20%",
-            "Cold Resist +50%",
-            "Poison Resist +20%",
-            "+100 Maximum Durability",
-            "Cannot Be Frozen",
-            "+10 to Defense (Based on Character Level)",
-            "+8 to Life (Based on Character Level)"
-          ],
-          "type": "unique"
         },
         {
           "name": "Nagelring",
@@ -7770,15 +7968,6 @@
           "type": "unique"
         },
         {
-          "name": "Rune Master",
-          "properties": [
-            "+269% Enhanced Damage",
-            "+5% to Maximum Cold Resist",
-            "Cannot Be Frozen"
-          ],
-          "type": "unique"
-        },
-        {
           "name": "Immortal King's Stone Crusher",
           "properties": [
             "+200% Enhanced Damage",
@@ -7789,6 +7978,63 @@
             "Indestructible"
           ],
           "type": "set"
+        },
+        {
+          "name": "The Impaler",
+          "properties": [
+            "+142% Enhanced Damage",
+            "+150 to Attack rating",
+            "20% Increased Attack Speed",
+            "+3 To Power Strike",
+            "+5 To Impale",
+            "Ignore Target Defense",
+            "Prevent Monster Heal",
+            "40% Chance of Open Wounds"
+          ],
+          "type": "unique"
+        },
+        {
+          "name": "Duriel's Shell",
+          "properties": [
+            "+15 to Strength",
+            "+165% Enhanced Defense",
+            "Fire Resist +20%",
+            "Lightning Resist +20%",
+            "Cold Resist +50%",
+            "Poison Resist +20%",
+            "+100 Maximum Durability",
+            "Cannot Be Frozen",
+            "+10 to Defense (Based on Character Level)",
+            "+8 to Life (Based on Character Level)"
+          ],
+          "type": "unique"
+        },
+        {
+          "name": "Steelclash",
+          "properties": [
+            "+90% Enhanced Defense",
+            "+25% Increased chance of blocking",
+            "+20 Defense",
+            "Damage Reduced by 3",
+            "Fire Resist +15%",
+            "Lightning Resist +15%",
+            "Cold Resist +15%",
+            "Poison Resist +15%",
+            "+20 Maximum Durability",
+            "+1 to Paladin Skill Levels",
+            "+3 to Light Radius",
+            "20% Faster Block Rate"
+          ],
+          "type": "unique"
+        },
+        {
+          "name": "Rune Master",
+          "properties": [
+            "+269% Enhanced Damage",
+            "+5% to Maximum Cold Resist",
+            "Cannot Be Frozen"
+          ],
+          "type": "unique"
         }
       ],
       "runes": [],
@@ -7871,26 +8117,23 @@
         "Hel Rune",
         "Tal Rune",
         "Antidote Potion",
+        "Greater Healing Potion",
+        "Greater Healing Potion",
+        "Greater Healing Potion",
+        "Greater Healing Potion",
+        "Ort Rune",
+        "Tal Rune",
+        "Thul Rune",
         "Tir Rune",
         "Antidote Potion",
-        "Thul Rune",
-        "Ort Rune",
-        "Greater Healing Potion",
-        "Greater Healing Potion",
-        "Greater Healing Potion",
         "Antidote Potion",
+        "Stamina Potion",
         "Greater Healing Potion",
-        "Tal Rune",
-        "Greater Mana Potion",
-        "Greater Mana Potion",
-        "Greater Mana Potion",
-        "Greater Healing Potion",
+        "Rejuvenation Potion",
         "Strong Healing Potion",
-        "Greater Healing Potion",
-        "Greater Healing Potion",
-        "Greater Healing Potion",
         "Greater Mana Potion",
-        "Greater Healing Potion",
+        "Greater Mana Potion",
+        "Strong Mana Potion",
         {
           "name": "Breath of the Dying",
           "properties": [
@@ -8075,18 +8318,15 @@
             "Regenerate Mana 15%"
           ]
         },
+        "Strong Mana Potion",
+        "Strong Mana Potion",
+        "Strong Healing Potion",
+        "Greater Healing Potion",
+        "Strong Mana Potion",
+        "Strong Healing Potion",
+        "Strong Mana Potion",
+        "Strong Mana Potion",
         "Javelin",
-        "Strong Mana Potion",
-        "Strong Mana Potion",
-        "Strong Healing Potion",
-        "Greater Healing Potion",
-        "Strong Mana Potion",
-        "Strong Healing Potion",
-        "Strong Mana Potion",
-        "Strong Mana Potion",
-        "Greater Healing Potion",
-        "Strong Healing Potion",
-        "Strong Healing Potion",
         {
           "name": "Ghoul Wood",
           "properties": [

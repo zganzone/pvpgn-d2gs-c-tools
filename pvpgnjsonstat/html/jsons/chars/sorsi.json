@@ -2,7 +2,7 @@
   "account": "zgan",
   "charfile": "sorsi",
   "charname": "Sorsi",
-  "generated": "2025-12-17 13:31:09",
+  "generated": "2025-12-18 22:20:10",
   "char_stats": {
     "level": 86,
     "class": "Sorceress",
@@ -16,14 +16,14 @@
     "vitality": 271,
     "unused_stats": 32,
     "unused_skills": 15,
-    "current_hp": 195.96875,
+    "current_hp": 1023.31640625,
     "max_hp": 707.0,
-    "current_mana": 150.5234375,
+    "current_mana": 582.0,
     "max_mana": 205.0,
-    "current_stamina": 516.93359375,
+    "current_stamina": 521.0,
     "max_stamina": 420.0,
-    "experience": 1182924802,
-    "gold": 72885,
+    "experience": 1183530012,
+    "gold": 69245,
     "stashed_gold": 828237
   },
   "unique_set": [
@@ -187,6 +187,14 @@
       "type": "unique"
     },
     {
+      "name": "Sigon's Sabot",
+      "properties": [
+        "Cold Resist +40%",
+        "20% Faster Run/Walk"
+      ],
+      "type": "set"
+    },
+    {
       "name": "Eschuta's Temper",
       "properties": [
         "+30 to Energy",
@@ -309,20 +317,35 @@
     "Key of Hate",
     "Greater Mana Potion",
     "Key of Hate",
-    "Greater Healing Potion",
     "Full Rejuvenation Potion",
     "Greater Mana Potion",
-    "Greater Mana Potion",
-    "Strong Healing Potion",
-    "Greater Healing Potion",
     "Rejuvenation Potion",
     "Strong Mana Potion",
+    "Greater Healing Potion",
+    "Greater Healing Potion",
+    "Greater Healing Potion",
+    "Strong Healing Potion",
+    "Strong Mana Potion",
+    "Strong Mana Potion",
+    "Strong Mana Potion",
+    "Greater Healing Potion",
+    "Strong Healing Potion",
+    "Greater Healing Potion",
+    "Strong Mana Potion",
     "Strong Mana Potion",
     "Greater Mana Potion",
-    "Greater Mana Potion",
-    "Greater Healing Potion",
-    "Greater Healing Potion",
-    "Greater Healing Potion",
+    {
+      "name": "Storm Gyre",
+      "properties": [
+        "+8 to Life",
+        "Fire Resist +14%",
+        "Poison Resist +35%",
+        "Adds 8-25 Cold Damage",
+        "20% Faster Cast Rate",
+        "+1 To Blizzard",
+        "Repairs 1 Durability in 5 Seconds"
+      ]
+    },
     {
       "name": "Spirit",
       "properties": [

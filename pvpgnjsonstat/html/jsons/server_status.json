@@ -1,12 +1,12 @@
 {
-    "generated_at": "2025-12-17 13:31:01",
+    "generated_at": "2025-12-18 22:20:01",
     "active_status": {
         "version": "1.99.7.2.1-PRO",
-        "uptime": "19 hours 50 minutes 0 seconds",
+        "uptime": "5 hours 18 minutes 0 seconds",
         "games": "1",
-        "users": "1",
+        "users": "3",
         "channels": "2",
-        "useraccounts": "11"
+        "useraccounts": "27"
     },
     "total_stats": {
         "address": "192.168.88.41",
@@ -14,7 +14,7 @@
         "location": "Hrabrino",
         "software": "PvPGN",
         "version": "1.99.7.2.1-PRO",
-        "users": "1",
+        "users": "3",
         "channels": "2",
         "games": "1",
         "description": "Mahalenska posta",
@@ -22,18 +22,34 @@
         "url": "http://192.168.88.41/",
         "contactname": "ZGAN",
         "contactemail": "slaxy@psy4.me",
-        "uptime": "71400",
-        "totalgames": "16",
-        "logins": "38"
+        "uptime": "19080",
+        "totalgames": "8",
+        "logins": "20"
     },
     "active_users": [
         {
             "platform_tag": "D2XP",
             "platform_name": "Diablo II: Lord of Destruction",
-            "username": "tapak2",
+            "username": "zliazub",
             "version": "1.14.3.0",
             "region": "USA",
-            "channel_id": "16"
+            "channel_id": "5"
+        },
+        {
+            "platform_tag": "D2XP",
+            "platform_name": "Diablo II: Lord of Destruction",
+            "username": "zgan",
+            "version": "1.14.3.0",
+            "region": "USA",
+            "channel_id": "5"
+        },
+        {
+            "platform_tag": "D2XP",
+            "platform_name": "Diablo II: Lord of Destruction",
+            "username": "zliazubb",
+            "version": "1.14.3.0",
+            "region": "USA",
+            "channel_id": "5"
         }
     ],
     "active_games": [
@@ -41,8 +57,8 @@
             "id": "game1",
             "platform_tag": "D2XP",
             "platform_name": "Diablo II: Lord of Destruction",
-            "players": 16,
-            "name": "Jhjhh"
+            "players": 5,
+            "name": "Ddddddddddd"
         }
     ]
 }

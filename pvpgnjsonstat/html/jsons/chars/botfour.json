@@ -1,7 +1,7 @@
 {
-  "account": "zgan3",
-  "charfile": "uniquetwo",
-  "charname": "uniquetwo",
+  "account": "bot4",
+  "charfile": "botfour",
+  "charname": "botfour",
   "generated": "2025-12-18 22:20:10",
   "char_stats": {
     "level": 1,
@@ -9,7 +9,7 @@
     "is_hc": false,
     "is_ladder": true,
     "progression": 0,
-    "char_name_raw": "uniquetwo",
+    "char_name_raw": "botfour",
     "strength": 30,
     "energy": 10,
     "dexterity": 20,
