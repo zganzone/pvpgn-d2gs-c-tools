@@ -1,6 +1,6 @@
  gl
 +-No.--GameName---------GamePass---------ID----GameVer--Type--Difficulty--Ladder-----Users-CreateTime-Dis-+
-| 001  Ddddddddddd                       5     exp      sc    hell        ladder     3     16:59:41   N   |
+| 001  Hfghfghghfghfgh                   20    exp      sc    hell        ladder     3     04:17:15   N   |
 +---------------------------------------------------------------------------------------------------------+
 
 Total: 1 games running, 3 users in game.

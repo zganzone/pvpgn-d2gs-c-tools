@@ -1,0 +1,15 @@
+
+[GameName   : Hfghfghghfghfgh] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 20             ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : hell           ] [IsLadder   : ladder         ] [UserCount: 3                              ]
+[CreateTime : 04:17:15       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zliazub        ] [CreatorChar: paladin        ] [CreatorIP: 192.168.88.212                 ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
+| 001  zgan             ZGANVARIN        192.168.88.145   Bar    80     06:50:32  |
+| 002  zliazubb         MFamazon         192.168.88.212   Ama    91     04:26:46  |
+| 003  zliazub          paladin          192.168.88.212   Pal    88     04:17:19  |
++---------------------------------------------------------------------------------+
+
+Total: 3 charaters in this game 
+

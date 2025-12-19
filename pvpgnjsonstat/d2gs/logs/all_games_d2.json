@@ -1,16 +1,16 @@
 [
   {
     "GameInfo": {
-      "GameName": "Ddddddddddd",
+      "GameName": "Hfghfghghfghfgh",
       "GamePass": null,
       "GameDesc": null,
-      "GameID": "5",
+      "GameID": "20",
       "GameVer": "exp",
       "GameType": "sc",
       "Difficult": "hell",
       "IsLadder": "ladder",
       "UserCount": 3,
-      "CreateTime": "16:59:41",
+      "CreateTime": "04:17:15",
       "Disable": "No",
       "": null,
       "CreatorAcct": "zliazub",
@@ -22,30 +22,30 @@
     "Characters": [
       {
         "No": "001",
-        "AcctName": "zliazub",
-        "CharName": "lightSorc",
-        "IPAddress": "192.168.88.212",
-        "Class": "Sor",
-        "Level": "87",
-        "EnterTime": "19:02:03"
-      },
-      {
-        "No": "002",
         "AcctName": "zgan",
         "CharName": "ZGANVARIN",
         "IPAddress": "192.168.88.145",
         "Class": "Bar",
         "Level": "80",
-        "EnterTime": "18:14:56"
+        "EnterTime": "06:50:32"
       },
       {
-        "No": "003",
+        "No": "002",
         "AcctName": "zliazubb",
         "CharName": "MFamazon",
         "IPAddress": "192.168.88.212",
         "Class": "Ama",
         "Level": "91",
-        "EnterTime": "18:13:01"
+        "EnterTime": "04:26:46"
+      },
+      {
+        "No": "003",
+        "AcctName": "zliazub",
+        "CharName": "paladin",
+        "IPAddress": "192.168.88.212",
+        "Class": "Pal",
+        "Level": "88",
+        "EnterTime": "04:17:19"
       }
     ]
   }
