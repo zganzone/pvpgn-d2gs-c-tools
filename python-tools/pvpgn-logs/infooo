@@ -1,0 +1,4 @@
+cat log_events_focused.json | jq   '.[] | select(.event_type == "game_report")'
+cat log_events_focused.json | jq '[.[] | .event_type] | group_by(.) | map({type: .[0], count: length})'
+	
+
