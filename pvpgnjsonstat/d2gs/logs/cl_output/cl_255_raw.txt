@@ -1,0 +1,13 @@
+
+[GameName   : Dsfsdfds       ] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 255            ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : hell           ] [IsLadder   : ladder         ] [UserCount: 1                              ]
+[CreateTime : 21:10:32       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zliazubb       ] [CreatorChar: MFamazon       ] [CreatorIP: 192.168.88.212                 ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
+| 001  zliazubb         MFamazon         192.168.88.212   Ama    92     21:10:33  |
++---------------------------------------------------------------------------------+
+
+Total: 1 charaters in this game 
+

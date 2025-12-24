@@ -1,15 +1,12 @@
 
-[GameName   : Hfghfghghfghfgh] [GamePass   :                ] [GameDesc :                                ]
+[GameName   : Mnogokravi     ] [GamePass   :                ] [GameDesc :                                ]
 [GameID     : 20             ] [GameVer    : exp            ] [GameType : sc                             ]
-[Difficult  : hell           ] [IsLadder   : ladder         ] [UserCount: 3                              ]
-[CreateTime : 04:17:15       ] [Disable    : No             ] [         :                                ]
-[CreatorAcct: zliazub        ] [CreatorChar: paladin        ] [CreatorIP: 192.168.88.212                 ]
+[Difficult  : normal         ] [IsLadder   : ladder         ] [UserCount: 0                              ]
+[CreateTime : 10:57:25       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zgan2          ] [CreatorChar: palqk          ] [CreatorIP: 192.168.88.130                 ]
 
 +-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
-| 001  zgan             ZGANVARIN        192.168.88.145   Bar    80     06:50:32  |
-| 002  zliazubb         MFamazon         192.168.88.212   Ama    91     04:26:46  |
-| 003  zliazub          paladin          192.168.88.212   Pal    88     04:17:19  |
 +---------------------------------------------------------------------------------+
 
-Total: 3 charaters in this game 
+Total: 0 charaters in this game 
 

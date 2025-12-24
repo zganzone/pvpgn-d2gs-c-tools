@@ -1,0 +1,63 @@
+{
+  "game_uid": "20251221140801_Shibanikaltaci",
+  "created_at": "2025-12-21T14:08:01",
+  "destroyed_at": "2025-12-21T14:59:39",
+  "players": {
+    "botone": {
+      "sessions": [
+        {
+          "join": "2025-12-21T14:08:02",
+          "leave": "2025-12-21T14:54:39"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 2797,
+      "max_session_sec": 2797
+    },
+    "bottwo": {
+      "sessions": [
+        {
+          "join": "2025-12-21T14:08:09",
+          "leave": "2025-12-21T14:54:07"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 2758,
+      "max_session_sec": 2758
+    },
+    "botthre": {
+      "sessions": [
+        {
+          "join": "2025-12-21T14:08:18",
+          "leave": "2025-12-21T14:54:27"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 2769,
+      "max_session_sec": 2769
+    },
+    "MFamazon": {
+      "sessions": [
+        {
+          "join": "2025-12-21T14:15:50",
+          "leave": "2025-12-21T14:22:02"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 372,
+      "max_session_sec": 372
+    },
+    "tesla": {
+      "sessions": [
+        {
+          "join": "2025-12-21T14:18:04",
+          "leave": "2025-12-21T14:20:45"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 161,
+      "max_session_sec": 161
+    }
+  },
+  "duration_sec": 3098
+}

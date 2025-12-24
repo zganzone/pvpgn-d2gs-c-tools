@@ -1,0 +1,41 @@
+{
+  "game_uid": "20251220233239_Adfdsfdsfdsaf",
+  "created_at": "2025-12-20T23:32:39",
+  "destroyed_at": "2025-12-21T00:07:59",
+  "players": {
+    "RUNIdobri": {
+      "sessions": [
+        {
+          "join": "2025-12-20T23:32:40",
+          "leave": "2025-12-20T23:33:16"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 36,
+      "max_session_sec": 36
+    },
+    "ZGANVARIN": {
+      "sessions": [
+        {
+          "join": "2025-12-20T23:33:01",
+          "leave": "2025-12-20T23:34:24"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 83,
+      "max_session_sec": 83
+    },
+    "AmuletiPrusteni": {
+      "sessions": [
+        {
+          "join": "2025-12-20T23:33:26",
+          "leave": "2025-12-21T00:02:59"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 1773,
+      "max_session_sec": 1773
+    }
+  },
+  "duration_sec": 2120
+}

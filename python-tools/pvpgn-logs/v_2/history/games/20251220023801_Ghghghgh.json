@@ -1,0 +1,19 @@
+{
+  "game_uid": "20251220023801_Ghghghgh",
+  "created_at": "2025-12-20T02:38:01",
+  "destroyed_at": "2025-12-20T02:40:04",
+  "players": {
+    "lightSorc": {
+      "sessions": [
+        {
+          "join": "2025-12-20T02:38:02",
+          "leave": "2025-12-20T02:40:04"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 122,
+      "max_session_sec": 122
+    }
+  },
+  "duration_sec": 123
+}

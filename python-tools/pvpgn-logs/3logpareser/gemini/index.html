@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="bg">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PvPGN Лог Анализ Dashboard</title>
+    <style>
+        /* ... CSS стиловете са същите за запазване на външния вид ... */
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 20px; background-color: #f4f4f9; color: #333; }
+        .container { max-width: 1200px; margin: auto; padding: 20px; background: white; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); }
+        h1 { color: #007bff; border-bottom: 2px solid #eee; padding-bottom: 10px; }
+        h2 { color: #555; margin-top: 30px; border-bottom: 1px dashed #eee; padding-bottom: 5px; }
+        .stats-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin-top: 20px; }
+        .stat-box { background: #e9ecef; padding: 15px; border-radius: 6px; text-align: center; }
+        .stat-box strong { display: block; font-size: 1.5em; color: #007bff; }
+        .stat-box span { font-size: 0.9em; color: #6c757d; }
+        table { width: 100%; border-collapse: collapse; margin-top: 15px; background: #fff; }
+        th, td { padding: 12px; text-align: left; border-bottom: 1px solid #ddd; font-size: 0.9em; }
+        th { background-color: #007bff; color: white; cursor: pointer; }
+        tr:hover { background-color: #f1f1f1; }
+        .error { color: red; font-weight: bold; }
+        
+        /* Стил за Top 20 */
+        .top-lists-container { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-top: 20px; }
+        .top-list-box { background: #f8f9fa; padding: 15px; border-radius: 6px; border: 1px solid #dee2e6; }
+        .top-list-box h3 { font-size: 1.1em; color: #333; margin-top: 0; border-bottom: 1px solid #ddd; padding-bottom: 5px; }
+        .top-list-box ol { padding-left: 20px; }
+        .top-list-box li { margin-bottom: 5px; font-size: 0.9em; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>🎮 PvPGN Log Dashboard</h1>
+    <p>Визуализация на систематизирани данни от BNETD, D2GS и D2CS логовете.</p>
+
+    <div id="summary-section">
+        <h2>📊 Обобщени Статистики</h2>
+        <div id="stats-grid" class="stats-grid">
+            <div class="stat-box"><strong>—</strong> <span>Общо Игри</span></div>
+            <div class="stat-box"><strong>—</strong> <span>Средна Продължителност</span></div>
+            <div class="stat-box"><strong>—</strong> <span>Макс. Продължителност</span></div>
+            <div class="stat-box"><strong>—</strong> <span>Общо Запазвания на Герои</span></div>
+        </div>
+    </div>
+    
+    <div id="top-20-section">
+        <h2>🥇 Топ 20 Класации</h2>
+        <div id="top-lists-container" class="top-lists-container">
+            </div>
+    </div>
+
+    <div id="active-games-section">
+        <h2>🟢 В Момента Активни Игри</h2>
+        <table id="active-games-table">
+            <thead>
+                <tr>
+                    <th>ID на Играта</th>
+                    <th>Име</th>
+                    <th>Платформа</th>
+                    <th>Старт Време</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+    </div>
+
+    <div id="games-section">
+        <h2>⚔️ Последни 50 Завършени Игри</h2>
+        <table id="games-table">
+            <thead>
+                <tr>
+                    <th onclick="sortTable(0, 'games-table')">ID на Играта</th>
+                    <th onclick="sortTable(1, 'games-table')">Име</th>
+                    <th onclick="sortTable(2, 'games-table')">Продължителност</th>
+                    <th onclick="sortTable(3, 'games-table')">Старт Време</th>
+                    <th onclick="sortTable(4, 'games-table')">Платформа</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+    </div>
+    
+    <div id="characters-section">
+        <h2>👤 Герои (Characters)</h2>
+        <table id="chars-table">
+            <thead>
+                <tr>
+                    <th onclick="sortTable(0, 'chars-table')">Име</th>
+                    <th onclick="sortTable(1, 'chars-table')">Ниво</th>
+                    <th onclick="sortTable(2, 'chars-table')">Клас</th>
+                    <th onclick="sortTable(3, 'chars-table')">Общо Запазвания</th>
+                    <th onclick="sortTable(4, 'chars-table')">Общо Ladder Update</th>
+                    <th onclick="sortTable(5, 'chars-table')">Последно Видян</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+    </div>
+
+</div>
+
+<script>
+    const JSON_PATH = 'testalllogs.json';
+
+    // --- ФУНКЦИЯ ЗА ЧОВЕШКИ ЧЕТИМА ПРОДЪЛЖИТЕЛНОСТ ---
+    function formatDuration(totalSeconds) {
+        if (!totalSeconds || totalSeconds < 1) return '0 секунди';
+
+        const days = Math.floor(totalSeconds / (3600 * 24));
+        const hours = Math.floor((totalSeconds % (3600 * 24)) / 3600);
+        const minutes = Math.floor((totalSeconds % 3600) / 60);
+        const seconds = Math.round(totalSeconds % 60);
+        
+        let parts = [];
+        if (days > 0) parts.push(`${days} д`);
+        if (hours > 0) parts.push(`${hours} ч`);
+        if (minutes > 0) parts.push(`${minutes} м`);
+        // Показваме секунди само ако няма по-големи единици
+        if (seconds > 0 && parts.length < 2) parts.push(`${seconds} с`); 
+        
+        return parts.length > 0 ? parts.join(', ') : `${Math.round(totalSeconds)} секунди`;
+    }
+    
+    function formatTimestamp(ts) {
+        if (!ts) return '';
+        const date = new Date(ts * 1000);
+        return date.toLocaleString('bg-BG');
+    }
+    
+    // --- ОСНОВНА ФУНКЦИЯ ЗА ЗАРЕЖДАНЕ НА ДАННИ ---
+    async function loadData() {
+        try {
+            const response = await fetch(JSON_PATH);
+            if (!response.ok) {
+                throw new Error(`Неуспешно зареждане на JSON файла. Статус: ${response.status}.`);
+            }
+            const data = await response.json();
+            
+            // Филтриране на игрите
+            const allGames = data.games || [];
+            const activeGames = allGames.filter(g => g.is_active);
+            
+            // Сортираме завършените игри по време на край и вземаме последните 50
+            const completedGames = allGames
+                .filter(g => !g.is_active)
+                .sort((a, b) => b.end_ts - a.end_ts) // Сортиране по най-новия край
+                .slice(0, 50); // Взимаме последните 50
+            
+            // 1. Попълване на Обобщените Статистики
+            renderSummary(data.summary_stats);
+            
+            // 2. Попълване на Топ 20 Списъци
+            renderTopLists(data.summary_stats.top_lists);
+
+            // 3. Попълване на Активни Игри
+            renderActiveGamesTable(activeGames);
+            
+            // 4. Попълване на Таблицата с Последни Игри
+            renderGamesTable(completedGames);
+
+            // 5. Попълване на Таблицата с Герои
+            renderCharactersTable(data.characters || []);
+
+        } catch (error) {
+            document.getElementById('summary-section').innerHTML = `<p class="error">Грешка при зареждане: ${error.message}</p>`;
+            console.error(error);
+        }
+    }
+
+    // --- ФУНКЦИИ ЗА РЕНДИРАНЕ ---
+
+    function renderSummary(stats) {
+        const grid = document.getElementById('stats-grid');
+        const avgDuration = stats.duration_stats_seconds.average_duration;
+        const maxDuration = stats.duration_stats_seconds.maximum_duration;
+
+        grid.innerHTML = `
+            <div class="stat-box"><strong>${stats.total_unique_games}</strong> <span>Общо Игри</span></div>
+            <div class="stat-box"><strong>${formatDuration(avgDuration)}</strong> <span>Средна Продължителност</span></div>
+            <div class="stat-box"><strong>${formatDuration(maxDuration)}</strong> <span>Макс. Продължителност</span></div>
+            <div class="stat-box"><strong>${stats.character_activity_stats.total_char_saves}</strong> <span>Общо Запазвания на Герои</span></div>
+        `;
+    }
+
+    function renderTopLists(topLists) {
+        const container = document.getElementById('top-lists-container');
+        container.innerHTML = ''; // Изчистване
+        
+        // 1. Най-дълги Игри
+        container.innerHTML += `
+            <div class="top-list-box">
+                <h3>Най-Дълги Игри</h3>
+                <ol>${topLists.longest_games.map(g => `
+                    <li>${g.name} (${formatDuration(g.duration_secs)})</li>
+                `).join('')}</ol>
+            </div>
+        `;
+        
+        // 2. Най-Активни Герои
+        container.innerHTML += `
+            <div class="top-list-box">
+                <h3>Най-Активни Герои (Игри)</h3>
+                <ol>${topLists.most_active_characters.map(c => `
+                    <li>${c.char_name} (${c.class}) - ${c.count} игри</li>
+                `).join('')}</ol>
+            </div>
+        `;
+        
+        // 3. Най-Много Запазвания
+        container.innerHTML += `
+            <div class="top-list-box">
+                <h3>Най-Много Запазвания (CHARSAVE)</h3>
+                <ol>${topLists.most_saves_characters.map(c => `
+                    <li>${c.char_name} (${c.class}) - ${c.count} запазвания</li>
+                `).join('')}</ol>
+            </div>
+        `;
+
+        // 4. Най-Дълги Имена
+        container.innerHTML += `
+            <div class="top-list-box">
+                <h3>Най-Дълги Имена на Игри</h3>
+                <ol>${topLists.longest_game_names.map(g => `
+                    <li>${g.name} (${g.length} знака)</li>
+                `).join('')}</ol>
+            </div>
+        `;
+    }
+
+    function renderActiveGamesTable(games) {
+        const tbody = document.getElementById('active-games-table').getElementsByTagName('tbody')[0];
+        tbody.innerHTML = '';
+        if (games.length === 0) {
+            tbody.innerHTML = '<tr><td colspan="4" style="text-align: center;">Няма активни игри.</td></tr>';
+            return;
+        }
+
+        games.forEach(game => {
+            const row = tbody.insertRow();
+            row.insertCell().textContent = game.game_id;
+            row.insertCell().textContent = game.name;
+            row.insertCell().textContent = game.platform_type;
+            row.insertCell().textContent = formatTimestamp(game.start_ts);
+        });
+    }
+
+    function renderGamesTable(games) {
+        const tbody = document.getElementById('games-table').getElementsByTagName('tbody')[0];
+        tbody.innerHTML = '';
+        games.forEach(game => {
+            const row = tbody.insertRow();
+            row.insertCell().textContent = game.game_id;
+            row.insertCell().textContent = game.name;
+            row.insertCell().textContent = formatDuration(game.duration_secs); // Human readable
+            row.insertCell().textContent = formatTimestamp(game.start_ts);
+            row.insertCell().textContent = game.platform_type;
+        });
+    }
+
+    function renderCharactersTable(characters) {
+        const tbody = document.getElementById('chars-table').getElementsByTagName('tbody')[0];
+        tbody.innerHTML = '';
+        characters.forEach(char => {
+            const row = tbody.insertRow();
+            row.insertCell().textContent = char.char_name;
+            row.insertCell().textContent = char.level;
+            row.insertCell().textContent = char.class; // Пълно име
+            row.insertCell().textContent = char.total_saves;
+            row.insertCell().textContent = char.total_ladder_updates;
+            row.insertCell().textContent = formatTimestamp(char.last_seen_ts);
+        });
+    }
+    
+    // --- ФУНКЦИЯ ЗА СОРТИРАНЕ НА ТАБЛИЦИ (непроменена) ---
+    function sortTable(n, tableId) {
+        let table, rows, switching, i, x, y, shouldSwitch, dir, switchcount = 0;
+        table = document.getElementById(tableId);
+        switching = true;
+        dir = "asc"; 
+        while (switching) {
+            switching = false;
+            rows = table.rows;
+            for (i = 1; i < (rows.length - 1); i++) {
+                shouldSwitch = false;
+                x = rows[i].getElementsByTagName("TD")[n];
+                y = rows[i + 1].getElementsByTagName("TD")[n];
+                
+                let xContent = isNaN(x.innerHTML) ? x.innerHTML.toLowerCase() : parseFloat(x.innerHTML);
+                let yContent = isNaN(y.innerHTML) ? y.innerHTML.toLowerCase() : parseFloat(y.innerHTML);
+                
+                if (dir == "asc") {
+                    if (xContent > yContent) {
+                        shouldSwitch= true;
+                        break;
+                    }
+                } else if (dir == "desc") {
+                    if (xContent < yContent) {
+                        shouldSwitch= true;
+                        break;
+                    }
+                }
+            }
+            if (shouldSwitch) {
+                rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
+                switching = true;
+                switchcount ++;      
+            } else {
+                if (switchcount == 0 && dir == "asc") {
+                    dir = "desc";
+                    switching = true;
+                }
+            }
+        }
+    }
+
+
+    // Стартиране на зареждането на данни
+    loadData();
+</script>
+
+</body>
+</html>

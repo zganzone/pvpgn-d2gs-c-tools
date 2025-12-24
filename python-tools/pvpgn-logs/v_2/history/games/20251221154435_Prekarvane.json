@@ -1,0 +1,45 @@
+{
+  "game_uid": "20251221154435_Prekarvane",
+  "created_at": "2025-12-21T15:44:35",
+  "destroyed_at": "2025-12-21T16:06:57",
+  "players": {
+    "zganvazonka": {
+      "sessions": [
+        {
+          "join": "2025-12-21T15:44:35",
+          "leave": "2025-12-21T16:01:28"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 1013,
+      "max_session_sec": 1013
+    },
+    "palqk": {
+      "sessions": [
+        {
+          "join": "2025-12-21T15:44:57",
+          "leave": "2025-12-21T16:01:33"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 996,
+      "max_session_sec": 996
+    },
+    "Sorsi": {
+      "sessions": [
+        {
+          "join": "2025-12-21T15:45:32",
+          "leave": "2025-12-21T15:50:34"
+        },
+        {
+          "join": "2025-12-21T15:50:58",
+          "leave": "2025-12-21T16:01:57"
+        }
+      ],
+      "join_count": 2,
+      "total_time_sec": 961,
+      "max_session_sec": 659
+    }
+  },
+  "duration_sec": 1342
+}

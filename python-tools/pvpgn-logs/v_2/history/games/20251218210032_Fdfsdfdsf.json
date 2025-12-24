@@ -1,0 +1,19 @@
+{
+  "game_uid": "20251218210032_Fdfsdfdsf",
+  "created_at": "2025-12-18T21:00:32",
+  "destroyed_at": "2025-12-18T21:01:33",
+  "players": {
+    "KOLANI": {
+      "sessions": [
+        {
+          "join": "2025-12-18T21:00:36",
+          "leave": "2025-12-18T21:01:31"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 55,
+      "max_session_sec": 55
+    }
+  },
+  "duration_sec": 61
+}

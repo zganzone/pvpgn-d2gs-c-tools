@@ -1,0 +1,30 @@
+{
+  "game_uid": "20251220003031_Daaa",
+  "created_at": "2025-12-20T00:30:31",
+  "destroyed_at": "2025-12-20T00:32:50",
+  "players": {
+    "runione": {
+      "sessions": [
+        {
+          "join": "2025-12-20T00:30:32",
+          "leave": "2025-12-20T00:31:07"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 35,
+      "max_session_sec": 35
+    },
+    "palqk": {
+      "sessions": [
+        {
+          "join": "2025-12-20T00:30:49",
+          "leave": "2025-12-20T00:32:50"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 121,
+      "max_session_sec": 121
+    }
+  },
+  "duration_sec": 139
+}

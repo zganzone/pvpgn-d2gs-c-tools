@@ -1,0 +1,41 @@
+{
+  "game_uid": "20251219061228_Dfgfdgdf",
+  "created_at": "2025-12-19T06:12:28",
+  "destroyed_at": "2025-12-19T06:23:24",
+  "players": {
+    "itemi": {
+      "sessions": [
+        {
+          "join": "2025-12-19T06:12:31",
+          "leave": "2025-12-19T06:15:44"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 193,
+      "max_session_sec": 193
+    },
+    "MFamazon": {
+      "sessions": [
+        {
+          "join": "2025-12-19T06:14:06",
+          "leave": "2025-12-19T06:18:24"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 258,
+      "max_session_sec": 258
+    },
+    "itemmii": {
+      "sessions": [
+        {
+          "join": "2025-12-19T06:16:09",
+          "leave": "2025-12-19T06:16:47"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 38,
+      "max_session_sec": 38
+    }
+  },
+  "duration_sec": 656
+}

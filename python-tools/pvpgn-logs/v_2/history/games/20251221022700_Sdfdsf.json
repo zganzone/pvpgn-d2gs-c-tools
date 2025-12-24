@@ -1,0 +1,45 @@
+{
+  "game_uid": "20251221022700_Sdfdsf",
+  "created_at": "2025-12-21T02:27:00",
+  "destroyed_at": "2025-12-21T03:00:56",
+  "players": {
+    "MFamazon": {
+      "sessions": [
+        {
+          "join": "2025-12-21T02:27:01",
+          "leave": "2025-12-21T02:53:23"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 1582,
+      "max_session_sec": 1582
+    },
+    "ZGANVARIN": {
+      "sessions": [
+        {
+          "join": "2025-12-21T02:49:21",
+          "leave": "2025-12-21T02:50:15"
+        },
+        {
+          "join": "2025-12-21T02:53:19",
+          "leave": "2025-12-21T02:55:56"
+        }
+      ],
+      "join_count": 2,
+      "total_time_sec": 211,
+      "max_session_sec": 157
+    },
+    "Sorsi": {
+      "sessions": [
+        {
+          "join": "2025-12-21T02:50:27",
+          "leave": "2025-12-21T02:53:14"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 167,
+      "max_session_sec": 167
+    }
+  },
+  "duration_sec": 2036
+}

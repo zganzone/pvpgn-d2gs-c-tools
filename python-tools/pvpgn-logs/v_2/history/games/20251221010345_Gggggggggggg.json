@@ -1,0 +1,100 @@
+{
+  "game_uid": "20251221010345_Gggggggggggg",
+  "created_at": "2025-12-21T01:03:45",
+  "destroyed_at": "2025-12-21T02:58:56",
+  "players": {
+    "paladin": {
+      "sessions": [
+        {
+          "join": "2025-12-21T01:03:46",
+          "leave": "2025-12-21T02:53:56"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 6610,
+      "max_session_sec": 6610
+    },
+    "tesla": {
+      "sessions": [
+        {
+          "join": "2025-12-21T01:04:25",
+          "leave": "2025-12-21T02:53:42"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 6557,
+      "max_session_sec": 6557
+    },
+    "MFamazon": {
+      "sessions": [
+        {
+          "join": "2025-12-21T01:10:36",
+          "leave": "2025-12-21T01:59:33"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 2937,
+      "max_session_sec": 2937
+    },
+    "undertaker": {
+      "sessions": [
+        {
+          "join": "2025-12-21T01:12:28",
+          "leave": "2025-12-21T01:57:46"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 2718,
+      "max_session_sec": 2718
+    },
+    "palqk": {
+      "sessions": [
+        {
+          "join": "2025-12-21T01:12:48",
+          "leave": "2025-12-21T01:57:30"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 2682,
+      "max_session_sec": 2682
+    },
+    "lightSorc": {
+      "sessions": [
+        {
+          "join": "2025-12-21T01:13:28",
+          "leave": "2025-12-21T01:56:47"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 2599,
+      "max_session_sec": 2599
+    },
+    "Sorsi": {
+      "sessions": [
+        {
+          "join": "2025-12-21T01:13:50",
+          "leave": "2025-12-21T01:46:07"
+        },
+        {
+          "join": "2025-12-21T01:46:10",
+          "leave": "2025-12-21T01:57:07"
+        }
+      ],
+      "join_count": 2,
+      "total_time_sec": 2594,
+      "max_session_sec": 1937
+    },
+    "ZGANVARIN": {
+      "sessions": [
+        {
+          "join": "2025-12-21T02:49:01",
+          "leave": "2025-12-21T02:49:13"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 12,
+      "max_session_sec": 12
+    }
+  },
+  "duration_sec": 6911
+}

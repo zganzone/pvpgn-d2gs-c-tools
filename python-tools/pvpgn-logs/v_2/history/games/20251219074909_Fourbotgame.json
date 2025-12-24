@@ -1,0 +1,19 @@
+{
+  "game_uid": "20251219074909_Fourbotgame",
+  "created_at": "2025-12-19T07:49:09",
+  "destroyed_at": "2025-12-19T08:44:05",
+  "players": {
+    "botfour": {
+      "sessions": [
+        {
+          "join": "2025-12-19T07:49:10",
+          "leave": "2025-12-19T08:39:05"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 2995,
+      "max_session_sec": 2995
+    }
+  },
+  "duration_sec": 3296
+}

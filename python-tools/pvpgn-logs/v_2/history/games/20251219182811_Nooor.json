@@ -1,0 +1,19 @@
+{
+  "game_uid": "20251219182811_Nooor",
+  "created_at": "2025-12-19T18:28:11",
+  "destroyed_at": "2025-12-19T21:49:08",
+  "players": {
+    "botthre": {
+      "sessions": [
+        {
+          "join": "2025-12-19T18:28:12",
+          "leave": "2025-12-19T21:44:08"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 11756,
+      "max_session_sec": 11756
+    }
+  },
+  "duration_sec": 12057
+}

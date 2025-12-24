@@ -1,0 +1,19 @@
+{
+  "game_uid": "20251219074932_Botoneame",
+  "created_at": "2025-12-19T07:49:32",
+  "destroyed_at": "2025-12-19T08:44:07",
+  "players": {
+    "botone": {
+      "sessions": [
+        {
+          "join": "2025-12-19T07:49:32",
+          "leave": "2025-12-19T08:39:07"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 2975,
+      "max_session_sec": 2975
+    }
+  },
+  "duration_sec": 3275
+}

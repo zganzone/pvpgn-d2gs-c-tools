@@ -1,0 +1,41 @@
+{
+  "game_uid": "20251221023937_Bot2aaa",
+  "created_at": "2025-12-21T02:39:37",
+  "destroyed_at": "2025-12-21T13:17:04",
+  "players": {
+    "bottwo": {
+      "sessions": [
+        {
+          "join": "2025-12-21T02:39:37",
+          "leave": "2025-12-21T12:40:31"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 36054,
+      "max_session_sec": 36054
+    },
+    "botthre": {
+      "sessions": [
+        {
+          "join": "2025-12-21T04:19:43",
+          "leave": "2025-12-21T13:12:04"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 31941,
+      "max_session_sec": 31941
+    },
+    "ZGANVARIN": {
+      "sessions": [
+        {
+          "join": "2025-12-21T08:39:31",
+          "leave": "2025-12-21T08:39:36"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 5,
+      "max_session_sec": 5
+    }
+  },
+  "duration_sec": 38247
+}

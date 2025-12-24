@@ -1,0 +1,12 @@
+
+[GameName   : Aafff          ] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 4              ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : normal         ] [IsLadder   : ladder         ] [UserCount: 0                              ]
+[CreateTime : 09:24:52       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: bot6           ] [CreatorChar: botsix         ] [CreatorIP: 192.168.88.130                 ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
++---------------------------------------------------------------------------------+
+
+Total: 0 charaters in this game 
+

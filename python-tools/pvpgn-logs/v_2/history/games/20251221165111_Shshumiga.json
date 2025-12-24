@@ -1,0 +1,30 @@
+{
+  "game_uid": "20251221165111_Shshumiga",
+  "created_at": "2025-12-21T16:51:11",
+  "destroyed_at": "2025-12-21T16:53:53",
+  "players": {
+    "MFamazon": {
+      "sessions": [
+        {
+          "join": "2025-12-21T16:51:11",
+          "leave": "2025-12-21T16:53:53"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 162,
+      "max_session_sec": 162
+    },
+    "slabikamani": {
+      "sessions": [
+        {
+          "join": "2025-12-21T16:52:58",
+          "leave": "2025-12-21T16:53:16"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 18,
+      "max_session_sec": 18
+    }
+  },
+  "duration_sec": 162
+}

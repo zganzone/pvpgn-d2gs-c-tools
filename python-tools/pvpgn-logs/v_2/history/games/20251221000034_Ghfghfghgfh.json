@@ -1,0 +1,85 @@
+{
+  "game_uid": "20251221000034_Ghfghfghgfh",
+  "created_at": "2025-12-21T00:00:34",
+  "destroyed_at": "2025-12-21T01:16:59",
+  "players": {
+    "paladin": {
+      "sessions": [
+        {
+          "join": "2025-12-21T00:00:34",
+          "leave": "2025-12-21T00:57:23"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 3409,
+      "max_session_sec": 3409
+    },
+    "MFamazon": {
+      "sessions": [
+        {
+          "join": "2025-12-21T00:01:19",
+          "leave": "2025-12-21T00:57:01"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 3342,
+      "max_session_sec": 3342
+    },
+    "tesla": {
+      "sessions": [
+        {
+          "join": "2025-12-21T00:02:02",
+          "leave": "2025-12-21T00:57:13"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 3311,
+      "max_session_sec": 3311
+    },
+    "Sorsi": {
+      "sessions": [
+        {
+          "join": "2025-12-21T00:02:46",
+          "leave": "2025-12-21T00:56:56"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 3250,
+      "max_session_sec": 3250
+    },
+    "lightSorc": {
+      "sessions": [
+        {
+          "join": "2025-12-21T00:03:26",
+          "leave": "2025-12-21T01:05:48"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 3742,
+      "max_session_sec": 3742
+    },
+    "palqk": {
+      "sessions": [
+        {
+          "join": "2025-12-21T00:03:28",
+          "leave": "2025-12-21T01:00:02"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 3394,
+      "max_session_sec": 3394
+    },
+    "undertaker": {
+      "sessions": [
+        {
+          "join": "2025-12-21T00:07:54",
+          "leave": "2025-12-21T01:11:59"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 3845,
+      "max_session_sec": 3845
+    }
+  },
+  "duration_sec": 4585
+}

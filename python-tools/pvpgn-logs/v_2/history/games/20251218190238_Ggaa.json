@@ -1,0 +1,64 @@
+{
+  "game_uid": "20251218190238_Ggaa",
+  "created_at": "2025-12-18T19:02:38",
+  "destroyed_at": "2025-12-18T20:17:21",
+  "players": {
+    "palqk": {
+      "sessions": [
+        {
+          "join": "2025-12-18T19:02:39",
+          "leave": "2025-12-18T19:53:09"
+        },
+        {
+          "join": "2025-12-18T19:53:13",
+          "leave": "2025-12-18T20:12:21"
+        }
+      ],
+      "join_count": 2,
+      "total_time_sec": 4178,
+      "max_session_sec": 3030
+    },
+    "zganvazonka": {
+      "sessions": [
+        {
+          "join": "2025-12-18T19:24:28",
+          "leave": "2025-12-18T19:46:54"
+        },
+        {
+          "join": "2025-12-18T19:49:30",
+          "leave": "2025-12-18T20:11:00"
+        }
+      ],
+      "join_count": 2,
+      "total_time_sec": 2636,
+      "max_session_sec": 1346
+    },
+    "ZGANVARIN": {
+      "sessions": [
+        {
+          "join": "2025-12-18T19:27:35",
+          "leave": "2025-12-18T19:55:46"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 1691,
+      "max_session_sec": 1691
+    },
+    "Sorsi": {
+      "sessions": [
+        {
+          "join": "2025-12-18T19:55:52",
+          "leave": "2025-12-18T20:04:19"
+        },
+        {
+          "join": "2025-12-18T20:06:08",
+          "leave": "2025-12-18T20:10:44"
+        }
+      ],
+      "join_count": 2,
+      "total_time_sec": 783,
+      "max_session_sec": 507
+    }
+  },
+  "duration_sec": 4483
+}

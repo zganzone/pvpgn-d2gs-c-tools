@@ -1,0 +1,41 @@
+{
+  "game_uid": "20251218194645_Fsfsf",
+  "created_at": "2025-12-18T19:46:45",
+  "destroyed_at": "2025-12-18T20:15:57",
+  "players": {
+    "runitwo": {
+      "sessions": [
+        {
+          "join": "2025-12-18T19:46:45",
+          "leave": "2025-12-18T19:48:22"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 97,
+      "max_session_sec": 97
+    },
+    "zganvazonka": {
+      "sessions": [
+        {
+          "join": "2025-12-18T19:46:58",
+          "leave": "2025-12-18T19:49:27"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 149,
+      "max_session_sec": 149
+    },
+    "runione": {
+      "sessions": [
+        {
+          "join": "2025-12-18T19:48:30",
+          "leave": "2025-12-18T20:10:57"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 1347,
+      "max_session_sec": 1347
+    }
+  },
+  "duration_sec": 1752
+}

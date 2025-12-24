@@ -1,0 +1,19 @@
+{
+  "game_uid": "20251220235150_Trade",
+  "created_at": "2025-12-20T23:51:50",
+  "destroyed_at": "2025-12-21T00:08:13",
+  "players": {
+    "veshtione": {
+      "sessions": [
+        {
+          "join": "2025-12-20T23:51:50",
+          "leave": "2025-12-21T00:03:13"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 683,
+      "max_session_sec": 683
+    }
+  },
+  "duration_sec": 983
+}

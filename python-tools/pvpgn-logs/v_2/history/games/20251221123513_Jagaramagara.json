@@ -1,0 +1,120 @@
+{
+  "game_uid": "20251221123513_Jagaramagara",
+  "created_at": "2025-12-21T12:35:13",
+  "destroyed_at": "2025-12-21T13:18:09",
+  "players": {
+    "paladin": {
+      "sessions": [
+        {
+          "join": "2025-12-21T12:35:14",
+          "leave": "2025-12-21T13:11:11"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 2157,
+      "max_session_sec": 2157
+    },
+    "lightSorc": {
+      "sessions": [
+        {
+          "join": "2025-12-21T12:36:31",
+          "leave": "2025-12-21T13:11:51"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 2120,
+      "max_session_sec": 2120
+    },
+    "MFamazon": {
+      "sessions": [
+        {
+          "join": "2025-12-21T12:36:41",
+          "leave": "2025-12-21T13:11:00"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 2059,
+      "max_session_sec": 2059
+    },
+    "Sorsi": {
+      "sessions": [
+        {
+          "join": "2025-12-21T12:39:13",
+          "leave": "2025-12-21T12:39:24"
+        },
+        {
+          "join": "2025-12-21T12:43:36",
+          "leave": "2025-12-21T12:48:44"
+        },
+        {
+          "join": "2025-12-21T12:48:49",
+          "leave": "2025-12-21T12:49:34"
+        },
+        {
+          "join": "2025-12-21T12:49:44",
+          "leave": "2025-12-21T13:00:40"
+        },
+        {
+          "join": "2025-12-21T13:00:46",
+          "leave": "2025-12-21T13:02:26"
+        },
+        {
+          "join": "2025-12-21T13:02:33",
+          "leave": "2025-12-21T13:11:23"
+        }
+      ],
+      "join_count": 6,
+      "total_time_sec": 1650,
+      "max_session_sec": 656
+    },
+    "ZGANVARIN": {
+      "sessions": [
+        {
+          "join": "2025-12-21T12:39:35",
+          "leave": "2025-12-21T12:39:54"
+        },
+        {
+          "join": "2025-12-21T12:40:01",
+          "leave": "2025-12-21T13:12:22"
+        }
+      ],
+      "join_count": 2,
+      "total_time_sec": 1960,
+      "max_session_sec": 1941
+    },
+    "palqk": {
+      "sessions": [
+        {
+          "join": "2025-12-21T12:40:06",
+          "leave": "2025-12-21T13:13:09"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 1983,
+      "max_session_sec": 1983
+    },
+    "undertaker": {
+      "sessions": [
+        {
+          "join": "2025-12-21T12:40:51",
+          "leave": "2025-12-21T13:13:02"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 1931,
+      "max_session_sec": 1931
+    },
+    "tesla": {
+      "sessions": [
+        {
+          "join": "2025-12-21T12:43:10",
+          "leave": "2025-12-21T13:12:19"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 1749,
+      "max_session_sec": 1749
+    }
+  },
+  "duration_sec": 2576
+}

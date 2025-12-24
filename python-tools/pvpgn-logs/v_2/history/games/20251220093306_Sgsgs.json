@@ -1,0 +1,19 @@
+{
+  "game_uid": "20251220093306_Sgsgs",
+  "created_at": "2025-12-20T09:33:06",
+  "destroyed_at": "2025-12-20T09:36:41",
+  "players": {
+    "palqk": {
+      "sessions": [
+        {
+          "join": "2025-12-20T09:33:06",
+          "leave": "2025-12-20T09:36:41"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 215,
+      "max_session_sec": 215
+    }
+  },
+  "duration_sec": 215
+}

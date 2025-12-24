@@ -1,0 +1,19 @@
+{
+  "game_uid": "20251219182750_Heer",
+  "created_at": "2025-12-19T18:27:50",
+  "destroyed_at": "2025-12-19T20:49:23",
+  "players": {
+    "Sorsi": {
+      "sessions": [
+        {
+          "join": "2025-12-19T18:27:50",
+          "leave": "2025-12-19T20:44:23"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 8193,
+      "max_session_sec": 8193
+    }
+  },
+  "duration_sec": 8493
+}

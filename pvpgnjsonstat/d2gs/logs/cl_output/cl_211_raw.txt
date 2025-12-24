@@ -1,0 +1,12 @@
+
+[GameName   : Tr3            ] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 211            ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : normal         ] [IsLadder   : ladder         ] [UserCount: 0                              ]
+[CreateTime : 17:12:12       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zgan3          ] [CreatorChar: Setisone       ] [CreatorIP: 192.168.88.110                 ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
++---------------------------------------------------------------------------------+
+
+Total: 0 charaters in this game 
+

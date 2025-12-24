@@ -6,3 +6,5 @@ sleep 1
 python3 /home/support/scripts-tools/d2cpp/pvpgnjsonstat/02.reportsscJSON.py
 sleep 1
 /home/support/scripts-tools/d2cpp/pvpgnjsonstat/d2gs/00.start.sh
+sleep 1
+/home/support/scripts-tools/d2cpp/python-tools/d2gs-py/00.start.sh

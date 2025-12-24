@@ -1,0 +1,19 @@
+{
+  "game_uid": "20251220233540_Fsdfsdfsdfsdf",
+  "created_at": "2025-12-20T23:35:40",
+  "destroyed_at": "2025-12-20T23:59:08",
+  "players": {
+    "ZGANVARIN": {
+      "sessions": [
+        {
+          "join": "2025-12-20T23:35:41",
+          "leave": "2025-12-20T23:54:08"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 1107,
+      "max_session_sec": 1107
+    }
+  },
+  "duration_sec": 1408
+}

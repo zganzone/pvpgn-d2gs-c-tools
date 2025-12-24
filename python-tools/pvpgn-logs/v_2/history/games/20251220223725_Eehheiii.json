@@ -1,0 +1,141 @@
+{
+  "game_uid": "20251220223725_Eehheiii",
+  "created_at": "2025-12-20T22:37:25",
+  "destroyed_at": "2025-12-20T23:19:56",
+  "players": {
+    "palqk": {
+      "sessions": [
+        {
+          "join": "2025-12-20T22:37:25",
+          "leave": "2025-12-20T22:43:08"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 343,
+      "max_session_sec": 343
+    },
+    "uniquetwo": {
+      "sessions": [
+        {
+          "join": "2025-12-20T22:40:24",
+          "leave": "2025-12-20T22:41:29"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 65,
+      "max_session_sec": 65
+    },
+    "runitwo": {
+      "sessions": [
+        {
+          "join": "2025-12-20T22:41:54",
+          "leave": "2025-12-20T22:52:28"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 634,
+      "max_session_sec": 634
+    },
+    "runione": {
+      "sessions": [
+        {
+          "join": "2025-12-20T22:43:30",
+          "leave": "2025-12-20T22:52:17"
+        },
+        {
+          "join": "2025-12-20T22:53:37",
+          "leave": "2025-12-20T22:53:49"
+        }
+      ],
+      "join_count": 2,
+      "total_time_sec": 539,
+      "max_session_sec": 527
+    },
+    "socketss": {
+      "sessions": [
+        {
+          "join": "2025-12-20T22:47:39",
+          "leave": "2025-12-20T22:51:21"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 222,
+      "max_session_sec": 222
+    },
+    "ZGANVARIN": {
+      "sessions": [
+        {
+          "join": "2025-12-20T22:50:00",
+          "leave": "2025-12-20T22:56:28"
+        },
+        {
+          "join": "2025-12-20T23:03:44",
+          "leave": "2025-12-20T23:14:56"
+        }
+      ],
+      "join_count": 2,
+      "total_time_sec": 1060,
+      "max_session_sec": 672
+    },
+    "lightSorc": {
+      "sessions": [
+        {
+          "join": "2025-12-20T22:51:38",
+          "leave": "2025-12-20T22:52:19"
+        },
+        {
+          "join": "2025-12-20T23:14:11",
+          "leave": "2025-12-20T23:14:20"
+        }
+      ],
+      "join_count": 2,
+      "total_time_sec": 50,
+      "max_session_sec": 41
+    },
+    "slabiruni": {
+      "sessions": [
+        {
+          "join": "2025-12-20T22:52:37",
+          "leave": "2025-12-20T23:04:06"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 689,
+      "max_session_sec": 689
+    },
+    "RUNIdobri": {
+      "sessions": [
+        {
+          "join": "2025-12-20T23:04:26",
+          "leave": "2025-12-20T23:04:39"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 13,
+      "max_session_sec": 13
+    },
+    "itemmii": {
+      "sessions": [
+        {
+          "join": "2025-12-20T23:04:58",
+          "leave": "2025-12-20T23:12:31"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 453,
+      "max_session_sec": 453
+    },
+    "aaaaaaa": {
+      "sessions": [
+        {
+          "join": "2025-12-20T23:12:49",
+          "leave": "2025-12-20T23:13:52"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 63,
+      "max_session_sec": 63
+    }
+  },
+  "duration_sec": 2551
+}

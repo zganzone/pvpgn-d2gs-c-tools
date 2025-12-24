@@ -1,0 +1,19 @@
+{
+  "game_uid": "20251219074835_Sixbotgame",
+  "created_at": "2025-12-19T07:48:35",
+  "destroyed_at": "2025-12-19T08:44:05",
+  "players": {
+    "botsix": {
+      "sessions": [
+        {
+          "join": "2025-12-19T07:48:35",
+          "leave": "2025-12-19T08:39:05"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 3030,
+      "max_session_sec": 3030
+    }
+  },
+  "duration_sec": 3330
+}

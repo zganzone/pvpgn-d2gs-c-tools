@@ -1,0 +1,63 @@
+{
+  "game_uid": "20251220221834_Rrr222",
+  "created_at": "2025-12-20T22:18:34",
+  "destroyed_at": "2025-12-20T22:36:00",
+  "players": {
+    "runitwo": {
+      "sessions": [
+        {
+          "join": "2025-12-20T22:18:35",
+          "leave": "2025-12-20T22:21:19"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 164,
+      "max_session_sec": 164
+    },
+    "Sorsi": {
+      "sessions": [
+        {
+          "join": "2025-12-20T22:18:59",
+          "leave": "2025-12-20T22:25:10"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 371,
+      "max_session_sec": 371
+    },
+    "TapakZaVeshti": {
+      "sessions": [
+        {
+          "join": "2025-12-20T22:21:36",
+          "leave": "2025-12-20T22:28:42"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 426,
+      "max_session_sec": 426
+    },
+    "ZGANVARIN": {
+      "sessions": [
+        {
+          "join": "2025-12-20T22:25:35",
+          "leave": "2025-12-20T22:29:46"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 251,
+      "max_session_sec": 251
+    },
+    "runione": {
+      "sessions": [
+        {
+          "join": "2025-12-20T22:28:52",
+          "leave": "2025-12-20T22:31:00"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 128,
+      "max_session_sec": 128
+    }
+  },
+  "duration_sec": 1046
+}

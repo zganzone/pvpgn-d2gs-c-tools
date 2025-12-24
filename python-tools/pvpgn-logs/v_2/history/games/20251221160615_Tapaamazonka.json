@@ -1,0 +1,52 @@
+{
+  "game_uid": "20251221160615_Tapaamazonka",
+  "created_at": "2025-12-21T16:06:15",
+  "destroyed_at": "2025-12-21T16:10:28",
+  "players": {
+    "zganvazonka": {
+      "sessions": [
+        {
+          "join": "2025-12-21T16:06:15",
+          "leave": "2025-12-21T16:09:49"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 214,
+      "max_session_sec": 214
+    },
+    "palqk": {
+      "sessions": [
+        {
+          "join": "2025-12-21T16:06:34",
+          "leave": "2025-12-21T16:10:11"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 217,
+      "max_session_sec": 217
+    },
+    "Sorsi": {
+      "sessions": [
+        {
+          "join": "2025-12-21T16:06:44",
+          "leave": "2025-12-21T16:09:55"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 191,
+      "max_session_sec": 191
+    },
+    "ZGANVARIN": {
+      "sessions": [
+        {
+          "join": "2025-12-21T16:07:09",
+          "leave": "2025-12-21T16:10:28"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 199,
+      "max_session_sec": 199
+    }
+  },
+  "duration_sec": 253
+}

@@ -1,0 +1,89 @@
+{
+  "game_uid": "20251218175738_Mazaslo",
+  "created_at": "2025-12-18T17:57:38",
+  "destroyed_at": "2025-12-18T19:06:48",
+  "players": {
+    "palqk": {
+      "sessions": [
+        {
+          "join": "2025-12-18T17:57:39",
+          "leave": "2025-12-18T18:11:04"
+        },
+        {
+          "join": "2025-12-18T19:01:18",
+          "leave": "2025-12-18T19:01:25"
+        }
+      ],
+      "join_count": 2,
+      "total_time_sec": 812,
+      "max_session_sec": 805
+    },
+    "botfive": {
+      "sessions": [
+        {
+          "join": "2025-12-18T17:57:47",
+          "leave": "2025-12-18T19:01:45"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 3838,
+      "max_session_sec": 3838
+    },
+    "botfour": {
+      "sessions": [
+        {
+          "join": "2025-12-18T17:58:05",
+          "leave": "2025-12-18T19:01:48"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 3823,
+      "max_session_sec": 3823
+    },
+    "botthre": {
+      "sessions": [
+        {
+          "join": "2025-12-18T17:58:17",
+          "leave": "2025-12-18T19:01:41"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 3804,
+      "max_session_sec": 3804
+    },
+    "bottwo": {
+      "sessions": [
+        {
+          "join": "2025-12-18T17:58:34",
+          "leave": "2025-12-18T19:01:36"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 3782,
+      "max_session_sec": 3782
+    },
+    "botone": {
+      "sessions": [
+        {
+          "join": "2025-12-18T17:59:00",
+          "leave": "2025-12-18T18:08:20"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 560,
+      "max_session_sec": 560
+    },
+    "runitwo": {
+      "sessions": [
+        {
+          "join": "2025-12-18T18:09:06",
+          "leave": "2025-12-18T19:01:32"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 3146,
+      "max_session_sec": 3146
+    }
+  },
+  "duration_sec": 4150
+}

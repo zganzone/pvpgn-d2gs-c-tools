@@ -1,0 +1,13 @@
+
+[GameName   : Gsgs           ] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 147            ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : nightmare      ] [IsLadder   : ladder         ] [UserCount: 1                              ]
+[CreateTime : 09:41:32       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zgan2          ] [CreatorChar: palqk          ] [CreatorIP: 192.168.88.212                 ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
+| 001  zgan2            palqk            192.168.88.212   Pal    49     09:41:32  |
++---------------------------------------------------------------------------------+
+
+Total: 1 charaters in this game 
+

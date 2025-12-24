@@ -1,0 +1,19 @@
+{
+  "game_uid": "20251221155803_Dsfsdfdsf",
+  "created_at": "2025-12-21T15:58:03",
+  "destroyed_at": "2025-12-21T16:14:22",
+  "players": {
+    "MFamazon": {
+      "sessions": [
+        {
+          "join": "2025-12-21T15:58:04",
+          "leave": "2025-12-21T16:09:22"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 678,
+      "max_session_sec": 678
+    }
+  },
+  "duration_sec": 979
+}

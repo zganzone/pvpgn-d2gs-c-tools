@@ -1,0 +1,273 @@
+{
+  "game_uid": "20251221015736_Fdfdfdfdf",
+  "created_at": "2025-12-21T01:57:36",
+  "destroyed_at": "2025-12-21T03:08:38",
+  "players": {
+    "slabiruni": {
+      "sessions": [
+        {
+          "join": "2025-12-21T01:57:37",
+          "leave": "2025-12-21T03:03:38"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 3961,
+      "max_session_sec": 3961
+    },
+    "undertaker": {
+      "sessions": [
+        {
+          "join": "2025-12-21T01:57:51",
+          "leave": "2025-12-21T01:58:06"
+        },
+        {
+          "join": "2025-12-21T02:14:47",
+          "leave": "2025-12-21T02:14:51"
+        }
+      ],
+      "join_count": 2,
+      "total_time_sec": 19,
+      "max_session_sec": 15
+    },
+    "MFamazon": {
+      "sessions": [
+        {
+          "join": "2025-12-21T01:59:48",
+          "leave": "2025-12-21T02:08:46"
+        },
+        {
+          "join": "2025-12-21T02:25:27",
+          "leave": "2025-12-21T02:25:41"
+        }
+      ],
+      "join_count": 2,
+      "total_time_sec": 552,
+      "max_session_sec": 538
+    },
+    "gfhfghfghfghf": {
+      "sessions": [
+        {
+          "join": "2025-12-21T02:09:34",
+          "leave": "2025-12-21T02:10:12"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 38,
+      "max_session_sec": 38
+    },
+    "uiyuiuyi": {
+      "sessions": [
+        {
+          "join": "2025-12-21T02:10:20",
+          "leave": "2025-12-21T02:10:43"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 23,
+      "max_session_sec": 23
+    },
+    "gfgfdgfd": {
+      "sessions": [
+        {
+          "join": "2025-12-21T02:10:52",
+          "leave": "2025-12-21T02:11:15"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 23,
+      "max_session_sec": 23
+    },
+    "yrtyrtyrty": {
+      "sessions": [
+        {
+          "join": "2025-12-21T02:11:24",
+          "leave": "2025-12-21T02:11:51"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 27,
+      "max_session_sec": 27
+    },
+    "grobar": {
+      "sessions": [
+        {
+          "join": "2025-12-21T02:11:58",
+          "leave": "2025-12-21T02:12:25"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 27,
+      "max_session_sec": 27
+    },
+    "gdfgfgfd": {
+      "sessions": [
+        {
+          "join": "2025-12-21T02:12:37",
+          "leave": "2025-12-21T02:13:45"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 68,
+      "max_session_sec": 68
+    },
+    "RUNIdobri": {
+      "sessions": [
+        {
+          "join": "2025-12-21T02:14:11",
+          "leave": "2025-12-21T02:14:19"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 8,
+      "max_session_sec": 8
+    },
+    "KLUCHOVE": {
+      "sessions": [
+        {
+          "join": "2025-12-21T02:14:31",
+          "leave": "2025-12-21T02:14:35"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 4,
+      "max_session_sec": 4
+    },
+    "SOCKET": {
+      "sessions": [
+        {
+          "join": "2025-12-21T02:14:58",
+          "leave": "2025-12-21T02:15:20"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 22,
+      "max_session_sec": 22
+    },
+    "aaaaaaa": {
+      "sessions": [
+        {
+          "join": "2025-12-21T02:15:27",
+          "leave": "2025-12-21T02:15:53"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 26,
+      "max_session_sec": 26
+    },
+    "KOLANI": {
+      "sessions": [
+        {
+          "join": "2025-12-21T02:16:04",
+          "leave": "2025-12-21T02:16:19"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 15,
+      "max_session_sec": 15
+    },
+    "AmuletiPrusteni": {
+      "sessions": [
+        {
+          "join": "2025-12-21T02:16:26",
+          "leave": "2025-12-21T02:16:31"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 5,
+      "max_session_sec": 5
+    },
+    "socketss": {
+      "sessions": [
+        {
+          "join": "2025-12-21T02:16:47",
+          "leave": "2025-12-21T02:16:52"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 5,
+      "max_session_sec": 5
+    },
+    "itemmii": {
+      "sessions": [
+        {
+          "join": "2025-12-21T02:17:54",
+          "leave": "2025-12-21T02:17:59"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 5,
+      "max_session_sec": 5
+    },
+    "itemi": {
+      "sessions": [
+        {
+          "join": "2025-12-21T02:18:06",
+          "leave": "2025-12-21T02:18:18"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 12,
+      "max_session_sec": 12
+    },
+    "necromecro": {
+      "sessions": [
+        {
+          "join": "2025-12-21T02:18:42",
+          "leave": "2025-12-21T02:19:05"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 23,
+      "max_session_sec": 23
+    },
+    "sockets": {
+      "sessions": [
+        {
+          "join": "2025-12-21T02:19:13",
+          "leave": "2025-12-21T02:20:31"
+        },
+        {
+          "join": "2025-12-21T02:21:22",
+          "leave": "2025-12-21T02:24:26"
+        }
+      ],
+      "join_count": 2,
+      "total_time_sec": 262,
+      "max_session_sec": 184
+    },
+    "lightSorc": {
+      "sessions": [
+        {
+          "join": "2025-12-21T02:20:42",
+          "leave": "2025-12-21T02:21:13"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 31,
+      "max_session_sec": 31
+    },
+    "sdfgdfgsdfgds": {
+      "sessions": [
+        {
+          "join": "2025-12-21T02:25:57",
+          "leave": "2025-12-21T02:26:06"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 9,
+      "max_session_sec": 9
+    },
+    "druid": {
+      "sessions": [
+        {
+          "join": "2025-12-21T02:26:14",
+          "leave": "2025-12-21T02:26:30"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 16,
+      "max_session_sec": 16
+    }
+  },
+  "duration_sec": 4262
+}

@@ -1,0 +1,38 @@
+{
+  "game_uid": "20251220003253_Faaa",
+  "created_at": "2025-12-20T00:32:53",
+  "destroyed_at": "2025-12-20T00:56:27",
+  "players": {
+    "palqk": {
+      "sessions": [
+        {
+          "join": "2025-12-20T00:32:54",
+          "leave": "2025-12-20T00:38:38"
+        },
+        {
+          "join": "2025-12-20T00:38:44",
+          "leave": "2025-12-20T00:49:24"
+        },
+        {
+          "join": "2025-12-20T00:49:26",
+          "leave": "2025-12-20T00:51:27"
+        }
+      ],
+      "join_count": 3,
+      "total_time_sec": 1105,
+      "max_session_sec": 640
+    },
+    "zganvazonka": {
+      "sessions": [
+        {
+          "join": "2025-12-20T00:33:18",
+          "leave": "2025-12-20T00:51:08"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 1070,
+      "max_session_sec": 1070
+    }
+  },
+  "duration_sec": 1414
+}

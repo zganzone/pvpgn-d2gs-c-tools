@@ -1,0 +1,19 @@
+{
+  "game_uid": "20251220093001_Faag",
+  "created_at": "2025-12-20T09:30:01",
+  "destroyed_at": "2025-12-20T09:31:01",
+  "players": {
+    "palqk": {
+      "sessions": [
+        {
+          "join": "2025-12-20T09:30:01",
+          "leave": "2025-12-20T09:30:27"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 26,
+      "max_session_sec": 26
+    }
+  },
+  "duration_sec": 60
+}

@@ -1,0 +1,30 @@
+{
+  "game_uid": "20251220165743_Faafafa",
+  "created_at": "2025-12-20T16:57:43",
+  "destroyed_at": "2025-12-20T17:13:41",
+  "players": {
+    "palqk": {
+      "sessions": [
+        {
+          "join": "2025-12-20T16:57:43",
+          "leave": "2025-12-20T17:08:09"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 626,
+      "max_session_sec": 626
+    },
+    "MFamazon": {
+      "sessions": [
+        {
+          "join": "2025-12-20T16:59:24",
+          "leave": "2025-12-20T17:08:41"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 557,
+      "max_session_sec": 557
+    }
+  },
+  "duration_sec": 958
+}

@@ -1,0 +1,41 @@
+{
+  "game_uid": "20251219210232_Gggg",
+  "created_at": "2025-12-19T21:02:32",
+  "destroyed_at": "2025-12-20T00:10:51",
+  "players": {
+    "paladin": {
+      "sessions": [
+        {
+          "join": "2025-12-19T21:02:36",
+          "leave": "2025-12-20T00:04:33"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 10917,
+      "max_session_sec": 10917
+    },
+    "MFamazon": {
+      "sessions": [
+        {
+          "join": "2025-12-19T21:03:59",
+          "leave": "2025-12-20T00:05:00"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 10861,
+      "max_session_sec": 10861
+    },
+    "undertaker": {
+      "sessions": [
+        {
+          "join": "2025-12-19T21:26:15",
+          "leave": "2025-12-20T00:05:51"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 9576,
+      "max_session_sec": 9576
+    }
+  },
+  "duration_sec": 11299
+}

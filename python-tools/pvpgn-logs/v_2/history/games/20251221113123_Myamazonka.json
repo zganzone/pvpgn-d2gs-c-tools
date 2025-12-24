@@ -1,0 +1,30 @@
+{
+  "game_uid": "20251221113123_Myamazonka",
+  "created_at": "2025-12-21T11:31:23",
+  "destroyed_at": "2025-12-21T12:24:17",
+  "players": {
+    "zganvazonka": {
+      "sessions": [
+        {
+          "join": "2025-12-21T11:31:23",
+          "leave": "2025-12-21T12:19:17"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 2874,
+      "max_session_sec": 2874
+    },
+    "MFamazon": {
+      "sessions": [
+        {
+          "join": "2025-12-21T11:36:12",
+          "leave": "2025-12-21T12:19:11"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 2579,
+      "max_session_sec": 2579
+    }
+  },
+  "duration_sec": 3174
+}

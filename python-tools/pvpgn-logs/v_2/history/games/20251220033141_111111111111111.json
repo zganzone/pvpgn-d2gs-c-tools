@@ -1,0 +1,45 @@
+{
+  "game_uid": "20251220033141_111111111111111",
+  "created_at": "2025-12-20T03:31:41",
+  "destroyed_at": "2025-12-20T12:05:47",
+  "players": {
+    "lightSorc": {
+      "sessions": [
+        {
+          "join": "2025-12-20T03:31:42",
+          "leave": "2025-12-20T04:11:03"
+        },
+        {
+          "join": "2025-12-20T04:12:22",
+          "leave": "2025-12-20T04:13:28"
+        }
+      ],
+      "join_count": 2,
+      "total_time_sec": 2427,
+      "max_session_sec": 2361
+    },
+    "undertaker": {
+      "sessions": [
+        {
+          "join": "2025-12-20T03:32:42",
+          "leave": "2025-12-20T12:00:47"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 30485,
+      "max_session_sec": 30485
+    },
+    "paladin": {
+      "sessions": [
+        {
+          "join": "2025-12-20T03:32:56",
+          "leave": "2025-12-20T04:23:20"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 3024,
+      "max_session_sec": 3024
+    }
+  },
+  "duration_sec": 30846
+}

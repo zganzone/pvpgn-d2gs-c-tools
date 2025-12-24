@@ -1,0 +1,60 @@
+{
+  "game_uid": "20251221135818_Igra1",
+  "created_at": "2025-12-21T13:58:18",
+  "destroyed_at": "2025-12-21T14:28:47",
+  "players": {
+    "paladin": {
+      "sessions": [
+        {
+          "join": "2025-12-21T13:58:18",
+          "leave": "2025-12-21T14:17:16"
+        },
+        {
+          "join": "2025-12-21T14:21:14",
+          "leave": "2025-12-21T14:21:41"
+        }
+      ],
+      "join_count": 2,
+      "total_time_sec": 1165,
+      "max_session_sec": 1138
+    },
+    "lightSorc": {
+      "sessions": [
+        {
+          "join": "2025-12-21T13:59:02",
+          "leave": "2025-12-21T14:23:13"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 1451,
+      "max_session_sec": 1451
+    },
+    "MFamazon": {
+      "sessions": [
+        {
+          "join": "2025-12-21T14:04:27",
+          "leave": "2025-12-21T14:15:45"
+        },
+        {
+          "join": "2025-12-21T14:22:09",
+          "leave": "2025-12-21T14:23:10"
+        }
+      ],
+      "join_count": 2,
+      "total_time_sec": 739,
+      "max_session_sec": 678
+    },
+    "ZGANVARIN": {
+      "sessions": [
+        {
+          "join": "2025-12-21T14:04:46",
+          "leave": "2025-12-21T14:23:47"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 1141,
+      "max_session_sec": 1141
+    }
+  },
+  "duration_sec": 1829
+}

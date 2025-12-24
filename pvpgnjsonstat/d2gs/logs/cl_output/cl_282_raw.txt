@@ -1,0 +1,17 @@
+
+[GameName   : Dfsfs          ] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 282            ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : hell           ] [IsLadder   : ladder         ] [UserCount: 5                              ]
+[CreateTime : 07:02:03       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zliazubb       ] [CreatorChar: MFamazon       ] [CreatorIP: 192.168.88.212                 ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
+| 001  zgan             Sorsi            192.168.88.110   Sor    88     07:53:56  |
+| 002  zgan             ZGANVARIN        192.168.88.110   Bar    83     07:53:43  |
+| 003  zgan2            palqk            192.168.88.110   Pal    58     07:53:37  |
+| 004  zliazub          lightSorc        192.168.88.212   Sor    88     07:05:00  |
+| 005  zliazubb         MFamazon         192.168.88.212   Ama    92     07:02:04  |
++---------------------------------------------------------------------------------+
+
+Total: 5 charaters in this game 
+

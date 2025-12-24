@@ -1,0 +1,13 @@
+
+[GameName   : Ggggggggg      ] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 171            ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : normal         ] [IsLadder   : ladder         ] [UserCount: 1                              ]
+[CreateTime : 11:05:40       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zliazubbbb     ] [CreatorChar: itemmii        ] [CreatorIP: 192.168.88.212                 ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
+| 001  zliazubbbb       itemmii          192.168.88.212   Ass    1      11:05:44  |
++---------------------------------------------------------------------------------+
+
+Total: 1 charaters in this game 
+

@@ -1,0 +1,63 @@
+{
+  "game_uid": "20251221145532_Papalqk",
+  "created_at": "2025-12-21T14:55:32",
+  "destroyed_at": "2025-12-21T15:48:45",
+  "players": {
+    "paladin": {
+      "sessions": [
+        {
+          "join": "2025-12-21T14:55:33",
+          "leave": "2025-12-21T15:43:40"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 2887,
+      "max_session_sec": 2887
+    },
+    "ZGANVARIN": {
+      "sessions": [
+        {
+          "join": "2025-12-21T14:56:21",
+          "leave": "2025-12-21T15:43:45"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 2844,
+      "max_session_sec": 2844
+    },
+    "MFamazon": {
+      "sessions": [
+        {
+          "join": "2025-12-21T14:56:47",
+          "leave": "2025-12-21T15:22:14"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 1527,
+      "max_session_sec": 1527
+    },
+    "lightSorc": {
+      "sessions": [
+        {
+          "join": "2025-12-21T14:57:55",
+          "leave": "2025-12-21T15:43:35"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 2740,
+      "max_session_sec": 2740
+    },
+    "Sorsi": {
+      "sessions": [
+        {
+          "join": "2025-12-21T14:58:32",
+          "leave": "2025-12-21T15:22:06"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 1414,
+      "max_session_sec": 1414
+    }
+  },
+  "duration_sec": 3193
+}

@@ -1,0 +1,19 @@
+{
+  "game_uid": "20251219171821_Fafafafa",
+  "created_at": "2025-12-19T17:18:21",
+  "destroyed_at": "2025-12-19T17:32:45",
+  "players": {
+    "ZGANVARIN": {
+      "sessions": [
+        {
+          "join": "2025-12-19T17:18:21",
+          "leave": "2025-12-19T17:27:45"
+        }
+      ],
+      "join_count": 1,
+      "total_time_sec": 564,
+      "max_session_sec": 564
+    }
+  },
+  "duration_sec": 864
+}
