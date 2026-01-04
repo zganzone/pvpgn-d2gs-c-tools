@@ -1,0 +1,14 @@
+
+[GameName   : Sdfsdfsdf      ] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 427            ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : normal         ] [IsLadder   : ladder         ] [UserCount: 2                              ]
+[CreateTime : 08:49:51       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zliazubbbb     ] [CreatorChar: iitemi         ] [CreatorIP: 192.168.88.133                 ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
+| 001  zliazub          paladin          192.168.88.133   Pal    89     08:50:25  |
+| 002  zliazubbbb       iitemi           192.168.88.133   Nec    1      08:49:53  |
++---------------------------------------------------------------------------------+
+
+Total: 2 charaters in this game 
+

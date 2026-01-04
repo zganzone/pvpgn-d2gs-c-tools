@@ -1,0 +1,12 @@
+
+[GameName   : Faaffa         ] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 684            ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : hell           ] [IsLadder   : ladder         ] [UserCount: 0                              ]
+[CreateTime : 08:20:47       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zgan           ] [CreatorChar: Sorsi          ] [CreatorIP: 192.168.88.136                 ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
++---------------------------------------------------------------------------------+
+
+Total: 0 charaters in this game 
+

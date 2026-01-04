@@ -1,0 +1,14 @@
+
+[GameName   : Eeeeeeeeeeeee  ] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 318            ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : normal         ] [IsLadder   : ladder         ] [UserCount: 2                              ]
+[CreateTime : 14:33:12       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zliazubbbb     ] [CreatorChar: slabikamani    ] [CreatorIP: 192.168.88.133                 ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
+| 001  zliazubbbb       iitemi           192.168.88.133   Nec    1      14:35:59  |
+| 002  zliazub          lightSorc        192.168.88.133   Sor    88     14:33:27  |
++---------------------------------------------------------------------------------+
+
+Total: 2 charaters in this game 
+

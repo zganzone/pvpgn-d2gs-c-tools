@@ -1,0 +1,12 @@
+
+[GameName   : Adda           ] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 721            ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : nightmare      ] [IsLadder   : ladder         ] [UserCount: 0                              ]
+[CreateTime : 14:04:41       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zgan           ] [CreatorChar: Sorsi          ] [CreatorIP: 192.168.88.145                 ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
++---------------------------------------------------------------------------------+
+
+Total: 0 charaters in this game 
+

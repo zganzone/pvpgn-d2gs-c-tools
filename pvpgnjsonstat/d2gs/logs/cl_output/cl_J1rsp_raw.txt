@@ -1,0 +1,3 @@
+ cl J1rsp
+Invalid game id
+

@@ -1,0 +1,3 @@
+ cl A1x2d
+Invalid game id
+

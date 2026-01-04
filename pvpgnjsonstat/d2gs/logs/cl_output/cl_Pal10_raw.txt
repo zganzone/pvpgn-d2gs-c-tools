@@ -1,0 +1,3 @@
+ cl Pal10
+Invalid game id
+

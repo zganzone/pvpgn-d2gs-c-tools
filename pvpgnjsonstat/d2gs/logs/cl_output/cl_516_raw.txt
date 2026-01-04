@@ -1,0 +1,12 @@
+
+[GameName   : Ffafaa         ] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 516            ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : hell           ] [IsLadder   : ladder         ] [UserCount: 0                              ]
+[CreateTime : 20:04:11       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zgan           ] [CreatorChar: Sorsi          ] [CreatorIP: 192.168.88.32                  ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
++---------------------------------------------------------------------------------+
+
+Total: 0 charaters in this game 
+

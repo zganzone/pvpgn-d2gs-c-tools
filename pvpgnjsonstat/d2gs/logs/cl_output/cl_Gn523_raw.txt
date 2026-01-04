@@ -1,0 +1,3 @@
+ cl Gn523
+Invalid game id
+

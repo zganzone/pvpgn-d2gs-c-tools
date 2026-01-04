@@ -1,0 +1,12 @@
+
+[GameName   : Taat           ] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 518            ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : hell           ] [IsLadder   : ladder         ] [UserCount: 0                              ]
+[CreateTime : 20:59:13       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zgan2          ] [CreatorChar: palqk          ] [CreatorIP: 192.168.88.134                 ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
++---------------------------------------------------------------------------------+
+
+Total: 0 charaters in this game 
+

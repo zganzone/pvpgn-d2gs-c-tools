@@ -1,0 +1,13 @@
+
+[GameName   : Ddd            ] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 323            ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : hell           ] [IsLadder   : ladder         ] [UserCount: 1                              ]
+[CreateTime : 17:06:30       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zgan           ] [CreatorChar: Sorsi          ] [CreatorIP: 192.168.88.146                 ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
+| 001  zgan             Sorsi            192.168.88.146   Sor    88     17:06:31  |
++---------------------------------------------------------------------------------+
+
+Total: 1 charaters in this game 
+

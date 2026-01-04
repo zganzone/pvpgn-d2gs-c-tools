@@ -1,0 +1,12 @@
+
+[GameName   : Sdfsdfsdf      ] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 665            ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : nightmare      ] [IsLadder   : ladder         ] [UserCount: 0                              ]
+[CreateTime : 18:16:18       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zliazubb       ] [CreatorChar: MFamazon       ] [CreatorIP: 192.168.88.134                 ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
++---------------------------------------------------------------------------------+
+
+Total: 0 charaters in this game 
+

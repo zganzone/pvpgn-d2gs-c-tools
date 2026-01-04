@@ -1,0 +1,12 @@
+
+[GameName   : Jjjjj          ] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 774            ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : normal         ] [IsLadder   : ladder         ] [UserCount: 0                              ]
+[CreateTime : 19:32:47       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zgan           ] [CreatorChar: Sorsi          ] [CreatorIP: 192.168.88.134                 ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
++---------------------------------------------------------------------------------+
+
+Total: 0 charaters in this game 
+

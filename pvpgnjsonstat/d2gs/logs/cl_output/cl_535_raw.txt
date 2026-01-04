@@ -1,0 +1,13 @@
+
+[GameName   : Dsfsfsdfd      ] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 535            ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : normal         ] [IsLadder   : ladder         ] [UserCount: 1                              ]
+[CreateTime : 23:50:43       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zliazub        ] [CreatorChar: paladin        ] [CreatorIP: 192.168.88.133                 ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
+| 001  zliazub          paladin          192.168.88.133   Pal    90     23:50:44  |
++---------------------------------------------------------------------------------+
+
+Total: 1 charaters in this game 
+

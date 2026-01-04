@@ -1,0 +1,3 @@
+ cl Cstig
+Invalid game id
+

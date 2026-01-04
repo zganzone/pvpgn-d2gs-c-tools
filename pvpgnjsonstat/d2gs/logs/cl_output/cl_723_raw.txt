@@ -1,0 +1,12 @@
+
+[GameName   : Bottest1       ] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 723            ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : nightmare      ] [IsLadder   : ladder         ] [UserCount: 0                              ]
+[CreateTime : 14:24:18       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zliazub5       ] [CreatorChar: trepach        ] [CreatorIP: 192.168.88.134                 ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
++---------------------------------------------------------------------------------+
+
+Total: 0 charaters in this game 
+

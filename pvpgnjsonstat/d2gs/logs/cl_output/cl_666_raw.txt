@@ -1,0 +1,12 @@
+
+[GameName   : Wwwwwwwwwwwwwww] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 666            ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : nightmare      ] [IsLadder   : ladder         ] [UserCount: 0                              ]
+[CreateTime : 18:25:47       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zliazubb       ] [CreatorChar: MFamazon       ] [CreatorIP: 192.168.88.134                 ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
++---------------------------------------------------------------------------------+
+
+Total: 0 charaters in this game 
+

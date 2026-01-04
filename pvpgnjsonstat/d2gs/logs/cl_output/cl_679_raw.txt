@@ -1,0 +1,12 @@
+
+[GameName   : Ffgf566        ] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 679            ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : nightmare      ] [IsLadder   : ladder         ] [UserCount: 0                              ]
+[CreateTime : 20:32:59       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zgan           ] [CreatorChar: Sorsi          ] [CreatorIP: 192.168.88.136                 ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
++---------------------------------------------------------------------------------+
+
+Total: 0 charaters in this game 
+

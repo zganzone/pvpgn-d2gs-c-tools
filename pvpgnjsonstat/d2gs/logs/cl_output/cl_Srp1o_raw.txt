@@ -1,0 +1,3 @@
+ cl Srp1o
+Invalid game id
+

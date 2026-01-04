@@ -1,0 +1,3 @@
+ cl Kn4c6
+Invalid game id
+

@@ -1,0 +1,12 @@
+
+[GameName   : Tapa           ] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 512            ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : normal         ] [IsLadder   : ladder         ] [UserCount: 0                              ]
+[CreateTime : 19:43:22       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: tapak          ] [CreatorChar: veshter        ] [CreatorIP: 192.168.88.114                 ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
++---------------------------------------------------------------------------------+
+
+Total: 0 charaters in this game 
+

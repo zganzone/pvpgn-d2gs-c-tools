@@ -1,0 +1,12 @@
+
+[GameName   : Tatatata       ] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 320            ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : normal         ] [IsLadder   : ladder         ] [UserCount: 0                              ]
+[CreateTime : 16:07:48       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: tapak          ] [CreatorChar: veshter        ] [CreatorIP: 192.168.88.114                 ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
++---------------------------------------------------------------------------------+
+
+Total: 0 charaters in this game 
+

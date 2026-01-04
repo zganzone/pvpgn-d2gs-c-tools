@@ -1,0 +1,1669 @@
+{
+  "generated": "2026-01-04 10:36:19",
+  "inventory": {
+    "Hel Rune": {
+      "hel": 5,
+      "botkafire": 3,
+      "slabiruni": 4,
+      "runidobri": 1,
+      "uberconcb": 2,
+      "bradvarosa": 1,
+      "itemiii": 1,
+      "trepach": 1,
+      "slabirunii": 2
+    },
+    "Ort Rune": {
+      "ort": 9,
+      "slabiruni": 4,
+      "bradvarosa": 2,
+      "trepach": 1,
+      "iitemi": 1
+    },
+    "Ko Rune": {
+      "ko": 5,
+      "slabiruni": 3,
+      "runidobri": 8,
+      "bradvarosa": 1,
+      "lightsorsaki": 2,
+      "slabirunii": 3
+    },
+    "Lem Rune": {
+      "lem": 2,
+      "runidobri": 4,
+      "coldbotka": 1
+    },
+    "Sol Rune": {
+      "sol": 4,
+      "botkafire": 1,
+      "slabiruni": 1,
+      "lightsorsaki": 1,
+      "trepach": 1,
+      "slabirunii": 4,
+      "lightsorc": 1,
+      "iitemi": 1
+    },
+    "Pul Rune": {
+      "pul": 1,
+      "runidobri": 15
+    },
+    "Shael Rune": {
+      "shael": 6,
+      "botkafire": 1,
+      "slabiruni": 5,
+      "uberconcb": 2,
+      "bradvarosa": 2,
+      "coldbotka": 1,
+      "lightsorsaki": 1,
+      "itemiii": 1,
+      "slabirunii": 2,
+      "iitemi": 1,
+      "slabikamani": 2
+    },
+    "El Rune": {
+      "botkafire": 1,
+      "uberconcb": 2,
+      "bradvarosa": 2,
+      "coldbotka": 1,
+      "lightsorsaki": 1,
+      "zganecro": 1,
+      "assassinbot": 1,
+      "slabikamani": 1
+    },
+    "Thul Rune": {
+      "botkafire": 1,
+      "slabiruni": 3,
+      "thul": 4,
+      "uberconcb": 2,
+      "coldbotka": 1,
+      "lightsorsaki": 1,
+      "lightsorc": 2,
+      "assassinbot": 1,
+      "slabikamani": 1
+    },
+    "Dol Rune": {
+      "botkafire": 1,
+      "slabiruni": 8,
+      "runidobri": 1,
+      "dol": 7,
+      "uberconcb": 1,
+      "bradvarosa": 1,
+      "lightsorsaki": 1,
+      "slabirunii": 3,
+      "zganecro": 1,
+      "lightsorc": 1
+    },
+    "Lum Rune": {
+      "botkafire": 1,
+      "slabiruni": 7,
+      "runidobri": 13,
+      "uberconcb": 2,
+      "lum": 3,
+      "coldbotka": 1,
+      "palqk": 1,
+      "slabirunii": 8,
+      "slabikamani": 3
+    },
+    "Amn Rune": {
+      "botkafire": 1,
+      "slabiruni": 5,
+      "uberconcb": 2,
+      "tesla": 2,
+      "coldbotka": 1,
+      "itemmii": 2,
+      "itemiii": 1,
+      "amn": 5,
+      "slabirunii": 3,
+      "lightsorc": 2
+    },
+    "Ral Rune": {
+      "botkafire": 1,
+      "slabiruni": 8,
+      "undertaker": 1,
+      "kamui": 6,
+      "tesla": 1,
+      "bradvarosa": 1,
+      "itemmii": 3,
+      "trepach": 1,
+      "slabirunii": 1,
+      "assassinbot": 1,
+      "iitemi": 1,
+      "ral": 9
+    },
+    "Io Rune": {
+      "slabiruni": 4,
+      "runidobri": 1,
+      "uberconcb": 1,
+      "io": 4,
+      "lightsorsaki": 1,
+      "slabirunii": 5,
+      "zganecro": 1
+    },
+    "Tir Rune": {
+      "slabiruni": 3,
+      "uberconcb": 1,
+      "tesla": 1,
+      "itemmii": 1,
+      "trepach": 1,
+      "tir": 6,
+      "iitemi": 1
+    },
+    "Nef Rune": {
+      "slabiruni": 1,
+      "tesla": 1,
+      "zganvarin": 1,
+      "itemmii": 1,
+      "nef": 3,
+      "assassinbot": 1
+    },
+    "Ith Rune": {
+      "slabiruni": 1,
+      "uberconcb": 1,
+      "bradvarosa": 1,
+      "ith": 4,
+      "trepach": 2,
+      "slabirunii": 2,
+      "zganecro": 1,
+      "assassinbot": 1
+    },
+    "Tal Rune": {
+      "slabiruni": 3,
+      "uberconcb": 1,
+      "tesla": 2,
+      "tal": 6,
+      "itemmii": 1,
+      "itemiii": 1,
+      "trepach": 1,
+      "lightsorc": 1
+    },
+    "Eth Rune": {
+      "slabiruni": 3,
+      "uberconcb": 1,
+      "itemmii": 1,
+      "trepach": 3,
+      "eth": 7,
+      "lightsorc": 1,
+      "iitemi": 1
+    },
+    "Um Rune": {
+      "runidobri": 2,
+      "um": 3
+    },
+    "Fal Rune": {
+      "runidobri": 11
+    },
+    "Mal Rune": {
+      "runidobri": 2,
+      "mal": 1,
+      "paladin": 1
+    },
+    "Gul Rune": {
+      "paladin": 1,
+      "lightsorc": 2
+    },
+    "Ohm Rune": {
+      "paladin": 3,
+      "ohm": 2,
+      "lightsorc": 2
+    },
+    "Vex Rune": {
+      "paladin": 1,
+      "vex": 1
+    },
+    "Eld Rune": {
+      "itemmii": 2,
+      "eld": 4
+    },
+    "Sur Rune": {
+      "lightsorc": 2
+    },
+    "Ist Rune": {
+      "ist": 1
+    }
+  },
+  "runewords": [
+    {
+      "name": "Ancient's Pledge",
+      "can_build": true,
+      "used": {
+        "Ral Rune": [
+          "botkafire"
+        ],
+        "Ort Rune": [
+          "ort"
+        ],
+        "Tal Rune": [
+          "slabiruni"
+        ]
+      },
+      "missing": []
+    },
+    {
+      "name": "Beast",
+      "can_build": false,
+      "used": {
+        "Tir Rune": [
+          "slabiruni"
+        ],
+        "Um Rune": [
+          "runidobri"
+        ],
+        "Mal Rune": [
+          "runidobri"
+        ],
+        "Lum Rune": [
+          "botkafire"
+        ]
+      },
+      "missing": [
+        "Ber Rune"
+      ]
+    },
+    {
+      "name": "Black",
+      "can_build": true,
+      "used": {
+        "Thul Rune": [
+          "botkafire"
+        ],
+        "Io Rune": [
+          "slabiruni"
+        ],
+        "Nef Rune": [
+          "slabiruni"
+        ]
+      },
+      "missing": []
+    },
+    {
+      "name": "Bone",
+      "can_build": true,
+      "used": {
+        "Sol Rune": [
+          "sol"
+        ],
+        "Um Rune": [
+          "runidobri",
+          "runidobri"
+        ]
+      },
+      "missing": []
+    },
+    {
+      "name": "Bramble",
+      "can_build": true,
+      "used": {
+        "Ral Rune": [
+          "botkafire"
+        ],
+        "Ohm Rune": [
+          "paladin"
+        ],
+        "Sur Rune": [
+          "lightsorc"
+        ],
+        "Eth Rune": [
+          "slabiruni"
+        ]
+      },
+      "missing": []
+    },
+    {
+      "name": "Brand",
+      "can_build": false,
+      "used": {
+        "Mal Rune": [
+          "runidobri"
+        ],
+        "Gul Rune": [
+          "paladin"
+        ]
+      },
+      "missing": [
+        "Jah Rune",
+        "Lo Rune"
+      ]
+    },
+    {
+      "name": "Breath of the Dying",
+      "can_build": false,
+      "used": {
+        "Vex Rune": [
+          "paladin"
+        ],
+        "Hel Rune": [
+          "hel"
+        ],
+        "El Rune": [
+          "botkafire"
+        ],
+        "Eld Rune": [
+          "itemmii"
+        ],
+        "Eth Rune": [
+          "slabiruni"
+        ]
+      },
+      "missing": [
+        "Zod Rune"
+      ]
+    },
+    {
+      "name": "Call To Arms",
+      "can_build": true,
+      "used": {
+        "Amn Rune": [
+          "botkafire"
+        ],
+        "Ral Rune": [
+          "botkafire"
+        ],
+        "Mal Rune": [
+          "runidobri"
+        ],
+        "Ist Rune": [
+          "ist"
+        ],
+        "Ohm Rune": [
+          "paladin"
+        ]
+      },
+      "missing": []
+    },
+    {
+      "name": "Chains of Honor",
+      "can_build": false,
+      "used": {
+        "Dol Rune": [
+          "botkafire"
+        ],
+        "Um Rune": [
+          "runidobri"
+        ],
+        "Ist Rune": [
+          "ist"
+        ]
+      },
+      "missing": [
+        "Ber Rune"
+      ]
+    },
+    {
+      "name": "Chaos",
+      "can_build": true,
+      "used": {
+        "Fal Rune": [
+          "runidobri"
+        ],
+        "Ohm Rune": [
+          "paladin"
+        ],
+        "Um Rune": [
+          "runidobri"
+        ]
+      },
+      "missing": []
+    },
+    {
+      "name": "Crescent Moon",
+      "can_build": true,
+      "used": {
+        "Shael Rune": [
+          "shael"
+        ],
+        "Um Rune": [
+          "runidobri"
+        ],
+        "Tir Rune": [
+          "slabiruni"
+        ]
+      },
+      "missing": []
+    },
+    {
+      "name": "Death",
+      "can_build": true,
+      "used": {
+        "Hel Rune": [
+          "hel"
+        ],
+        "El Rune": [
+          "botkafire"
+        ],
+        "Vex Rune": [
+          "paladin"
+        ],
+        "Ort Rune": [
+          "ort"
+        ],
+        "Gul Rune": [
+          "paladin"
+        ]
+      },
+      "missing": []
+    },
+    {
+      "name": "Delirium",
+      "can_build": true,
+      "used": {
+        "Lem Rune": [
+          "lem"
+        ],
+        "Ist Rune": [
+          "ist"
+        ],
+        "Io Rune": [
+          "slabiruni"
+        ]
+      },
+      "missing": []
+    },
+    {
+      "name": "Destruction",
+      "can_build": false,
+      "used": {
+        "Vex Rune": [
+          "paladin"
+        ],
+        "Ko Rune": [
+          "ko"
+        ]
+      },
+      "missing": [
+        "Lo Rune",
+        "Ber Rune",
+        "Jah Rune"
+      ]
+    },
+    {
+      "name": "Doom",
+      "can_build": false,
+      "used": {
+        "Hel Rune": [
+          "hel"
+        ],
+        "Ohm Rune": [
+          "paladin"
+        ],
+        "Um Rune": [
+          "runidobri"
+        ]
+      },
+      "missing": [
+        "Lo Rune",
+        "Cham Rune"
+      ]
+    },
+    {
+      "name": "Dragon",
+      "can_build": false,
+      "used": {
+        "Sur Rune": [
+          "lightsorc"
+        ],
+        "Sol Rune": [
+          "sol"
+        ]
+      },
+      "missing": [
+        "Lo Rune"
+      ]
+    },
+    {
+      "name": "Dream",
+      "can_build": false,
+      "used": {
+        "Io Rune": [
+          "slabiruni"
+        ],
+        "Pul Rune": [
+          "pul"
+        ]
+      },
+      "missing": [
+        "Jah Rune"
+      ]
+    },
+    {
+      "name": "Duress",
+      "can_build": true,
+      "used": {
+        "Shael Rune": [
+          "shael"
+        ],
+        "Um Rune": [
+          "runidobri"
+        ],
+        "Thul Rune": [
+          "botkafire"
+        ]
+      },
+      "missing": []
+    },
+    {
+      "name": "Edge",
+      "can_build": true,
+      "used": {
+        "Tir Rune": [
+          "slabiruni"
+        ],
+        "Tal Rune": [
+          "slabiruni"
+        ],
+        "Amn Rune": [
+          "botkafire"
+        ]
+      },
+      "missing": []
+    },
+    {
+      "name": "Enigma",
+      "can_build": false,
+      "used": {
+        "Ith Rune": [
+          "slabiruni"
+        ]
+      },
+      "missing": [
+        "Jah Rune",
+        "Ber Rune"
+      ]
+    },
+    {
+      "name": "Enlightenment",
+      "can_build": true,
+      "used": {
+        "Pul Rune": [
+          "pul"
+        ],
+        "Ral Rune": [
+          "botkafire"
+        ],
+        "Sol Rune": [
+          "sol"
+        ]
+      },
+      "missing": []
+    },
+    {
+      "name": "Eternity",
+      "can_build": false,
+      "used": {
+        "Amn Rune": [
+          "botkafire"
+        ],
+        "Ist Rune": [
+          "ist"
+        ],
+        "Sol Rune": [
+          "sol"
+        ],
+        "Sur Rune": [
+          "lightsorc"
+        ]
+      },
+      "missing": [
+        "Ber Rune"
+      ]
+    },
+    {
+      "name": "Exile",
+      "can_build": true,
+      "used": {
+        "Vex Rune": [
+          "paladin"
+        ],
+        "Ohm Rune": [
+          "paladin"
+        ],
+        "Ist Rune": [
+          "ist"
+        ],
+        "Dol Rune": [
+          "botkafire"
+        ]
+      },
+      "missing": []
+    },
+    {
+      "name": "Faith",
+      "can_build": false,
+      "used": {
+        "Ohm Rune": [
+          "paladin"
+        ],
+        "Lem Rune": [
+          "lem"
+        ],
+        "Eld Rune": [
+          "itemmii"
+        ]
+      },
+      "missing": [
+        "Jah Rune"
+      ]
+    },
+    {
+      "name": "Famine",
+      "can_build": false,
+      "used": {
+        "Fal Rune": [
+          "runidobri"
+        ],
+        "Ohm Rune": [
+          "paladin"
+        ],
+        "Ort Rune": [
+          "ort"
+        ]
+      },
+      "missing": [
+        "Jah Rune"
+      ]
+    },
+    {
+      "name": "Flickering Flame",
+      "can_build": true,
+      "used": {
+        "Nef Rune": [
+          "slabiruni"
+        ],
+        "Pul Rune": [
+          "pul"
+        ],
+        "Vex Rune": [
+          "paladin"
+        ]
+      },
+      "missing": []
+    },
+    {
+      "name": "Fortitude",
+      "can_build": false,
+      "used": {
+        "El Rune": [
+          "botkafire"
+        ],
+        "Sol Rune": [
+          "sol"
+        ],
+        "Dol Rune": [
+          "botkafire"
+        ]
+      },
+      "missing": [
+        "Lo Rune"
+      ]
+    },
+    {
+      "name": "Fury",
+      "can_build": false,
+      "used": {
+        "Gul Rune": [
+          "paladin"
+        ],
+        "Eth Rune": [
+          "slabiruni"
+        ]
+      },
+      "missing": [
+        "Jah Rune"
+      ]
+    },
+    {
+      "name": "Gloom",
+      "can_build": true,
+      "used": {
+        "Fal Rune": [
+          "runidobri"
+        ],
+        "Um Rune": [
+          "runidobri"
+        ],
+        "Pul Rune": [
+          "pul"
+        ]
+      },
+      "missing": []
+    },
+    {
+      "name": "Grief",
+      "can_build": false,
+      "used": {
+        "Eth Rune": [
+          "slabiruni"
+        ],
+        "Tir Rune": [
+          "slabiruni"
+        ],
+        "Mal Rune": [
+          "runidobri"
+        ],
+        "Ral Rune": [
+          "botkafire"
+        ]
+      },
+      "missing": [
+        "Lo Rune"
+      ]
+    },
+    {
+      "name": "Hand of Justice",
+      "can_build": false,
+      "used": {
+        "Sur Rune": [
+          "lightsorc"
+        ],
+        "Amn Rune": [
+          "botkafire"
+        ]
+      },
+      "missing": [
+        "Cham Rune",
+        "Lo Rune"
+      ]
+    },
+    {
+      "name": "Harmony",
+      "can_build": true,
+      "used": {
+        "Tir Rune": [
+          "slabiruni"
+        ],
+        "Ith Rune": [
+          "slabiruni"
+        ],
+        "Sol Rune": [
+          "sol"
+        ],
+        "Ko Rune": [
+          "ko"
+        ]
+      },
+      "missing": []
+    },
+    {
+      "name": "Heart of the Oak",
+      "can_build": true,
+      "used": {
+        "Ko Rune": [
+          "ko"
+        ],
+        "Vex Rune": [
+          "paladin"
+        ],
+        "Pul Rune": [
+          "pul"
+        ],
+        "Thul Rune": [
+          "botkafire"
+        ]
+      },
+      "missing": []
+    },
+    {
+      "name": "Holy Thunder",
+      "can_build": true,
+      "used": {
+        "Eth Rune": [
+          "slabiruni"
+        ],
+        "Ral Rune": [
+          "botkafire"
+        ],
+        "Ort Rune": [
+          "ort"
+        ],
+        "Tal Rune": [
+          "slabiruni"
+        ]
+      },
+      "missing": []
+    },
+    {
+      "name": "Honor",
+      "can_build": true,
+      "used": {
+        "Amn Rune": [
+          "botkafire"
+        ],
+        "El Rune": [
+          "botkafire"
+        ],
+        "Ith Rune": [
+          "slabiruni"
+        ],
+        "Tir Rune": [
+          "slabiruni"
+        ],
+        "Sol Rune": [
+          "sol"
+        ]
+      },
+      "missing": []
+    },
+    {
+      "name": "Ice",
+      "can_build": false,
+      "used": {
+        "Amn Rune": [
+          "botkafire"
+        ],
+        "Shael Rune": [
+          "shael"
+        ]
+      },
+      "missing": [
+        "Jah Rune",
+        "Lo Rune"
+      ]
+    },
+    {
+      "name": "Infinity",
+      "can_build": false,
+      "used": {
+        "Mal Rune": [
+          "runidobri"
+        ],
+        "Ist Rune": [
+          "ist"
+        ]
+      },
+      "missing": [
+        "Ber Rune",
+        "Ber Rune"
+      ]
+    },
+    {
+      "name": "Insight",
+      "can_build": true,
+      "used": {
+        "Ral Rune": [
+          "botkafire"
+        ],
+        "Tir Rune": [
+          "slabiruni"
+        ],
+        "Tal Rune": [
+          "slabiruni"
+        ],
+        "Sol Rune": [
+          "sol"
+        ]
+      },
+      "missing": []
+    },
+    {
+      "name": "King's Grace",
+      "can_build": true,
+      "used": {
+        "Amn Rune": [
+          "botkafire"
+        ],
+        "Ral Rune": [
+          "botkafire"
+        ],
+        "Thul Rune": [
+          "botkafire"
+        ]
+      },
+      "missing": []
+    },
+    {
+      "name": "Kingslayer",
+      "can_build": true,
+      "used": {
+        "Mal Rune": [
+          "runidobri"
+        ],
+        "Um Rune": [
+          "runidobri"
+        ],
+        "Gul Rune": [
+          "paladin"
+        ],
+        "Fal Rune": [
+          "runidobri"
+        ]
+      },
+      "missing": []
+    },
+    {
+      "name": "Last Wish",
+      "can_build": false,
+      "used": {
+        "Mal Rune": [
+          "runidobri"
+        ],
+        "Sur Rune": [
+          "lightsorc"
+        ]
+      },
+      "missing": [
+        "Jah Rune",
+        "Jah Rune",
+        "Jah Rune",
+        "Ber Rune"
+      ]
+    },
+    {
+      "name": "Lawbringer",
+      "can_build": true,
+      "used": {
+        "Amn Rune": [
+          "botkafire"
+        ],
+        "Lem Rune": [
+          "lem"
+        ],
+        "Ko Rune": [
+          "ko"
+        ]
+      },
+      "missing": []
+    },
+    {
+      "name": "Leaf",
+      "can_build": true,
+      "used": {
+        "Tir Rune": [
+          "slabiruni"
+        ],
+        "Ral Rune": [
+          "botkafire"
+        ]
+      },
+      "missing": []
+    },
+    {
+      "name": "Lionheart",
+      "can_build": true,
+      "used": {
+        "Hel Rune": [
+          "hel"
+        ],
+        "Lum Rune": [
+          "botkafire"
+        ],
+        "Fal Rune": [
+          "runidobri"
+        ]
+      },
+      "missing": []
+    },
+    {
+      "name": "Lore",
+      "can_build": true,
+      "used": {
+        "Ort Rune": [
+          "ort"
+        ],
+        "Sol Rune": [
+          "sol"
+        ]
+      },
+      "missing": []
+    },
+    {
+      "name": "Malice",
+      "can_build": true,
+      "used": {
+        "Ith Rune": [
+          "slabiruni"
+        ],
+        "El Rune": [
+          "botkafire"
+        ],
+        "Eth Rune": [
+          "slabiruni"
+        ]
+      },
+      "missing": []
+    },
+    {
+      "name": "Melody",
+      "can_build": true,
+      "used": {
+        "Shael Rune": [
+          "shael"
+        ],
+        "Ko Rune": [
+          "ko"
+        ],
+        "Nef Rune": [
+          "slabiruni"
+        ]
+      },
+      "missing": []
+    },
+    {
+      "name": "Memory",
+      "can_build": true,
+      "used": {
+        "Lum Rune": [
+          "botkafire"
+        ],
+        "Io Rune": [
+          "slabiruni"
+        ],
+        "Sol Rune": [
+          "sol"
+        ],
+        "Eth Rune": [
+          "slabiruni"
+        ]
+      },
+      "missing": []
+    },
+    {
+      "name": "Mist",
+      "can_build": false,
+      "used": {
+        "Shael Rune": [
+          "shael"
+        ],
+        "Gul Rune": [
+          "paladin"
+        ],
+        "Thul Rune": [
+          "botkafire"
+        ],
+        "Ith Rune": [
+          "slabiruni"
+        ]
+      },
+      "missing": [
+        "Cham Rune"
+      ]
+    },
+    {
+      "name": "Myth",
+      "can_build": true,
+      "used": {
+        "Hel Rune": [
+          "hel"
+        ],
+        "Amn Rune": [
+          "botkafire"
+        ],
+        "Nef Rune": [
+          "slabiruni"
+        ]
+      },
+      "missing": []
+    },
+    {
+      "name": "Nadir",
+      "can_build": true,
+      "used": {
+        "Nef Rune": [
+          "slabiruni"
+        ],
+        "Tir Rune": [
+          "slabiruni"
+        ]
+      },
+      "missing": []
+    },
+    {
+      "name": "Oath",
+      "can_build": true,
+      "used": {
+        "Shael Rune": [
+          "shael"
+        ],
+        "Pul Rune": [
+          "pul"
+        ],
+        "Mal Rune": [
+          "runidobri"
+        ],
+        "Lum Rune": [
+          "botkafire"
+        ]
+      },
+      "missing": []
+    },
+    {
+      "name": "Obedience",
+      "can_build": true,
+      "used": {
+        "Hel Rune": [
+          "hel"
+        ],
+        "Ko Rune": [
+          "ko"
+        ],
+        "Thul Rune": [
+          "botkafire"
+        ],
+        "Eth Rune": [
+          "slabiruni"
+        ],
+        "Fal Rune": [
+          "runidobri"
+        ]
+      },
+      "missing": []
+    },
+    {
+      "name": "Obsession",
+      "can_build": false,
+      "used": {
+        "Ist Rune": [
+          "ist"
+        ],
+        "Lem Rune": [
+          "lem"
+        ],
+        "Lum Rune": [
+          "botkafire"
+        ],
+        "Io Rune": [
+          "slabiruni"
+        ],
+        "Nef Rune": [
+          "slabiruni"
+        ]
+      },
+      "missing": [
+        "Zod Rune"
+      ]
+    },
+    {
+      "name": "Passion",
+      "can_build": true,
+      "used": {
+        "Dol Rune": [
+          "botkafire"
+        ],
+        "Ort Rune": [
+          "ort"
+        ],
+        "Eld Rune": [
+          "itemmii"
+        ],
+        "Lem Rune": [
+          "lem"
+        ]
+      },
+      "missing": []
+    },
+    {
+      "name": "Pattern",
+      "can_build": true,
+      "used": {
+        "Tal Rune": [
+          "slabiruni"
+        ],
+        "Ort Rune": [
+          "ort"
+        ],
+        "Thul Rune": [
+          "botkafire"
+        ]
+      },
+      "missing": []
+    },
+    {
+      "name": "Peace",
+      "can_build": true,
+      "used": {
+        "Shael Rune": [
+          "shael"
+        ],
+        "Thul Rune": [
+          "botkafire"
+        ],
+        "Amn Rune": [
+          "botkafire"
+        ]
+      },
+      "missing": []
+    },
+    {
+      "name": "Phoenix",
+      "can_build": false,
+      "used": {
+        "Vex Rune": [
+          "paladin",
+          "vex"
+        ]
+      },
+      "missing": [
+        "Lo Rune",
+        "Jah Rune"
+      ]
+    },
+    {
+      "name": "Plague",
+      "can_build": false,
+      "used": {
+        "Fal Rune": [
+          "runidobri"
+        ],
+        "Um Rune": [
+          "runidobri"
+        ]
+      },
+      "missing": [
+        "Cham Rune"
+      ]
+    },
+    {
+      "name": "Pride",
+      "can_build": false,
+      "used": {
+        "Sur Rune": [
+          "lightsorc"
+        ],
+        "Io Rune": [
+          "slabiruni"
+        ]
+      },
+      "missing": [
+        "Cham Rune",
+        "Lo Rune"
+      ]
+    },
+    {
+      "name": "Principle",
+      "can_build": true,
+      "used": {
+        "Ral Rune": [
+          "botkafire"
+        ],
+        "Gul Rune": [
+          "paladin"
+        ],
+        "Eld Rune": [
+          "itemmii"
+        ]
+      },
+      "missing": []
+    },
+    {
+      "name": "Prudence",
+      "can_build": true,
+      "used": {
+        "Mal Rune": [
+          "runidobri"
+        ],
+        "Tir Rune": [
+          "slabiruni"
+        ]
+      },
+      "missing": []
+    },
+    {
+      "name": "Radiance",
+      "can_build": true,
+      "used": {
+        "Nef Rune": [
+          "slabiruni"
+        ],
+        "Sol Rune": [
+          "sol"
+        ],
+        "Ith Rune": [
+          "slabiruni"
+        ]
+      },
+      "missing": []
+    },
+    {
+      "name": "Rain",
+      "can_build": true,
+      "used": {
+        "Ort Rune": [
+          "ort"
+        ],
+        "Mal Rune": [
+          "runidobri"
+        ],
+        "Ith Rune": [
+          "slabiruni"
+        ]
+      },
+      "missing": []
+    },
+    {
+      "name": "Rhyme",
+      "can_build": true,
+      "used": {
+        "Shael Rune": [
+          "shael"
+        ],
+        "Eth Rune": [
+          "slabiruni"
+        ]
+      },
+      "missing": []
+    },
+    {
+      "name": "Rift",
+      "can_build": true,
+      "used": {
+        "Hel Rune": [
+          "hel"
+        ],
+        "Ko Rune": [
+          "ko"
+        ],
+        "Lem Rune": [
+          "lem"
+        ],
+        "Gul Rune": [
+          "paladin"
+        ]
+      },
+      "missing": []
+    },
+    {
+      "name": "Sanctuary",
+      "can_build": true,
+      "used": {
+        "Ko Rune": [
+          "ko",
+          "ko"
+        ],
+        "Mal Rune": [
+          "runidobri"
+        ]
+      },
+      "missing": []
+    },
+    {
+      "name": "Silence",
+      "can_build": true,
+      "used": {
+        "Dol Rune": [
+          "botkafire"
+        ],
+        "Eld Rune": [
+          "itemmii"
+        ],
+        "Hel Rune": [
+          "hel"
+        ],
+        "Ist Rune": [
+          "ist"
+        ],
+        "Tir Rune": [
+          "slabiruni"
+        ],
+        "Vex Rune": [
+          "paladin"
+        ]
+      },
+      "missing": []
+    },
+    {
+      "name": "Smoke",
+      "can_build": true,
+      "used": {
+        "Nef Rune": [
+          "slabiruni"
+        ],
+        "Lum Rune": [
+          "botkafire"
+        ]
+      },
+      "missing": []
+    },
+    {
+      "name": "Spirit",
+      "can_build": true,
+      "used": {
+        "Tal Rune": [
+          "slabiruni"
+        ],
+        "Thul Rune": [
+          "botkafire"
+        ],
+        "Ort Rune": [
+          "ort"
+        ],
+        "Amn Rune": [
+          "botkafire"
+        ]
+      },
+      "missing": []
+    },
+    {
+      "name": "Splendor",
+      "can_build": true,
+      "used": {
+        "Eth Rune": [
+          "slabiruni"
+        ],
+        "Lum Rune": [
+          "botkafire"
+        ]
+      },
+      "missing": []
+    },
+    {
+      "name": "Stealth",
+      "can_build": true,
+      "used": {
+        "Tal Rune": [
+          "slabiruni"
+        ],
+        "Eth Rune": [
+          "slabiruni"
+        ]
+      },
+      "missing": []
+    },
+    {
+      "name": "Steel",
+      "can_build": true,
+      "used": {
+        "Tir Rune": [
+          "slabiruni"
+        ],
+        "El Rune": [
+          "botkafire"
+        ]
+      },
+      "missing": []
+    },
+    {
+      "name": "Stone",
+      "can_build": true,
+      "used": {
+        "Shael Rune": [
+          "shael"
+        ],
+        "Um Rune": [
+          "runidobri"
+        ],
+        "Pul Rune": [
+          "pul"
+        ],
+        "Lum Rune": [
+          "botkafire"
+        ]
+      },
+      "missing": []
+    },
+    {
+      "name": "Strength",
+      "can_build": true,
+      "used": {
+        "Amn Rune": [
+          "botkafire"
+        ],
+        "Tir Rune": [
+          "slabiruni"
+        ]
+      },
+      "missing": []
+    },
+    {
+      "name": "Treachery",
+      "can_build": true,
+      "used": {
+        "Shael Rune": [
+          "shael"
+        ],
+        "Thul Rune": [
+          "botkafire"
+        ],
+        "Lem Rune": [
+          "lem"
+        ]
+      },
+      "missing": []
+    },
+    {
+      "name": "Unbending Will",
+      "can_build": true,
+      "used": {
+        "Fal Rune": [
+          "runidobri"
+        ],
+        "Io Rune": [
+          "slabiruni"
+        ],
+        "Ith Rune": [
+          "slabiruni"
+        ],
+        "Eld Rune": [
+          "itemmii"
+        ],
+        "El Rune": [
+          "botkafire"
+        ],
+        "Hel Rune": [
+          "hel"
+        ]
+      },
+      "missing": []
+    },
+    {
+      "name": "Venom",
+      "can_build": true,
+      "used": {
+        "Tal Rune": [
+          "slabiruni"
+        ],
+        "Dol Rune": [
+          "botkafire"
+        ],
+        "Mal Rune": [
+          "runidobri"
+        ]
+      },
+      "missing": []
+    },
+    {
+      "name": "Voice of Reason",
+      "can_build": true,
+      "used": {
+        "Lem Rune": [
+          "lem"
+        ],
+        "Ko Rune": [
+          "ko"
+        ],
+        "El Rune": [
+          "botkafire"
+        ],
+        "Eld Rune": [
+          "itemmii"
+        ]
+      },
+      "missing": []
+    },
+    {
+      "name": "Wealth",
+      "can_build": true,
+      "used": {
+        "Lem Rune": [
+          "lem"
+        ],
+        "Ko Rune": [
+          "ko"
+        ],
+        "Tir Rune": [
+          "slabiruni"
+        ]
+      },
+      "missing": []
+    },
+    {
+      "name": "White",
+      "can_build": true,
+      "used": {
+        "Dol Rune": [
+          "botkafire"
+        ],
+        "Io Rune": [
+          "slabiruni"
+        ]
+      },
+      "missing": []
+    },
+    {
+      "name": "Wind",
+      "can_build": true,
+      "used": {
+        "Sur Rune": [
+          "lightsorc"
+        ],
+        "El Rune": [
+          "botkafire"
+        ]
+      },
+      "missing": []
+    },
+    {
+      "name": "Wisdom",
+      "can_build": true,
+      "used": {
+        "Pul Rune": [
+          "pul"
+        ],
+        "Ith Rune": [
+          "slabiruni"
+        ],
+        "Eld Rune": [
+          "itemmii"
+        ]
+      },
+      "missing": []
+    },
+    {
+      "name": "Wrath",
+      "can_build": false,
+      "used": {
+        "Pul Rune": [
+          "pul"
+        ],
+        "Lum Rune": [
+          "botkafire"
+        ],
+        "Mal Rune": [
+          "runidobri"
+        ]
+      },
+      "missing": [
+        "Ber Rune"
+      ]
+    },
+    {
+      "name": "Zephyr",
+      "can_build": true,
+      "used": {
+        "Ort Rune": [
+          "ort"
+        ],
+        "Eth Rune": [
+          "slabiruni"
+        ]
+      },
+      "missing": []
+    }
+  ]
+}

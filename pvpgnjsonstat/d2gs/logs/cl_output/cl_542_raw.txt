@@ -1,0 +1,12 @@
+
+[GameName   : Dfsdf          ] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 542            ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : normal         ] [IsLadder   : ladder         ] [UserCount: 0                              ]
+[CreateTime : 00:00:00       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zliazub        ] [CreatorChar: paladin        ] [CreatorIP: 192.168.88.133                 ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
++---------------------------------------------------------------------------------+
+
+Total: 0 charaters in this game 
+

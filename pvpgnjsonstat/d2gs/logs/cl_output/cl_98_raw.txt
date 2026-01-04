@@ -1,12 +1,12 @@
 
-[GameName   : Dfgdfgdf       ] [GamePass   :                ] [GameDesc :                                ]
+[GameName   : Aaa            ] [GamePass   :                ] [GameDesc :                                ]
 [GameID     : 98             ] [GameVer    : exp            ] [GameType : sc                             ]
-[Difficult  : hell           ] [IsLadder   : ladder         ] [UserCount: 1                              ]
-[CreateTime : 05:06:57       ] [Disable    : No             ] [         :                                ]
-[CreatorAcct: zliazub        ] [CreatorChar: paladin        ] [CreatorIP: 192.168.88.212                 ]
+[Difficult  : normal         ] [IsLadder   : ladder         ] [UserCount: 1                              ]
+[CreateTime : 07:42:02       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zgan5          ] [CreatorChar: bradvarosa     ] [CreatorIP: 192.168.88.136                 ]
 
 +-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
-| 001  zliazub          paladin          192.168.88.212   Pal    88     05:06:58  |
+| 001  zgan5            bradvarosa       192.168.88.136   Bar    74     07:42:03  |
 +---------------------------------------------------------------------------------+
 
 Total: 1 charaters in this game 

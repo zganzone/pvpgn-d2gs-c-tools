@@ -1,0 +1,3 @@
+ cl Cbfr6
+Invalid game id
+

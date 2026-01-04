@@ -1,9 +1,9 @@
 
-[GameName   : Sdfdsfs        ] [GamePass   :                ] [GameDesc :                                ]
+[GameName   : P4             ] [GamePass   :                ] [GameDesc :                                ]
 [GameID     : 122            ] [GameVer    : exp            ] [GameType : sc                             ]
 [Difficult  : hell           ] [IsLadder   : ladder         ] [UserCount: 0                              ]
-[CreateTime : 06:46:02       ] [Disable    : No             ] [         :                                ]
-[CreatorAcct: zliazub        ] [CreatorChar: paladin        ] [CreatorIP: 192.168.88.212                 ]
+[CreateTime : 12:39:19       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zgan           ] [CreatorChar: ZGANVARIN      ] [CreatorIP: 192.168.88.136                 ]
 
 +-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
 +---------------------------------------------------------------------------------+

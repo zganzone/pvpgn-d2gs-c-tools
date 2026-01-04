@@ -1,0 +1,3 @@
+ cl Ri6e6
+Invalid game id
+

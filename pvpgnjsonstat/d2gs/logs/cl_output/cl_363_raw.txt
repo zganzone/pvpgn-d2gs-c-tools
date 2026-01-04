@@ -1,0 +1,13 @@
+
+[GameName   : Faaa           ] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 363            ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : nightmare      ] [IsLadder   : ladder         ] [UserCount: 1                              ]
+[CreateTime : 21:35:54       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zgan4          ] [CreatorChar: zganvazonka    ] [CreatorIP: 192.168.88.146                 ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
+| 001  zgan4            zganvazonka      192.168.88.146   Ama    47     21:35:55  |
++---------------------------------------------------------------------------------+
+
+Total: 1 charaters in this game 
+

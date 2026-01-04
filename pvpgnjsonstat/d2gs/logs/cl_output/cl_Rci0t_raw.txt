@@ -1,0 +1,3 @@
+ cl Rci0t
+Invalid game id
+

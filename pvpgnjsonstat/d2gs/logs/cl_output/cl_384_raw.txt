@@ -1,0 +1,13 @@
+
+[GameName   : Dddddd         ] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 384            ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : hell           ] [IsLadder   : ladder         ] [UserCount: 1                              ]
+[CreateTime : 23:00:17       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zliazub        ] [CreatorChar: paladin        ] [CreatorIP: 192.168.88.133                 ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
+| 001  zliazub          paladin          192.168.88.133   Pal    89     23:00:17  |
++---------------------------------------------------------------------------------+
+
+Total: 1 charaters in this game 
+

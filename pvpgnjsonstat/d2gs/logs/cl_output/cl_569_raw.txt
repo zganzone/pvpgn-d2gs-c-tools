@@ -1,0 +1,13 @@
+
+[GameName   : Dfsdf          ] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 569            ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : normal         ] [IsLadder   : ladder         ] [UserCount: 1                              ]
+[CreateTime : 12:17:53       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zliazub        ] [CreatorChar: lightSorc      ] [CreatorIP: 192.168.88.133                 ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
+| 001  zliazub5         trepach          192.168.88.133   Ass    28     12:18:07  |
++---------------------------------------------------------------------------------+
+
+Total: 1 charaters in this game 
+

@@ -1,9 +1,9 @@
 
-[GameName   : Dfsdfsdf       ] [GamePass   :                ] [GameDesc :                                ]
+[GameName   : P              ] [GamePass   :                ] [GameDesc : gs 192.168.88.41               ]
 [GameID     : 32             ] [GameVer    : exp            ] [GameType : sc                             ]
-[Difficult  : hell           ] [IsLadder   : ladder         ] [UserCount: 0                              ]
-[CreateTime : 11:52:08       ] [Disable    : No             ] [         :                                ]
-[CreatorAcct: zliazub        ] [CreatorChar: lightSorc      ] [CreatorIP: 192.168.88.212                 ]
+[Difficult  : normal         ] [IsLadder   : ladder         ] [UserCount: 0                              ]
+[CreateTime : 22:08:55       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: tapak          ] [CreatorChar: veshter        ] [CreatorIP: 192.168.88.136                 ]
 
 +-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
 +---------------------------------------------------------------------------------+

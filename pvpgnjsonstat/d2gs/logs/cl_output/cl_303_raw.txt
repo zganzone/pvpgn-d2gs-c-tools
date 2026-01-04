@@ -1,0 +1,14 @@
+
+[GameName   : Taltir         ] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 303            ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : normal         ] [IsLadder   : ladder         ] [UserCount: 2                              ]
+[CreateTime : 05:36:18       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zgan3          ] [CreatorChar: runitwo        ] [CreatorIP: 192.168.88.146                 ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
+| 001  zgan             Sorsi            192.168.88.146   Sor    88     05:36:47  |
+| 002  zgan3            runitwo          192.168.88.146   Dur    1      05:36:19  |
++---------------------------------------------------------------------------------+
+
+Total: 2 charaters in this game 
+

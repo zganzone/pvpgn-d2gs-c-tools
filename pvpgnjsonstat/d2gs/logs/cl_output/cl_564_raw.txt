@@ -1,0 +1,13 @@
+
+[GameName   : Qqqqqqqqqqqqqqq] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 564            ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : nightmare      ] [IsLadder   : ladder         ] [UserCount: 1                              ]
+[CreateTime : 10:59:38       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zliazub        ] [CreatorChar: lightSorc      ] [CreatorIP: 192.168.88.133                 ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
+| 001  zliazub          lightSorc        192.168.88.133   Sor    88     10:59:39  |
++---------------------------------------------------------------------------------+
+
+Total: 1 charaters in this game 
+

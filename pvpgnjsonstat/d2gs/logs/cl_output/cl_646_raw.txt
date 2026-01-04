@@ -1,0 +1,12 @@
+
+[GameName   : Fafafa         ] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 646            ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : nightmare      ] [IsLadder   : ladder         ] [UserCount: 0                              ]
+[CreateTime : 09:01:59       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zgan2          ] [CreatorChar: palqk          ] [CreatorIP: 192.168.88.136                 ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
++---------------------------------------------------------------------------------+
+
+Total: 0 charaters in this game 
+

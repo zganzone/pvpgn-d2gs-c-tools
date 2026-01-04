@@ -1,0 +1,14 @@
+
+[GameName   : Game2          ] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 627            ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : nightmare      ] [IsLadder   : ladder         ] [UserCount: 2                              ]
+[CreateTime : 00:39:12       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zliazub5       ] [CreatorChar: trepach        ] [CreatorIP: 192.168.88.133                 ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
+| 001  zliazubb         MFamazon         192.168.88.133   Ama    92     00:39:44  |
+| 002  zliazubbbb       tesla            192.168.88.133   Pal    43     00:39:29  |
++---------------------------------------------------------------------------------+
+
+Total: 2 charaters in this game 
+

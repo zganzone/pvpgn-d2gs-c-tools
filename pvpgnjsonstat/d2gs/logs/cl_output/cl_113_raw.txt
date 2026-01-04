@@ -1,9 +1,9 @@
 
-[GameName   : Azzzz          ] [GamePass   :                ] [GameDesc :                                ]
+[GameName   : Mygame         ] [GamePass   :                ] [GameDesc : gs 192.168.88.41               ]
 [GameID     : 113            ] [GameVer    : exp            ] [GameType : sc                             ]
-[Difficult  : hell           ] [IsLadder   : ladder         ] [UserCount: 0                              ]
-[CreateTime : 06:10:20       ] [Disable    : No             ] [         :                                ]
-[CreatorAcct: zgan           ] [CreatorChar: Sorsi          ] [CreatorIP: 192.168.88.212                 ]
+[Difficult  : normal         ] [IsLadder   : ladder         ] [UserCount: 0                              ]
+[CreateTime : 11:40:29       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: bot1           ] [CreatorChar: botone         ] [CreatorIP: 192.168.88.32                  ]
 
 +-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
 +---------------------------------------------------------------------------------+

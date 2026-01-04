@@ -1,9 +1,9 @@
 
-[GameName   : Sdfsdfdsf      ] [GamePass   :                ] [GameDesc :                                ]
+[GameName   : Aaa1           ] [GamePass   :                ] [GameDesc :                                ]
 [GameID     : 109            ] [GameVer    : exp            ] [GameType : sc                             ]
-[Difficult  : hell           ] [IsLadder   : ladder         ] [UserCount: 0                              ]
-[CreateTime : 05:38:08       ] [Disable    : No             ] [         :                                ]
-[CreatorAcct: zliazub        ] [CreatorChar: paladin        ] [CreatorIP: 192.168.88.212                 ]
+[Difficult  : nightmare      ] [IsLadder   : ladder         ] [UserCount: 0                              ]
+[CreateTime : 09:00:44       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zgan           ] [CreatorChar: Sorsi          ] [CreatorIP: 192.168.88.137                 ]
 
 +-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
 +---------------------------------------------------------------------------------+

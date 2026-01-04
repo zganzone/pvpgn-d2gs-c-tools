@@ -1,0 +1,13 @@
+
+[GameName   : Fsdfds         ] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 348            ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : hell           ] [IsLadder   : ladder         ] [UserCount: 1                              ]
+[CreateTime : 19:34:58       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zliazub        ] [CreatorChar: lightSorc      ] [CreatorIP: 192.168.88.133                 ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
+| 001  zliazub          lightSorc        192.168.88.133   Sor    88     19:34:58  |
++---------------------------------------------------------------------------------+
+
+Total: 1 charaters in this game 
+

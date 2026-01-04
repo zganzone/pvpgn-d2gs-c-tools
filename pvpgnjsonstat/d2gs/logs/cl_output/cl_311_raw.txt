@@ -1,0 +1,12 @@
+
+[GameName   : Megagame1      ] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 311            ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : normal         ] [IsLadder   : ladder         ] [UserCount: 0                              ]
+[CreateTime : 08:01:21       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zgan4          ] [CreatorChar: asasinkata     ] [CreatorIP: 192.168.88.146                 ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
++---------------------------------------------------------------------------------+
+
+Total: 0 charaters in this game 
+

@@ -1,0 +1,13 @@
+
+[GameName   : Sgsg           ] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 710            ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : nightmare      ] [IsLadder   : ladder         ] [UserCount: 1                              ]
+[CreateTime : 13:23:58       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zgan           ] [CreatorChar: Sorsi          ] [CreatorIP: 192.168.88.111                 ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
+| 001  zgan             Sorsi            192.168.88.111   Sor    88     13:23:59  |
++---------------------------------------------------------------------------------+
+
+Total: 1 charaters in this game 
+

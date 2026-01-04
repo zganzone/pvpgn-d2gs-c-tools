@@ -1,0 +1,14 @@
+
+[GameName   : Evtno          ] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 287            ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : normal         ] [IsLadder   : ladder         ] [UserCount: 2                              ]
+[CreateTime : 11:43:35       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zgan2          ] [CreatorChar: palqk          ] [CreatorIP: 192.168.88.114                 ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
+| 001  zgan4            zganvazonka      192.168.88.130   Ama    32     11:47:46  |
+| 002  zgan2            palqk            192.168.88.114   Pal    58     11:43:36  |
++---------------------------------------------------------------------------------+
+
+Total: 2 charaters in this game 
+

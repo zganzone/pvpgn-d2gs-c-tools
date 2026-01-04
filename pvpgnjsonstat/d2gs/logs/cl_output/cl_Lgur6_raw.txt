@@ -1,0 +1,3 @@
+ cl Lgur6
+Invalid game id
+

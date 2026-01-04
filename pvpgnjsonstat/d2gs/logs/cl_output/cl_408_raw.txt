@@ -1,0 +1,13 @@
+
+[GameName   : Sdfsdfs        ] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 408            ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : hell           ] [IsLadder   : ladder         ] [UserCount: 1                              ]
+[CreateTime : 00:47:21       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zliazub        ] [CreatorChar: paladin        ] [CreatorIP: 192.168.88.133                 ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
+| 001  zliazub          paladin          192.168.88.133   Pal    89     00:47:22  |
++---------------------------------------------------------------------------------+
+
+Total: 1 charaters in this game 
+

@@ -1,0 +1,3 @@
+ cl Slgpi
+Invalid game id
+

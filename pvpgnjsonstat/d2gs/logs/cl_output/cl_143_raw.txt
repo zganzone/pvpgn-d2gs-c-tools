@@ -1,12 +1,19 @@
 
-[GameName   : Sdfsdfsdf      ] [GamePass   :                ] [GameDesc :                                ]
+[GameName   : Aaaa           ] [GamePass   :                ] [GameDesc :                                ]
 [GameID     : 143            ] [GameVer    : exp            ] [GameType : sc                             ]
-[Difficult  : hell           ] [IsLadder   : ladder         ] [UserCount: 0                              ]
-[CreateTime : 09:29:36       ] [Disable    : No             ] [         :                                ]
-[CreatorAcct: zliazub        ] [CreatorChar: paladin        ] [CreatorIP: 192.168.88.212                 ]
+[Difficult  : normal         ] [IsLadder   : ladder         ] [UserCount: 7                              ]
+[CreateTime : 15:05:29       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: tapak2         ] [CreatorChar: veshtione      ] [CreatorIP: 192.168.88.136                 ]
 
 +-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
+| 001  zgan2            palqk            192.168.88.136   Ama    0      15:07:19  |
+| 002  zgan             zganvarin        192.168.88.136   Ama    0      15:07:15  |
+| 003  zgan5            zganecro         192.168.88.136   Ama    0      15:07:11  |
+| 004  zgan5            bradvarosa       192.168.88.136   Ama    0      15:07:03  |
+| 005  zgan4            lightsorsaki     192.168.88.136   Ama    0      15:06:59  |
+| 006  zgan4            zganvazonka      192.168.88.136   Ama    0      15:06:53  |
+| 007  tapak2           veshtione        192.168.88.136   Nec    2      15:05:29  |
 +---------------------------------------------------------------------------------+
 
-Total: 0 charaters in this game 
+Total: 7 charaters in this game 
 

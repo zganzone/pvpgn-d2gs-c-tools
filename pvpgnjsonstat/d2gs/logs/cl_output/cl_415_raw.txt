@@ -1,0 +1,12 @@
+
+[GameName   : Ftrr           ] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 415            ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : nightmare      ] [IsLadder   : ladder         ] [UserCount: 0                              ]
+[CreateTime : 07:05:45       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zgan2          ] [CreatorChar: palqk          ] [CreatorIP: 192.168.88.146                 ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
++---------------------------------------------------------------------------------+
+
+Total: 0 charaters in this game 
+

@@ -1,0 +1,12 @@
+
+[GameName   : Itemi          ] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 615            ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : normal         ] [IsLadder   : ladder         ] [UserCount: 0                              ]
+[CreateTime : 23:41:21       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zliazubbbb     ] [CreatorChar: itemi          ] [CreatorIP: 192.168.88.133                 ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
++---------------------------------------------------------------------------------+
+
+Total: 0 charaters in this game 
+

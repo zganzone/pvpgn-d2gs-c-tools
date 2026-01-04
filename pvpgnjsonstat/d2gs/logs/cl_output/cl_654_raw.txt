@@ -1,0 +1,12 @@
+
+[GameName   : Ppppppppppppppp] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 654            ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : nightmare      ] [IsLadder   : ladder         ] [UserCount: 0                              ]
+[CreateTime : 14:18:47       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zliazubbbb     ] [CreatorChar: tesla          ] [CreatorIP: 192.168.88.134                 ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
++---------------------------------------------------------------------------------+
+
+Total: 0 charaters in this game 
+

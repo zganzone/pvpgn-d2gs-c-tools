@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="bg">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diablo II: Lord of Destruction - Realm Hub (PVPGN/D2GS Status)</title>
+    
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="corner-deco corner-deco-left">
+    <div class="vial health-vial"></div>
+    <div class="vial-label">HEALTH</div>
+</div>
+<div class="corner-deco corner-deco-right">
+    <div class="vial mana-vial"></div>
+    <div class="vial-label">MANA</div>
+</div>
+<div class="header">
+    <div class="logo">PVPGN Stats</div>
+    <nav class="nav-tabs">
+        <a href="#" class="tab">STATUS</a>
+        <a href="#" class="tab d2xp-link active">D2 LOD</a>
+        <a href="#" class="tab sexp-link">SC BW</a>
+        <a href="#" class="tab w3xp-link">W3 TFT</a>
+    </nav>
+</div>
+
+<div class="container">
+    <h1 class="d2-h1">🔥 Diablo II: Lord of Destruction Realm Hub</h1>
+    <p class="sub">Последно обновяване от файл: <span id="last-updated">N/A</span></p>
+
+    <div class="links" style="text-align: center; margin-bottom: 20px;">
+        <a href="charitems.html" target="_blank" class="d2-link">💎 Item Stats</a> |
+        <a href="runes.html" target="_blank" class="d2-link">⚔️ Runes Inventoryr</a> |
+        <a href="ladder.html" target="_blank" class="d2-link">🥇 Heros Ladder</a> |
+        <a href="webladder.html" target="_blank" class="d2-link">⚔️ Game Ladder</a>
+    </div>
+
+    <section>
+        <h2 style="color: #ffcc00; margin-top: 30px;">PvPGN & System Статус</h2>
+        <div class="pvpgn-stats">
+            <div class="card"><h2>Server Uptime (OS)</h2><p id="pvpgn-server-uptime">N/A</p></div>
+            <div class="card"><h2>PvPGN Uptime</h2><p id="pvpgn-proc-uptime">N/A</p></div>
+            <div class="card"><h2>Users Online (PvPGN)</h2><p id="pvpgn-users-online">N/A</p></div>
+            <div class="card"><h2>Games Online (PvPGN)</h2><p id="pvpgn-games-online">N/A</p></div>
+            <div class="card"><h2>Load Average (1m/5m/15m)</h2><p id="pvpgn-load-average">N/A</p></div>
+            <div class="card"><h2>System Memory (Used/Total)</h2><p id="pvpgn-memory">N/A</p></div>
+        </div>
+    </section>
+
+    <section>
+        <h3 style="color: #ffcc00; margin-top: 40px;">Активни Игри в Момента (D2GS)</h3>
+        <div id="d2-games-container">
+            <p class="no-games-message">Зареждане на данни...</p>
+        </div>
+    </section>
+
+    <section>
+        <h2 style="color: #ffcc00;">Realm Server (D2GS) Статус</h2>
+        <div class="d2gs-stats" id="d2gs-server-stats">
+            <div class="card"><h2>Start Time</h2><p id="d2gs-uptime-value">N/A</p></div>
+            <div class="card"><h2>Running Games</h2><p id="d2gs-running-games">N/A</p></div>
+            <div class="card"><h2>Users In Game</h2><p id="d2gs-users-in-game">N/A</p></div>
+            <div class="card"><h2>Max Prefer Users</h2><p id="d2gs-max-prefer-users">N/A</p></div>
+            <div class="card"><h2>D2CS Connection</h2><p id="d2gs-d2cs">N/A</p></div>
+            <div class="card"><h2>D2DBS Connection</h2><p id="d2gs-d2dbs">N/A</p></div>
+        </div>
+    </section>
+
+    <section>
+        <h2 style="color: #ffcc00; margin-top: 30px;">⚙️ Подробни Ресурси и Трафик (D2GS)</h2>
+        <div class="d2gs-stats detail-stats">
+            <div class="card"><h2>Kernel CPU Usage</h2><p id="d2gs-kernel-cpu">N/A</p></div>
+            <div class="card"><h2>User CPU Usage</h2><p id="d2gs-user-cpu">N/A</p></div>
+            <div class="card"><h2>Physical Memory (Used/Total)</h2><p id="d2gs-phys-memory">N/A</p></div>
+            <div class="card"><h2>Virtual Memory (Used/Total)</h2><p id="d2gs-virt-memory">N/A</p></div>
+            <div class="card"><h2>D2CS Peak Rate</h2><p id="d2gs-d2cs-peak-rate">N/A</p></div>
+            <div class="card"><h2>D2DBS Peak Rate</h2><p id="d2gs-d2dbs-peak-rate">N/A</p></div>
+        </div>
+    </section>
+</div>
+
+<footer class="footer">
+    Последно обновяване от файл: <span id="last-updated-footer">N/A</span>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>

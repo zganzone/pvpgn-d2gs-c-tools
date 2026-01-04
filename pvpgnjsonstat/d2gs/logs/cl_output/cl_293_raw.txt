@@ -1,0 +1,13 @@
+
+[GameName   : Fkuyrrr        ] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 293            ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : normal         ] [IsLadder   : ladder         ] [UserCount: 1                              ]
+[CreateTime : 12:45:11       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zgan4          ] [CreatorChar: zganvazonka    ] [CreatorIP: 192.168.88.130                 ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
+| 001  zgan4            zganvazonka      192.168.88.130   Ama    34     12:45:11  |
++---------------------------------------------------------------------------------+
+
+Total: 1 charaters in this game 
+

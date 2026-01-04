@@ -1,13 +1,12 @@
 
-[GameName   : Fafaa          ] [GamePass   :                ] [GameDesc :                                ]
+[GameName   : Aaaa           ] [GamePass   :                ] [GameDesc : gs 192.168.88.41               ]
 [GameID     : 178            ] [GameVer    : exp            ] [GameType : sc                             ]
-[Difficult  : nightmare      ] [IsLadder   : ladder         ] [UserCount: 1                              ]
-[CreateTime : 12:43:47       ] [Disable    : No             ] [         :                                ]
-[CreatorAcct: zgan2          ] [CreatorChar: palqk          ] [CreatorIP: 192.168.88.130                 ]
+[Difficult  : normal         ] [IsLadder   : ladder         ] [UserCount: 0                              ]
+[CreateTime : 19:23:30       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zgan2          ] [CreatorChar: palqk          ] [CreatorIP: 192.168.88.136                 ]
 
 +-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
-| 001  zgan2            palqk            192.168.88.130   Pal    51     12:43:48  |
 +---------------------------------------------------------------------------------+
 
-Total: 1 charaters in this game 
+Total: 0 charaters in this game 
 

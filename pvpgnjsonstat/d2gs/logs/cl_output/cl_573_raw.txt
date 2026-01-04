@@ -1,0 +1,12 @@
+
+[GameName   : Ddddddddddddddd] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 573            ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : normal         ] [IsLadder   : ladder         ] [UserCount: 0                              ]
+[CreateTime : 12:47:44       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zliazub5       ] [CreatorChar: trepach        ] [CreatorIP: 192.168.88.133                 ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
++---------------------------------------------------------------------------------+
+
+Total: 0 charaters in this game 
+

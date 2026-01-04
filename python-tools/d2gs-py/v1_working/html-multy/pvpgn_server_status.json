@@ -1,0 +1,93 @@
+{
+  "timestamp": "2025-12-24 10:17:19",
+  "server": {
+    "uptime_seconds": 2896887,
+    "load_average": {
+      "1m": 0.31,
+      "5m": 0.3,
+      "15m": 0.24
+    },
+    "cpu_cores": 2,
+    "memory": {
+      "total_mb": 1970,
+      "available_mb": 1510,
+      "used_mb": 460
+    },
+    "disk": {
+      "total": "19G",
+      "available": "6.3G",
+      "used_percent": "65%"
+    }
+  },
+  "network": {
+    "connections": {
+      "6112": {
+        "service": "bnet",
+        "connections": 6
+      },
+      "6113": {
+        "service": "d2cs",
+        "connections": 2
+      },
+      "6114": {
+        "service": "d2dbs",
+        "connections": 2
+      },
+      "4000": {
+        "service": "d2gs",
+        "connections": 7
+      },
+      "6200": {
+        "service": "warcraft3_router",
+        "connections": 1
+      }
+    }
+  },
+  "pvpgn": {
+    "uptime": 92880,
+    "users_online": 4,
+    "games_online": 1
+  },
+  "users": [
+    {
+      "name": "zgan",
+      "client_tag": "D2XP",
+      "client_name": "Diablo II: Lord of Destruction",
+      "version": "1.14.3.0",
+      "country": "USA",
+      "game_id": 165
+    },
+    {
+      "name": "zgan2",
+      "client_tag": "D2XP",
+      "client_name": "Diablo II: Lord of Destruction",
+      "version": "1.14.3.0",
+      "country": "USA",
+      "game_id": 165
+    },
+    {
+      "name": "zliazubb",
+      "client_tag": "D2XP",
+      "client_name": "Diablo II: Lord of Destruction",
+      "version": "1.14.3.0",
+      "country": "USA",
+      "game_id": 165
+    },
+    {
+      "name": "zliazub",
+      "client_tag": "D2XP",
+      "client_name": "Diablo II: Lord of Destruction",
+      "version": "1.14.3.0",
+      "country": "USA",
+      "game_id": 165
+    }
+  ],
+  "games": [
+    {
+      "id": 165,
+      "name": "Dfsfs",
+      "client_tag": "D2XP",
+      "client_name": "Diablo II: Lord of Destruction"
+    }
+  ]
+}

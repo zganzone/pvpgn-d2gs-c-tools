@@ -1,0 +1,13 @@
+
+[GameName   : Ad             ] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 414            ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : nightmare      ] [IsLadder   : ladder         ] [UserCount: 1                              ]
+[CreateTime : 07:02:51       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zgan2          ] [CreatorChar: palqk          ] [CreatorIP: 192.168.88.146                 ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
+| 001  zgan2            palqk            192.168.88.146   Pal    61     07:02:52  |
++---------------------------------------------------------------------------------+
+
+Total: 1 charaters in this game 
+

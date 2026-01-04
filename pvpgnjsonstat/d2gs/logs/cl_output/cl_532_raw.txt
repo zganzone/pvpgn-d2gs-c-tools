@@ -1,0 +1,12 @@
+
+[GameName   : Sdfsdf         ] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 532            ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : normal         ] [IsLadder   : ladder         ] [UserCount: 0                              ]
+[CreateTime : 23:48:10       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zliazubbb      ] [CreatorChar: undertaker     ] [CreatorIP: 192.168.88.133                 ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
++---------------------------------------------------------------------------------+
+
+Total: 0 charaters in this game 
+

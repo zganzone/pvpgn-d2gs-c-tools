@@ -1,0 +1,13 @@
+
+[GameName   : Ggg            ] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 312            ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : nightmare      ] [IsLadder   : ladder         ] [UserCount: 1                              ]
+[CreateTime : 14:03:39       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zgan4          ] [CreatorChar: zganvazonka    ] [CreatorIP: 192.168.88.146                 ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
+| 001  zgan4            zganvazonka      192.168.88.146   Ama    47     14:03:40  |
++---------------------------------------------------------------------------------+
+
+Total: 1 charaters in this game 
+

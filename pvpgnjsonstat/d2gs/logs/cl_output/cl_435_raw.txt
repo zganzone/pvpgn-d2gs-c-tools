@@ -1,0 +1,12 @@
+
+[GameName   : Igrazaveshti   ] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 435            ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : normal         ] [IsLadder   : ladder         ] [UserCount: 0                              ]
+[CreateTime : 09:28:51       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: tapak          ] [CreatorChar: veshter        ] [CreatorIP: 192.168.88.32                  ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
++---------------------------------------------------------------------------------+
+
+Total: 0 charaters in this game 
+

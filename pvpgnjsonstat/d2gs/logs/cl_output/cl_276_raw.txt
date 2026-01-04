@@ -1,13 +1,12 @@
 
 [GameName   : 11111111       ] [GamePass   :                ] [GameDesc :                                ]
 [GameID     : 276            ] [GameVer    : exp            ] [GameType : sc                             ]
-[Difficult  : hell           ] [IsLadder   : ladder         ] [UserCount: 1                              ]
+[Difficult  : hell           ] [IsLadder   : ladder         ] [UserCount: 0                              ]
 [CreateTime : 04:47:29       ] [Disable    : No             ] [         :                                ]
 [CreatorAcct: zliazub        ] [CreatorChar: lightSorc      ] [CreatorIP: 192.168.88.212                 ]
 
 +-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
-| 001  zliazub          paladin          192.168.88.212   Pal    89     04:48:55  |
 +---------------------------------------------------------------------------------+
 
-Total: 1 charaters in this game 
+Total: 0 charaters in this game 
 

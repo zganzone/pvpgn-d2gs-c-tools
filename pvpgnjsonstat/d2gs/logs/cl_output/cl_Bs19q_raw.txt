@@ -1,0 +1,3 @@
+ cl Bs19q
+Invalid game id
+

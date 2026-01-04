@@ -1,8 +1,10 @@
  gl
 +-No.--GameName---------GamePass---------ID----GameVer--Type--Difficulty--Ladder-----Users-CreateTime-Dis-+
-| 001  Dfsfs                             282   exp      sc    hell        ladder     5     07:02:03   N   |
-| 002  11111111                          276   exp      sc    hell        ladder     1     04:47:29   N   |
+| 001  Botkafi-hnj-33   44leb            371   exp      sc    hell        ladder     1     08:35:10   N   |
+| 002  Coldbot-kbu-13   O9x06            370   exp      sc    hell        ladder     1     08:32:11   N   |
+| 003  Assassi-epi-32   Ahati            348   exp      sc    nightmare   ladder     1     06:38:39   N   |
+| 004  T                                 105   exp      sc    normal      ladder     1     08:27:03   N   |
 +---------------------------------------------------------------------------------------------------------+
 
-Total: 2 games running, 6 users in game.
+Total: 4 games running, 4 users in game.
 

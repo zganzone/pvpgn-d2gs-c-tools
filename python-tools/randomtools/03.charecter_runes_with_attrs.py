@@ -12,7 +12,7 @@ from collections import defaultdict
 # =======================================================
 # --- КОНФИГУРАЦИЯ ---
 D2_DATA_DIR = "/home/support/scripts-tools/d2cpp/pvpgnjsonstat/d2gs/items/" 
-TARGET_CHAR_FILE_RUNIONE = "runione"
+TARGET_CHAR_FILE_RUNIONE = "ohm"
 TEST_CHAR_PATH = os.path.join("/usr/local/pvpgn/var/pvpgn/charsave", TARGET_CHAR_FILE_RUNIONE)
 # =======================================================
 

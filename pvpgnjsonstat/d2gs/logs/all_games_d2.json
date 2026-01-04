@@ -1,101 +1,57 @@
 [
   {
     "GameInfo": {
-      "GameName": "Dfsfs",
-      "GamePass": null,
-      "GameDesc": null,
-      "GameID": "282",
-      "GameVer": "exp",
-      "GameType": "sc",
-      "Difficult": "hell",
-      "IsLadder": "ladder",
-      "UserCount": 5,
-      "CreateTime": "07:02:03",
-      "Disable": "No",
-      "": null,
-      "CreatorAcct": "zliazubb",
-      "CreatorChar": "MFamazon",
-      "CreatorIP": "192.168.88.212",
-      "XPRateMultiplier": 3.0,
-      "XPBonusPercent": "+200%"
+      "UserCount": 0,
+      "XPRateMultiplier": 1.0,
+      "XPBonusPercent": "+0%"
     },
-    "Characters": [
-      {
-        "No": "001",
-        "AcctName": "zgan",
-        "CharName": "Sorsi",
-        "IPAddress": "192.168.88.110",
-        "Class": "Sor",
-        "Level": "88",
-        "EnterTime": "07:53:56"
-      },
-      {
-        "No": "002",
-        "AcctName": "zgan",
-        "CharName": "ZGANVARIN",
-        "IPAddress": "192.168.88.110",
-        "Class": "Bar",
-        "Level": "83",
-        "EnterTime": "07:53:43"
-      },
-      {
-        "No": "003",
-        "AcctName": "zgan2",
-        "CharName": "palqk",
-        "IPAddress": "192.168.88.110",
-        "Class": "Pal",
-        "Level": "58",
-        "EnterTime": "07:53:37"
-      },
-      {
-        "No": "004",
-        "AcctName": "zliazub",
-        "CharName": "lightSorc",
-        "IPAddress": "192.168.88.212",
-        "Class": "Sor",
-        "Level": "88",
-        "EnterTime": "07:05:00"
-      },
-      {
-        "No": "005",
-        "AcctName": "zliazubb",
-        "CharName": "MFamazon",
-        "IPAddress": "192.168.88.212",
-        "Class": "Ama",
-        "Level": "92",
-        "EnterTime": "07:02:04"
-      }
-    ]
+    "Characters": []
   },
   {
     "GameInfo": {
-      "GameName": "11111111",
+      "UserCount": 0,
+      "XPRateMultiplier": 1.0,
+      "XPBonusPercent": "+0%"
+    },
+    "Characters": []
+  },
+  {
+    "GameInfo": {
+      "UserCount": 0,
+      "XPRateMultiplier": 1.0,
+      "XPBonusPercent": "+0%"
+    },
+    "Characters": []
+  },
+  {
+    "GameInfo": {
+      "GameName": "T",
       "GamePass": null,
-      "GameDesc": null,
-      "GameID": "276",
+      "GameDesc": "gs 192.168.88.41",
+      "GameID": "105",
       "GameVer": "exp",
       "GameType": "sc",
-      "Difficult": "hell",
+      "Difficult": "normal",
       "IsLadder": "ladder",
       "UserCount": 1,
-      "CreateTime": "04:47:29",
+      "CreateTime": "08:27:03",
       "Disable": "No",
       "": null,
-      "CreatorAcct": "zliazub",
-      "CreatorChar": "lightSorc",
-      "CreatorIP": "192.168.88.212",
+      "CreatorAcct": "tapak",
+      "CreatorChar": "veshter",
+      "CreatorIP": "192.168.88.136",
       "XPRateMultiplier": 1.0,
       "XPBonusPercent": "+0%"
     },
     "Characters": [
       {
         "No": "001",
-        "AcctName": "zliazub",
-        "CharName": "paladin",
-        "IPAddress": "192.168.88.212",
-        "Class": "Pal",
-        "Level": "89",
-        "EnterTime": "04:48:55"
+        "AcctName": "tapak",
+        "CharName": "veshter",
+        "IPAddress": "192.168.88.136",
+        "Class": "Ama",
+        "Level": "0",
+        "EnterTime": "08:27:03"
       }
     ]
   }

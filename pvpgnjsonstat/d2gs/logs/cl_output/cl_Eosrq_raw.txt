@@ -1,0 +1,3 @@
+ cl Eosrq
+Invalid game id
+

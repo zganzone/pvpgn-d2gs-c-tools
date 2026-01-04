@@ -1,0 +1,13 @@
+
+[GameName   : Asdasd         ] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 609            ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : nightmare      ] [IsLadder   : ladder         ] [UserCount: 1                              ]
+[CreateTime : 22:36:30       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zliazub5       ] [CreatorChar: trepach        ] [CreatorIP: 192.168.88.133                 ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
+| 001  zliazub5         trepach          192.168.88.133   Ass    40     22:36:30  |
++---------------------------------------------------------------------------------+
+
+Total: 1 charaters in this game 
+

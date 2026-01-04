@@ -1,0 +1,12 @@
+
+[GameName   : Gsgs           ] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 308            ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : nightmare      ] [IsLadder   : ladder         ] [UserCount: 0                              ]
+[CreateTime : 07:18:35       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zgan4          ] [CreatorChar: zganvazonka    ] [CreatorIP: 192.168.88.146                 ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
++---------------------------------------------------------------------------------+
+
+Total: 0 charaters in this game 
+

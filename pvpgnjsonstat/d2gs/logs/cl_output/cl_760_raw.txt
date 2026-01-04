@@ -1,0 +1,13 @@
+
+[GameName   : Rrr            ] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 760            ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : nightmare      ] [IsLadder   : ladder         ] [UserCount: 1                              ]
+[CreateTime : 18:57:55       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zgan           ] [CreatorChar: Sorsi          ] [CreatorIP: 192.168.88.145                 ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
+| 001  zgan             Sorsi            192.168.88.145   Sor    88     18:57:55  |
++---------------------------------------------------------------------------------+
+
+Total: 1 charaters in this game 
+

@@ -1,0 +1,14 @@
+
+[GameName   : Vvvvvvvvvvvvv  ] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 612            ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : nightmare      ] [IsLadder   : ladder         ] [UserCount: 2                              ]
+[CreateTime : 22:40:48       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zliazubbbb     ] [CreatorChar: tesla          ] [CreatorIP: 192.168.88.133                 ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
+| 001  zliazubbbb       tesla            192.168.88.133   Pal    36     22:42:55  |
+| 002  zliazub5         trepach          192.168.88.133   Ass    40     22:41:00  |
++---------------------------------------------------------------------------------+
+
+Total: 2 charaters in this game 
+

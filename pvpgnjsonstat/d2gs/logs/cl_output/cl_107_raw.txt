@@ -1,12 +1,13 @@
 
-[GameName   : Sdfsdfsd       ] [GamePass   :                ] [GameDesc :                                ]
+[GameName   : Aaa1           ] [GamePass   :                ] [GameDesc :                                ]
 [GameID     : 107            ] [GameVer    : exp            ] [GameType : sc                             ]
-[Difficult  : hell           ] [IsLadder   : ladder         ] [UserCount: 0                              ]
-[CreateTime : 05:34:39       ] [Disable    : No             ] [         :                                ]
-[CreatorAcct: zliazub        ] [CreatorChar: paladin        ] [CreatorIP: 192.168.88.212                 ]
+[Difficult  : normal         ] [IsLadder   : ladder         ] [UserCount: 1                              ]
+[CreateTime : 08:48:05       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zgan           ] [CreatorChar: Sorsi          ] [CreatorIP: 192.168.88.137                 ]
 
 +-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
+| 001  zgan             Sorsi            192.168.88.137   Sor    88     08:48:06  |
 +---------------------------------------------------------------------------------+
 
-Total: 0 charaters in this game 
+Total: 1 charaters in this game 
 

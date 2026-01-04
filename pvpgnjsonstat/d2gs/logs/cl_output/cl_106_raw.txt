@@ -1,13 +1,12 @@
 
-[GameName   : Sdfdsfsdf      ] [GamePass   :                ] [GameDesc :                                ]
+[GameName   : Daaa           ] [GamePass   :                ] [GameDesc :                                ]
 [GameID     : 106            ] [GameVer    : exp            ] [GameType : sc                             ]
-[Difficult  : hell           ] [IsLadder   : ladder         ] [UserCount: 1                              ]
-[CreateTime : 05:30:26       ] [Disable    : No             ] [         :                                ]
-[CreatorAcct: zliazub        ] [CreatorChar: paladin        ] [CreatorIP: 192.168.88.212                 ]
+[Difficult  : hell           ] [IsLadder   : ladder         ] [UserCount: 0                              ]
+[CreateTime : 08:27:18       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zgan           ] [CreatorChar: Sorsi          ] [CreatorIP: 192.168.88.136                 ]
 
 +-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
-| 001  zliazub          paladin          192.168.88.212   Pal    88     05:30:27  |
 +---------------------------------------------------------------------------------+
 
-Total: 1 charaters in this game 
+Total: 0 charaters in this game 
 

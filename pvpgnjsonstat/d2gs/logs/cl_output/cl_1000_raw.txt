@@ -1,0 +1,13 @@
+
+[GameName   : Ve1            ] [GamePass   :                ] [GameDesc : gs 192.168.88.41               ]
+[GameID     : 1000           ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : normal         ] [IsLadder   : ladder         ] [UserCount: 1                              ]
+[CreateTime : 19:59:07       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: bot1           ] [CreatorChar: botone         ] [CreatorIP: 192.168.88.32                  ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
+| 001  zgan             Sorsi            192.168.88.136   Sor    88     19:59:22  |
++---------------------------------------------------------------------------------+
+
+Total: 1 charaters in this game 
+

@@ -1,0 +1,13 @@
+
+[GameName   : Lllklklkl      ] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 600            ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : normal         ] [IsLadder   : ladder         ] [UserCount: 1                              ]
+[CreateTime : 21:39:11       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zliazub5       ] [CreatorChar: trepach        ] [CreatorIP: 192.168.88.133                 ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
+| 001  zliazub5         trepach          192.168.88.133   Ass    37     21:39:12  |
++---------------------------------------------------------------------------------+
+
+Total: 1 charaters in this game 
+

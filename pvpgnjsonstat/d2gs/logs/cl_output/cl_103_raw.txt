@@ -1,13 +1,14 @@
 
-[GameName   : Sdfsdfsd       ] [GamePass   :                ] [GameDesc :                                ]
+[GameName   : Vvva           ] [GamePass   :                ] [GameDesc : gs 192.168.88.41               ]
 [GameID     : 103            ] [GameVer    : exp            ] [GameType : sc                             ]
-[Difficult  : hell           ] [IsLadder   : ladder         ] [UserCount: 1                              ]
-[CreateTime : 05:20:56       ] [Disable    : No             ] [         :                                ]
-[CreatorAcct: zliazub        ] [CreatorChar: paladin        ] [CreatorIP: 192.168.88.212                 ]
+[Difficult  : normal         ] [IsLadder   : ladder         ] [UserCount: 2                              ]
+[CreateTime : 07:55:23       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: bot1           ] [CreatorChar: botone         ] [CreatorIP: 192.168.88.32                  ]
 
 +-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
-| 001  zliazub          paladin          192.168.88.212   Pal    88     05:20:57  |
+| 001  bot1             botone           192.168.88.32    Ama    0      07:56:49  |
+| 002  zgan             Sorsi            192.168.88.136   Sor    88     07:55:33  |
 +---------------------------------------------------------------------------------+
 
-Total: 1 charaters in this game 
+Total: 2 charaters in this game 
 

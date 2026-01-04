@@ -1,9 +1,9 @@
 
-[GameName   : Gfgds          ] [GamePass   :                ] [GameDesc :                                ]
+[GameName   : Aaaa           ] [GamePass   :                ] [GameDesc :                                ]
 [GameID     : 145            ] [GameVer    : exp            ] [GameType : sc                             ]
-[Difficult  : nightmare      ] [IsLadder   : ladder         ] [UserCount: 0                              ]
-[CreateTime : 09:34:37       ] [Disable    : No             ] [         :                                ]
-[CreatorAcct: zgan2          ] [CreatorChar: palqk          ] [CreatorIP: 192.168.88.212                 ]
+[Difficult  : hell           ] [IsLadder   : ladder         ] [UserCount: 0                              ]
+[CreateTime : 15:19:54       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zgan2          ] [CreatorChar: palqk          ] [CreatorIP: 192.168.88.137                 ]
 
 +-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
 +---------------------------------------------------------------------------------+

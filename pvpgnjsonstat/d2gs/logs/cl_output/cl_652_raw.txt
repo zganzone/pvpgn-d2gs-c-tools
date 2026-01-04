@@ -1,0 +1,13 @@
+
+[GameName   : Ddddddddddddddd] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 652            ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : nightmare      ] [IsLadder   : ladder         ] [UserCount: 1                              ]
+[CreateTime : 14:09:25       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zliazubb       ] [CreatorChar: MFamazon       ] [CreatorIP: 192.168.88.134                 ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
+| 001  zliazubb         MFamazon         192.168.88.134   Ama    92     14:09:26  |
++---------------------------------------------------------------------------------+
+
+Total: 1 charaters in this game 
+

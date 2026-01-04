@@ -1,12 +1,12 @@
 
-[GameName   : Sfsdfsd        ] [GamePass   :                ] [GameDesc :                                ]
+[GameName   : Fafa           ] [GamePass   :                ] [GameDesc :                                ]
 [GameID     : 137            ] [GameVer    : exp            ] [GameType : sc                             ]
 [Difficult  : hell           ] [IsLadder   : ladder         ] [UserCount: 1                              ]
-[CreateTime : 09:09:52       ] [Disable    : No             ] [         :                                ]
-[CreatorAcct: zliazub        ] [CreatorChar: paladin        ] [CreatorIP: 192.168.88.212                 ]
+[CreateTime : 13:06:38       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zgan           ] [CreatorChar: Sorsi          ] [CreatorIP: 192.168.88.136                 ]
 
 +-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
-| 001  zliazub          paladin          192.168.88.212   Pal    88     09:09:52  |
+| 001  zgan             Sorsi            192.168.88.136   Sor    88     13:06:39  |
 +---------------------------------------------------------------------------------+
 
 Total: 1 charaters in this game 

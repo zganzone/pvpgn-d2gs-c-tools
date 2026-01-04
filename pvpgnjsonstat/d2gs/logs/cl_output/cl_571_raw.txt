@@ -1,0 +1,13 @@
+
+[GameName   : Sssssss        ] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 571            ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : normal         ] [IsLadder   : ladder         ] [UserCount: 1                              ]
+[CreateTime : 12:30:13       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zliazub5       ] [CreatorChar: trepach        ] [CreatorIP: 192.168.88.133                 ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
+| 001  zliazub5         trepach          192.168.88.133   Ass    29     12:30:14  |
++---------------------------------------------------------------------------------+
+
+Total: 1 charaters in this game 
+

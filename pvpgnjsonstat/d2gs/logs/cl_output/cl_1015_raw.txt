@@ -1,0 +1,12 @@
+
+[GameName   : Trade1         ] [GamePass   :                ] [GameDesc : gs 192.168.88.41               ]
+[GameID     : 1015           ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : normal         ] [IsLadder   : ladder         ] [UserCount: 0                              ]
+[CreateTime : 20:40:20       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: tapak          ] [CreatorChar: veshter        ] [CreatorIP: 192.168.88.136                 ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
++---------------------------------------------------------------------------------+
+
+Total: 0 charaters in this game 
+

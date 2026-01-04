@@ -1,0 +1,13 @@
+
+[GameName   : Nn1            ] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 466            ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : nightmare      ] [IsLadder   : ladder         ] [UserCount: 1                              ]
+[CreateTime : 14:34:46       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zgan2          ] [CreatorChar: palqk          ] [CreatorIP: 192.168.88.134                 ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
+| 001  zgan2            palqk            192.168.88.134   Pal    67     14:34:46  |
++---------------------------------------------------------------------------------+
+
+Total: 1 charaters in this game 
+

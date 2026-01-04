@@ -1,12 +1,13 @@
 
-[GameName   : 11111111111    ] [GamePass   :                ] [GameDesc :                                ]
+[GameName   : Faafa          ] [GamePass   :                ] [GameDesc :                                ]
 [GameID     : 213            ] [GameVer    : exp            ] [GameType : sc                             ]
-[Difficult  : normal         ] [IsLadder   : ladder         ] [UserCount: 0                              ]
-[CreateTime : 17:32:22       ] [Disable    : No             ] [         :                                ]
-[CreatorAcct: zliazub        ] [CreatorChar: lightSorc      ] [CreatorIP: 192.168.88.212                 ]
+[Difficult  : hell           ] [IsLadder   : ladder         ] [UserCount: 1                              ]
+[CreateTime : 22:07:48       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zgan           ] [CreatorChar: Sorsi          ] [CreatorIP: 192.168.88.137                 ]
 
 +-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
+| 001  zgan             Sorsi            192.168.88.137   Sor    88     22:07:49  |
 +---------------------------------------------------------------------------------+
 
-Total: 0 charaters in this game 
+Total: 1 charaters in this game 
 

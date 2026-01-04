@@ -1,9 +1,9 @@
 
-[GameName   : Ffffff         ] [GamePass   :                ] [GameDesc :                                ]
+[GameName   : Hhhg           ] [GamePass   :                ] [GameDesc :                                ]
 [GameID     : 166            ] [GameVer    : exp            ] [GameType : sc                             ]
-[Difficult  : normal         ] [IsLadder   : ladder         ] [UserCount: 0                              ]
-[CreateTime : 11:02:33       ] [Disable    : No             ] [         :                                ]
-[CreatorAcct: zliazubbbb     ] [CreatorChar: slabikamani    ] [CreatorIP: 192.168.88.212                 ]
+[Difficult  : hell           ] [IsLadder   : ladder         ] [UserCount: 0                              ]
+[CreateTime : 17:08:25       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zgan           ] [CreatorChar: Sorsi          ] [CreatorIP: 192.168.88.136                 ]
 
 +-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
 +---------------------------------------------------------------------------------+

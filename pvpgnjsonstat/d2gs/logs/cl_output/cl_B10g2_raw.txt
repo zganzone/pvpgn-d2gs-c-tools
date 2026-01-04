@@ -1,0 +1,3 @@
+ cl B10g2
+Invalid game id
+

@@ -1,0 +1,12 @@
+
+[GameName   : Sssssssssssss  ] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 517            ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : hell           ] [IsLadder   : ladder         ] [UserCount: 1                              ]
+[CreateTime : 20:12:27       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zliazubbb      ] [CreatorChar: undertaker     ] [CreatorIP: 192.168.88.133                 ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
++---------------------------------------------------------------------------------+
+
+Total: 0 charaters in this game 
+

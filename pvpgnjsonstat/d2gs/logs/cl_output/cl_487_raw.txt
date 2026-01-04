@@ -1,0 +1,12 @@
+
+[GameName   : Rtraatratata   ] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 487            ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : normal         ] [IsLadder   : ladder         ] [UserCount: 0                              ]
+[CreateTime : 16:11:28       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zgan3          ] [CreatorChar: kamanione      ] [CreatorIP: 192.168.88.32                  ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
++---------------------------------------------------------------------------------+
+
+Total: 0 charaters in this game 
+

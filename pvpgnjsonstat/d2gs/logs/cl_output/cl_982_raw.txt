@@ -1,0 +1,12 @@
+
+[GameName   : Veaagee        ] [GamePass   :                ] [GameDesc : gs 192.168.88.41               ]
+[GameID     : 982            ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : normal         ] [IsLadder   : ladder         ] [UserCount: 0                              ]
+[CreateTime : 18:53:18       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: bot1           ] [CreatorChar: botone         ] [CreatorIP: 192.168.88.136                 ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
++---------------------------------------------------------------------------------+
+
+Total: 0 charaters in this game 
+

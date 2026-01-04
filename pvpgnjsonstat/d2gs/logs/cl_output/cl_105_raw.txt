@@ -1,12 +1,12 @@
 
-[GameName   : Dsfsdfsd       ] [GamePass   :                ] [GameDesc :                                ]
+[GameName   : T              ] [GamePass   :                ] [GameDesc : gs 192.168.88.41               ]
 [GameID     : 105            ] [GameVer    : exp            ] [GameType : sc                             ]
-[Difficult  : hell           ] [IsLadder   : ladder         ] [UserCount: 1                              ]
-[CreateTime : 05:29:21       ] [Disable    : No             ] [         :                                ]
-[CreatorAcct: zliazub        ] [CreatorChar: paladin        ] [CreatorIP: 192.168.88.212                 ]
+[Difficult  : normal         ] [IsLadder   : ladder         ] [UserCount: 1                              ]
+[CreateTime : 08:27:03       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: tapak          ] [CreatorChar: veshter        ] [CreatorIP: 192.168.88.136                 ]
 
 +-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
-| 001  zliazub          paladin          192.168.88.212   Pal    88     05:29:22  |
+| 001  tapak            veshter          192.168.88.136   Ama    0      08:27:03  |
 +---------------------------------------------------------------------------------+
 
 Total: 1 charaters in this game 

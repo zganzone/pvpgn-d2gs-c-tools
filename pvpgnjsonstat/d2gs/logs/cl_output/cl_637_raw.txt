@@ -1,0 +1,14 @@
+
+[GameName   : Faaa           ] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 637            ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : hell           ] [IsLadder   : ladder         ] [UserCount: 2                              ]
+[CreateTime : 21:19:27       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zgan           ] [CreatorChar: Sorsi          ] [CreatorIP: 192.168.88.106                 ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
+| 001  zgan2            palqk            192.168.88.32    Pal    74     21:20:32  |
+| 002  zgan             Sorsi            192.168.88.106   Sor    88     21:19:28  |
++---------------------------------------------------------------------------------+
+
+Total: 2 charaters in this game 
+

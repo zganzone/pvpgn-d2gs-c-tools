@@ -1,0 +1,39 @@
+body {
+  background: #111;
+  color: #eee;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.tabs button {
+  margin-right: 5px;
+  padding: 6px 12px;
+}
+
+.hidden { display: none; }
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+th, td {
+  padding: 6px;
+  border-bottom: 1px solid #333;
+  vertical-align: top;
+}
+
+tr.ok { background: #162616; }
+tr.bad { background: #2a1616; }
+
+input {
+  margin: 5px 10px 5px 0;
+}
+
+.runeBox {
+  border: 1px solid #333;
+  padding: 10px;
+  margin: 8px 0;
+  background: #1a1a1a;
+}

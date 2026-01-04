@@ -1,0 +1,13 @@
+
+[GameName   : Sdfsdfds       ] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 624            ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : nightmare      ] [IsLadder   : ladder         ] [UserCount: 1                              ]
+[CreateTime : 00:14:07       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zliazub5       ] [CreatorChar: trepach        ] [CreatorIP: 192.168.88.133                 ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
+| 001  zliazub5         trepach          192.168.88.133   Ass    42     00:14:08  |
++---------------------------------------------------------------------------------+
+
+Total: 1 charaters in this game 
+

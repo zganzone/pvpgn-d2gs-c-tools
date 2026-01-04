@@ -1,0 +1,13 @@
+
+[GameName   : Fff45          ] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 673            ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : hell           ] [IsLadder   : ladder         ] [UserCount: 1                              ]
+[CreateTime : 20:11:42       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zgan           ] [CreatorChar: Sorsi          ] [CreatorIP: 192.168.88.136                 ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
+| 001  zgan             Sorsi            192.168.88.136   Sor    88     20:11:42  |
++---------------------------------------------------------------------------------+
+
+Total: 1 charaters in this game 
+

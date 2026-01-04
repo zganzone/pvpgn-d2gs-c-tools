@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import re
 import json
 from datetime import datetime, timedelta

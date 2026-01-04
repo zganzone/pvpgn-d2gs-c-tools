@@ -1,0 +1,3 @@
+ cl Zrmn6
+Invalid game id
+

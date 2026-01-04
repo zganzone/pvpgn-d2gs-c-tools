@@ -1,0 +1,12 @@
+
+[GameName   : Aaa            ] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 692            ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : normal         ] [IsLadder   : ladder         ] [UserCount: 0                              ]
+[CreateTime : 10:21:26       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zgan5          ] [CreatorChar: bradvarosa     ] [CreatorIP: 192.168.88.136                 ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
++---------------------------------------------------------------------------------+
+
+Total: 0 charaters in this game 
+

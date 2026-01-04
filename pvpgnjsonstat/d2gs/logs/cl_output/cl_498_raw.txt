@@ -1,0 +1,13 @@
+
+[GameName   : Dfsdfsd        ] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 498            ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : normal         ] [IsLadder   : ladder         ] [UserCount: 1                              ]
+[CreateTime : 17:53:51       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zliazub        ] [CreatorChar: lightSorc      ] [CreatorIP: 192.168.88.133                 ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
+| 001  zliazub          lightSorc        192.168.88.133   Sor    88     17:53:52  |
++---------------------------------------------------------------------------------+
+
+Total: 1 charaters in this game 
+

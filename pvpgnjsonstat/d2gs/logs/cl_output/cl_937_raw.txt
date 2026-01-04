@@ -1,0 +1,14 @@
+
+[GameName   : Veshti12       ] [GamePass   :                ] [GameDesc : gs 192.168.88.41               ]
+[GameID     : 937            ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : normal         ] [IsLadder   : ladder         ] [UserCount: 2                              ]
+[CreateTime : 15:50:54       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: bot1           ] [CreatorChar: botone         ] [CreatorIP: 192.168.88.32                  ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
+| 001  zgan             Sorsi            192.168.88.136   Sor    88     15:51:00  |
+| 002  bot1             botone           192.168.88.32    Ama    1      15:50:54  |
++---------------------------------------------------------------------------------+
+
+Total: 2 charaters in this game 
+

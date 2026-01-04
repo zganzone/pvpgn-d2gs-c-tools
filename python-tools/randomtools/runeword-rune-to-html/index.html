@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>D2 Runeword & Rune Inventory</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Diablo II – Inventory Dashboard</h1>
+
+<div class="tabs">
+  <button onclick="showTab('runewords')">Runewords</button>
+  <button onclick="showTab('runes')">Runes</button>
+</div>
+
+<div id="runewords" class="tab">
+  <input type="text" id="rwSearch" placeholder="Search runeword">
+  <label><input type="checkbox" id="onlyCraftable"> Only craftable</label>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Runeword</th>
+        <th>Status</th>
+        <th>Used</th>
+        <th>Missing</th>
+      </tr>
+    </thead>
+    <tbody id="rwBody"></tbody>
+  </table>
+</div>
+
+<div id="runes" class="tab hidden">
+  <input type="text" id="runeSearch" placeholder="Search rune (e.g. Ral)">
+  <div id="runeList"></div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,11 @@
+#!/bin/bash
+
+WORKDIR="/home/support/scripts-tools/d2cpp/python-tools/fulljsonstat"
+
+/usr/bin/python3 $WORKDIR/01.pvpgn_json_portal.py
+/usr/bin/python3 $WORKDIR/02.d2gs_live_monitor_full_json.py
+/usr/bin/python3 $WORKDIR/03.bnetd_to_json.py 
+/usr/bin/python3 $WORKDIR/04.d2cs_to_json.py
+/usr/bin/python3 $WORKDIR/05.d2gs_to_json.py
+
+

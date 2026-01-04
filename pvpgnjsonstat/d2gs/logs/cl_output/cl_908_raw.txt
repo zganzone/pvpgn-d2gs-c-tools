@@ -1,0 +1,14 @@
+
+[GameName   : Aman           ] [GamePass   :                ] [GameDesc : gs 192.168.88.41               ]
+[GameID     : 908            ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : normal         ] [IsLadder   : ladder         ] [UserCount: 2                              ]
+[CreateTime : 14:08:58       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: bot1           ] [CreatorChar: botone         ] [CreatorIP: 192.168.88.32                  ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
+| 001  zgan             Sorsi            192.168.88.136   Sor    88     14:09:52  |
+| 002  bot1             botone           192.168.88.32    Ama    0      14:08:59  |
++---------------------------------------------------------------------------------+
+
+Total: 2 charaters in this game 
+

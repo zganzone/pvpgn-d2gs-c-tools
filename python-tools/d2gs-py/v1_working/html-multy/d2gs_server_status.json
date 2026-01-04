@@ -1,0 +1,127 @@
+{
+  "timestamp": "2025-12-24 10:17:20",
+  "server_status": {
+    "current_running_games": 2,
+    "current_users": 6,
+    "max_prefer_users": 180,
+    "max_game_life_years": 44.71288073947235,
+    "physical_mem_used_mb": 0.0,
+    "physical_mem_total_mb": 0.0,
+    "virtual_mem_used_mb": 0.0,
+    "virtual_mem_total_mb": 0.0,
+    "kernel_cpu_percent": 0.0,
+    "user_cpu_percent": 0.0
+  },
+  "connections": {
+    "D2CS": {
+      "ip": "192.168.88.41",
+      "status": "connected"
+    },
+    "D2DBS": {
+      "ip": "192.168.88.41",
+      "status": "connected"
+    }
+  },
+  "network": {
+    "D2CS": {
+      "recv_pkts": 3505,
+      "recv_bytes": 58207,
+      "send_pkts": 4643,
+      "send_bytes": 65393,
+      "recv_rate": 0.0,
+      "peak_recv_rate": 1.18,
+      "send_rate": 0.0,
+      "peak_send_rate": 1.673
+    },
+    "D2DBS": {
+      "recv_pkts": 4246,
+      "recv_bytes": 1210941,
+      "send_pkts": 6326,
+      "send_bytes": 1941181,
+      "recv_rate": 0.0,
+      "peak_recv_rate": 36.634,
+      "send_rate": 0.0,
+      "peak_send_rate": 124.139
+    }
+  },
+  "games": [
+    {
+      "game_id": 282,
+      "game_name": "Dfsfs",
+      "game_pass": "none",
+      "game_ver": "exp",
+      "type": "sc",
+      "difficulty": "hell",
+      "ladder": "ladder",
+      "users": 5,
+      "create_time": "07:02:03"
+    },
+    {
+      "game_id": 276,
+      "game_name": "11111111",
+      "game_pass": "none",
+      "game_ver": "exp",
+      "type": "sc",
+      "difficulty": "hell",
+      "ladder": "ladder",
+      "users": 1,
+      "create_time": "04:47:29"
+    }
+  ],
+  "characters": {
+    "282": [
+      {
+        "account": "zgan",
+        "char_name": "Sorsi",
+        "ip": "192.168.88.110",
+        "class": "Sorceress",
+        "level": 88,
+        "enter_time": "07:53:56"
+      },
+      {
+        "account": "zgan",
+        "char_name": "ZGANVARIN",
+        "ip": "192.168.88.110",
+        "class": "Bar",
+        "level": 83,
+        "enter_time": "07:53:43"
+      },
+      {
+        "account": "zgan2",
+        "char_name": "palqk",
+        "ip": "192.168.88.110",
+        "class": "Paladin",
+        "level": 58,
+        "enter_time": "07:53:37"
+      },
+      {
+        "account": "zliazub",
+        "char_name": "lightSorc",
+        "ip": "192.168.88.212",
+        "class": "Sorceress",
+        "level": 88,
+        "enter_time": "07:05:00"
+      },
+      {
+        "account": "zliazubb",
+        "char_name": "MFamazon",
+        "ip": "192.168.88.212",
+        "class": "Ama",
+        "level": 92,
+        "enter_time": "07:02:04"
+      }
+    ],
+    "276": [
+      {
+        "account": "zliazub",
+        "char_name": "paladin",
+        "ip": "192.168.88.212",
+        "class": "Paladin",
+        "level": 89,
+        "enter_time": "04:48:55"
+      }
+    ]
+  },
+  "uptime_duration": "The game server started at 12-22 09:06:34",
+  "start_time": "12-22 09:06:34"
+}

@@ -1,9 +1,9 @@
 
-[GameName   : Fsdfs          ] [GamePass   :                ] [GameDesc :                                ]
+[GameName   : Gggg           ] [GamePass   :                ] [GameDesc :                                ]
 [GameID     : 104            ] [GameVer    : exp            ] [GameType : sc                             ]
 [Difficult  : hell           ] [IsLadder   : ladder         ] [UserCount: 0                              ]
-[CreateTime : 05:22:47       ] [Disable    : No             ] [         :                                ]
-[CreatorAcct: zliazub        ] [CreatorChar: paladin        ] [CreatorIP: 192.168.88.212                 ]
+[CreateTime : 07:57:47       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zgan           ] [CreatorChar: Sorsi          ] [CreatorIP: 192.168.88.136                 ]
 
 +-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
 +---------------------------------------------------------------------------------+

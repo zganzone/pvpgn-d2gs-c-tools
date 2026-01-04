@@ -1,0 +1,12 @@
+
+[GameName   : Traagee        ] [GamePass   :                ] [GameDesc : gs 192.168.88.41               ]
+[GameID     : 983            ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : normal         ] [IsLadder   : ladder         ] [UserCount: 0                              ]
+[CreateTime : 18:55:14       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: bot2           ] [CreatorChar: bottwo         ] [CreatorIP: 192.168.88.32                  ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
++---------------------------------------------------------------------------------+
+
+Total: 0 charaters in this game 
+

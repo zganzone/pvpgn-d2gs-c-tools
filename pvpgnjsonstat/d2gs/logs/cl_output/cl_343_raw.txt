@@ -1,0 +1,13 @@
+
+[GameName   : Dasdasd        ] [GamePass   :                ] [GameDesc :                                ]
+[GameID     : 343            ] [GameVer    : exp            ] [GameType : sc                             ]
+[Difficult  : hell           ] [IsLadder   : ladder         ] [UserCount: 1                              ]
+[CreateTime : 19:23:54       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zliazubb       ] [CreatorChar: MFamazon       ] [CreatorIP: 192.168.88.133                 ]
+
++-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
+| 001  zliazubb         MFamazon         192.168.88.133   Ama    92     19:23:55  |
++---------------------------------------------------------------------------------+
+
+Total: 1 charaters in this game 
+

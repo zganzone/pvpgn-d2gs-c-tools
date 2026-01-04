@@ -16,6 +16,7 @@ CLIENT_MAP = {
     "SEXP": "StarCraft: Brood War",
     "W3XP": "Warcraft III: Frozen Throne",
     "D2XP": "Diablo II: Lord of Destruction",
+    "DRTL": "Diablo I",
 }
 
 # Network ports to monitor (от parseradb.py)

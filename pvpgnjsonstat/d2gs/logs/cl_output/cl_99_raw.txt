@@ -1,12 +1,12 @@
 
-[GameName   : Sdfdsfsd       ] [GamePass   :                ] [GameDesc :                                ]
+[GameName   : Bbb            ] [GamePass   :                ] [GameDesc :                                ]
 [GameID     : 99             ] [GameVer    : exp            ] [GameType : sc                             ]
-[Difficult  : hell           ] [IsLadder   : ladder         ] [UserCount: 1                              ]
-[CreateTime : 05:10:45       ] [Disable    : No             ] [         :                                ]
-[CreatorAcct: zliazub        ] [CreatorChar: paladin        ] [CreatorIP: 192.168.88.212                 ]
+[Difficult  : normal         ] [IsLadder   : ladder         ] [UserCount: 1                              ]
+[CreateTime : 07:42:58       ] [Disable    : No             ] [         :                                ]
+[CreatorAcct: zgan5          ] [CreatorChar: zganecro       ] [CreatorIP: 192.168.88.136                 ]
 
 +-No.--AcctName---------CharName---------IPAddress--------Class--Level--EnterTime-+
-| 001  zliazub          paladin          192.168.88.212   Pal    88     05:10:46  |
+| 001  zgan5            zganecro         192.168.88.136   Nec    83     07:42:59  |
 +---------------------------------------------------------------------------------+
 
 Total: 1 charaters in this game 

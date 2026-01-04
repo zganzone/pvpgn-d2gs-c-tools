@@ -1,0 +1,3 @@
+ cl Mskm1
+Invalid game id
+

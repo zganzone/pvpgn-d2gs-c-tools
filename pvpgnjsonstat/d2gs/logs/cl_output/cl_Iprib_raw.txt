@@ -1,0 +1,3 @@
+ cl Iprib
+Invalid game id
+
